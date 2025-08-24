@@ -5,5 +5,6 @@
 
 .include "./Asm/Scripts/Editados/script.asm"
 .include "./Asm/Scripts/Editados/script_2.asm"
+.include "./Asm/Scripts/Editados/script_3.asm"
 
 .close
