@@ -9,6 +9,6 @@ echo ==Inserindo graficos.==
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm
 
 echo ==Inserindo textos traduzidos.==
-.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\script.asm
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\textos.asm
 
 echo Done.
