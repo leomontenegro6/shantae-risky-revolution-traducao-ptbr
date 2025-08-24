@@ -5,4 +5,5 @@
 /*.sa1
 /*.sa2
 /*.zip
-.env
+.env.DS_Store
+/build.sh
