@@ -6,6 +6,12 @@
 .org 0x088EC0DC
     .incbin "Graficos/Editados/Tela-titulo.gba"
 
+; Menu principal
+.org 0x08B37EE0
+    .incbin "Graficos/Editados/File Select.gba"
+.org 0x08B389B0
+    .incbin "Graficos/Editados/New Game CH Time.gba"
+
 ; Fonte dos diálogos.
 .org 0x088F3760 ; Endereço original da fonte - Colocaremos 160 bytes a frente
     .fill 160, 0xFF
