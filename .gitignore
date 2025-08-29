@@ -8,3 +8,4 @@
 .env.DS_Store
 /build.sh
 .env
+.DS_Store
