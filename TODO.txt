@@ -1,2 +1,2 @@
-- Editar tela-título
 - Acentuar fontes
+- Inserir gráficos ingame

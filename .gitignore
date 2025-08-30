@@ -9,4 +9,6 @@
 /build.sh
 .env
 .DS_Store
+Graficos.editados.bin
+Graficos.bin
 Graficos/Temp/*
