@@ -9,3 +9,4 @@
 /build.sh
 .env
 .DS_Store
+Graficos/Temp/*

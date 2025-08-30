@@ -6,6 +6,7 @@ del sarr.gba
 copy orig.gba sarr.gba
 
 echo ==Inserindo graficos.==
+call repack.bat
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm
 
 echo ==Inserindo textos traduzidos.==
