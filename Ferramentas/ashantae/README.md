@@ -9,11 +9,13 @@ It was created by nikvoid, to help translating this game to russian and other la
 Usage: ashantae.exe <COMMAND>
 
 Commands:
-  anm-extract      Extract ANM file
-  anm-reconstruct  Reconstruct ANM file
-  tsx-extract      Extract TS4/8 + LYR file
-  tsx-reconstruct  Reconstruct TS4/8 + LYR files from extracted folder
-  help             Print this message or the help of the given subcommand(s)
+
+ - anm-extract      Extract ANM file
+ - anm-reconstruct  Reconstruct ANM file
+ - tsx-extract      Extract TS4/8 + LYR file
+ - tsx-reconstruct  Reconstruct TS4/8 + LYR files from extracted folder
+ - help             Print this message or the help of the given subcommand(s)
 
 Options:
+
   -h, --help  Print help (see more with '--help')
