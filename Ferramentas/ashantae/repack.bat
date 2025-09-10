@@ -1,20 +1,15 @@
 @echo off
-del .\310
-del .\623
-del .\394
-del .\632
+set pairs=("310=title_edited","623=gameover_edited","394=status_edited","632=destinations_edited","435=chapter_1_edited")
+FOR %%P IN %pairs% DO (
+    for /f "tokens=1,2 delims==" %%B in ("%%~P") do (
+        echo Deletando arquivo para recria-lo depois...
+        del .\%%~B
 
-.\ashantae.exe tsx-reconstruct-no-lyr title_edited 310
-.\ashantae.exe tsx-reconstruct-no-lyr gameover_edited 623
-.\ashantae.exe tsx-reconstruct-no-lyr status_edited 394
-.\ashantae.exe tsx-reconstruct-no-lyr destinations_edited 632
+        echo Recriando arquivo...
+        .\ashantae.exe tsx-reconstruct-no-lyr %%~C %%~B
 
-copy .\310 ..\..\Graficos\Editados\
-copy .\623 ..\..\Graficos\Editados\
-copy .\394 ..\..\Graficos\Editados\
-copy .\632 ..\..\Graficos\Editados\
-
-del .\310
-del .\623
-del .\394
-del .\632
+        echo Movendo arquivo editado para pasta de graficos...
+        copy .\%%B ..\..\Graficos\Editados\
+        del .\%%B
+    )
+)
