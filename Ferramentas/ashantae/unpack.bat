@@ -7,6 +7,7 @@ rd /q /s chapter_1
 rd /q /s chapter_2
 rd /q /s chapter_3
 rd /q /s chapter_4
+rd /q /s link_error
 
 .\ashantae.exe tsx-extract-no-lyr .\310_title .\308_title_scn title
 .\ashantae.exe tsx-extract-no-lyr .\623_gameover .\625_gameover_scn gameover
@@ -16,3 +17,4 @@ rd /q /s chapter_4
 .\ashantae.exe tsx-extract-no-lyr .\437_chapter_2 .\433_chapter_2_scn chapter_2
 .\ashantae.exe tsx-extract-no-lyr .\439_chapter_3 .\434_chapter_3_scn chapter_3
 .\ashantae.exe tsx-extract-no-lyr .\441_chapter_4 .\443_chapter_4_scn chapter_4
+.\ashantae.exe tsx-extract-no-lyr .\375_link_error .\373_link_error_scn link_error
