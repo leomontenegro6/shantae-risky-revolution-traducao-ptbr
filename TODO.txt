@@ -1,2 +1,3 @@
-- Acentuar fontes
-- Inserir gráficos ingame
+- Checar acentuação de fontes de prólogo e de créditos
+- Checar acentuação de caracteres vermelhos maiúsculos nos diálogos
+- Traduzir scripts
