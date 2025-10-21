@@ -1,432 +1,432 @@
-b1_str_001 equ "HEART VIAL: Refills your Health. Press the A BUTTON to equip it!"
+b1_str_001 equ "POÇÃO: Recupera sua saúde. Aperte o BOTÃO A para equipar!"
 b1_str_001_max_size equ 0x86
 b1_str_001_new_size equ strlen(b1_str_001)
 
-b1_str_002 equ "MAGIC VIAL: Refills your Magic. Press the A BUTTON to equip it!"
+b1_str_002 equ "FRASCO MÁGICO: Recupera sua magia. Aperte o BOTÃO A para equipar!"
 b1_str_002_max_size equ 0x86
 b1_str_002_new_size equ strlen(b1_str_002)
 
-b1_str_003 equ "SUPER VIAL: Refills your Health and Magic. Press the A BUTTON to equip it!"
+b1_str_003 equ "ELIXIR: Recupera saúde e magia. Aperte o BOTÃO A para equipar!"
 b1_str_003_max_size equ 0x86
 b1_str_003_new_size equ strlen(b1_str_003)
 
-b1_str_004 equ "EXIT CANDY: Warp out of the current location! Press the A BUTTON to equip it!"
+b1_str_004 equ "TELEDOCE: Teleporta para fora do local atual! Aperte o BOTÃO A para equipar!"
 b1_str_004_max_size equ 0x86
 b1_str_004_new_size equ strlen(b1_str_004)
 
-b1_str_005 equ "FIREBALL: Attack at long range! Press the A BUTTON to equip it!"
+b1_str_005 equ "BOLA DE FOGO: Ataca a longo alcance! Aperte o BOTÃO A para equipar!"
 b1_str_005_max_size equ 0x86
 b1_str_005_new_size equ strlen(b1_str_005)
 
-b1_str_006 equ "FIRE UP: Fireballs fly faster and hit harder! Press the A BUTTON to equip it!"
+b1_str_006 equ "BOLA DE FOGO NV2: Bolas mais rápidas fazendo mais estrago! Aperte o BOTÃO A para equipar!"
 b1_str_006_max_size equ 0x86
 b1_str_006_new_size equ strlen(b1_str_006)
 
-b1_str_007 equ "FIRE MAX: Fireballs fly even faster and hit even harder! Press the A BUTTON to equip it!"
+b1_str_007 equ "BOLA DE FOGO NV3: Bolas ainda mais rápidas fazendo ainda mais estrago! Aperte o BOTÃO A para equipar!"
 b1_str_007_max_size equ 0x86
 b1_str_007_new_size equ strlen(b1_str_007)
 
-b1_str_008 equ "STORM PUFF: Lightning Strikes deal big damage! Press the A BUTTON to equip it!"
+b1_str_008 equ "SOPRO TEMPESTADE: Raios que causam dano alto! Aperte o BOTÃO A para equipar!"
 b1_str_008_max_size equ 0x86
 b1_str_008_new_size equ strlen(b1_str_008)
 
-b1_str_009 equ "STORM UP: Faster, Stronger lightning strikes! Press the A BUTTON to equip it!"
+b1_str_009 equ "SOPRO TEMPESTADE NV2: Raios mais rápidos e mais fortes! Aperte o BOTÃO A para equipar!"
 b1_str_009_max_size equ 0x86
 b1_str_009_new_size equ strlen(b1_str_009)
 
-b1_str_010 equ "STORM MAX: Fastest, Strongest lightning strikes! Press the A BUTTON to equip it!"
+b1_str_010 equ "SOPRO TEMPESTADE NV3: Raios ainda mais rápidos e mais fortes! Aperte o BOTÃO A para equipar!"
 b1_str_010_max_size equ 0x86
 b1_str_010_new_size equ strlen(b1_str_010)
 
-b1_str_011 equ "PIKE BALL: An orbiting Pike Ball weapon! Press the A BUTTON to equip it!"
+b1_str_011 equ "BOLA ESPINHADA: Uma bola de espinhos girando ao seu redor! Aperte o BOTÃO A para equipar!"
 b1_str_011_max_size equ 0x86
 b1_str_011_new_size equ strlen(b1_str_011)
 
-b1_str_012 equ "PIKE BALL UP: Pike Ball spins faster and hits harder! Press the A BUTTON to equip it!"
+b1_str_012 equ "BOLA ESPINHADA NV2: Bola girando mais rápido e causando mais estrago! Aperte o BOTÃO A para equipar!"
 b1_str_012_max_size equ 0x86
 b1_str_012_new_size equ strlen(b1_str_012)
 
-b1_str_013 equ "PIKE BALL MAX: Pike Ball spins even faster and hits even harder! Press the A BUTTON to equip it!"
+b1_str_013 equ "BOLA ESPINHADA NV3: Bola girando ainda mais rápido e causando ainda mais estrago! Aperte o BOTÃO A para equipar!"
 b1_str_013_max_size equ 0x86
 b1_str_013_new_size equ strlen(b1_str_013)
 
-b1_str_014 equ "PANTS ANTS: Increases your running speed while draining magic! Enjoy magical discomfort on the go! Press the A BUTTON to equip it!"
+b1_str_014 equ "CALÇOLA COÇOLA: Calçola com formigas que coça muito, fazendo correr mais rápido drenando magia! Aperte o BOTÃO A para equipar!"
 b1_str_014_max_size equ 0x86
 b1_str_014_new_size equ strlen(b1_str_014)
 
-b1_str_015 equ "VANISH CREAM: Temporarily pass through enemies while draining magic. Press the A BUTTON to equip it!"
+b1_str_015 equ "CREME DE SUMIÇO: Passe temporariamente por inimigos, drenando magia. Aperte o BOTÃO A para equipar!"
 b1_str_015_max_size equ 0x86
 b1_str_015_new_size equ strlen(b1_str_015)
 
-b1_str_016 equ "FLOAT CAKE: Allows walking on air while draining magic! No falling for you! Press the A BUTTON to equip it!"
+b1_str_016 equ "MUFFIN FLUTUANTE: Permite andar no ar, drenando magia! Não vai cair ninguém! Aperte o BOTÃO A para equipar!"
 b1_str_016_max_size equ 0x86
 b1_str_016_new_size equ strlen(b1_str_016)
 
-b1_str_017 equ "TWIN MINTS: Doubles your attack power while draining magic. Press the A BUTTON to equip it!"
+b1_str_017 equ "MENTINHAS: Dobra seu poder de ataque, drenando magia. Aperte o BOTÃO A para equipar!"
 b1_str_017_max_size equ 0x86
 b1_str_017_new_size equ strlen(b1_str_017)
 
-b1_str_018 equ "GREEDY JAR: Get greedy! Summons a mysterious creature that follows you around, while draining magic! Press the A BUTTON to equip it!"
+b1_str_018 equ "JARRO DA GANÂNCIA: Invoca um bicho misterioso que faz inimigos darem mais joias, drenando magia! Aperte o BOTÃO A para equipar!"
 b1_str_018_max_size equ 0x86
 b1_str_018_new_size equ strlen(b1_str_018)
 
-b1_str_019 equ "MONKEY FORM: Transform and climb up walls!"
+b1_str_019 equ "FORMA DA MACACA: Transforme-se e escale paredes!"
 b1_str_019_max_size equ 0x86
 b1_str_019_new_size equ strlen(b1_str_019)
 
-b1_str_020 equ "CRAB FORM: Sink below the water and explore the depths! Transform back to float up!"
+b1_str_020 equ "FORMA DE SIRI: Afunde debaixo d'água e explore as profundezas! Pra subir, só se destransformar!"
 b1_str_020_max_size equ 0x86
 b1_str_020_new_size equ strlen(b1_str_020)
 
-b1_str_021 equ "SPIDER FORM: Stick to webs and other surfaces!"
+b1_str_021 equ "FORMA DA ARANHA: Prenda-se a teias e outras superfícies!"
 b1_str_021_max_size equ 0x86
 b1_str_021_new_size equ strlen(b1_str_021)
 
-b1_str_022 equ "ELEPHANT FORM: Dash into cracked blocks, or across narrow gaps!"
+b1_str_022 equ "FORMA DA ELEFANTA: Arremesse-se em blocos rachados, ou em espaços estreitos!"
 b1_str_022_max_size equ 0x86
 b1_str_022_new_size equ strlen(b1_str_022)
 
-b1_str_023 equ "MERMAID FORM: Swim anywhere in the water as a magical mermaid... even through seaweed!"
+b1_str_023 equ "FORMA DA SEREIA: Nade para qualquer direção na água como uma sereia mágica... especialmente entre algas!"
 b1_str_023_max_size equ 0x86
 b1_str_023_new_size equ strlen(b1_str_023)
 
-b1_str_024 equ "HARPY FORM: You're free as a bird! Fly through the air as a magical Harpy!"
+b1_str_024 equ "FORMA DA HARPIA: Você é livre como uma ave! Voe pelo ar como uma harpia mágica!"
 b1_str_024_max_size equ 0x86
 b1_str_024_new_size equ strlen(b1_str_024)
 
-b1_str_025 equ "MONKEY VISION:  This TALISMAN allows the Monkey to spot hidden secrets! Activates automatically in Crypts, Labyrinths, and Caves!"
+b1_str_025 equ "VISÃO DA MACACA: Este TALISMÃ faz a Macaca enxergar segredos ocultos! Ativa-se automaticamente em criptas, labirintos e cavernas!"
 b1_str_025_max_size equ 0x86
 b1_str_025_new_size equ strlen(b1_str_025)
 
-b1_str_026 equ "CRAB FLINT:  This TALISMAN allows the Crab to lay sparking mines! In Crab Form, press the B BUTTON!"
+b1_str_026 equ "BOMBINHA DE SIRI: Este TALISMÃ faz a Siri botar minas faiscantes! Na Forma de Siri, aperte o BOTÃO B!"
 b1_str_026_max_size equ 0x86
 b1_str_026_new_size equ strlen(b1_str_026)
 
-b1_str_027 equ "SPIDER VENOM:  This TALISMAN allows the Spider to fire venom at foes! In Spider Form, press the B BUTTON!"
+b1_str_027 equ "VENENO DA ARANHA: Este TALISMÃ faz a Aranha lançar veneno nos inimigos! Na Forma da Aranha, aperte o BOTÃO B!"
 b1_str_027_max_size equ 0x86
 b1_str_027_new_size equ strlen(b1_str_027)
 
-b1_str_028 equ "ELEPHANT TOTE:  This TALISMAN allows the Elephant to stomp! In Elephant Form, press DOWN while in air!"
+b1_str_028 equ "PISÃO DA ELEFANTA: Este TALISMÃ faz a Elefanta dar um pisão! Na Forma da Elefanta, aperte BAIXO em meio ar!"
 b1_str_028_max_size equ 0x86
 b1_str_028_new_size equ strlen(b1_str_028)
 
-b1_str_029 equ "MERMAID BUBBLE: This TALISMAN allows the Mermaid to fire bubbles at foes! In Mermaid Form, press the B BUTTON!"
+b1_str_029 equ "BOLHA DA SEREIA: Este TALISMÃ faz a Sereia atirar bolhas nos inimigos! Na Forma da Sereia, aperte o BOTÃO B!"
 b1_str_029_max_size equ 0x86
 b1_str_029_new_size equ strlen(b1_str_029)
 
-b1_str_030 equ "HARPY TALON:  This TALISMAN allows the Harpy to attack with deadly projectiles! In Harpy Form, press the B BUTTON!"
+b1_str_030 equ "GARRA DA HARPIA: Este TALISMÃ faz a Harpia atacar com projéteis mortais! Na Forma da Harpia, aperte o BOTÃO B!"
 b1_str_030_max_size equ 0x86
 b1_str_030_new_size equ strlen(b1_str_030)
 
-b1_str_031 equ "Hold the R BUTTON to DANCE. While dancing, press the Control Pad RIGHT to transform."
+b1_str_031 equ "Segure o BOTÃO R para DANÇAR. Durante a dança, aperta DIREITA no D-Pad para se transformar."
 b1_str_031_max_size equ 0x86
 b1_str_031_new_size equ strlen(b1_str_031)
 
-b1_str_032 equ "Hold the R BUTTON to DANCE. While dancing, press the Control Pad DOWN to transform."
+b1_str_032 equ "Segure o BOTÃO R para DANÇAR. Durante a dança, aperta BAIXO no D-Pad para se transformar."
 b1_str_032_max_size equ 0x86
 b1_str_032_new_size equ strlen(b1_str_032)
 
-b1_str_033 equ "Hold the R BUTTON to DANCE. While dancing, press the Control Pad UP to transform."
+b1_str_033 equ "Segure o BOTÃO R para DANÇAR. Durante a dança, aperta CIMA no D-Pad para se transformar."
 b1_str_033_max_size equ 0x86
 b1_str_033_new_size equ strlen(b1_str_033)
 
-b1_str_034 equ "Hold the R BUTTON to DANCE. While dancing, press the Control Pad LEFT to transform."
+b1_str_034 equ "Segure o BOTÃO R para DANÇAR. Durante a dança, aperta ESQUERDA no D-Pad para se transformar."
 b1_str_034_max_size equ 0x86
 b1_str_034_new_size equ strlen(b1_str_034)
 
-b1_str_035 equ "Hold the R BUTTON to DANCE. While dancing, press the B BUTTON to transform."
+b1_str_035 equ "Segure o BOTÃO R para DANÇAR. Durante a dança, aperta o BOTÃO B para se transformar."
 b1_str_035_max_size equ 0x86
 b1_str_035_new_size equ strlen(b1_str_035)
 
-b1_str_036 equ "Hold the R BUTTON to DANCE. While dancing, press the A BUTTON to transform."
+b1_str_036 equ "Segure o BOTÃO R para DANÇAR. Durante a dança, aperta o BOTÃO A para se transformar."
 b1_str_036_max_size equ 0x86
 b1_str_036_new_size equ strlen(b1_str_036)
 
-b1_str_037 equ "You have not learned this dance yet!"
+b1_str_037 equ "Você não aprendeu essa dança ainda!"
 b1_str_037_max_size equ 0x86
 b1_str_037_new_size equ strlen(b1_str_037)
 
-b1_str_038 equ "HEART HOLDER: Increase your MAX HEALTH! Can you find ALL SEVEN?"
+b1_str_038 equ "PORTA-CORAÇÕES: Aumenta sua SAÚDE MÁXIMA! Consegue achar TODOS OS SETE?"
 b1_str_038_max_size equ 0x86
 b1_str_038_new_size equ strlen(b1_str_038)
 
-b1_str_039 equ "SHAMPOO: Silky Shampoo! Hair whips faster and harder!"
+b1_str_039 equ "XAMPU: Um xampu xaroposo! Dá cabeladas mais rápido e mais forte!"
 b1_str_039_max_size equ 0x86
 b1_str_039_new_size equ strlen(b1_str_039)
 
-b1_str_040 equ "LABYRINTH KEY: Use this to unlock a door!"
+b1_str_040 equ "CHAVE DO LABIRINTO: Use isso pra abrir uma porta!"
 b1_str_040_max_size equ 0x86
 b1_str_040_new_size equ strlen(b1_str_040)
 
-b1_str_041 equ "WISH CHARM: Find a fountain and make a wish!"
+b1_str_041 equ "AMULETO DOS DESEJOS: Ache uma fonte e faça um pedido!"
 b1_str_041_max_size equ 0x86
 b1_str_041_new_size equ strlen(b1_str_041)
 
-b1_str_042 equ "WINGNUT: Activate a mechanical lift!"
+b1_str_042 equ "PORCA BORBOLETA: Ativa um elevador mecânico!"
 b1_str_042_max_size equ 0x86
 b1_str_042_new_size equ strlen(b1_str_042)
 
-b1_str_043 equ "MAP: Better show this to Sky!"
+b1_str_043 equ "MAPA: Melhor mostrar pra Celina!"
 b1_str_043_max_size equ 0x86
 b1_str_043_new_size equ strlen(b1_str_043)
 
-b1_str_044 equ "ATTRACT UP: Suck up drops from further away!"
+b1_str_044 equ "ATRATOR: Atrai itens que inimigos soltam!"
 b1_str_044_max_size equ 0x86
 b1_str_044_new_size equ strlen(b1_str_044)
 
-b1_str_045 equ "MP SAVER: Cut your magic cost in half!"
+b1_str_045 equ "POUPA-PM: Corta consumo de magia pela metade!"
 b1_str_045_max_size equ 0x86
 b1_str_045_new_size equ strlen(b1_str_045)
 
-b1_str_046 equ "TOOLBOX: Hey, this belongs to Uncle!"
+b1_str_046 equ "CAIXA DE FERRAMENTAS: Ei, isso é do Tio!"
 b1_str_046_max_size equ 0x86
 b1_str_046_new_size equ strlen(b1_str_046)
 
-b1_str_047 equ "COG: Weird device that's perfect for Bolo!"
+b1_str_047 equ "ENGRENAGEM: Aparato tosco que o Bolo vai gostar!"
 b1_str_047_max_size equ 0x86
 b1_str_047_new_size equ strlen(b1_str_047)
 
-b1_str_048 equ "SUPER GLUE: Great for making things stick tight."
+b1_str_048 equ "SUPER COLA: Ótimo pra fazer as coisas grudarem bem firme."
 b1_str_048_max_size equ 0x86
 b1_str_048_new_size equ strlen(b1_str_048)
 
-b1_str_049 equ "LOST GAME TAPE: Looks like it went missing exactly 22 years ago."
+b1_str_049 equ "CARTUCHO PERDIDO: Parece que se perdeu há exatamente 22 anos."
 b1_str_049_max_size equ 0x86
 b1_str_049_new_size equ strlen(b1_str_049)
 
-b1_str_050 equ "POCKET GAME TAPE: Rare and valuable classic! Cheat code is taped to the back: L2,R8,L6,R2,L7,R6,L8."
+b1_str_050 equ "CARTUCHO PORTÁTIL: Um clássico raro e valioso! Tem um código de trapaça atrás: E2,D8,E6,D2,E7,D6,E8."
 b1_str_050_max_size equ 0x86
 b1_str_050_new_size equ strlen(b1_str_050)
 
-b1_str_051 equ "CLASSIC GAME TAPE: Some sort of reproduction of a game that never was."
+b1_str_051 equ "CARTUCHO CLÁSSICO: Um tipo de repro de um jogo, com uma tradução de fã dentro."
 b1_str_051_max_size equ 0x86
 b1_str_051_new_size equ strlen(b1_str_051)
 
-b1_str_052 equ "WONKY ROCK: Geological evidence of some sort!"
+b1_str_052 equ "PEDRA INSTÁVEL: Evidência geológica de algum tipo!"
 b1_str_052_max_size equ 0x86
 b1_str_052_new_size equ strlen(b1_str_052)
 
-b1_str_053 equ "PUMICE STONE: Looks like it came from a volcano!"
+b1_str_053 equ "PEDRA-POMES: Parece que veio de um vulcão!"
 b1_str_053_max_size equ 0x86
 b1_str_053_new_size equ strlen(b1_str_053)
 
-b1_str_054 equ "TREMOR STONE: Trembling and wiggly object!"
+b1_str_054 equ "PEDRA TREMULANTE: Objeto trêmulo e instável!"
 b1_str_054_max_size equ 0x86
 b1_str_054_new_size equ strlen(b1_str_054)
 
-b1_str_055 equ "SHOCK EGG: Natural power source made by Storm Owls!"
+b1_str_055 equ "OVO CHOCANTE: Fonte de energia natural feita por Corujas Tempestuosas!"
 b1_str_055_max_size equ 0x86
 b1_str_055_new_size equ strlen(b1_str_055)
 
-b1_str_056 equ "TREMOR ENGINE: Take this to the cavern where it all began!"
+b1_str_056 equ "MOTOR TREMULANTE: Leve isso pra caverna onde tudo começou!"
 b1_str_056_max_size equ 0x86
 b1_str_056_new_size equ strlen(b1_str_056)
 
-b1_str_057 equ "You don't have this Magic Item yet!"
+b1_str_057 equ "Você ainda naõ tem este item mágico!"
 b1_str_057_max_size equ 0x86
 b1_str_057_new_size equ strlen(b1_str_057)
 
-b1_str_058 equ "You don't have any Key Items yet!"
+b1_str_058 equ "Você ainda não tem itens-chave!"
 b1_str_058_max_size equ 0x86
 b1_str_058_new_size equ strlen(b1_str_058)
 
-b1_str_059 equ "SECRET SQUIDS: You've found one of fifty!"
+b1_str_059 equ "LULAS SECRETAS: Você achou um de cinquenta!"
 b1_str_059_max_size equ 0x86
 b1_str_059_new_size equ strlen(b1_str_059)
 
-b1_str_060 equ "SECRET SQUIDS: You've found two of fifty!"
+b1_str_060 equ "LULAS SECRETAS: Você achou dois de cinquenta!"
 b1_str_060_max_size equ 0x86
 b1_str_060_new_size equ strlen(b1_str_060)
 
-b1_str_061 equ "SECRET SQUIDS: You've found three of fifty!"
+b1_str_061 equ "LULAS SECRETAS: Você achou três de cinquenta!"
 b1_str_061_max_size equ 0x86
 b1_str_061_new_size equ strlen(b1_str_061)
 
-b1_str_062 equ "SECRET SQUIDS: You've found four of fifty!"
+b1_str_062 equ "LULAS SECRETAS: Você achou quatro de cinquenta!"
 b1_str_062_max_size equ 0x86
 b1_str_062_new_size equ strlen(b1_str_062)
 
-b1_str_063 equ "SECRET SQUIDS: You've found five of fifty!"
+b1_str_063 equ "LULAS SECRETAS: Você achou cinco de cinquenta!"
 b1_str_063_max_size equ 0x86
 b1_str_063_new_size equ strlen(b1_str_063)
 
-b1_str_064 equ "SECRET SQUIDS: You've found six of fifty!"
+b1_str_064 equ "LULAS SECRETAS: Você achou seis de cinquenta!"
 b1_str_064_max_size equ 0x86
 b1_str_064_new_size equ strlen(b1_str_064)
 
-b1_str_065 equ "SECRET SQUIDS: You've found seven of fifty!"
+b1_str_065 equ "LULAS SECRETAS: Você achou sete de cinquenta!"
 b1_str_065_max_size equ 0x86
 b1_str_065_new_size equ strlen(b1_str_065)
 
-b1_str_066 equ "SECRET SQUIDS: You've found eight of fifty!"
+b1_str_066 equ "LULAS SECRETAS: Você achou oito de cinquenta!"
 b1_str_066_max_size equ 0x86
 b1_str_066_new_size equ strlen(b1_str_066)
 
-b1_str_067 equ "SECRET SQUIDS: You've found nine of fifty!"
+b1_str_067 equ "LULAS SECRETAS: Você achou nove de cinquenta!"
 b1_str_067_max_size equ 0x86
 b1_str_067_new_size equ strlen(b1_str_067)
 
-b1_str_068 equ "SECRET SQUIDS: You've found ten of fifty!"
+b1_str_068 equ "LULAS SECRETAS: Você achou dez de cinquenta!"
 b1_str_068_max_size equ 0x86
 b1_str_068_new_size equ strlen(b1_str_068)
 
-b1_str_069 equ "SECRET SQUIDS: You've found eleven of fifty!"
+b1_str_069 equ "LULAS SECRETAS: Você achou onze de cinquenta!"
 b1_str_069_max_size equ 0x86
 b1_str_069_new_size equ strlen(b1_str_069)
 
-b1_str_070 equ "SECRET SQUIDS: You've found twelve of fifty!"
+b1_str_070 equ "LULAS SECRETAS: Você achou doze de cinquenta!"
 b1_str_070_max_size equ 0x86
 b1_str_070_new_size equ strlen(b1_str_070)
 
-b1_str_071 equ "SECRET SQUIDS: You've found thirteen of fifty!"
+b1_str_071 equ "LULAS SECRETAS: Você achou treze de cinquenta!"
 b1_str_071_max_size equ 0x86
 b1_str_071_new_size equ strlen(b1_str_071)
 
-b1_str_072 equ "SECRET SQUIDS: You've found fourteen of fifty!"
+b1_str_072 equ "LULAS SECRETAS: Você achou catorze de cinquenta!"
 b1_str_072_max_size equ 0x86
 b1_str_072_new_size equ strlen(b1_str_072)
 
-b1_str_073 equ "SECRET SQUIDS: You've found fifteen of fifty!"
+b1_str_073 equ "LULAS SECRETAS: Você achou quinze de cinquenta!"
 b1_str_073_max_size equ 0x86
 b1_str_073_new_size equ strlen(b1_str_073)
 
-b1_str_074 equ "SECRET SQUIDS: You've found sixteen of fifty!"
+b1_str_074 equ "LULAS SECRETAS: Você achou dezesseis de cinquenta!"
 b1_str_074_max_size equ 0x86
 b1_str_074_new_size equ strlen(b1_str_074)
 
-b1_str_075 equ "SECRET SQUIDS: You've found seventeen of fifty!"
+b1_str_075 equ "LULAS SECRETAS: Você achou dezessete de cinquenta!"
 b1_str_075_max_size equ 0x86
 b1_str_075_new_size equ strlen(b1_str_075)
 
-b1_str_076 equ "SECRET SQUIDS: You've found eighteen of fifty!"
+b1_str_076 equ "LULAS SECRETAS: Você achou dezoito de cinquenta!"
 b1_str_076_max_size equ 0x86
 b1_str_076_new_size equ strlen(b1_str_076)
 
-b1_str_077 equ "SECRET SQUIDS: You've found nineteen of fifty!"
+b1_str_077 equ "LULAS SECRETAS: Você achou dezenove de cinquenta!"
 b1_str_077_max_size equ 0x86
 b1_str_077_new_size equ strlen(b1_str_077)
 
-b1_str_078 equ "SECRET SQUIDS: You've found twenty of fifty!"
+b1_str_078 equ "LULAS SECRETAS: Você achou vinte de cinquenta!"
 b1_str_078_max_size equ 0x86
 b1_str_078_new_size equ strlen(b1_str_078)
 
-b1_str_079 equ "SECRET SQUIDS: You've found twenty one of fifty!"
+b1_str_079 equ "LULAS SECRETAS: Você achou vinte e um de cinquenta!"
 b1_str_079_max_size equ 0x86
 b1_str_079_new_size equ strlen(b1_str_079)
 
-b1_str_080 equ "SECRET SQUIDS: You've found twenty two of fifty!"
+b1_str_080 equ "LULAS SECRETAS: Você achou vinte e dois de cinquenta!"
 b1_str_080_max_size equ 0x86
 b1_str_080_new_size equ strlen(b1_str_080)
 
-b1_str_081 equ "SECRET SQUIDS: You've found twenty three of fifty!"
+b1_str_081 equ "LULAS SECRETAS: Você achou vinte e três de cinquenta!"
 b1_str_081_max_size equ 0x86
 b1_str_081_new_size equ strlen(b1_str_081)
 
-b1_str_082 equ "SECRET SQUIDS: You've found twenty four of fifty!"
+b1_str_082 equ "LULAS SECRETAS: Você achou vinte e quatro de cinquenta!"
 b1_str_082_max_size equ 0x86
 b1_str_082_new_size equ strlen(b1_str_082)
 
-b1_str_083 equ "SECRET SQUIDS: You've found twenty five of fifty!"
+b1_str_083 equ "LULAS SECRETAS: Você achou vinte e cinco de cinquenta!"
 b1_str_083_max_size equ 0x86
 b1_str_083_new_size equ strlen(b1_str_083)
 
-b1_str_084 equ "SECRET SQUIDS: You've found twenty six of fifty!"
+b1_str_084 equ "LULAS SECRETAS: Você achou vinte e seis de cinquenta!"
 b1_str_084_max_size equ 0x86
 b1_str_084_new_size equ strlen(b1_str_084)
 
-b1_str_085 equ "SECRET SQUIDS: You've found twenty seven of fifty!"
+b1_str_085 equ "LULAS SECRETAS: Você achou vinte e sete de cinquenta!"
 b1_str_085_max_size equ 0x86
 b1_str_085_new_size equ strlen(b1_str_085)
 
-b1_str_086 equ "SECRET SQUIDS: You've found twenty eight of fifty!"
+b1_str_086 equ "LULAS SECRETAS: Você achou vinte e oito de cinquenta!"
 b1_str_086_max_size equ 0x86
 b1_str_086_new_size equ strlen(b1_str_086)
 
-b1_str_087 equ "SECRET SQUIDS: You've found twenty nine of fifty!"
+b1_str_087 equ "LULAS SECRETAS: Você achou vinte e nove de cinquenta!"
 b1_str_087_max_size equ 0x86
 b1_str_087_new_size equ strlen(b1_str_087)
 
-b1_str_088 equ "SECRET SQUIDS: You've found thirty of fifty!"
+b1_str_088 equ "LULAS SECRETAS: Você achou trinta de cinquenta!"
 b1_str_088_max_size equ 0x86
 b1_str_088_new_size equ strlen(b1_str_088)
 
-b1_str_089 equ "SECRET SQUIDS: You've found thirty one of fifty!"
+b1_str_089 equ "LULAS SECRETAS: Você achou trinta e um de cinquenta!"
 b1_str_089_max_size equ 0x86
 b1_str_089_new_size equ strlen(b1_str_089)
 
-b1_str_090 equ "SECRET SQUIDS: You've found thirty two of fifty!"
+b1_str_090 equ "LULAS SECRETAS: Você achou trinta e dois de cinquenta!"
 b1_str_090_max_size equ 0x86
 b1_str_090_new_size equ strlen(b1_str_090)
 
-b1_str_091 equ "SECRET SQUIDS: You've found thirty three of fifty!"
+b1_str_091 equ "LULAS SECRETAS: Você achou trinta e três de cinquenta!"
 b1_str_091_max_size equ 0x86
 b1_str_091_new_size equ strlen(b1_str_091)
 
-b1_str_092 equ "SECRET SQUIDS: You've found thirty four of fifty!"
+b1_str_092 equ "LULAS SECRETAS: Você achou trinta e quatro de cinquenta!"
 b1_str_092_max_size equ 0x86
 b1_str_092_new_size equ strlen(b1_str_092)
 
-b1_str_093 equ "SECRET SQUIDS: You've found thirty five of fifty!"
+b1_str_093 equ "LULAS SECRETAS: Você achou trinta e cinco de cinquenta!"
 b1_str_093_max_size equ 0x86
 b1_str_093_new_size equ strlen(b1_str_093)
 
-b1_str_094 equ "SECRET SQUIDS: You've found thirty six of fifty!"
+b1_str_094 equ "LULAS SECRETAS: Você achou trinta e seis de cinquenta!"
 b1_str_094_max_size equ 0x86
 b1_str_094_new_size equ strlen(b1_str_094)
 
-b1_str_095 equ "SECRET SQUIDS: You've found thirty seven of fifty!"
+b1_str_095 equ "LULAS SECRETAS: Você achou trinta e sete de cinquenta!"
 b1_str_095_max_size equ 0x86
 b1_str_095_new_size equ strlen(b1_str_095)
 
-b1_str_096 equ "SECRET SQUIDS: You've found thirty eight of fifty!"
+b1_str_096 equ "LULAS SECRETAS: Você achou trinta e oito de cinquenta!"
 b1_str_096_max_size equ 0x86
 b1_str_096_new_size equ strlen(b1_str_096)
 
-b1_str_097 equ "SECRET SQUIDS: You've found thirty nine of fifty!"
+b1_str_097 equ "LULAS SECRETAS: Você achou trinta e nove de cinquenta!"
 b1_str_097_max_size equ 0x86
 b1_str_097_new_size equ strlen(b1_str_097)
 
-b1_str_098 equ "SECRET SQUIDS: You've found forty of fifty!"
+b1_str_098 equ "LULAS SECRETAS: Você achou quarenta de cinquenta!"
 b1_str_098_max_size equ 0x86
 b1_str_098_new_size equ strlen(b1_str_098)
 
-b1_str_099 equ "SECRET SQUIDS: You've found forty one of fifty!"
+b1_str_099 equ "LULAS SECRETAS: Você achou quarenta e um de cinquenta!"
 b1_str_099_max_size equ 0x86
 b1_str_099_new_size equ strlen(b1_str_099)
 
-b1_str_100 equ "SECRET SQUIDS: You've found forty two of fifty!"
+b1_str_100 equ "LULAS SECRETAS: Você achou quarenta e dois de cinquenta!"
 b1_str_100_max_size equ 0x86
 b1_str_100_new_size equ strlen(b1_str_100)
 
-b1_str_101 equ "SECRET SQUIDS: You've found forty three of fifty!"
+b1_str_101 equ "LULAS SECRETAS: Você achou quarenta e três de cinquenta!"
 b1_str_101_max_size equ 0x86
 b1_str_101_new_size equ strlen(b1_str_101)
 
-b1_str_102 equ "SECRET SQUIDS: You've found forty four of fifty!"
+b1_str_102 equ "LULAS SECRETAS: Você achou quarenta e quatro de cinquenta!"
 b1_str_102_max_size equ 0x86
 b1_str_102_new_size equ strlen(b1_str_102)
 
-b1_str_103 equ "SECRET SQUIDS: You've found forty five of fifty!"
+b1_str_103 equ "LULAS SECRETAS: Você achou quarenta e cinco de cinquenta!"
 b1_str_103_max_size equ 0x86
 b1_str_103_new_size equ strlen(b1_str_103)
 
-b1_str_104 equ "SECRET SQUIDS: You've found forty six of fifty!"
+b1_str_104 equ "LULAS SECRETAS: Você achou quarenta e seis de cinquenta!"
 b1_str_104_max_size equ 0x86
 b1_str_104_new_size equ strlen(b1_str_104)
 
-b1_str_105 equ "SECRET SQUIDS: You've found forty seven of fifty!"
+b1_str_105 equ "LULAS SECRETAS: Você achou quarenta e sete de cinquenta!"
 b1_str_105_max_size equ 0x86
 b1_str_105_new_size equ strlen(b1_str_105)
 
-b1_str_106 equ "SECRET SQUIDS: You've found forty eight of fifty!"
+b1_str_106 equ "LULAS SECRETAS: Você achou quarenta e oito de cinquenta!"
 b1_str_106_max_size equ 0x86
 b1_str_106_new_size equ strlen(b1_str_106)
 
-b1_str_107 equ "SECRET SQUIDS: You've found forty nine of fifty!"
+b1_str_107 equ "LULAS SECRETAS: Você achou quarenta e nove de cinquenta!"
 b1_str_107_max_size equ 0x86
 b1_str_107_new_size equ strlen(b1_str_107)
 
-b1_str_108 equ "SECRET SQUIDS: You've found fifty of fifty!"
+b1_str_108 equ "LULAS SECRETAS: Você achou cinquenta de cinquenta!"
 b1_str_108_max_size equ 0x87
 b1_str_108_new_size equ strlen(b1_str_108)
 

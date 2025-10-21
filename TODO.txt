@@ -1,3 +1,4 @@
-- Checar acentuação de fontes de prólogo e de créditos
-- Checar acentuação de caracteres vermelhos maiúsculos nos diálogos
+- Checar fonte do prólogo e dos créditos (arquivo 431), pra tentar fazer o jogo usar os caracteres acentuados no final
+- Checar fonte do inventário/destinos/paradinhas (arquivo 392), pra expandir ela e adicionar novos caracteres.
+- Checar onde a fonte 317 é usada no jogo (se usada). Em tese é pra ser fonte de diálogos comuns, duplicada da fonte 315.
 - Traduzir scripts

@@ -1,456 +1,456 @@
-b3_str_001 equ "HEART VIAL....."
+b3_str_001 equ "Poção.........."
 b3_str_001_max_size equ 0x86
 b3_str_001_new_size equ strlen(b3_str_001)
 
-b3_str_002 equ "HEART VIAL....."
+b3_str_002 equ "Poção.........."
 b3_str_002_max_size equ 0x86
 b3_str_002_new_size equ strlen(b3_str_002)
 
-b3_str_003 equ "HEART VIAL....."
+b3_str_003 equ "Poção.........."
 b3_str_003_max_size equ 0x86
 b3_str_003_new_size equ strlen(b3_str_003)
 
-b3_str_004 equ "HEART PACK....."
+b3_str_004 equ "3 Poções......."
 b3_str_004_max_size equ 0x86
 b3_str_004_new_size equ strlen(b3_str_004)
 
-b3_str_005 equ "HEART PACK....."
+b3_str_005 equ "3 Poções......."
 b3_str_005_max_size equ 0x86
 b3_str_005_new_size equ strlen(b3_str_005)
 
-b3_str_006 equ "HEART PACK....."
+b3_str_006 equ "3 Poções......."
 b3_str_006_max_size equ 0x86
 b3_str_006_new_size equ strlen(b3_str_006)
 
-b3_str_007 equ "MAGIC VIAL....."
+b3_str_007 equ "Frasco Mág....."
 b3_str_007_max_size equ 0x86
 b3_str_007_new_size equ strlen(b3_str_007)
 
-b3_str_008 equ "MAGIC VIAL....."
+b3_str_008 equ "Frasco Mág....."
 b3_str_008_max_size equ 0x86
 b3_str_008_new_size equ strlen(b3_str_008)
 
-b3_str_009 equ "MAGIC VIAL....."
+b3_str_009 equ "Frasco Mág....."
 b3_str_009_max_size equ 0x86
 b3_str_009_new_size equ strlen(b3_str_009)
 
-b3_str_010 equ "MAGIC PACK....."
+b3_str_010 equ "3 Frascos M...."
 b3_str_010_max_size equ 0x86
 b3_str_010_new_size equ strlen(b3_str_010)
 
-b3_str_011 equ "MAGIC PACK....."
+b3_str_011 equ "3 Frascos M...."
 b3_str_011_max_size equ 0x86
 b3_str_011_new_size equ strlen(b3_str_011)
 
-b3_str_012 equ "MAGIC PACK....."
+b3_str_012 equ "3 Frascos M...."
 b3_str_012_max_size equ 0x86
 b3_str_012_new_size equ strlen(b3_str_012)
 
-b3_str_013 equ "SUPER VIAL....."
+b3_str_013 equ "Elixir........."
 b3_str_013_max_size equ 0x86
 b3_str_013_new_size equ strlen(b3_str_013)
 
-b3_str_014 equ "SUPER VIAL....."
+b3_str_014 equ "Elixir........."
 b3_str_014_max_size equ 0x86
 b3_str_014_new_size equ strlen(b3_str_014)
 
-b3_str_015 equ "SUPER VIAL....."
+b3_str_015 equ "Elixir........."
 b3_str_015_max_size equ 0x86
 b3_str_015_new_size equ strlen(b3_str_015)
 
-b3_str_016 equ "SUPER PACK....."
+b3_str_016 equ "3 Elixires....."
 b3_str_016_max_size equ 0x86
 b3_str_016_new_size equ strlen(b3_str_016)
 
-b3_str_017 equ "SUPER PACK....."
+b3_str_017 equ "3 Elixires....."
 b3_str_017_max_size equ 0x86
 b3_str_017_new_size equ strlen(b3_str_017)
 
-b3_str_018 equ "SUPER PACK....."
+b3_str_018 equ "3 Elixires....."
 b3_str_018_max_size equ 0x86
 b3_str_018_new_size equ strlen(b3_str_018)
 
-b3_str_019 equ "EXIT CANDY....."
+b3_str_019 equ "Teledoce......."
 b3_str_019_max_size equ 0x86
 b3_str_019_new_size equ strlen(b3_str_019)
 
-b3_str_020 equ "EXIT CANDY....."
+b3_str_020 equ "Teledoce......."
 b3_str_020_max_size equ 0x86
 b3_str_020_new_size equ strlen(b3_str_020)
 
-b3_str_021 equ "EXIT CANDY....."
+b3_str_021 equ "Teledoce......."
 b3_str_021_max_size equ 0x86
 b3_str_021_new_size equ strlen(b3_str_021)
 
-b3_str_022 equ "EXIT PACK......"
+b3_str_022 equ "3 Teledoces...."
 b3_str_022_max_size equ 0x86
 b3_str_022_new_size equ strlen(b3_str_022)
 
-b3_str_023 equ "EXIT PACK......"
+b3_str_023 equ "3 Teledoces...."
 b3_str_023_max_size equ 0x86
 b3_str_023_new_size equ strlen(b3_str_023)
 
-b3_str_024 equ "EXIT PACK......"
+b3_str_024 equ "3 Teledoces...."
 b3_str_024_max_size equ 0x86
 b3_str_024_new_size equ strlen(b3_str_024)
 
-b3_str_025 equ "FIREBALL......."
+b3_str_025 equ "B. de Fogo....."
 b3_str_025_max_size equ 0x86
 b3_str_025_new_size equ strlen(b3_str_025)
 
-b3_str_026 equ "FIRE UP........"
+b3_str_026 equ "B. de Fogo2...."
 b3_str_026_max_size equ 0x86
 b3_str_026_new_size equ strlen(b3_str_026)
 
-b3_str_027 equ "FIRE MAX......."
+b3_str_027 equ "B. de Fogo3...."
 b3_str_027_max_size equ 0x86
 b3_str_027_new_size equ strlen(b3_str_027)
 
-b3_str_028 equ "STORM PUFF....."
+b3_str_028 equ "Sopro T........"
 b3_str_028_max_size equ 0x86
 b3_str_028_new_size equ strlen(b3_str_028)
 
-b3_str_029 equ "STORM UP......."
+b3_str_029 equ "Sopro T. 2....."
 b3_str_029_max_size equ 0x86
 b3_str_029_new_size equ strlen(b3_str_029)
 
-b3_str_030 equ "STORM MAX......"
+b3_str_030 equ "Sopro T. 3....."
 b3_str_030_max_size equ 0x86
 b3_str_030_new_size equ strlen(b3_str_030)
 
-b3_str_031 equ "P-BALL........."
+b3_str_031 equ "Bola Esp......."
 b3_str_031_max_size equ 0x86
 b3_str_031_new_size equ strlen(b3_str_031)
 
-b3_str_032 equ "P-BALL UP......"
+b3_str_032 equ "Bola Esp. 2...."
 b3_str_032_max_size equ 0x86
 b3_str_032_new_size equ strlen(b3_str_032)
 
-b3_str_033 equ "P-BALL MAX....."
+b3_str_033 equ "Bola Esp. 3...."
 b3_str_033_max_size equ 0x86
 b3_str_033_new_size equ strlen(b3_str_033)
 
-b3_str_034 equ "PANTS ANTS....."
+b3_str_034 equ "Calçola Coç...."
 b3_str_034_max_size equ 0x86
 b3_str_034_new_size equ strlen(b3_str_034)
 
-b3_str_035 equ "PANTS ANTS....."
+b3_str_035 equ "Calçola Coç...."
 b3_str_035_max_size equ 0x86
 b3_str_035_new_size equ strlen(b3_str_035)
 
-b3_str_036 equ "PANTS ANTS....."
+b3_str_036 equ "Calçola Coç...."
 b3_str_036_max_size equ 0x86
 b3_str_036_new_size equ strlen(b3_str_036)
 
-b3_str_037 equ "VANISH........."
+b3_str_037 equ "Creme de Su...."
 b3_str_037_max_size equ 0x86
 b3_str_037_new_size equ strlen(b3_str_037)
 
-b3_str_038 equ "VANISH........."
+b3_str_038 equ "Creme de Su...."
 b3_str_038_max_size equ 0x86
 b3_str_038_new_size equ strlen(b3_str_038)
 
-b3_str_039 equ "VANISH........."
+b3_str_039 equ "Creme de Su...."
 b3_str_039_max_size equ 0x86
 b3_str_039_new_size equ strlen(b3_str_039)
 
-b3_str_040 equ "FLOAT CAKE....."
+b3_str_040 equ "Muffin Flut...."
 b3_str_040_max_size equ 0x86
 b3_str_040_new_size equ strlen(b3_str_040)
 
-b3_str_041 equ "FLOAT CAKE....."
+b3_str_041 equ "Muffin Flut...."
 b3_str_041_max_size equ 0x86
 b3_str_041_new_size equ strlen(b3_str_041)
 
-b3_str_042 equ "FLOAT CAKE....."
+b3_str_042 equ "Muffin Flut...."
 b3_str_042_max_size equ 0x86
 b3_str_042_new_size equ strlen(b3_str_042)
 
-b3_str_043 equ "TWIN MINT......"
+b3_str_043 equ "Mentinhas......"
 b3_str_043_max_size equ 0x86
 b3_str_043_new_size equ strlen(b3_str_043)
 
-b3_str_044 equ "TWIN MINT......"
+b3_str_044 equ "Mentinhas......"
 b3_str_044_max_size equ 0x86
 b3_str_044_new_size equ strlen(b3_str_044)
 
-b3_str_045 equ "TWIN MINT......"
+b3_str_045 equ "Mentinhas......"
 b3_str_045_max_size equ 0x86
 b3_str_045_new_size equ strlen(b3_str_045)
 
-b3_str_046 equ "GREEDY JAR....."
+b3_str_046 equ "Jarro da G....."
 b3_str_046_max_size equ 0x86
 b3_str_046_new_size equ strlen(b3_str_046)
 
-b3_str_047 equ "GREEDY JAR....."
+b3_str_047 equ "Jarro da G....."
 b3_str_047_max_size equ 0x86
 b3_str_047_new_size equ strlen(b3_str_047)
 
-b3_str_048 equ "GREEDY JAR....."
+b3_str_048 equ "Jarro da G....."
 b3_str_048_max_size equ 0x86
 b3_str_048_new_size equ strlen(b3_str_048)
 
-b3_str_049 equ "ATTRACT UP....."
+b3_str_049 equ "Atrator........"
 b3_str_049_max_size equ 0x86
 b3_str_049_new_size equ strlen(b3_str_049)
 
-b3_str_050 equ "ATTRACT UP....."
+b3_str_050 equ "Atrator........"
 b3_str_050_max_size equ 0x86
 b3_str_050_new_size equ strlen(b3_str_050)
 
-b3_str_051 equ "ATTRACT UP....."
+b3_str_051 equ "Atrator........"
 b3_str_051_max_size equ 0x86
 b3_str_051_new_size equ strlen(b3_str_051)
 
-b3_str_052 equ "MP SAVER......."
+b3_str_052 equ "Poupa-PM......."
 b3_str_052_max_size equ 0x86
 b3_str_052_new_size equ strlen(b3_str_052)
 
-b3_str_053 equ "MP SAVER......."
+b3_str_053 equ "Poupa-PM......."
 b3_str_053_max_size equ 0x86
 b3_str_053_new_size equ strlen(b3_str_053)
 
-b3_str_054 equ "MP SAVER......."
+b3_str_054 equ "Poupa-PM......."
 b3_str_054_max_size equ 0x86
 b3_str_054_new_size equ strlen(b3_str_054)
 
-b3_str_055 equ "SHAMPOO........"
+b3_str_055 equ "Xampu.........."
 b3_str_055_max_size equ 0x86
 b3_str_055_new_size equ strlen(b3_str_055)
 
-b3_str_056 equ "SHAMPOO DX....."
+b3_str_056 equ "Xampu NV2......"
 b3_str_056_max_size equ 0x86
 b3_str_056_new_size equ strlen(b3_str_056)
 
-b3_str_057 equ "SHAMPOO EX....."
+b3_str_057 equ "Xampu NV3......"
 b3_str_057_max_size equ 0x86
 b3_str_057_new_size equ strlen(b3_str_057)
 
-b3_str_058 equ "EXIT           "
+b3_str_058 equ "Sair           "
 b3_str_058_max_size equ 0x86
 b3_str_058_new_size equ strlen(b3_str_058)
 
-b3_str_059 equ "EXIT           "
+b3_str_059 equ "Sair           "
 b3_str_059_max_size equ 0x86
 b3_str_059_new_size equ strlen(b3_str_059)
 
-b3_str_060 equ "EXIT           "
+b3_str_060 equ "Sair           "
 b3_str_060_max_size equ 0x86
 b3_str_060_new_size equ strlen(b3_str_060)
 
-b3_str_061 equ "HEART VIAL: Consumable item that refills your Health!"
+b3_str_061 equ "POÇÃO: Item consumível que recupera sua saúde!"
 b3_str_061_max_size equ 0x86
 b3_str_061_new_size equ strlen(b3_str_061)
 
-b3_str_062 equ "HEART VIAL: Consumable item that refills your Health!"
+b3_str_062 equ "POÇÃO: Item consumível que recupera sua saúde!"
 b3_str_062_max_size equ 0x86
 b3_str_062_new_size equ strlen(b3_str_062)
 
-b3_str_063 equ "HEART VIAL: Consumable item that refills your Health!"
+b3_str_063 equ "POÇÃO: Item consumível que recupera sua saúde!"
 b3_str_063_max_size equ 0x86
 b3_str_063_new_size equ strlen(b3_str_063)
 
-b3_str_064 equ "HEART PACK: Value Pack containing three Heart Vials! Stock up and Save!"
+b3_str_064 equ "TRÊS POÇÕES: Promoção de 3 poções em uma! Aproveita que caiu do caminhão hoje!"
 b3_str_064_max_size equ 0x86
 b3_str_064_new_size equ strlen(b3_str_064)
 
-b3_str_065 equ "HEART PACK: Value Pack containing three Heart Vials! Stock up and Save!"
+b3_str_065 equ "TRÊS POÇÕES: Promoção de 3 poções em uma! Aproveita que caiu do caminhão hoje!"
 b3_str_065_max_size equ 0x86
 b3_str_065_new_size equ strlen(b3_str_065)
 
-b3_str_066 equ "HEART PACK: Value Pack containing three Heart Vials! Stock up and Save!"
+b3_str_066 equ "TRÊS POÇÕES: Promoção de 3 poções em uma! Aproveita que caiu do caminhão hoje!"
 b3_str_066_max_size equ 0x86
 b3_str_066_new_size equ strlen(b3_str_066)
 
-b3_str_067 equ "MAGIC VIAL: Consumable item that refills your Magic!"
+b3_str_067 equ "FRASCO MÁGICO: Item consumível que recupera sua magia!"
 b3_str_067_max_size equ 0x86
 b3_str_067_new_size equ strlen(b3_str_067)
 
-b3_str_068 equ "MAGIC VIAL: Consumable item that refills your Magic!"
+b3_str_068 equ "FRASCO MÁGICO: Item consumível que recupera sua magia!"
 b3_str_068_max_size equ 0x86
 b3_str_068_new_size equ strlen(b3_str_068)
 
-b3_str_069 equ "MAGIC VIAL: Consumable item that refills your Magic!"
+b3_str_069 equ "FRASCO MÁGICO: Item consumível que recupera sua magia!"
 b3_str_069_max_size equ 0x86
 b3_str_069_new_size equ strlen(b3_str_069)
 
-b3_str_070 equ "MAGIC PACK: Value Pack containing three Magic Vials! Stock up and Save!"
+b3_str_070 equ "TRÊS FRASCOS MÁGICOS: Promoção de 3 frascos mágicos em um! Aproveita que não é black fraude!"
 b3_str_070_max_size equ 0x86
 b3_str_070_new_size equ strlen(b3_str_070)
 
-b3_str_071 equ "MAGIC PACK: Value Pack containing three Magic Vials! Stock up and Save!"
+b3_str_071 equ "TRÊS FRASCOS MÁGICOS: Promoção de 3 frascos mágicos em um! Aproveita que não é black fraude!"
 b3_str_071_max_size equ 0x86
 b3_str_071_new_size equ strlen(b3_str_071)
 
-b3_str_072 equ "MAGIC PACK: Value Pack containing three Magic Vials! Stock up and Save!"
+b3_str_072 equ "TRÊS FRASCOS MÁGICOS: Promoção de 3 frascos mágicos em um! Aproveita que não é black fraude!"
 b3_str_072_max_size equ 0x86
 b3_str_072_new_size equ strlen(b3_str_072)
 
-b3_str_073 equ "SUPER VIAL: Consumable item that refills your Health and Magic!"
+b3_str_073 equ "ELIXIR: Item consumível que recupera saúde e magia!"
 b3_str_073_max_size equ 0x86
 b3_str_073_new_size equ strlen(b3_str_073)
 
-b3_str_074 equ "SUPER VIAL: Consumable item that refills your Health and Magic!"
+b3_str_074 equ "ELIXIR: Item consumível que recupera saúde e magia!"
 b3_str_074_max_size equ 0x86
 b3_str_074_new_size equ strlen(b3_str_074)
 
-b3_str_075 equ "SUPER VIAL: Consumable item that refills your Health and Magic!"
+b3_str_075 equ "ELIXIR: Item consumível que recupera saúde e magia!"
 b3_str_075_max_size equ 0x86
 b3_str_075_new_size equ strlen(b3_str_075)
 
-b3_str_076 equ "SUPER PACK: Value Pack containing three Super Vials! Stock up and Save!"
+b3_str_076 equ "TRÊS ELIXIRES: Promoção de 3 elixires em um! Aproveita que o cupom só dura até zerar o jogo!"
 b3_str_076_max_size equ 0x86
 b3_str_076_new_size equ strlen(b3_str_076)
 
-b3_str_077 equ "SUPER PACK: Value Pack containing three Super Vials! Stock up and Save!"
+b3_str_077 equ "TRÊS ELIXIRES: Promoção de 3 elixires em um! Aproveita que o cupom só dura até zerar o jogo!"
 b3_str_077_max_size equ 0x86
 b3_str_077_new_size equ strlen(b3_str_077)
 
-b3_str_078 equ "SUPER PACK: Value Pack containing three Super Vials! Stock up and Save!"
+b3_str_078 equ "TRÊS ELIXIRES: Promoção de 3 elixires em um! Aproveita que o cupom só dura até zerar o jogo!"
 b3_str_078_max_size equ 0x86
 b3_str_078_new_size equ strlen(b3_str_078)
 
-b3_str_079 equ "EXIT CANDY: Consumable item that exits the current location!"
+b3_str_079 equ "TELEDOCE: Item consumível que te faz sair do local atual!"
 b3_str_079_max_size equ 0x86
 b3_str_079_new_size equ strlen(b3_str_079)
 
-b3_str_080 equ "EXIT CANDY: Consumable item that exits the current location!"
+b3_str_080 equ "TELEDOCE: Item consumível que te faz sair do local atual!"
 b3_str_080_max_size equ 0x86
 b3_str_080_new_size equ strlen(b3_str_080)
 
-b3_str_081 equ "EXIT CANDY: Consumable item that exits the current location!"
+b3_str_081 equ "TELEDOCE: Item consumível que te faz sair do local atual!"
 b3_str_081_max_size equ 0x86
 b3_str_081_new_size equ strlen(b3_str_081)
 
-b3_str_082 equ "EXIT PACK: Value Pack containing three Exit Candies! Stock up and Save!"
+b3_str_082 equ "TRÊS TELEDOCES: Promoção de 3 teledoces em um! Aproveita que a gerente ficou maluca!"
 b3_str_082_max_size equ 0x86
 b3_str_082_new_size equ strlen(b3_str_082)
 
-b3_str_083 equ "EXIT PACK: Value Pack containing three Exit Candies! Stock up and Save!"
+b3_str_083 equ "TRÊS TELEDOCES: Promoção de 3 teledoces em um! Aproveita que a gerente ficou maluca!"
 b3_str_083_max_size equ 0x86
 b3_str_083_new_size equ strlen(b3_str_083)
 
-b3_str_084 equ "EXIT PACK: Value Pack containing three Exit Candies! Stock up and Save!"
+b3_str_084 equ "TRÊS TELEDOCES: Promoção de 3 teledoces em um! Aproveita que a gerente ficou maluca!"
 b3_str_084_max_size equ 0x86
 b3_str_084_new_size equ strlen(b3_str_084)
 
-b3_str_085 equ "FIREBALL: Attack at long range!"
+b3_str_085 equ "BOLA DE FOGO: Ataca a longo alcance!"
 b3_str_085_max_size equ 0x86
 b3_str_085_new_size equ strlen(b3_str_085)
 
-b3_str_086 equ "FIRE UP: Fireballs fly faster and hit harder!"
+b3_str_086 equ "BOLA DE FOGO NV2: Bolas mais rápidas fazendo mais estrago!"
 b3_str_086_max_size equ 0x86
 b3_str_086_new_size equ strlen(b3_str_086)
 
-b3_str_087 equ "FIRE MAX: Fireballs fly even faster and hit even harder!"
+b3_str_087 equ "BOLA DE FOGO NV3: Bolas ainda mais rápidas fazendo ainda mais estrago!"
 b3_str_087_max_size equ 0x86
 b3_str_087_new_size equ strlen(b3_str_087)
 
-b3_str_088 equ "STORM PUFF: Lightning Strikes deal big damage!"
+b3_str_088 equ "SOPRO TEMPESTADE: Raios que causam dano alto!"
 b3_str_088_max_size equ 0x86
 b3_str_088_new_size equ strlen(b3_str_088)
 
-b3_str_089 equ "STORM UP: Faster, Stronger lightning strikes!"
+b3_str_089 equ "SOPRO TEMPESTADE NV2: Raios mais rápidos e mais fortes!"
 b3_str_089_max_size equ 0x86
 b3_str_089_new_size equ strlen(b3_str_089)
 
-b3_str_090 equ "STORM MAX: Fastest, Strongest lightning strikes!"
+b3_str_090 equ "SOPRO TEMPESTADE NV3: Raios ainda mais rápidos e mais fortes!"
 b3_str_090_max_size equ 0x86
 b3_str_090_new_size equ strlen(b3_str_090)
 
-b3_str_091 equ "PIKE BALL: Orbiting Pike Ball weapon!"
+b3_str_091 equ "BOLA ESPINHADA: Uma bola de espinhos girando ao seu redor!"
 b3_str_091_max_size equ 0x86
 b3_str_091_new_size equ strlen(b3_str_091)
 
-b3_str_092 equ "PIKE BALL UP: Pike Ball spins faster and hits harder!"
+b3_str_092 equ "BOLA ESPINHADA NV2: Bola girando mais rápido e causando mais estrago!"
 b3_str_092_max_size equ 0x86
 b3_str_092_new_size equ strlen(b3_str_092)
 
-b3_str_093 equ "PIKE BALL MAX: Pike Ball spins even faster and hits even harder!"
+b3_str_093 equ "BOLA ESPINHADA NV3: Bola girando ainda mais rápido e causando ainda mais estrago!"
 b3_str_093_max_size equ 0x86
 b3_str_093_new_size equ strlen(b3_str_093)
 
-b3_str_094 equ "PANTS ANTS: Spend Magic to run faster!"
+b3_str_094 equ "CALÇOLA COÇOLA: Calçola com formigas que coça muito, fazendo correr mais rápido drenando magia!"
 b3_str_094_max_size equ 0x86
 b3_str_094_new_size equ strlen(b3_str_094)
 
-b3_str_095 equ "PANTS ANTS: Spend Magic to run faster!"
+b3_str_095 equ "CALÇOLA COÇOLA: Calçola com formigas que coça muito, fazendo correr mais rápido drenando magia!"
 b3_str_095_max_size equ 0x86
 b3_str_095_new_size equ strlen(b3_str_095)
 
-b3_str_096 equ "PANTS ANTS: Spend Magic to run faster!"
+b3_str_096 equ "CALÇOLA COÇOLA: Calçola com formigas que coça muito, fazendo correr mais rápido drenando magia!"
 b3_str_096_max_size equ 0x86
 b3_str_096_new_size equ strlen(b3_str_096)
 
-b3_str_097 equ "VANISH: Magical jar of Vanish Cream! Take no damage for a time!"
+b3_str_097 equ "CREME DE SUMIÇO: Creme que faz sumir sujeira em peles muito oleosas! Não toma dano por um tempo!"
 b3_str_097_max_size equ 0x86
 b3_str_097_new_size equ strlen(b3_str_097)
 
-b3_str_098 equ "VANISH: Magical jar of Vanish Cream!Take no damage for a time!"
+b3_str_098 equ "CREME DE SUMIÇO: Creme que faz sumir sujeira em peles muito oleosas! Não toma dano por um tempo!"
 b3_str_098_max_size equ 0x86
 b3_str_098_new_size equ strlen(b3_str_098)
 
-b3_str_099 equ "VANISH: Magical jar of Vanish Cream!Take no damage for a time!"
+b3_str_099 equ "CREME DE SUMIÇO: Creme que faz sumir sujeira em peles muito oleosas! Não toma dano por um tempo!"
 b3_str_099_max_size equ 0x86
 b3_str_099_new_size equ strlen(b3_str_099)
 
-b3_str_100 equ "FLOAT CAKE: Defy gravity with this magical muffin!"
+b3_str_100 equ "MUFFIN FLUTUANTE: Desafie a gravidade com esse muffin mágico!"
 b3_str_100_max_size equ 0x86
 b3_str_100_new_size equ strlen(b3_str_100)
 
-b3_str_101 equ "FLOAT CAKE: Defy gravity with this magical muffin!"
+b3_str_101 equ "MUFFIN FLUTUANTE: Desafie a gravidade com esse muffin mágico!"
 b3_str_101_max_size equ 0x86
 b3_str_101_new_size equ strlen(b3_str_101)
 
-b3_str_102 equ "FLOAT CAKE: Defy gravity with this magical muffin!"
+b3_str_102 equ "MUFFIN FLUTUANTE: Desafie a gravidade com esse muffin mágico!"
 b3_str_102_max_size equ 0x86
 b3_str_102_new_size equ strlen(b3_str_102)
 
-b3_str_103 equ "TWIN MINT: Magical mints let you divide and conquer!"
+b3_str_103 equ "MENTINHAS: Balas de menta mágicas que te divide em dois, pra conquistar depois!"
 b3_str_103_max_size equ 0x86
 b3_str_103_new_size equ strlen(b3_str_103)
 
-b3_str_104 equ "TWIN MINT: Magical mints let you divide and conquer!"
+b3_str_104 equ "MENTINHAS: Balas de menta mágicas que te divide em dois, pra conquistar depois!"
 b3_str_104_max_size equ 0x86
 b3_str_104_new_size equ strlen(b3_str_104)
 
-b3_str_105 equ "TWIN MINT: Magical mints let you divide and conquer!"
+b3_str_105 equ "MENTINHAS: Balas de menta mágicas que te divide em dois, pra conquistar depois!"
 b3_str_105_max_size equ 0x86
 b3_str_105_new_size equ strlen(b3_str_105)
 
-b3_str_106 equ "GREEDY JAR: Magical object that makes Gem Drops increase!"
+b3_str_106 equ "JARRO DA GANÂNCIA: Objeto mágico que  faz inimigos darem mais joias!"
 b3_str_106_max_size equ 0x86
 b3_str_106_new_size equ strlen(b3_str_106)
 
-b3_str_107 equ "GREEDY JAR: Magical object that makes Gem Drops increase!"
+b3_str_107 equ "JARRO DA GANÂNCIA: Objeto mágico que faz inimigos darem mais joias!"
 b3_str_107_max_size equ 0x86
 b3_str_107_new_size equ strlen(b3_str_107)
 
-b3_str_108 equ "GREEDY JAR: Magical object that makes Gem Drops increase!"
+b3_str_108 equ "JARRO DA GANÂNCIA: Objeto mágico que faz inimigos darem mais joias!"
 b3_str_108_max_size equ 0x86
 b3_str_108_new_size equ strlen(b3_str_108)
 
-b3_str_109 equ "ATTRACT UP: Dance Upgrade! Suck up drops from further away!"
+b3_str_109 equ "ATRATOR: Uma turbinada nas danças! Atrai itens que inimigos soltam!"
 b3_str_109_max_size equ 0x86
 b3_str_109_new_size equ strlen(b3_str_109)
 
-b3_str_110 equ "ATTRACT UP: Dance Upgrade! Suck up drops from further away!"
+b3_str_110 equ "ATRATOR: Uma turbinada nas danças! Atrai itens que inimigos soltam!"
 b3_str_110_max_size equ 0x86
 b3_str_110_new_size equ strlen(b3_str_110)
 
-b3_str_111 equ "ATTRACT UP: Dance Upgrade! Suck up drops from further away!"
+b3_str_111 equ "ATRATOR: Uma turbinada nas danças! Atrai itens que inimigos soltam!"
 b3_str_111_max_size equ 0x86
 b3_str_111_new_size equ strlen(b3_str_111)
 
-b3_str_112 equ "MP SAVER: Magic Upgrade! Cut your magic cost in half!"
+b3_str_112 equ "POUPA-PM: Uma turbinada nas magias! Corta consumo de magia pela metade!"
 b3_str_112_max_size equ 0x86
 b3_str_112_new_size equ strlen(b3_str_112)
 
-b3_str_113 equ "MP SAVER: Magic Upgrade! Cut your magic cost in half!"
+b3_str_113 equ "POUPA-PM: Uma turbinada nas magias! Corta consumo de magia pela metade!"
 b3_str_113_max_size equ 0x86
 b3_str_113_new_size equ strlen(b3_str_113)
 
-b3_str_114 equ "MP SAVER: Magic Upgrade! Cut your magic cost in half!"
+b3_str_114 equ "POUPA-PM: Uma turbinada nas magias! Corta consumo de magia pela metade!"
 b3_str_114_max_size equ 0x86
 b3_str_114_new_size equ strlen(b3_str_114)
 
@@ -466,107 +466,107 @@ b3_str_117 equ "SHAMPOO EX: Hair Upgrade! Extreme Shampoo that makes your Hair W
 b3_str_117_max_size equ 0x86
 b3_str_117_new_size equ strlen(b3_str_117)
 
-b3_str_118 equ "EXIT the shop!"
+b3_str_118 equ "SAIR da loja!"
 b3_str_118_max_size equ 0x86
 b3_str_118_new_size equ strlen(b3_str_118)
 
-b3_str_119 equ "EXIT the shop!"
+b3_str_119 equ "SAIR da loja!"
 b3_str_119_max_size equ 0x86
 b3_str_119_new_size equ strlen(b3_str_119)
 
-b3_str_120 equ "EXIT the shop!"
+b3_str_120 equ "SAIR da loja!"
 b3_str_120_max_size equ 0x86
 b3_str_120_new_size equ strlen(b3_str_120)
 
-b3_str_121 equ "OUT"
+b3_str_121 equ "ESG"
 b3_str_121_max_size equ 0x86
 b3_str_121_new_size equ strlen(b3_str_121)
 
-b3_str_122 equ "OUT"
+b3_str_122 equ "ESG"
 b3_str_122_max_size equ 0x86
 b3_str_122_new_size equ strlen(b3_str_122)
 
-b3_str_123 equ "OUT"
+b3_str_123 equ "ESG"
 b3_str_123_max_size equ 0x89
 b3_str_123_new_size equ strlen(b3_str_123)
 
-b3_str_124 equ "SCUTTLE TOWN "
+b3_str_124 equ "Mexericapolis  "
 b3_str_124_max_size equ 0x86
 b3_str_124_new_size equ strlen(b3_str_124)
 
-b3_str_125 equ "Shantae's home town! A place to shop and get hints!"
+b3_str_125 equ "A cidade natal da Shantae! Lugar de fazer compras e pegar dicas!"
 b3_str_125_max_size equ 0x86
 b3_str_125_new_size equ strlen(b3_str_125)
 
-b3_str_126 equ "RISKY CHASM  "
+b3_str_126 equ "Abismo da Bota "
 b3_str_126_max_size equ 0x86
 b3_str_126_new_size equ strlen(b3_str_126)
 
-b3_str_127 equ "What a mysterious cave! Risky Boots is up to something..."
+b3_str_127 equ "Que caverna misteriosa! A Bota Negra tá tramando algo..."
 b3_str_127_max_size equ 0x86
 b3_str_127_new_size equ strlen(b3_str_127)
 
-b3_str_128 equ "MINING TOWN  "
+b3_str_128 equ "Vila da Mina   "
 b3_str_128_max_size equ 0x86
 b3_str_128_new_size equ strlen(b3_str_128)
 
-b3_str_129 equ "Home of hard working reputable reptiles!"
+b3_str_129 equ "Lar de répteis muito trabalhadores que não vieram trabalhar hoje!"
 b3_str_129_max_size equ 0x86
 b3_str_129_new_size equ strlen(b3_str_129)
 
-b3_str_130 equ "ORC ORCHARD  "
+b3_str_130 equ "Horto dos Ogros"
 b3_str_130_max_size equ 0x86
 b3_str_130_new_size equ strlen(b3_str_130)
 
-b3_str_131 equ "An enchanted wood filled with mazes and monsters!"
+b3_str_131 equ "Uma selva encantada cheia de labirintos e monstros!"
 b3_str_131_max_size equ 0x86
 b3_str_131_new_size equ strlen(b3_str_131)
 
-b3_str_132 equ "LAVA TOWN    "
+b3_str_132 equ "Vila da Lava   "
 b3_str_132_max_size equ 0x86
 b3_str_132_new_size equ strlen(b3_str_132)
 
-b3_str_133 equ "Sizzle and sweat like you won't soon forget!"
+b3_str_133 equ "Esquenta e sua, que essa vai ficar na tua!"
 b3_str_133_max_size equ 0x86
 b3_str_133_new_size equ strlen(b3_str_133)
 
-b3_str_134 equ "MUSEUM TOWN   "
+b3_str_134 equ "Vila do Museu  "
 b3_str_134_max_size equ 0x86
 b3_str_134_new_size equ strlen(b3_str_134)
 
-b3_str_135 equ "Prim and proper, for distinguished patrons only. Look with your eyes, not with your hands!"
+b3_str_135 equ "Pudico e formal, apenas para clientes distintos. Olhe com os olhos, não com as mãos!"
 b3_str_135_max_size equ 0x86
 b3_str_135_new_size equ strlen(b3_str_135)
 
-b3_str_136 equ "NAGA CLIFFS  "
+b3_str_136 equ "Penha da Nagas"
 b3_str_136_max_size equ 0x86
 b3_str_136_new_size equ strlen(b3_str_136)
 
-b3_str_137 equ "A mixed up wasteland ripe with secrets!"
+b3_str_137 equ "Uma terra devastada, confusa de navegar mas cheia de segredos!"
 b3_str_137_max_size equ 0x86
 b3_str_137_new_size equ strlen(b3_str_137)
 
-b3_str_138 equ "BOG TOWN     "
+b3_str_138 equ "Vila do Brejo  "
 b3_str_138_max_size equ 0x86
 b3_str_138_new_size equ strlen(b3_str_138)
 
-b3_str_139 equ "Bug birthing ponds, babysitters wanted!"
+b3_str_139 equ "Fossos de desova de insetos. Procura-se babás gasosas!"
 b3_str_139_max_size equ 0x86
 b3_str_139_new_size equ strlen(b3_str_139)
 
-b3_str_140 equ "ROYAL PALACE"
+b3_str_140 equ "Palácio Real   "
 b3_str_140_max_size equ 0x86
 b3_str_140_new_size equ strlen(b3_str_140)
 
-b3_str_141 equ "The Sturdy Stronghold of Sequin Land's Sultana!"
+b3_str_141 equ "O Possante Palácio da Sultana de Lantejoulândia!"
 b3_str_141_max_size equ 0x86
 b3_str_141_new_size equ strlen(b3_str_141)
 
-b3_str_142 equ "HAUNTED GROVE"
+b3_str_142 equ "Mata Assombrada"
 b3_str_142_max_size equ 0x86
 b3_str_142_new_size equ strlen(b3_str_142)
 
-b3_str_143 equ "A sprawling and sinister place, home to an abandoned prison."
+b3_str_143 equ "Um lugar extenso e sinistro, lar de uma prisão abandonada."
 b3_str_143_max_size equ 0x1A6
 b3_str_143_new_size equ strlen(b3_str_143)
 
@@ -1182,127 +1182,127 @@ b3_str_296 equ "*THANKS FOR PLAYING!"
 b3_str_296_max_size equ 0x1F
 b3_str_296_new_size equ strlen(b3_str_296)
 
-b3_str_297 equ "Sequin Land!"
+b3_str_297 equ "Lantejoulândia!"
 b3_str_297_max_size equ 0x3F
 b3_str_297_new_size equ strlen(b3_str_297)
 
-b3_str_298 equ "A world of magic"
+b3_str_298 equ "Uma terra de magia"
 b3_str_298_max_size equ 0x3F
 b3_str_298_new_size equ strlen(b3_str_298)
 
-b3_str_299 equ "and monsters,"
+b3_str_299 equ "e monstros,"
 b3_str_299_max_size equ 0x3F
 b3_str_299_new_size equ strlen(b3_str_299)
 
-b3_str_300 equ " once protected by"
+b3_str_300 equ " uma vez protegida pelas"
 b3_str_300_max_size equ 0x3F
 b3_str_300_new_size equ strlen(b3_str_300)
 
-b3_str_301 equ "Guardian Genies,"
+b3_str_301 equ "Gênias Guardiãs,"
 b3_str_301_max_size equ 0x3F
 b3_str_301_new_size equ strlen(b3_str_301)
 
-b3_str_302 equ "now defended by their"
+b3_str_302 equ " agora defendida por sua"
 b3_str_302_max_size equ 0x3F
 b3_str_302_new_size equ strlen(b3_str_302)
 
-b3_str_303 equ "half-human, half-genie"
+b3_str_303 equ "prole meio-humana,"
 b3_str_303_max_size equ 0x3F
 b3_str_303_new_size equ strlen(b3_str_303)
 
-b3_str_304 equ "offspring."
+b3_str_304 equ "meio-gênia."
 b3_str_304_max_size equ 0x7F
 b3_str_304_new_size equ strlen(b3_str_304)
 
-b3_str_305 equ "The Genies"
+b3_str_305 equ "As Gênias podem"
 b3_str_305_max_size equ 0x3F
 b3_str_305_new_size equ strlen(b3_str_305)
 
-b3_str_306 equ "may be gone, but"
+b3_str_306 equ "ter desaparecido, mas as"
 b3_str_306_max_size equ 0x3F
 b3_str_306_new_size equ strlen(b3_str_306)
 
-b3_str_307 equ "the Half-Genies battle on!"
+b3_str_307 equ " Meia-Gênias seguem a lutar!"
 b3_str_307_max_size equ 0x13F
 b3_str_307_new_size equ strlen(b3_str_307)
 
-b3_str_308 equ "Newest among these"
+b3_str_308 equ "A mais nova delas"
 b3_str_308_max_size equ 0x3F
 b3_str_308_new_size equ strlen(b3_str_308)
 
-b3_str_309 equ "is Shantae,"
+b3_str_309 equ "é a Shantae,"
 b3_str_309_max_size equ 0x3F
 b3_str_309_new_size equ strlen(b3_str_309)
 
-b3_str_310 equ "the Half-Genie hero"
+b3_str_310 equ "a heroína Meia-Gênia"
 b3_str_310_max_size equ 0x3F
 b3_str_310_new_size equ strlen(b3_str_310)
 
-b3_str_311 equ "of Scuttle Town."
+b3_str_311 equ " de Mexericapolis."
 b3_str_311_max_size equ 0x13F
 b3_str_311_new_size equ strlen(b3_str_311)
 
-b3_str_312 equ "Inexperienced but"
+b3_str_312 equ "Inexperiente porém"
 b3_str_312_max_size equ 0x3F
 b3_str_312_new_size equ strlen(b3_str_312)
 
-b3_str_313 equ "determined, Shantae uses"
+b3_str_313 equ "determinada, Shantae usa"
 b3_str_313_max_size equ 0x3F
 b3_str_313_new_size equ strlen(b3_str_313)
 
-b3_str_314 equ " her hair whip powers and"
+b3_str_314 equ "seus poderes de cabeladas"
 b3_str_314_max_size equ 0x3F
 b3_str_314_new_size equ strlen(b3_str_314)
 
-b3_str_315 equ "belly dance magic to"
+b3_str_315 equ "e dança do ventre para"
 b3_str_315_max_size equ 0x3F
 b3_str_315_new_size equ strlen(b3_str_315)
 
-b3_str_316 equ "save the day from evil"
+b3_str_316 equ "salvar o dia das ameaças"
 b3_str_316_max_size equ 0x3F
 b3_str_316_new_size equ strlen(b3_str_316)
 
-b3_str_317 equ "threats - with the help of"
+b3_str_317 equ "malignas - com a ajuda"
 b3_str_317_max_size equ 0x3F
 b3_str_317_new_size equ strlen(b3_str_317)
 
-b3_str_318 equ "her friends,"
+b3_str_318 equ "de seu amigos,"
 b3_str_318_max_size equ 0x3F
 b3_str_318_new_size equ strlen(b3_str_318)
 
-b3_str_319 equ "of course!"
+b3_str_319 equ "é claro!"
 b3_str_319_max_size equ 0x35F
 b3_str_319_new_size equ strlen(b3_str_319)
 
-b3_str_320 equ "Unfortunately for our hero,"
+b3_str_320 equ "Infelizmente para a nossa"
 b3_str_320_max_size equ 0x3F
 b3_str_320_new_size equ strlen(b3_str_320)
 
-b3_str_321 equ "the nefarious pirate,"
+b3_str_321 equ "heroína, a pirata nefasta,"
 b3_str_321_max_size equ 0x3F
 b3_str_321_new_size equ strlen(b3_str_321)
 
-b3_str_322 equ "Risky Boots,"
+b3_str_322 equ "Bota Negra, dessa vez"
 b3_str_322_max_size equ 0x3F
 b3_str_322_new_size equ strlen(b3_str_322)
 
-b3_str_323 equ "has devised a dastardly"
+b3_str_323 equ "bolou um novo plano super"
 b3_str_323_max_size equ 0x3F
 b3_str_323_new_size equ strlen(b3_str_323)
 
-b3_str_324 equ "new scheme to defeat"
+b3_str_324 equ "vigarista para derrotar"
 b3_str_324_max_size equ 0x3F
 b3_str_324_new_size equ strlen(b3_str_324)
 
-b3_str_325 equ "Shantae, and conquer"
+b3_str_325 equ "a Shantae, e conquistar"
 b3_str_325_max_size equ 0x3F
 b3_str_325_new_size equ strlen(b3_str_325)
 
-b3_str_326 equ "Sequin Land"
+b3_str_326 equ "Lantejoulândia de uma vez"
 b3_str_326_max_size equ 0x3F
 b3_str_326_new_size equ strlen(b3_str_326)
 
-b3_str_327 equ "once and for all..."
+b3_str_327 equ "por todas..."
 b3_str_327_max_size equ 0x3DF
 b3_str_327_new_size equ strlen(b3_str_327)
 
