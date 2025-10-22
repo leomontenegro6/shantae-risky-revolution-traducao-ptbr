@@ -218,11 +218,11 @@ b3_str_055 equ "Xampu.........."
 b3_str_055_max_size equ 0x86
 b3_str_055_new_size equ strlen(b3_str_055)
 
-b3_str_056 equ "Xampu NV2......"
+b3_str_056 equ "Xampu F........"
 b3_str_056_max_size equ 0x86
 b3_str_056_new_size equ strlen(b3_str_056)
 
-b3_str_057 equ "Xampu NV3......"
+b3_str_057 equ "Xampu EF......."
 b3_str_057_max_size equ 0x86
 b3_str_057_new_size equ strlen(b3_str_057)
 
@@ -454,15 +454,15 @@ b3_str_114 equ "POUPA-PM: Uma turbinada nas magias! Corta consumo de magia pela 
 b3_str_114_max_size equ 0x86
 b3_str_114_new_size equ strlen(b3_str_114)
 
-b3_str_115 equ "SHAMPOO: Hair Upgrade! Silky Shampoo that makes your Hair Whip faster and harder!"
+b3_str_115 equ "XAMPU: Cabelo turbinado! Xumpu sedoso que dá mais força e movimento ao seu cabelo!"
 b3_str_115_max_size equ 0x86
 b3_str_115_new_size equ strlen(b3_str_115)
 
-b3_str_116 equ "SHAMPOO DX: Hair Upgrade! Deluxe Shampoo that makes your Hair Whip faster and harder!"
+b3_str_116 equ "XAMPU F: Cabelo turbinado forte! Mais brilho, mais movimento, mais força!"
 b3_str_116_max_size equ 0x86
 b3_str_116_new_size equ strlen(b3_str_116)
 
-b3_str_117 equ "SHAMPOO EX: Hair Upgrade! Extreme Shampoo that makes your Hair Whip faster and harder!"
+b3_str_117 equ "XAMPU EF: Cabelo turbinado extra forte! Movimento, força e atitude em cada fio!"
 b3_str_117_max_size equ 0x86
 b3_str_117_new_size equ strlen(b3_str_117)
 
@@ -574,15 +574,15 @@ b3_str_144 equ "*SHANTAE ADVANCE:"
 b3_str_144_max_size equ 0x3F
 b3_str_144_new_size equ strlen(b3_str_144)
 
-b3_str_145 equ "*RISKY REVOLUTION"
+b3_str_145 equ "*REVOLUÇÃO DA BOTA NEGRA"
 b3_str_145_max_size equ 0x19F
 b3_str_145_new_size equ strlen(b3_str_145)
 
-b3_str_146 equ "*DEVELOPED BY WAYFORWARD"
+b3_str_146 equ "*DESENVOLVIDO PELA WAYFORWARD"
 b3_str_146_max_size equ 0x19F
 b3_str_146_new_size equ strlen(b3_str_146)
 
-b3_str_147 equ "*TYRANNICAL OVERLORD"
+b3_str_147 equ "*SUSERANO TIRÂNICO"
 b3_str_147_max_size equ 0x3F
 b3_str_147_new_size equ strlen(b3_str_147)
 
@@ -590,7 +590,7 @@ b3_str_148 equ "VOLDI WAY"
 b3_str_148_max_size equ 0xDF
 b3_str_148_new_size equ strlen(b3_str_148)
 
-b3_str_149 equ "*EXECUTIVE PRODUCER"
+b3_str_149 equ "*PRODUTOR EXECUTIVO"
 b3_str_149_max_size equ 0x3F
 b3_str_149_new_size equ strlen(b3_str_149)
 
@@ -598,19 +598,19 @@ b3_str_150 equ "CHRIS WATSON"
 b3_str_150_max_size equ 0xDF
 b3_str_150_new_size equ strlen(b3_str_150)
 
-b3_str_151 equ "*SHANTAE CREATED BY"
+b3_str_151 equ "*SHANTAE CRIADA POR"
 b3_str_151_max_size equ 0x3F
 b3_str_151_new_size equ strlen(b3_str_151)
 
-b3_str_152 equ "MATT AND ERIN BOZON"
+b3_str_152 equ "MATT E ERIN BOZON"
 b3_str_152_max_size equ 0xDF
 b3_str_152_new_size equ strlen(b3_str_152)
 
-b3_str_153 equ "*PRODUCER, DIRECTOR"
+b3_str_153 equ "*PRODUÇÃO, DIREÇÃO"
 b3_str_153_max_size equ 0x3F
 b3_str_153_new_size equ strlen(b3_str_153)
 
-b3_str_154 equ "*ART, DESIGN, WRITING"
+b3_str_154 equ "*ARTE, DESIGN E ESCRITA"
 b3_str_154_max_size equ 0x3F
 b3_str_154_new_size equ strlen(b3_str_154)
 
@@ -618,7 +618,7 @@ b3_str_155 equ "MATT BOZON"
 b3_str_155_max_size equ 0xDF
 b3_str_155_new_size equ strlen(b3_str_155)
 
-b3_str_156 equ "*LEAD PROGRAMMER"
+b3_str_156 equ "*PROGRAMADOR CHEFE"
 b3_str_156_max_size equ 0x3F
 b3_str_156_new_size equ strlen(b3_str_156)
 
@@ -626,7 +626,7 @@ b3_str_157 equ "MICHAEL STRAGEY"
 b3_str_157_max_size equ 0xDF
 b3_str_157_new_size equ strlen(b3_str_157)
 
-b3_str_158 equ "*BATTLE MODE PROGRAMMER"
+b3_str_158 equ "*PROGRAMADOR DO MODO BATALHA"
 b3_str_158_max_size equ 0x3F
 b3_str_158_new_size equ strlen(b3_str_158)
 
@@ -634,7 +634,7 @@ b3_str_159 equ "JIMMY HUEY"
 b3_str_159_max_size equ 0xDF
 b3_str_159_new_size equ strlen(b3_str_159)
 
-b3_str_160 equ "*ANIMATORS"
+b3_str_160 equ "*ANIMADORES"
 b3_str_160_max_size equ 0x3F
 b3_str_160_new_size equ strlen(b3_str_160)
 
@@ -662,7 +662,7 @@ b3_str_166 equ "MARC GOMEZ"
 b3_str_166_max_size equ 0xDF
 b3_str_166_new_size equ strlen(b3_str_166)
 
-b3_str_167 equ "*ILLUSTRATIONS"
+b3_str_167 equ "*ILUSTRAÇÕES"
 b3_str_167_max_size equ 0x3F
 b3_str_167_new_size equ strlen(b3_str_167)
 
@@ -670,7 +670,7 @@ b3_str_168 equ "SHAUN HEALEY"
 b3_str_168_max_size equ 0xDF
 b3_str_168_new_size equ strlen(b3_str_168)
 
-b3_str_169 equ "*ADDITIONAL ILLUSTRATIONS"
+b3_str_169 equ "*ILUSTRAÇÔES ADICIONAIS"
 b3_str_169_max_size equ 0x3F
 b3_str_169_new_size equ strlen(b3_str_169)
 
@@ -678,7 +678,7 @@ b3_str_170 equ "MANUEL MOLOHUA"
 b3_str_170_max_size equ 0xDF
 b3_str_170_new_size equ strlen(b3_str_170)
 
-b3_str_171 equ "*AUDIO DESIGNER, COMPOSER"
+b3_str_171 equ "*DESIGN E COMPOSIÇÃO DE ÁUDIO"
 b3_str_171_max_size equ 0x3F
 b3_str_171_new_size equ strlen(b3_str_171)
 
@@ -686,7 +686,7 @@ b3_str_172 equ "MADDIE LIM"
 b3_str_172_max_size equ 0xDF
 b3_str_172_new_size equ strlen(b3_str_172)
 
-b3_str_173 equ "*VOICE ACTOR"
+b3_str_173 equ "*ATRIZ DE VOZ"
 b3_str_173_max_size equ 0x3F
 b3_str_173_new_size equ strlen(b3_str_173)
 
@@ -694,7 +694,7 @@ b3_str_174 equ "MEGAN GLASER"
 b3_str_174_max_size equ 0xDF
 b3_str_174_new_size equ strlen(b3_str_174)
 
-b3_str_175 equ "*CONTRIBUTORS"
+b3_str_175 equ "*CONTRIBUIDORES"
 b3_str_175_max_size equ 0x3F
 b3_str_175_new_size equ strlen(b3_str_175)
 
@@ -762,7 +762,7 @@ b3_str_191 equ "RANDY VAN DER VLAG"
 b3_str_191_max_size equ 0xDF
 b3_str_191_new_size equ strlen(b3_str_191)
 
-b3_str_192 equ "*QUALITY ASSURANCE MANAGER"
+b3_str_192 equ "*GERENTE DE QUALIDADE"
 b3_str_192_max_size equ 0x3F
 b3_str_192_new_size equ strlen(b3_str_192)
 
@@ -770,7 +770,7 @@ b3_str_193 equ "JEREMY PRYER"
 b3_str_193_max_size equ 0xDF
 b3_str_193_new_size equ strlen(b3_str_193)
 
-b3_str_194 equ "*QUALITY ASSURANCE LEAD"
+b3_str_194 equ "*LÍDER DE QUALIDADE"
 b3_str_194_max_size equ 0x3F
 b3_str_194_new_size equ strlen(b3_str_194)
 
@@ -778,7 +778,7 @@ b3_str_195 equ "KIM DELISLE"
 b3_str_195_max_size equ 0xDF
 b3_str_195_new_size equ strlen(b3_str_195)
 
-b3_str_196 equ "*QA TESTERS"
+b3_str_196 equ "*TESTADORES DE QUALIDADE"
 b3_str_196_max_size equ 0x3F
 b3_str_196_new_size equ strlen(b3_str_196)
 
@@ -810,15 +810,15 @@ b3_str_203 equ "GEORGE BODEN"
 b3_str_203_max_size equ 0x17F
 b3_str_203_new_size equ strlen(b3_str_203)
 
-b3_str_204 equ "*PUBLISHING AND MARKETING"
+b3_str_204 equ "*DISTRIBUIÇÃO E MARKETING"
 b3_str_204_max_size equ 0xDF
 b3_str_204_new_size equ strlen(b3_str_204)
 
-b3_str_205 equ "*DIRECTOR OF BIZDEV"
+b3_str_205 equ "*DIRETOR DE NEGÓCIOS"
 b3_str_205_max_size equ 0x3F
 b3_str_205_new_size equ strlen(b3_str_205)
 
-b3_str_206 equ "*AND PUBLISHING"
+b3_str_206 equ "*E DISTRIBUIÇÃO"
 b3_str_206_max_size equ 0x3F
 b3_str_206_new_size equ strlen(b3_str_206)
 
@@ -826,7 +826,7 @@ b3_str_207 equ "ADAM TIERNEY"
 b3_str_207_max_size equ 0xDF
 b3_str_207_new_size equ strlen(b3_str_207)
 
-b3_str_208 equ "*COMMUNICATIONS OFFICER"
+b3_str_208 equ "*CHEFE DE COMUNICAÇÃO"
 b3_str_208_max_size equ 0x3F
 b3_str_208_new_size equ strlen(b3_str_208)
 
@@ -834,7 +834,7 @@ b3_str_209 equ "CHRIS HOFFMAN"
 b3_str_209_max_size equ 0xDF
 b3_str_209_new_size equ strlen(b3_str_209)
 
-b3_str_210 equ "*MARKETING MANAGER"
+b3_str_210 equ "*DIRETOR DE MARKETING"
 b3_str_210_max_size equ 0x3F
 b3_str_210_new_size equ strlen(b3_str_210)
 
@@ -842,7 +842,7 @@ b3_str_211 equ "AARON THORNTON"
 b3_str_211_max_size equ 0xDF
 b3_str_211_new_size equ strlen(b3_str_211)
 
-b3_str_212 equ "*PUBLISHING COORDINATOR"
+b3_str_212 equ "*COORDENADOR DE DISTRIBUIÇÃO"
 b3_str_212_max_size equ 0x3F
 b3_str_212_new_size equ strlen(b3_str_212)
 
@@ -850,11 +850,11 @@ b3_str_213 equ "CHRIS ANDERSON"
 b3_str_213_max_size equ 0x19F
 b3_str_213_new_size equ strlen(b3_str_213)
 
-b3_str_214 equ "*OPERATIONS"
+b3_str_214 equ "*OPERAÇÕES"
 b3_str_214_max_size equ 0xDF
 b3_str_214_new_size equ strlen(b3_str_214)
 
-b3_str_215 equ "*SYSTEMS ADMINS"
+b3_str_215 equ "*ADMINISTRADORES DE SISTEMAS"
 b3_str_215_max_size equ 0x3F
 b3_str_215_new_size equ strlen(b3_str_215)
 
@@ -866,7 +866,7 @@ b3_str_217 equ "MICHAEL BURTON"
 b3_str_217_max_size equ 0xDF
 b3_str_217_new_size equ strlen(b3_str_217)
 
-b3_str_218 equ "*ACCOUNTANT"
+b3_str_218 equ "*CONTABILIDADE"
 b3_str_218_max_size equ 0x3F
 b3_str_218_new_size equ strlen(b3_str_218)
 
@@ -874,59 +874,67 @@ b3_str_219 equ "CHRISTINE ALANIS"
 b3_str_219_max_size equ 0x19F
 b3_str_219_new_size equ strlen(b3_str_219)
 
-b3_str_220 equ "*SPECIAL THANKS"
+b3_str_220 equ "*AGRADECIMENTOS ESPECIAIS"
 b3_str_220_max_size equ 0x3F
 b3_str_220_new_size equ strlen(b3_str_220)
 
-b3_str_221 equ "KAREN, AUDREY,"
+b3_str_221 equ "KAREN, AUDREY, MICHAEL STRAGEY"
 b3_str_221_max_size equ 0x3F
 b3_str_221_new_size equ strlen(b3_str_221)
 
-b3_str_222 equ "AND MICHAEL STRAGEY"
+b3_str_222 equ "JAZMIN PADILLA, AMY, DJANGO"
 b3_str_222_max_size equ 0x3F
 b3_str_222_new_size equ strlen(b3_str_222)
 
-b3_str_223 equ "JAZMIN PADILLA"
+b3_str_223 equ "NINA TIERNEY, CARLA, KATYA"
 b3_str_223_max_size equ 0x3F
 b3_str_223_new_size equ strlen(b3_str_223)
 
-b3_str_224 equ "AMY, DJANGO,"
+b3_str_224 equ "ALEXANDER WAY, BRIN BOZON"
 b3_str_224_max_size equ 0x3F
 b3_str_224_new_size equ strlen(b3_str_224)
 
-b3_str_225 equ "AND NINA TIERNEY"
+b3_str_225 equ "ADRIANA, AMELIA ROSE WATSON"
 b3_str_225_max_size equ 0x3F
 b3_str_225_new_size equ strlen(b3_str_225)
 
-b3_str_226 equ "CARLA, KATYA,"
+b3_str_226 equ "E TODA A EQUIPE DA WAYFORWARD"
 b3_str_226_max_size equ 0x3F
 b3_str_226_new_size equ strlen(b3_str_226)
 
-b3_str_227 equ "AND ALEXANDER WAY"
+b3_str_227 equ " "
 b3_str_227_max_size equ 0x3F
 b3_str_227_new_size equ strlen(b3_str_227)
 
-b3_str_228 equ "BRIN BOZON"
+b3_str_228 equ "*TRADUÇÃO PT-BR"
 b3_str_228_max_size equ 0x3F
 b3_str_228_new_size equ strlen(b3_str_228)
 
-b3_str_229 equ "ADRIANA AND"
+b3_str_229 equ "SOLID ONE, MAGALL, SLITER"
 b3_str_229_max_size equ 0x3F
 b3_str_229_new_size equ strlen(b3_str_229)
 
-b3_str_230 equ "AMELIA ROSE WATSON"
+b3_str_230 equ "AJKMETIUK, MYSTERIOSO, BRENO"
 b3_str_230_max_size equ 0xDF
 b3_str_230_new_size equ strlen(b3_str_230)
 
-b3_str_231 equ "AND"
+b3_str_230a equ "TAIHEN, NATHAN, MJAY, DAMIN72"
+b3_str_230a_max_size equ 0x3F
+b3_str_230a_new_size equ strlen(b3_str_230a)
+
+b3_str_230b equ "MATHEUSITO"
+b3_str_230b_max_size equ 0x1DF
+b3_str_230b_new_size equ strlen(b3_str_230b)
+
+b3_str_231 equ "                    "
 b3_str_231_max_size equ 0x3F
 b3_str_231_new_size equ strlen(b3_str_231)
 
-b3_str_232 equ "ALL WAYFORWARD STAFF"
+b3_str_232 equ "                    "
 b3_str_232_max_size equ 0x1DF
 b3_str_232_new_size equ strlen(b3_str_232)
 
-b3_str_233 equ "*PUBLISHED BY"
+b3_str_233 equ "*DISTRIBUÍDO PELA"
 b3_str_233_max_size equ 0x3F
 b3_str_233_new_size equ strlen(b3_str_233)
 
@@ -934,7 +942,7 @@ b3_str_234 equ "*LIMITED RUN GAMES"
 b3_str_234_max_size equ 0x19F
 b3_str_234_new_size equ strlen(b3_str_234)
 
-b3_str_235 equ "*CHIEF EXECUTIVE OFFICER"
+b3_str_235 equ "*DIRETOR EXECUTIVO"
 b3_str_235_max_size equ 0x3F
 b3_str_235_new_size equ strlen(b3_str_235)
 
@@ -942,7 +950,7 @@ b3_str_236 equ "JOSH FAIRHURST"
 b3_str_236_max_size equ 0xDF
 b3_str_236_new_size equ strlen(b3_str_236)
 
-b3_str_237 equ "*CHIEF OPERATING OFFICER"
+b3_str_237 equ "*DIRETOR DE OPERAÇÕES"
 b3_str_237_max_size equ 0x3F
 b3_str_237_new_size equ strlen(b3_str_237)
 
@@ -950,11 +958,11 @@ b3_str_238 equ "NIC ASHFORD"
 b3_str_238_max_size equ 0xDF
 b3_str_238_new_size equ strlen(b3_str_238)
 
-b3_str_239 equ "*CHIEF HUMAN RESOURCES"
+b3_str_239 equ "*DIRETOR DE RECURSOS"
 b3_str_239_max_size equ 0x3F
 b3_str_239_new_size equ strlen(b3_str_239)
 
-b3_str_240 equ "*OFFICER"
+b3_str_240 equ "*HUMANOS"
 b3_str_240_max_size equ 0x3F
 b3_str_240_new_size equ strlen(b3_str_240)
 
@@ -962,7 +970,7 @@ b3_str_241 equ "KRISTEN VISLOCKY"
 b3_str_241_max_size equ 0xDF
 b3_str_241_new_size equ strlen(b3_str_241)
 
-b3_str_242 equ "*DIRECTOR OF LICENSING"
+b3_str_242 equ "*DIRETOR DE LICENCIAMENTO"
 b3_str_242_max_size equ 0x3F
 b3_str_242_new_size equ strlen(b3_str_242)
 
@@ -970,7 +978,7 @@ b3_str_243 equ "JOEY GARTNER"
 b3_str_243_max_size equ 0xDF
 b3_str_243_new_size equ strlen(b3_str_243)
 
-b3_str_244 equ "*CHIEF FINANCIAL OFFICER"
+b3_str_244 equ "*DIRETOR FINANCEIRO"
 b3_str_244_max_size equ 0x3F
 b3_str_244_new_size equ strlen(b3_str_244)
 
@@ -978,7 +986,7 @@ b3_str_245 equ "BRENDAN MADIGAN"
 b3_str_245_max_size equ 0xDF
 b3_str_245_new_size equ strlen(b3_str_245)
 
-b3_str_246 equ "*CHIEF CREATIVE OFFICER"
+b3_str_246 equ "*DIRETOR DE CRIAÇÃO"
 b3_str_246_max_size equ 0x3F
 b3_str_246_new_size equ strlen(b3_str_246)
 
@@ -986,7 +994,7 @@ b3_str_247 equ "SHADIE EL-HADDAD"
 b3_str_247_max_size equ 0xDF
 b3_str_247_new_size equ strlen(b3_str_247)
 
-b3_str_248 equ "*BUSINESS DEVELOPMENT"
+b3_str_248 equ "*DESENVOLVIMENTO DE NEGÓCIOS"
 b3_str_248_max_size equ 0x3F
 b3_str_248_new_size equ strlen(b3_str_248)
 
@@ -994,7 +1002,7 @@ b3_str_249 equ "JONATHAN POLAN"
 b3_str_249_max_size equ 0xDF
 b3_str_249_new_size equ strlen(b3_str_249)
 
-b3_str_250 equ "*ART DIRECTOR"
+b3_str_250 equ "*DIREÇÃO DE ARTE"
 b3_str_250_max_size equ 0x3F
 b3_str_250_new_size equ strlen(b3_str_250)
 
@@ -1002,7 +1010,7 @@ b3_str_251 equ "RONI MCCULLOUGH"
 b3_str_251_max_size equ 0xDF
 b3_str_251_new_size equ strlen(b3_str_251)
 
-b3_str_252 equ "*ASSISTANT ART DIRECTOR"
+b3_str_252 equ "*ASSISTENTE DE DIREÇÃO DE ARTE"
 b3_str_252_max_size equ 0x3F
 b3_str_252_new_size equ strlen(b3_str_252)
 
@@ -1010,11 +1018,11 @@ b3_str_253 equ "JESSE AUGUSTINE"
 b3_str_253_max_size equ 0xDF
 b3_str_253_new_size equ strlen(b3_str_253)
 
-b3_str_254 equ "*PACKAGING AND"
+b3_str_254 equ "*DESIGNERS DE"
 b3_str_254_max_size equ 0x3F
 b3_str_254_new_size equ strlen(b3_str_254)
 
-b3_str_255 equ "*PRODUCT DESIGNERS"
+b3_str_255 equ "*EMBALAGENS E PRODUTOS"
 b3_str_255_max_size equ 0x3F
 b3_str_255_new_size equ strlen(b3_str_255)
 
@@ -1038,11 +1046,11 @@ b3_str_260 equ "KENNY ADAMS"
 b3_str_260_max_size equ 0xDF
 b3_str_260_new_size equ strlen(b3_str_260)
 
-b3_str_261 equ "*PHYSICAL GOODS"
+b3_str_261 equ "*BENS FÍSICOS"
 b3_str_261_max_size equ 0x3F
 b3_str_261_new_size equ strlen(b3_str_261)
 
-b3_str_262 equ "*PRODUCTION DIRECTOR"
+b3_str_262 equ "*DIRETOR DE PRODUÇÃO"
 b3_str_262_max_size equ 0x3F
 b3_str_262_new_size equ strlen(b3_str_262)
 
@@ -1050,7 +1058,7 @@ b3_str_263 equ "PATRICK BRIOLA"
 b3_str_263_max_size equ 0xDF
 b3_str_263_new_size equ strlen(b3_str_263)
 
-b3_str_264 equ "*PHYSICAL GOODS PRODUCERS"
+b3_str_264 equ "*PRODUTORES DE BENS FÍSICOS"
 b3_str_264_max_size equ 0x3F
 b3_str_264_new_size equ strlen(b3_str_264)
 
@@ -1078,7 +1086,7 @@ b3_str_270 equ "MELISSA MCNAMEE"
 b3_str_270_max_size equ 0xDF
 b3_str_270_new_size equ strlen(b3_str_270)
 
-b3_str_271 equ "*DEVELOPMENT DIRECTOR"
+b3_str_271 equ "*DIRETOR DE DESENVOLVIMENTO"
 b3_str_271_max_size equ 0x3F
 b3_str_271_new_size equ strlen(b3_str_271)
 
@@ -1086,11 +1094,11 @@ b3_str_272 equ "JOE MODZELESKI"
 b3_str_272_max_size equ 0xDF
 b3_str_272_new_size equ strlen(b3_str_272)
 
-b3_str_273 equ "*DEVELOPER SUPPORT"
+b3_str_273 equ "*SUPORTE DE DESENVOLVIMENTO"
 b3_str_273_max_size equ 0x3F
 b3_str_273_new_size equ strlen(b3_str_273)
 
-b3_str_274 equ "*AND SUBMISSIONS"
+b3_str_274 equ "*E SUBMISSÕES"
 b3_str_274_max_size equ 0x3F
 b3_str_274_new_size equ strlen(b3_str_274)
 
@@ -1098,7 +1106,7 @@ b3_str_275 equ "PAUL VARNEY"
 b3_str_275_max_size equ 0xDF
 b3_str_275_new_size equ strlen(b3_str_275)
 
-b3_str_276 equ "*SUBMISSIONS AND RATINGS"
+b3_str_276 equ "*SUBMISSÕES E CLASSIFICAÇÕES"
 b3_str_276_max_size equ 0x3F
 b3_str_276_new_size equ strlen(b3_str_276)
 
@@ -1110,11 +1118,11 @@ b3_str_278 equ "JUAN FLORES"
 b3_str_278_max_size equ 0xDF
 b3_str_278_new_size equ strlen(b3_str_278)
 
-b3_str_279 equ "*VP OF MARKETING AND"
+b3_str_279 equ "*VP DE MARKETING"
 b3_str_279_max_size equ 0x3F
 b3_str_279_new_size equ strlen(b3_str_279)
 
-b3_str_280 equ "*DIGITAL PUBLISHING"
+b3_str_280 equ "*E PUBLICAÇÃO DIGITAL"
 b3_str_280_max_size equ 0x3F
 b3_str_280_new_size equ strlen(b3_str_280)
 
@@ -1122,11 +1130,11 @@ b3_str_281 equ "ALENA ALAMBEIGI"
 b3_str_281_max_size equ 0xDF
 b3_str_281_new_size equ strlen(b3_str_281)
 
-b3_str_282 equ "*SR. MANAGER OF"
+b3_str_282 equ "*GERENTE SÊNIOR"
 b3_str_282_max_size equ 0x3F
 b3_str_282_new_size equ strlen(b3_str_282)
 
-b3_str_283 equ "*DIGITAL PUBLISHING"
+b3_str_283 equ "*DE PUBLICAÇÂO DIGITAL"
 b3_str_283_max_size equ 0x3F
 b3_str_283_new_size equ strlen(b3_str_283)
 
@@ -1134,7 +1142,7 @@ b3_str_284 equ "JARED PETTY"
 b3_str_284_max_size equ 0xDF
 b3_str_284_new_size equ strlen(b3_str_284)
 
-b3_str_285 equ "*MARKETING DIRECTOR"
+b3_str_285 equ "*DIRETOR DE MARKETING"
 b3_str_285_max_size equ 0x3F
 b3_str_285_new_size equ strlen(b3_str_285)
 
@@ -1142,7 +1150,7 @@ b3_str_286 equ "ELEANOR MITHUN"
 b3_str_286_max_size equ 0xDF
 b3_str_286_new_size equ strlen(b3_str_286)
 
-b3_str_287 equ "*WEB PRODUCER"
+b3_str_287 equ "*PRODUTOR WEB"
 b3_str_287_max_size equ 0x3F
 b3_str_287_new_size equ strlen(b3_str_287)
 
@@ -1150,7 +1158,7 @@ b3_str_288 equ "ASHE CHANDLAR"
 b3_str_288_max_size equ 0xDF
 b3_str_288_new_size equ strlen(b3_str_288)
 
-b3_str_289 equ "*MARKETING ASSOCIATE"
+b3_str_289 equ "*ASSOCIADO DE MARKETING"
 b3_str_289_max_size equ 0x3F
 b3_str_289_new_size equ strlen(b3_str_289)
 
@@ -1158,11 +1166,11 @@ b3_str_290 equ "NATHAN FRY"
 b3_str_290_max_size equ 0x1DF
 b3_str_290_new_size equ strlen(b3_str_290)
 
-b3_str_291 equ "*SHANTAE LICENSED BY BOZON"
+b3_str_291 equ "*SHANTAE LICENCIADA POR BOZON"
 b3_str_291_max_size equ 0xDF
 b3_str_291_new_size equ strlen(b3_str_291)
 
-b3_str_292 equ "*PRODUCER"
+b3_str_292 equ "*PRODUTORA"
 b3_str_292_max_size equ 0x3F
 b3_str_292_new_size equ strlen(b3_str_292)
 
@@ -1170,7 +1178,7 @@ b3_str_293 equ "ERIN BOZON"
 b3_str_293_max_size equ 0xDF
 b3_str_293_new_size equ strlen(b3_str_293)
 
-b3_str_294 equ "*BRAND ILLUSTRATIONS"
+b3_str_294 equ "*ILUSTRAÇÕES DA MARCA"
 b3_str_294_max_size equ 0x3F
 b3_str_294_new_size equ strlen(b3_str_294)
 
@@ -1178,7 +1186,7 @@ b3_str_295 equ "NAMI SAKURAJYOUSUI"
 b3_str_295_max_size equ 0x1DF
 b3_str_295_new_size equ strlen(b3_str_295)
 
-b3_str_296 equ "*THANKS FOR PLAYING!"
+b3_str_296 equ "*OBRIGADO POR JOGAR!"
 b3_str_296_max_size equ 0x1F
 b3_str_296_new_size equ strlen(b3_str_296)
 
@@ -2455,6 +2463,16 @@ org 0x08068284
   .string b3_str_230
 .if b3_str_230_new_size > b3_str_230_max_size
 .notice "ERRO: b3_str_230"
+.endif
+org 0x080682C4
+  .string b3_str_230a
+.if b3_str_230a_new_size > b3_str_230a_max_size
+.notice "ERRO: b3_str_230a"
+.endif
+org 0x08068304
+  .string b3_str_230b
+.if b3_str_230b_new_size > b3_str_230b_max_size
+.notice "ERRO: b3_str_230b"
 .endif
 org 0x08068364
   .string b3_str_231

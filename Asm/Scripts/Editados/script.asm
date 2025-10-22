@@ -150,7 +150,7 @@ b1_str_038 equ "PORTA-CORAÇÕES: Aumenta sua SAÚDE MÁXIMA! Consegue achar TOD
 b1_str_038_max_size equ 0x86
 b1_str_038_new_size equ strlen(b1_str_038)
 
-b1_str_039 equ "XAMPU: Um xampu xaroposo! Dá cabeladas mais rápido e mais forte!"
+b1_str_039 equ "XAMPU: Um xampu sedoso! Dá cabeladas mais rápido e mais forte!"
 b1_str_039_max_size equ 0x86
 b1_str_039_new_size equ strlen(b1_str_039)
 
