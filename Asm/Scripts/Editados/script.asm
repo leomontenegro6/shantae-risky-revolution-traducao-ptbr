@@ -1,4 +1,4 @@
-b1_str_001 equ "POÇÃO: Recupera sua saúde. Aperte o BOTÃO A para equipar!"
+b1_str_001 equ "FRASCO: Recupera sua vitalidade. Aperte o BOTÃO A para equipar!"
 b1_str_001_max_size equ 0x86
 b1_str_001_new_size equ strlen(b1_str_001)
 
@@ -6,7 +6,7 @@ b1_str_002 equ "FRASCO MÁGICO: Recupera sua magia. Aperte o BOTÃO A para equip
 b1_str_002_max_size equ 0x86
 b1_str_002_new_size equ strlen(b1_str_002)
 
-b1_str_003 equ "ELIXIR: Recupera saúde e magia. Aperte o BOTÃO A para equipar!"
+b1_str_003 equ "ELIXIR: Recupera vitalidade e magia. Aperte o BOTÃO A para equipar!"
 b1_str_003_max_size equ 0x86
 b1_str_003_new_size equ strlen(b1_str_003)
 
@@ -66,7 +66,7 @@ b1_str_017 equ "MENTINHAS: Dobra seu poder de ataque, drenando magia. Aperte o B
 b1_str_017_max_size equ 0x86
 b1_str_017_new_size equ strlen(b1_str_017)
 
-b1_str_018 equ "JARRO DA GANÂNCIA: Invoca um bicho misterioso que faz inimigos darem mais joias, drenando magia! Aperte o BOTÃO A para equipar!"
+b1_str_018 equ "JARRO GANANCIOSO: Invoca um bicho misterioso que faz inimigos darem mais joias, drenando magia! Aperte o BOTÃO A para equipar!"
 b1_str_018_max_size equ 0x86
 b1_str_018_new_size equ strlen(b1_str_018)
 
@@ -146,7 +146,7 @@ b1_str_037 equ "Você não aprendeu essa dança ainda!"
 b1_str_037_max_size equ 0x86
 b1_str_037_new_size equ strlen(b1_str_037)
 
-b1_str_038 equ "PORTA-CORAÇÕES: Aumenta sua SAÚDE MÁXIMA! Consegue achar TODOS OS SETE?"
+b1_str_038 equ "PORTA CORAÇÃO: Aumenta sua VITALIDADE MÁXIMA! Consegue achar TODOS OS SETE?"
 b1_str_038_max_size equ 0x86
 b1_str_038_new_size equ strlen(b1_str_038)
 
@@ -186,7 +186,7 @@ b1_str_047 equ "ENGRENAGEM: Aparato tosco que o Bolo vai gostar!"
 b1_str_047_max_size equ 0x86
 b1_str_047_new_size equ strlen(b1_str_047)
 
-b1_str_048 equ "SUPER COLA: Ótimo pra fazer as coisas grudarem bem firme."
+b1_str_048 equ "SUPER COLA: Excelente pra fazer as coisas grudarem bem firme."
 b1_str_048_max_size equ 0x86
 b1_str_048_new_size equ strlen(b1_str_048)
 

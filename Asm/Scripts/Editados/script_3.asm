@@ -1,24 +1,24 @@
-b3_str_001 equ "Poção.........."
+b3_str_001 equ "Frasco........."
 b3_str_001_max_size equ 0x86
 b3_str_001_new_size equ strlen(b3_str_001)
 
-b3_str_002 equ "Poção.........."
+b3_str_002 equ "Frasco........."
 b3_str_002_max_size equ 0x86
 b3_str_002_new_size equ strlen(b3_str_002)
 
-b3_str_003 equ "Poção.........."
+b3_str_003 equ "Frasco........."
 b3_str_003_max_size equ 0x86
 b3_str_003_new_size equ strlen(b3_str_003)
 
-b3_str_004 equ "3 Poções......."
+b3_str_004 equ "3 Frascos......"
 b3_str_004_max_size equ 0x86
 b3_str_004_new_size equ strlen(b3_str_004)
 
-b3_str_005 equ "3 Poções......."
+b3_str_005 equ "3 Frascos......"
 b3_str_005_max_size equ 0x86
 b3_str_005_new_size equ strlen(b3_str_005)
 
-b3_str_006 equ "3 Poções......."
+b3_str_006 equ "3 Frascos......"
 b3_str_006_max_size equ 0x86
 b3_str_006_new_size equ strlen(b3_str_006)
 
@@ -94,39 +94,39 @@ b3_str_024 equ "3 Teledoces...."
 b3_str_024_max_size equ 0x86
 b3_str_024_new_size equ strlen(b3_str_024)
 
-b3_str_025 equ "B. de Fogo....."
+b3_str_025 equ "B{9F}{A0}δεΞFogo....."
 b3_str_025_max_size equ 0x86
 b3_str_025_new_size equ strlen(b3_str_025)
 
-b3_str_026 equ "B. de Fogo2...."
+b3_str_026 equ "B{9F}{A0}δεΞFogo{Nv²}...."
 b3_str_026_max_size equ 0x86
 b3_str_026_new_size equ strlen(b3_str_026)
 
-b3_str_027 equ "B. de Fogo3...."
+b3_str_027 equ "B{9F}{A0}δεΞFogo{Nv³}...."
 b3_str_027_max_size equ 0x86
 b3_str_027_new_size equ strlen(b3_str_027)
 
-b3_str_028 equ "Sopro T........"
+b3_str_028 equ "Sopro Temp....."
 b3_str_028_max_size equ 0x86
 b3_str_028_new_size equ strlen(b3_str_028)
 
-b3_str_029 equ "Sopro T. 2....."
+b3_str_029 equ "Sopro Temp{Nv²}...."
 b3_str_029_max_size equ 0x86
 b3_str_029_new_size equ strlen(b3_str_029)
 
-b3_str_030 equ "Sopro T. 3....."
+b3_str_030 equ "Sopro Temp{Nv³}...."
 b3_str_030_max_size equ 0x86
 b3_str_030_new_size equ strlen(b3_str_030)
 
-b3_str_031 equ "Bola Esp......."
+b3_str_031 equ "B{9F}{A0} Espinh...."
 b3_str_031_max_size equ 0x86
 b3_str_031_new_size equ strlen(b3_str_031)
 
-b3_str_032 equ "Bola Esp. 2...."
+b3_str_032 equ "B{9F}{A0} Espinh{Nv²}...."
 b3_str_032_max_size equ 0x86
 b3_str_032_new_size equ strlen(b3_str_032)
 
-b3_str_033 equ "Bola Esp. 3...."
+b3_str_033 equ "B{9F}{A0} Espinh{Nv³}...."
 b3_str_033_max_size equ 0x86
 b3_str_033_new_size equ strlen(b3_str_033)
 
@@ -142,15 +142,15 @@ b3_str_036 equ "Calçola Coç...."
 b3_str_036_max_size equ 0x86
 b3_str_036_new_size equ strlen(b3_str_036)
 
-b3_str_037 equ "Creme de Su...."
+b3_str_037 equ "CremeδεΞSum...."
 b3_str_037_max_size equ 0x86
 b3_str_037_new_size equ strlen(b3_str_037)
 
-b3_str_038 equ "Creme de Su...."
+b3_str_038 equ "CremeδεΞSum...."
 b3_str_038_max_size equ 0x86
 b3_str_038_new_size equ strlen(b3_str_038)
 
-b3_str_039 equ "Creme de Su...."
+b3_str_039 equ "CremeδεΞSum...."
 b3_str_039_max_size equ 0x86
 b3_str_039_new_size equ strlen(b3_str_039)
 
@@ -178,15 +178,15 @@ b3_str_045 equ "Mentinhas......"
 b3_str_045_max_size equ 0x86
 b3_str_045_new_size equ strlen(b3_str_045)
 
-b3_str_046 equ "Jarro da G....."
+b3_str_046 equ "Jarro Ganan...."
 b3_str_046_max_size equ 0x86
 b3_str_046_new_size equ strlen(b3_str_046)
 
-b3_str_047 equ "Jarro da G....."
+b3_str_047 equ "Jarro Ganan...."
 b3_str_047_max_size equ 0x86
 b3_str_047_new_size equ strlen(b3_str_047)
 
-b3_str_048 equ "Jarro da G....."
+b3_str_048 equ "Jarro Ganan...."
 b3_str_048_max_size equ 0x86
 b3_str_048_new_size equ strlen(b3_str_048)
 
@@ -238,27 +238,27 @@ b3_str_060 equ "Sair           "
 b3_str_060_max_size equ 0x86
 b3_str_060_new_size equ strlen(b3_str_060)
 
-b3_str_061 equ "POÇÃO: Item consumível que recupera sua saúde!"
+b3_str_061 equ "FRASCO: Item consumível que recupera sua vitalidade!"
 b3_str_061_max_size equ 0x86
 b3_str_061_new_size equ strlen(b3_str_061)
 
-b3_str_062 equ "POÇÃO: Item consumível que recupera sua saúde!"
+b3_str_062 equ "FRASCO: Item consumível que recupera sua vitalidade!"
 b3_str_062_max_size equ 0x86
 b3_str_062_new_size equ strlen(b3_str_062)
 
-b3_str_063 equ "POÇÃO: Item consumível que recupera sua saúde!"
+b3_str_063 equ "FRASCO: Item consumível que recupera sua vitalidade!"
 b3_str_063_max_size equ 0x86
 b3_str_063_new_size equ strlen(b3_str_063)
 
-b3_str_064 equ "TRÊS POÇÕES: Promoção de 3 poções em uma! Aproveita que caiu do caminhão hoje!"
+b3_str_064 equ "TRÊS FRASCOS: Promoção de 3 frascos em um! Aproveita que caiu do caminhão hoje!"
 b3_str_064_max_size equ 0x86
 b3_str_064_new_size equ strlen(b3_str_064)
 
-b3_str_065 equ "TRÊS POÇÕES: Promoção de 3 poções em uma! Aproveita que caiu do caminhão hoje!"
+b3_str_065 equ "TRÊS FRASCOS: Promoção de 3 frascos em um! Aproveita que caiu do caminhão hoje!"
 b3_str_065_max_size equ 0x86
 b3_str_065_new_size equ strlen(b3_str_065)
 
-b3_str_066 equ "TRÊS POÇÕES: Promoção de 3 poções em uma! Aproveita que caiu do caminhão hoje!"
+b3_str_066 equ "TRÊS FRASCOS: Promoção de 3 frascos em um! Aproveita que caiu do caminhão hoje!"
 b3_str_066_max_size equ 0x86
 b3_str_066_new_size equ strlen(b3_str_066)
 
@@ -286,15 +286,15 @@ b3_str_072 equ "TRÊS FRASCOS MÁGICOS: Promoção de 3 frascos mágicos em um! 
 b3_str_072_max_size equ 0x86
 b3_str_072_new_size equ strlen(b3_str_072)
 
-b3_str_073 equ "ELIXIR: Item consumível que recupera saúde e magia!"
+b3_str_073 equ "ELIXIR: Item consumível que recupera vitalidade e magia!"
 b3_str_073_max_size equ 0x86
 b3_str_073_new_size equ strlen(b3_str_073)
 
-b3_str_074 equ "ELIXIR: Item consumível que recupera saúde e magia!"
+b3_str_074 equ "ELIXIR: Item consumível que recupera vitalidade e magia!"
 b3_str_074_max_size equ 0x86
 b3_str_074_new_size equ strlen(b3_str_074)
 
-b3_str_075 equ "ELIXIR: Item consumível que recupera saúde e magia!"
+b3_str_075 equ "ELIXIR: Item consumível que recupera vitalidade e magia!"
 b3_str_075_max_size equ 0x86
 b3_str_075_new_size equ strlen(b3_str_075)
 
@@ -418,15 +418,15 @@ b3_str_105 equ "MENTINHAS: Balas de menta mágicas que te divide em dois, pra co
 b3_str_105_max_size equ 0x86
 b3_str_105_new_size equ strlen(b3_str_105)
 
-b3_str_106 equ "JARRO DA GANÂNCIA: Objeto mágico que  faz inimigos darem mais joias!"
+b3_str_106 equ "JARRO GANANCIOSO: Objeto mágico que faz inimigos darem mais joias!"
 b3_str_106_max_size equ 0x86
 b3_str_106_new_size equ strlen(b3_str_106)
 
-b3_str_107 equ "JARRO DA GANÂNCIA: Objeto mágico que faz inimigos darem mais joias!"
+b3_str_107 equ "JARRO GANANCIOSO: Objeto mágico que faz inimigos darem mais joias!"
 b3_str_107_max_size equ 0x86
 b3_str_107_new_size equ strlen(b3_str_107)
 
-b3_str_108 equ "JARRO DA GANÂNCIA: Objeto mágico que faz inimigos darem mais joias!"
+b3_str_108 equ "JARRO GANANCIOSO: Objeto mágico que faz inimigos darem mais joias!"
 b3_str_108_max_size equ 0x86
 b3_str_108_new_size equ strlen(b3_str_108)
 
@@ -490,7 +490,7 @@ b3_str_123 equ "ESG"
 b3_str_123_max_size equ 0x89
 b3_str_123_new_size equ strlen(b3_str_123)
 
-b3_str_124 equ "Mexericapolis  "
+b3_str_124 equ "Mexericápolis  "
 b3_str_124_max_size equ 0x86
 b3_str_124_new_size equ strlen(b3_str_124)
 
@@ -506,7 +506,7 @@ b3_str_127 equ "Que caverna misteriosa! A Bota Negra tá tramando algo..."
 b3_str_127_max_size equ 0x86
 b3_str_127_new_size equ strlen(b3_str_127)
 
-b3_str_128 equ "Vila da Mina   "
+b3_str_128 equ "Minápolis      "
 b3_str_128_max_size equ 0x86
 b3_str_128_new_size equ strlen(b3_str_128)
 
@@ -522,7 +522,7 @@ b3_str_131 equ "Uma selva encantada cheia de labirintos e monstros!"
 b3_str_131_max_size equ 0x86
 b3_str_131_new_size equ strlen(b3_str_131)
 
-b3_str_132 equ "Vila da Lava   "
+b3_str_132 equ "Lavápolis      "
 b3_str_132_max_size equ 0x86
 b3_str_132_new_size equ strlen(b3_str_132)
 
@@ -530,7 +530,7 @@ b3_str_133 equ "Esquenta e sua, que essa vai ficar na tua!"
 b3_str_133_max_size equ 0x86
 b3_str_133_new_size equ strlen(b3_str_133)
 
-b3_str_134 equ "Vila do Museu  "
+b3_str_134 equ "Museulândia    "
 b3_str_134_max_size equ 0x86
 b3_str_134_new_size equ strlen(b3_str_134)
 
@@ -546,7 +546,7 @@ b3_str_137 equ "Uma terra devastada, confusa de navegar mas cheia de segredos!"
 b3_str_137_max_size equ 0x86
 b3_str_137_new_size equ strlen(b3_str_137)
 
-b3_str_138 equ "Vila do Brejo  "
+b3_str_138 equ "Brejolândia    "
 b3_str_138_max_size equ 0x86
 b3_str_138_new_size equ strlen(b3_str_138)
 

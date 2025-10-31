@@ -674,7 +674,7 @@ b4_str_310 equ "a heroína Meia-Gênia"
 b4_str_310_max_size equ 0x3F
 b4_str_310_new_size equ strlen(b4_str_310)
 
-b4_str_311 equ " de Mexericapolis."
+b4_str_311 equ " de Mexericápolis."
 b4_str_311_max_size equ 0x13F
 b4_str_311_new_size equ strlen(b4_str_311)
 

@@ -9,18 +9,22 @@ Wrench = Chaves
 Boris Holes = Brito Granito
 Pepperpex McManStache = Dom Pepperon
 Dr. Cornelious Crust = Dr. Cornélio Crosta
+Bugkini Squad = Tropa das Biquinsetas
+Slushfund = Puladinha
+Jawdrop = Rinobella
+Buckshot = Chumbela
 
 # Locais
 
 Sequin Land   = Lantejoulândia |
-Scuttle Town  = Mexericapolis  |
+Scuttle Town  = Mexericápolis  |
 Risky Chasm   = Abismo da Bota |
-Mining Town   = Vila da Mina   |
+Mining Town   = Minápolis      |
 Orc Orchard   = Horto dos Ogros|
-Lava Town     = Vila da Lava   |
-Museum Town   = Vila do Museu  |
+Lava Town     = Lavápolis      |
+Museum Town   = Museulândia    |
 Naga Cliffs   = Penha das Nagas|
-Bog Town      = Vila do Brejo  |
+Bog Town      = Brejolândia    |
 Royal Palace  = Palácio Real   |
 Haunted Grove = Mata Assombrada|
 
@@ -30,12 +34,12 @@ Tinkerbat = Tinkercego
 
 # Danças
 
-Monkey Form = Forma de Macaca
+Monkey Form = Forma da Macaca
 Crab Form = Forma de Siri
-Spider Form = Forma de Aranha
-Elephant Form = Forma de Elefanta
-Mermaid Form = Forma de Sereia
-Harpy Form = Forma de Harpia
+Spider Form = Forma da Aranha
+Elephant Form = Forma da Elefanta
+Mermaid Form = Forma da Sereia
+Harpy Form = Forma da Harpia
 
 ## Habilidades de Danças
 
@@ -52,7 +56,7 @@ Gems = Joias
 
 ## Itens Chave
 
-Heart Holder = Porta-Corações (?)
+Heart Holder = Porta Coração
 Shampoo = Xampu
 Attract Up = Atrator
 MP Saver = Poupa-PM
@@ -64,22 +68,22 @@ Secret Squids = Lulas Secretas
 Heart Vial = Poção
 Magic Vial = Frasco Mágico
 Super Vial = Elixir
-Exit Candy = Doce de Fuga (?)
+Exit Candy = Teledoce
 Fire Max = Bola de Fogo Máx
 Storm Max = Sopro Tempestade Máx
 Pike Ball Max = Bola Espinhada Máx
-Pants Ants = Calças Alças (?)
-Vanish Cream = Creme de Sumiço (?)
-Float Cake = Bolo Flutuante (?)
-Twin Mints = Mentas Gêmeas (?)
-Greedy Jar = Jarro Ganancioso (?)
+Pants Ants = Calçola Coçola
+Vanish Cream = Creme de Sumiço
+Float Cake = Muffin Flutuante
+Twin Mints = Mentinhas
+Greedy Jar = Jarro Ganancioso
 
 # Termos da Loja
 
-Heart Vial = Poção      |
-Heart Pack = 3 Poções   |
+Heart Vial = Frasco     |
+Heart Pack = 3 Frascos  |
 Magic Vial = Frasco Mág.|
-Magic Pack = 3 Frascos  |
+Magic Pack = 3 Frascos M|
 Super Vial = Elixir     |
 Super Pack = 3 Elixires |
 Exit Candy = Teledoce   |
@@ -97,12 +101,12 @@ Pants Ants = Calçola Coç|
 Vanish     = Creme Sumiç|
 Float Cake = Muffin Flut|
 Twin Mint  = Mentinhas  |
-Greedy Jar = Jarro da G.|
+Greedy Jar = Jarro Gan. |
 Attract Up = Atrator    |
 MP Saver   = Poupa-PM   |
 Shampoo    = Xampu      |
-Shampoo DX = Xampu 2    |
-Shampoo EX = Xampu 3    |
+Shampoo DX = Xampu F    |
+Shampoo EX = Xampu EF   |
 
 # Chefes
 

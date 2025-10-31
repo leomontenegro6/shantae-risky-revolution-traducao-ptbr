@@ -18,7 +18,7 @@ b2_str_005 equ "*SALVANDO..."
 b2_str_005_max_size equ 0x1F
 b2_str_005_new_size equ strlen(b2_str_005)
 
-b2_str_006 equ "Não desligue o console."
+b2_str_006 equ "Não desligue!"
 b2_str_006_max_size equ 0x1F
 b2_str_006_new_size equ strlen(b2_str_006)
 
@@ -62,7 +62,7 @@ b2_str_016 equ "> Biquíni"
 b2_str_016_max_size equ 0x1F
 b2_str_016_new_size equ strlen(b2_str_016)
 
-b2_str_017 equ "Você encontrou uma *CHAVE!"
+b2_str_017 equ "Achou: *CHAVE!"
 b2_str_017_max_size equ 0x1F
 b2_str_017_new_size equ strlen(b2_str_017)
 
@@ -70,159 +70,159 @@ b2_str_018 equ "Use-a numa *PORTA *DE *METAL!"
 b2_str_018_max_size equ 0x1F
 b2_str_018_new_size equ strlen(b2_str_018)
 
-b2_str_019 equ "You got a *WISH *CHARM! Find"
+b2_str_019 equ "Achou: *AMULETO *DOS *DESEJOS!"
 b2_str_019_max_size equ 0x1F
 b2_str_019_new_size equ strlen(b2_str_019)
 
-b2_str_020 equ "a *FOUNTAIN and wish big!"
+b2_str_020 equ "Faça um pedido em uma *FONTE!"
 b2_str_020_max_size equ 0x1F
 b2_str_020_new_size equ strlen(b2_str_020)
 
-b2_str_021 equ "You found a *WINGNUT!^"
+b2_str_021 equ "Achou: *PORCA-PARAFUSO!^"
 b2_str_021_max_size equ 0x1F
 b2_str_021_new_size equ strlen(b2_str_021)
 
-b2_str_022 equ "Use it to enter the"
+b2_str_022 equ "Use isso para chegar ao"
 b2_str_022_max_size equ 0x1F
 b2_str_022_new_size equ strlen(b2_str_022)
 
-b2_str_023 equ "*MONSTER'S *LAIR!"
+b2_str_023 equ "*CHEFÃO *DA *MASMORRA!"
 b2_str_023_max_size equ 0x1F
 b2_str_023_new_size equ strlen(b2_str_023)
 
-b2_str_024 equ "You found the *SUPER *GLUE!"
+b2_str_024 equ "Achou: *SUPER *COLA!"
 b2_str_024_max_size equ 0x1F
 b2_str_024_new_size equ strlen(b2_str_024)
 
-b2_str_025 equ "You found a *SHOCK *EGG!"
+b2_str_025 equ "Achou: *OVO *CHOCANTE!"
 b2_str_025_max_size equ 0x1F
 b2_str_025_new_size equ strlen(b2_str_025)
 
-b2_str_026 equ "You found a *COG!"
+b2_str_026 equ "Achou: *ENGRENAGEM!"
 b2_str_026_max_size equ 0x1F
 b2_str_026_new_size equ strlen(b2_str_026)
 
-b2_str_027 equ "You found a *SECRET *SQUID!"
+b2_str_027 equ "Achou: *LULA *SECRETA!"
 b2_str_027_max_size equ 0x1F
 b2_str_027_new_size equ strlen(b2_str_027)
 
-b2_str_028 equ "You found a *HEART *HOLDER!"
+b2_str_028 equ "Achou: *PORTA *CORAÇÃO!"
 b2_str_028_max_size equ 0x1F
 b2_str_028_new_size equ strlen(b2_str_028)
 
-b2_str_029 equ "You found *MONKEY *VISION!"
+b2_str_029 equ "Achou: *VISÃO *DA *MACACA!"
 b2_str_029_max_size equ 0x1F
 b2_str_029_new_size equ strlen(b2_str_029)
 
-b2_str_030 equ "Now you can see *THROUGH"
+b2_str_030 equ "Agora é possível ver"
 b2_str_030_max_size equ 0x1F
 b2_str_030_new_size equ strlen(b2_str_030)
 
-b2_str_031 equ "*WALLS while in Monkey"
+b2_str_031 equ "*ATRAVÉS *DAS *PAREDES"
 b2_str_031_max_size equ 0x1F
 b2_str_031_new_size equ strlen(b2_str_031)
 
-b2_str_032 equ "Form!^"
+b2_str_032 equ "estando na Forma de Macaca!^"
 b2_str_032_max_size equ 0x1F
 b2_str_032_new_size equ strlen(b2_str_032)
 
-b2_str_033 equ "Activates *AUTOMATICALLY in"
+b2_str_033 equ "Ativa *AUTOMATICAMENTE em"
 b2_str_033_max_size equ 0x1F
 b2_str_033_new_size equ strlen(b2_str_033)
 
-b2_str_034 equ "Crypts, Labyrinths, and"
+b2_str_034 equ "Criptas, Labirintos e"
 b2_str_034_max_size equ 0x1F
 b2_str_034_new_size equ strlen(b2_str_034)
 
-b2_str_035 equ "Puzzle Caves!"
+b2_str_035 equ "Cavernas de Quebra-cabeças!"
 b2_str_035_max_size equ 0x1F
 b2_str_035_new_size equ strlen(b2_str_035)
 
-b2_str_036 equ "Achou a *BOMBINHA *DE *SIRI!"
+b2_str_036 equ "Achou: *BOMBINHA *DE *SIRI!"
 b2_str_036_max_size equ 0x1F
 b2_str_036_new_size equ strlen(b2_str_036)
 
-b2_str_037 equ "While in *CRAB *FORM...^"
+b2_str_037 equ "Estando na *FORMA *DE *SIRI,^"
 b2_str_037_max_size equ 0x1F
 b2_str_037_new_size equ strlen(b2_str_037)
 
-b2_str_038 equ "...press the B Button to"
+b2_str_038 equ "pressione o botão B para"
 b2_str_038_max_size equ 0x1F
 b2_str_038_new_size equ strlen(b2_str_038)
 
-b2_str_039 equ "drop *SPARK *MINES!^"
+b2_str_039 equ "soltar *MINAS *FAISCANTES!^"
 b2_str_039_max_size equ 0x1F
 b2_str_039_new_size equ strlen(b2_str_039)
 
-b2_str_040 equ "Damage enemies, or"
+b2_str_040 equ "Cause dano aos inimigos ou"
 b2_str_040_max_size equ 0x1F
 b2_str_040_new_size equ strlen(b2_str_040)
 
-b2_str_041 equ "activate *ANCIENT *TECH!"
+b2_str_041 equ "ative a *TECNOLOGIA *ARCAICA!"
 b2_str_041_max_size equ 0x1F
 b2_str_041_new_size equ strlen(b2_str_041)
 
-b2_str_042 equ "You found the *SPIDER"
+b2_str_042 equ "Achou: *VENENO *DA *ARANHA!"
 b2_str_042_max_size equ 0x1F
 b2_str_042_new_size equ strlen(b2_str_042)
 
-b2_str_043 equ "*VENOM!"
+b2_str_043 equ " "
 b2_str_043_max_size equ 0x1F
 b2_str_043_new_size equ strlen(b2_str_043)
 
-b2_str_044 equ "While in *SPIDER *FORM...^"
+b2_str_044 equ "Estando na *FORMA *DA *ARANHA,^"
 b2_str_044_max_size equ 0x1F
 b2_str_044_new_size equ strlen(b2_str_044)
 
-b2_str_045 equ "Press the B Button to"
+b2_str_045 equ "pressione o botão B para"
 b2_str_045_max_size equ 0x1F
 b2_str_045_new_size equ strlen(b2_str_045)
 
-b2_str_046 equ "*BLAST your foes!^"
+b2_str_046 equ "*EXPLODIR seus inimigos!^"
 b2_str_046_max_size equ 0x1F
 b2_str_046_new_size equ strlen(b2_str_046)
 
-b2_str_047 equ "Keep an eye on your Magic"
+b2_str_047 equ "Fique de olho no seu"
 b2_str_047_max_size equ 0x1F
 b2_str_047_new_size equ strlen(b2_str_047)
 
-b2_str_048 equ "Meter!^"
+b2_str_048 equ "Medidor de Magia!^"
 b2_str_048_max_size equ 0x1F
 b2_str_048_new_size equ strlen(b2_str_048)
 
-b2_str_049 equ "Just kidding!^"
+b2_str_049 equ "Brincadeirinha!^"
 b2_str_049_max_size equ 0x1F
 b2_str_049_new_size equ strlen(b2_str_049)
 
-b2_str_050 equ "It's free!"
+b2_str_050 equ "É na faixa!"
 b2_str_050_max_size equ 0x1F
 b2_str_050_new_size equ strlen(b2_str_050)
 
-b2_str_051 equ "You found the *MERMAID"
+b2_str_051 equ "Achou: *BOLHA *DA *SEREIA!"
 b2_str_051_max_size equ 0x1F
 b2_str_051_new_size equ strlen(b2_str_051)
 
-b2_str_052 equ "*BUBBLE!"
+b2_str_052 equ " "
 b2_str_052_max_size equ 0x1F
 b2_str_052_new_size equ strlen(b2_str_052)
 
-b2_str_053 equ "While in *MERMAID *FORM...^"
+b2_str_053 equ "Estando na *FORMA *DE *SEREIA,^"
 b2_str_053_max_size equ 0x1F
 b2_str_053_new_size equ strlen(b2_str_053)
 
-b2_str_054 equ "Press the B Button to *FIRE"
+b2_str_054 equ "pressione o botão B para"
 b2_str_054_max_size equ 0x1F
 b2_str_054_new_size equ strlen(b2_str_054)
 
-b2_str_055 equ "*BUBBLES!^"
+b2_str_055 equ "*ATIRAR *BOLHAS!^"
 b2_str_055_max_size equ 0x1F
 b2_str_055_new_size equ strlen(b2_str_055)
 
-b2_str_056 equ "You can even destroy"
+b2_str_056 equ "Você pode até destruir"
 b2_str_056_max_size equ 0x1F
 b2_str_056_new_size equ strlen(b2_str_056)
 
-b2_str_057 equ "*UNDERWATER *BLOCKS!^"
+b2_str_057 equ "*BLOCOS *SUBAQUÁTICOS!^"
 b2_str_057_max_size equ 0x1F
 b2_str_057_new_size equ strlen(b2_str_057)
 
@@ -230,75 +230,75 @@ b2_str_058 equ "Glub glub!"
 b2_str_058_max_size equ 0x1F
 b2_str_058_new_size equ strlen(b2_str_058)
 
-b2_str_059 equ "You found the *ELEPHANT"
+b2_str_059 equ "Achou: *PISÃO *DA *ELEFANTA!"
 b2_str_059_max_size equ 0x1F
 b2_str_059_new_size equ strlen(b2_str_059)
 
-b2_str_060 equ "*TOTE!"
+b2_str_060 equ " "
 b2_str_060_max_size equ 0x1F
 b2_str_060_new_size equ strlen(b2_str_060)
 
-b2_str_061 equ "While in *ELEPHANT *FORM...^"
+b2_str_061 equ "Estando na *FORMA *DA^"
 b2_str_061_max_size equ 0x1F
 b2_str_061_new_size equ strlen(b2_str_061)
 
-b2_str_062 equ "*JUMP into the air...^"
+b2_str_062 equ "*ELEFANTA, *PULE e então^"
 b2_str_062_max_size equ 0x1F
 b2_str_062_new_size equ strlen(b2_str_062)
 
-b2_str_063 equ "Then press *DOWN to perform"
+b2_str_063 equ "pressione *PARA *BAIXO para"
 b2_str_063_max_size equ 0x1F
 b2_str_063_new_size equ strlen(b2_str_063)
 
-b2_str_064 equ "a *MIGHTY *STOMP!"
+b2_str_064 equ "executar um *PISÃO *PODEROSO!"
 b2_str_064_max_size equ 0x1F
 b2_str_064_new_size equ strlen(b2_str_064)
 
-b2_str_065 equ "You found the *HARPY *TALON!"
+b2_str_065 equ "Achou: *GARRA *DA *HARPIA!"
 b2_str_065_max_size equ 0x1F
 b2_str_065_new_size equ strlen(b2_str_065)
 
-b2_str_066 equ "While in *HARPY *FORM...^"
+b2_str_066 equ "Estando na *FORMA *DA *HARPIA,^"
 b2_str_066_max_size equ 0x1F
 b2_str_066_new_size equ strlen(b2_str_066)
 
-b2_str_067 equ "Press the B Button to *FIRE"
+b2_str_067 equ "pressione o botão B para"
 b2_str_067_max_size equ 0x1F
 b2_str_067_new_size equ strlen(b2_str_067)
 
-b2_str_068 equ "*AWAY!"
+b2_str_068 equ "*ATIRAR!"
 b2_str_068_max_size equ 0x1F
 b2_str_068_new_size equ strlen(b2_str_068)
 
-b2_str_069 equ "YOU GOT *LOST *GAME *TAPE!"
+b2_str_069 equ "Achou: *CARTUCHO *PERDIDO!"
 b2_str_069_max_size equ 0x1F
 b2_str_069_new_size equ strlen(b2_str_069)
 
-b2_str_070 equ "YOU GOT *POCKET *GAME *TAPE!"
+b2_str_070 equ "Achou: *CARTUCHO *PORTÁTIL!"
 b2_str_070_max_size equ 0x1F
 b2_str_070_new_size equ strlen(b2_str_070)
 
-b2_str_071 equ "YOU GOT *CLASSIC *GAME *TAPE!"
+b2_str_071 equ "Achou: *CARTUCHO *CLÁSSICO!"
 b2_str_071_max_size equ 0x1F
 b2_str_071_new_size equ strlen(b2_str_071)
 
-b2_str_072 equ "What a weird *FOUNTAIN!^"
+b2_str_072 equ "Que *FONTE estranha!^"
 b2_str_072_max_size equ 0x1F
 b2_str_072_new_size equ strlen(b2_str_072)
 
-b2_str_073 equ "Too bad I don't have"
+b2_str_073 equ "Uma pena não ter nada para"
 b2_str_073_max_size equ 0x1F
 b2_str_073_new_size equ strlen(b2_str_073)
 
-b2_str_074 equ "anything to toss in..."
+b2_str_074 equ "jogar..."
 b2_str_074_max_size equ 0x1F
 b2_str_074_new_size equ strlen(b2_str_074)
 
-b2_str_075 equ "What a weird *FOUNTAIN!^"
+b2_str_075 equ "Que *FONTE estranha!^"
 b2_str_075_max_size equ 0x1F
 b2_str_075_new_size equ strlen(b2_str_075)
 
-b2_str_076 equ "Toss in the *WISH *CHARM?"
+b2_str_076 equ "Jogar o *AMULETO *DOS *DESEJOS?"
 b2_str_076_max_size equ 0x1F
 b2_str_076_new_size equ strlen(b2_str_076)
 
@@ -310,23 +310,23 @@ b2_str_078 equ "> Ainda não..."
 b2_str_078_max_size equ 0x1F
 b2_str_078_new_size equ strlen(b2_str_078)
 
-b2_str_079 equ "Welcome, daughter of the"
+b2_str_079 equ "Bem-vinda, filha dos"
 b2_str_079_max_size equ 0x1F
 b2_str_079_new_size equ strlen(b2_str_079)
 
-b2_str_080 equ "Genies!^"
+b2_str_080 equ "gênios!^"
 b2_str_080_max_size equ 0x1F
 b2_str_080_new_size equ strlen(b2_str_080)
 
-b2_str_081 equ "This powerful *DANCE *MAGIC"
+b2_str_081 equ "Esta poderosa *DANÇA *MÁGICA"
 b2_str_081_max_size equ 0x1F
 b2_str_081_new_size equ strlen(b2_str_081)
 
-b2_str_082 equ "will help to guide your"
+b2_str_082 equ "ajudará a guiar o seu"
 b2_str_082_max_size equ 0x1F
 b2_str_082_new_size equ strlen(b2_str_082)
 
-b2_str_083 equ "way."
+b2_str_083 equ "caminho."
 b2_str_083_max_size equ 0x1F
 b2_str_083_new_size equ strlen(b2_str_083)
 
@@ -630,7 +630,7 @@ b2_str_158 equ "por toda a costa da"
 b2_str_158_max_size equ 0x1F
 b2_str_158_new_size equ strlen(b2_str_158)
 
-b2_str_159 equ "*MEXERICAPOLIS!^"
+b2_str_159 equ "*MEXERICÁPOLIS!^"
 b2_str_159_max_size equ 0x1F
 b2_str_159_new_size equ strlen(b2_str_159)
 
@@ -1394,7 +1394,7 @@ b2_str_349 equ "para *PISOTEAR...^"
 b2_str_349_max_size equ 0x1F
 b2_str_349_new_size equ strlen(b2_str_349)
 
-b2_str_350 equ "Vá pra caverna da direita.^"
+b2_str_350 equ "Vá à caverna da direita.^"
 b2_str_350_max_size equ 0x1F
 b2_str_350_new_size equ strlen(b2_str_350)
 
@@ -1454,7 +1454,7 @@ b2_str_364 equ "preços de cair o bico!^"
 b2_str_364_max_size equ 0x1F
 b2_str_364_new_size equ strlen(b2_str_364)
 
-b2_str_365 equ "*BLOCO *LESTE, *2o. *ANDAR!^"
+b2_str_365 equ "*BLOCO *LESTE, *ANDAR *DOIS!^"
 b2_str_365_max_size equ 0x1F
 b2_str_365_new_size equ strlen(b2_str_365)
 
@@ -1718,7 +1718,7 @@ b2_str_430 equ "CELINA: Esta caverna é ainda"
 b2_str_430_max_size equ 0x1F
 b2_str_430_new_size equ strlen(b2_str_430)
 
-b2_str_431 equ "maior que Mexericapolis!^"
+b2_str_431 equ "maior que Mexericápolis!^"
 b2_str_431_max_size equ 0x1F
 b2_str_431_new_size equ strlen(b2_str_431)
 
@@ -1778,11 +1778,11 @@ b2_str_445 equ "BOTA NEGRA: O que mais senão"
 b2_str_445_max_size equ 0x1F
 b2_str_445_new_size equ strlen(b2_str_445)
 
-b2_str_446 equ "ter minha chance de sucesso e"
+b2_str_446 equ "ter minha chance de sucesso"
 b2_str_446_max_size equ 0x1F
 b2_str_446_new_size equ strlen(b2_str_446)
 
-b2_str_447 equ "riquezas, é claro!"
+b2_str_447 equ "e riquezas, é claro!"
 b2_str_447_max_size equ 0x1F
 b2_str_447_new_size equ strlen(b2_str_447)
 
