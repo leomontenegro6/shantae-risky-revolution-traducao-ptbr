@@ -18,5 +18,12 @@
     .thumb
     cmp r0, #0xF1
 
+; Ajustando paleta do Shovelware Wolf, para trocar os tons de marrom
+; por vermelho, para usarmos na boina vermelha do Sr. Lobuílson.
+; Aplicado apenas na versão com termos adaptados.
+.if termos == "adaptados"
+    .notice "TODO: Editar paleta do Shovelware Wolf para boina vermelha"
+.endif
+
 ; Salvando a rom modificada.
 .close

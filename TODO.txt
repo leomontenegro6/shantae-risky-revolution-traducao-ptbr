@@ -1,2 +1,5 @@
-- Checar onde a fonte 317 é usada no jogo (se usada). Em tese é pra ser fonte de diálogos comuns, duplicada da fonte 315.
+- Editar gráfico "SAVING Do not turn the power off", ao copiar um jogo.
 - Traduzir scripts
+- Analisar letras maiúsculas acentuadas vermelhas no script_2, e ver se dá pra incluir na fonte 315
+- Checar onde a fonte 317 é usada no jogo (se usada). Em tese é pra ser fonte de diálogos comuns, duplicada da fonte 315.
+- Checar onde a fonte 309 é usada no jogo (se usada). Provavelmente não é usada, de acordo com o Damin72

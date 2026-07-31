@@ -4,6 +4,7 @@ Mayor Scuttlebutt = Prefeito Mexerico
 Risky Boots = Bota Negra
 Rottytops = Delamorta
 Sky = Celina
+Hatchet = Machadinha
 Uncle Mimic = Tio Mímico
 Wrench = Chaves
 Boris Holes = Brito Granito
@@ -35,7 +36,7 @@ Tinkerbat = Tinkercego
 # Danças
 
 Monkey Form = Forma da Macaca
-Crab Form = Forma de Siri
+Crab Form = Forma da Siri
 Spider Form = Forma da Aranha
 Elephant Form = Forma da Elefanta
 Mermaid Form = Forma da Sereia

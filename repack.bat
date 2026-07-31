@@ -1,5 +1,8 @@
 :: Arquivo que remonta o arquivo de assets.edited.bin na rom.
 @echo off
+set "termos=%~1"
+if "%termos%"=="" set "termos=adaptados"
+
 :: Reempacotando gráficos TS4/TS8 individuais.
 cd .\Ferramentas\ashantae\
 call repack.bat
@@ -10,6 +13,11 @@ cd Graficos
 mkdir Temp
 copy .\Originais\* .\Temp\
 copy .\Editados\* .\Temp\
+if "%termos%"=="originais" (
+    copy .\Originais\226 .\Temp\
+    copy .\Originais\227 .\Temp\
+    copy .\Originais\228 .\Temp\
+)
 cd ..
 
 :: Reempacotando o arquivo "Graficos.editados.bin".
