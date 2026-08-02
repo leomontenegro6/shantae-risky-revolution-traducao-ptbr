@@ -17,6 +17,10 @@ if "%termos%"=="originais" (
     copy .\Originais\226 .\Temp\
     copy .\Originais\227 .\Temp\
     copy .\Originais\228 .\Temp\
+    copy .\Originais\612 .\Temp\
+    copy .\Originais\616 .\Temp\
+    copy .\Originais\660 .\Temp\
+    copy .\Originais\687 .\Temp\
 )
 cd ..
 
