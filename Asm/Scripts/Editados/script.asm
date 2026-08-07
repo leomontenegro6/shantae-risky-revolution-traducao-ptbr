@@ -74,7 +74,7 @@ b1_str_019 equ "FORMA DA MACACA: Transforme-se e escale paredes!"
 b1_str_019_max_size equ 0x86
 b1_str_019_new_size equ strlen(b1_str_019)
 
-b1_str_020 equ "FORMA DE SIRI: Afunde debaixo d'água e explore as profundezas! Pra subir, só se destransformar!"
+b1_str_020 equ "FORMA DA SIRI: Afunde debaixo d'água e explore as profundezas! Pra subir, só se destransformar!"
 b1_str_020_max_size equ 0x86
 b1_str_020_new_size equ strlen(b1_str_020)
 
@@ -98,7 +98,7 @@ b1_str_025 equ "VISÃO DA MACACA: Este TALISMÃ faz a Macaca enxergar segredos o
 b1_str_025_max_size equ 0x86
 b1_str_025_new_size equ strlen(b1_str_025)
 
-b1_str_026 equ "BOMBINHA DE SIRI: Este TALISMÃ faz a Siri botar minas faiscantes! Na Forma de Siri, aperte o BOTÃO B!"
+b1_str_026 equ "BOMBINHA DE SIRI: Este TALISMÃ faz a Siri botar minas faiscantes! Na Forma da Siri, aperte o BOTÃO B!"
 b1_str_026_max_size equ 0x86
 b1_str_026_new_size equ strlen(b1_str_026)
 
@@ -146,7 +146,7 @@ b1_str_037 equ "Você não aprendeu essa dança ainda!"
 b1_str_037_max_size equ 0x86
 b1_str_037_new_size equ strlen(b1_str_037)
 
-b1_str_038 equ "PORTA CORAÇÃO: Aumenta sua VITALIDADE MÁXIMA! Consegue achar TODOS OS SETE?"
+b1_str_038 equ "PORTA-CORAÇÃO: Aumenta sua VITALIDADE MÁXIMA! Consegue achar TODOS OS SETE?"
 b1_str_038_max_size equ 0x86
 b1_str_038_new_size equ strlen(b1_str_038)
 
@@ -162,7 +162,7 @@ b1_str_041 equ "AMULETO DOS DESEJOS: Ache uma fonte e faça um pedido!"
 b1_str_041_max_size equ 0x86
 b1_str_041_new_size equ strlen(b1_str_041)
 
-b1_str_042 equ "PORCA BORBOLETA: Ativa um elevador mecânico!"
+b1_str_042 equ "PORCA DE ASA: Ativa um elevador mecânico!"
 b1_str_042_max_size equ 0x86
 b1_str_042_new_size equ strlen(b1_str_042)
 
@@ -222,7 +222,7 @@ b1_str_056 equ "MOTOR TREMULANTE: Leve isso pra caverna onde tudo começou!"
 b1_str_056_max_size equ 0x86
 b1_str_056_new_size equ strlen(b1_str_056)
 
-b1_str_057 equ "Você ainda naõ tem este item mágico!"
+b1_str_057 equ "Você ainda não tem este item mágico!"
 b1_str_057_max_size equ 0x86
 b1_str_057_new_size equ strlen(b1_str_057)
 
@@ -230,11 +230,11 @@ b1_str_058 equ "Você ainda não tem itens-chave!"
 b1_str_058_max_size equ 0x86
 b1_str_058_new_size equ strlen(b1_str_058)
 
-b1_str_059 equ "LULAS SECRETAS: Você achou um de cinquenta!"
+b1_str_059 equ "LULAS SECRETAS: Você achou uma de cinquenta!"
 b1_str_059_max_size equ 0x86
 b1_str_059_new_size equ strlen(b1_str_059)
 
-b1_str_060 equ "LULAS SECRETAS: Você achou dois de cinquenta!"
+b1_str_060 equ "LULAS SECRETAS: Você achou duas de cinquenta!"
 b1_str_060_max_size equ 0x86
 b1_str_060_new_size equ strlen(b1_str_060)
 

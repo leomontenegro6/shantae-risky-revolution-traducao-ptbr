@@ -57,12 +57,15 @@ Gems = Joias
 
 ## Itens Chave
 
-Heart Holder = Porta Coração
+Heart Holder = Porta-Coração
 Shampoo = Xampu
 Attract Up = Atrator
 MP Saver = Poupa-PM
-Tremor Engine = Motor de Tremor
+Tremor Engine = Motor Tremulante
+Tremor Engine Micro = Micro-Motor Tremulante
+Tremor Stone = Pedra Tremulante
 Secret Squids = Lulas Secretas
+Shock Egg = Ovo Chocante
 
 ## Itens Mágicos
 
