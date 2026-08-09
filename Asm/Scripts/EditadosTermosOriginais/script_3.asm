@@ -454,7 +454,7 @@ b3_str_114 equ "POUPA-PM: Uma turbinada nas magias! Corta consumo de magia pela 
 b3_str_114_max_size equ 0x86
 b3_str_114_new_size equ strlen(b3_str_114)
 
-b3_str_115 equ "XAMPU: Cabelo turbinado! Xumpu sedoso que dá mais força e movimento ao seu cabelo!"
+b3_str_115 equ "XAMPU: Cabelo turbinado! Xampu sedoso que dá mais força e movimento ao seu cabelo!"
 b3_str_115_max_size equ 0x86
 b3_str_115_new_size equ strlen(b3_str_115)
 
@@ -490,7 +490,7 @@ b3_str_123 equ "ESG"
 b3_str_123_max_size equ 0x89
 b3_str_123_new_size equ strlen(b3_str_123)
 
-b3_str_124 equ "Mexericápolis  "
+b3_str_124 equ "Cidade Agitada"
 b3_str_124_max_size equ 0x86
 b3_str_124_new_size equ strlen(b3_str_124)
 
@@ -498,15 +498,15 @@ b3_str_125 equ "A cidade natal da Shantae! Lugar de fazer compras e pegar dicas!
 b3_str_125_max_size equ 0x86
 b3_str_125_new_size equ strlen(b3_str_125)
 
-b3_str_126 equ "Abismo da Bota "
+b3_str_126 equ "Abismo da Risky"
 b3_str_126_max_size equ 0x86
 b3_str_126_new_size equ strlen(b3_str_126)
 
-b3_str_127 equ "Que caverna misteriosa! A Bota Negra tá tramando algo..."
+b3_str_127 equ "Que caverna misteriosa! A Risky Boots tá tramando algo..."
 b3_str_127_max_size equ 0x86
 b3_str_127_new_size equ strlen(b3_str_127)
 
-b3_str_128 equ "Minápolis      "
+b3_str_128 equ "Cidade Minada  "
 b3_str_128_max_size equ 0x86
 b3_str_128_new_size equ strlen(b3_str_128)
 
@@ -522,7 +522,7 @@ b3_str_131 equ "Uma selva encantada cheia de labirintos e monstros!"
 b3_str_131_max_size equ 0x86
 b3_str_131_new_size equ strlen(b3_str_131)
 
-b3_str_132 equ "Lavápolis      "
+b3_str_132 equ "Cidade Lávica  "
 b3_str_132_max_size equ 0x86
 b3_str_132_new_size equ strlen(b3_str_132)
 
@@ -530,7 +530,7 @@ b3_str_133 equ "Esquenta e sua, que essa vai ficar na tua!"
 b3_str_133_max_size equ 0x86
 b3_str_133_new_size equ strlen(b3_str_133)
 
-b3_str_134 equ "Museulândia    "
+b3_str_134 equ "Cidade Museu   "
 b3_str_134_max_size equ 0x86
 b3_str_134_new_size equ strlen(b3_str_134)
 
@@ -546,7 +546,7 @@ b3_str_137 equ "Uma terra devastada, confusa de navegar mas cheia de segredos!"
 b3_str_137_max_size equ 0x86
 b3_str_137_new_size equ strlen(b3_str_137)
 
-b3_str_138 equ "Brejolândia    "
+b3_str_138 equ "Cidade Brejada "
 b3_str_138_max_size equ 0x86
 b3_str_138_new_size equ strlen(b3_str_138)
 
@@ -558,7 +558,7 @@ b3_str_140 equ "Palácio Real   "
 b3_str_140_max_size equ 0x86
 b3_str_140_new_size equ strlen(b3_str_140)
 
-b3_str_141 equ "O Possante Palácio da Sultana de Lantejoulândia!"
+b3_str_141 equ "O Possante Palácio da Sultana de Sequin Land!"
 b3_str_141_max_size equ 0x86
 b3_str_141_new_size equ strlen(b3_str_141)
 

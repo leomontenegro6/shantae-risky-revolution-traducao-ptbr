@@ -2,7 +2,7 @@ b4_str_144 equ "*SHANTAE ADVANCE:"
 b4_str_144_max_size equ 0x3F
 b4_str_144_new_size equ strlen(b4_str_144)
 
-b4_str_145 equ "*REVOLUÇÃO DA BOTA NEGRA"
+b4_str_145 equ "*REVOLUÇÃO DA RISKY"
 b4_str_145_max_size equ 0x19F
 b4_str_145_new_size equ strlen(b4_str_145)
 
@@ -618,7 +618,7 @@ b4_str_296 equ "*OBRIGADO POR JOGAR!"
 b4_str_296_max_size equ 0x1F
 b4_str_296_new_size equ strlen(b4_str_296)
 
-b4_str_297 equ "Lantejoulândia!"
+b4_str_297 equ "Sequin Land!"
 b4_str_297_max_size equ 0x3F
 b4_str_297_new_size equ strlen(b4_str_297)
 
@@ -674,7 +674,7 @@ b4_str_310 equ "a heroína Meia-Gênia"
 b4_str_310_max_size equ 0x3F
 b4_str_310_new_size equ strlen(b4_str_310)
 
-b4_str_311 equ " de Mexericápolis."
+b4_str_311 equ " de Scuttle Town."
 b4_str_311_max_size equ 0x13F
 b4_str_311_new_size equ strlen(b4_str_311)
 
@@ -718,7 +718,7 @@ b4_str_321 equ "heroína, a pirata nefasta,"
 b4_str_321_max_size equ 0x3F
 b4_str_321_new_size equ strlen(b4_str_321)
 
-b4_str_322 equ "Bota Negra, dessa vez"
+b4_str_322 equ "Risky Boots, dessa vez"
 b4_str_322_max_size equ 0x3F
 b4_str_322_new_size equ strlen(b4_str_322)
 
@@ -734,7 +734,7 @@ b4_str_325 equ "a Shantae, e conquistar"
 b4_str_325_max_size equ 0x3F
 b4_str_325_new_size equ strlen(b4_str_325)
 
-b4_str_326 equ "Lantejoulândia de uma vez"
+b4_str_326 equ "Sequin Land de uma vez"
 b4_str_326_max_size equ 0x3F
 b4_str_326_new_size equ strlen(b4_str_326)
 

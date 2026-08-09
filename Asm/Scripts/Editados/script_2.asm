@@ -1074,7 +1074,7 @@ b2_str_269 equ "Eu mal te conheço e"
 b2_str_269_max_size equ 0x1F
 b2_str_269_new_size equ strlen(b2_str_269)
 
-b2_str_270 equ "já te odeio muito."
+b2_str_270 equ "já te desconsidero pacas."
 b2_str_270_max_size equ 0x1F
 b2_str_270_new_size equ strlen(b2_str_270)
 
@@ -3118,7 +3118,7 @@ b2_str_780 equ "de contingência."
 b2_str_780_max_size equ 0x1F
 b2_str_780_new_size equ strlen(b2_str_780)
 
-b2_str_781 equ "BOTA: *BARRAQUEIRO!^"
+b2_str_781 equ "BOTA NEGRA: *BARRAQUEIRO!^"
 b2_str_781_max_size equ 0x1F
 b2_str_781_new_size equ strlen(b2_str_781)
 
@@ -3178,7 +3178,7 @@ b2_str_795 equ "feito."
 b2_str_795_max_size equ 0x1F
 b2_str_795_new_size equ strlen(b2_str_795)
 
-b2_str_796 equ "BOTA: Heh.^"
+b2_str_796 equ "BOTA NEGRA: Heh.^"
 b2_str_796_max_size equ 0x1F
 b2_str_796_new_size equ strlen(b2_str_796)
 
@@ -6642,7 +6642,7 @@ b2_str_1661 equ "Hmm.^"
 b2_str_1661_max_size equ 0x1F
 b2_str_1661_new_size equ strlen(b2_str_1661)
 
-b2_str_1662 equ " *MUSEULÂNDIA.^"
+b2_str_1662 equ "*MUSEULÂNDIA.^"
 b2_str_1662_max_size equ 0x1F
 b2_str_1662_new_size equ strlen(b2_str_1662)
 
@@ -8674,11 +8674,11 @@ b2_str_2169 equ "Que tédio!^"
 b2_str_2169_max_size equ 0x1F
 b2_str_2169_new_size equ strlen(b2_str_2169)
 
-b2_str_2170 equ "Esses quadros de arte"
+b2_str_2170 equ "Esses quadros de arte é tudo"
 b2_str_2170_max_size equ 0x1F
 b2_str_2170_new_size equ strlen(b2_str_2170)
 
-b2_str_2171 equ "não tem utilidade alguma!^"
+b2_str_2171 equ "tranqueira inútil!^"
 b2_str_2171_max_size equ 0x1F
 b2_str_2171_new_size equ strlen(b2_str_2171)
 
@@ -8690,7 +8690,7 @@ b2_str_2173 equ "sentido, ou provocar alguma"
 b2_str_2173_max_size equ 0x1F
 b2_str_2173_new_size equ strlen(b2_str_2173)
 
-b2_str_2174 equ "sensação aos visitantes,"
+b2_str_2174 equ "sensação nos visitantes,"
 b2_str_2174_max_size equ 0x1F
 b2_str_2174_new_size equ strlen(b2_str_2174)
 
@@ -8770,7 +8770,7 @@ b2_str_2193 equ "Gêim' dos ruins pra mim?"
 b2_str_2193_max_size equ 0x1F
 b2_str_2193_new_size equ strlen(b2_str_2193)
 
-b2_str_2194 equ "> Claro"
+b2_str_2194 equ "> Isso aí"
 b2_str_2194_max_size equ 0x1F
 b2_str_2194_new_size equ strlen(b2_str_2194)
 
@@ -13502,7 +13502,7 @@ b2_str_3376 equ "Se funcionar, Lantejou-"
 b2_str_3376_max_size equ 0x1F
 b2_str_3376_new_size equ strlen(b2_str_3376)
 
-b2_str_3377 equ "lândia ficara ainda melhor"
+b2_str_3377 equ "lândia ficará ainda melhor"
 b2_str_3377_max_size equ 0x1F
 b2_str_3377_new_size equ strlen(b2_str_3377)
 
@@ -14818,7 +14818,7 @@ b2_str_3705 equ "Ah... não me diga que..."
 b2_str_3705_max_size equ 0x1F
 b2_str_3705_new_size equ strlen(b2_str_3705)
 
-b2_str_3706 equ "BOTA: Interferindo nos"
+b2_str_3706 equ "BOTA NEGRA: Interferindo nos"
 b2_str_3706_max_size equ 0x1F
 b2_str_3706_new_size equ strlen(b2_str_3706)
 
@@ -15278,7 +15278,7 @@ b2_str_3820 equ "a gente em cana de novo."
 b2_str_3820_max_size equ 0x1F
 b2_str_3820_new_size equ strlen(b2_str_3820)
 
-b2_str_3821 equ "Não quero vocês, traidores!^"
+b2_str_3821 equ "Vão se lascar, seus traíras!^"
 b2_str_3821_max_size equ 0x1F
 b2_str_3821_new_size equ strlen(b2_str_3821)
 
@@ -15290,7 +15290,7 @@ b2_str_3823 equ "mesmo!"
 b2_str_3823_max_size equ 0x1F
 b2_str_3823_new_size equ strlen(b2_str_3823)
 
-b2_str_3824 equ "BOTA: Ouviu isso?^"
+b2_str_3824 equ "BOTA NEGRA: Ouviu isso?^"
 b2_str_3824_max_size equ 0x1F
 b2_str_3824_new_size equ strlen(b2_str_3824)
 
@@ -15454,7 +15454,7 @@ b2_str_3864 equ "... ... ..."
 b2_str_3864_max_size equ 0x1F
 b2_str_3864_new_size equ strlen(b2_str_3864)
 
-b2_str_3865 equ "SKY: Funcionou!"
+b2_str_3865 equ "CELINA: Funcionou!"
 b2_str_3865_max_size equ 0x1F
 b2_str_3865_new_size equ strlen(b2_str_3865)
 
@@ -16118,7 +16118,7 @@ b2_str_4030 equ " ^"
 b2_str_4030_max_size equ 0x1F
 b2_str_4030_new_size equ strlen(b2_str_4030)
 
-b2_str_4031 equ "A Bota negra vai ter a sua"
+b2_str_4031 equ "A Bota Negra vai ter a sua"
 b2_str_4031_max_size equ 0x1F
 b2_str_4031_new_size equ strlen(b2_str_4031)
 
@@ -16154,7 +16154,7 @@ b2_str_4039 equ "> PULA!"
 b2_str_4039_max_size equ 0x1F
 b2_str_4039_new_size equ strlen(b2_str_4039)
 
-b2_str_4040 equ "Vamos lá!"
+b2_str_4040 equ "Vamo lá!"
 b2_str_4040_max_size equ 0x1F
 b2_str_4040_new_size equ strlen(b2_str_4040)
 
@@ -16350,7 +16350,7 @@ b2_str_4088 equ "Isso faz de ti o *JOGADOR *UM!^"
 b2_str_4088_max_size equ 0x1F
 b2_str_4088_new_size equ strlen(b2_str_4088)
 
-b2_str_4089 equ "Os cabos gerlamente tem um"
+b2_str_4089 equ "Os cabos geralmente tem um"
 b2_str_4089_max_size equ 0x1F
 b2_str_4089_new_size equ strlen(b2_str_4089)
 

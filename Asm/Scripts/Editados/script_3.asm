@@ -454,7 +454,7 @@ b3_str_114 equ "POUPA-PM: Uma turbinada nas magias! Corta consumo de magia pela 
 b3_str_114_max_size equ 0x86
 b3_str_114_new_size equ strlen(b3_str_114)
 
-b3_str_115 equ "XAMPU: Cabelo turbinado! Xumpu sedoso que dá mais força e movimento ao seu cabelo!"
+b3_str_115 equ "XAMPU: Cabelo turbinado! Xampu sedoso que dá mais força e movimento ao seu cabelo!"
 b3_str_115_max_size equ 0x86
 b3_str_115_new_size equ strlen(b3_str_115)
 

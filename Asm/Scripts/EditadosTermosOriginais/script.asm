@@ -146,7 +146,7 @@ b1_str_037 equ "Você não aprendeu essa dança ainda!"
 b1_str_037_max_size equ 0x86
 b1_str_037_new_size equ strlen(b1_str_037)
 
-b1_str_038 equ "PORTA CORAÇÃO: Aumenta sua VITALIDADE MÁXIMA! Consegue achar TODOS OS SETE?"
+b1_str_038 equ "PORTA-CORAÇÃO: Aumenta sua VITALIDADE MÁXIMA! Consegue achar TODOS OS SETE?"
 b1_str_038_max_size equ 0x86
 b1_str_038_new_size equ strlen(b1_str_038)
 

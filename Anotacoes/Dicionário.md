@@ -32,6 +32,7 @@ Haunted Grove = Mata Assombrada|
 # Inimigos
 
 Tinkerbat = Tinkercego
+Tinkerworm = Tinkerverme
 
 # Danças
 

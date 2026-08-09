@@ -106,7 +106,7 @@ b2_str_027 equ "Achou uma *LULA *SECRETA!"
 b2_str_027_max_size equ 0x1F
 b2_str_027_new_size equ strlen(b2_str_027)
 
-b2_str_028 equ "Achou um *PORTA *CORAÇÃO!"
+b2_str_028 equ "Achou um *PORTA-CORAÇÃO!"
 b2_str_028_max_size equ 0x1F
 b2_str_028_new_size equ strlen(b2_str_028)
 
@@ -534,7 +534,7 @@ b2_str_134 equ "Deixa eu dar uma olhada."
 b2_str_134_max_size equ 0x1F
 b2_str_134_new_size equ strlen(b2_str_134)
 
-b2_str_135 equ "NOVO LOCAL: *MINÁPOLIS!"
+b2_str_135 equ "NOVO LOCAL: *CIDADE *MINADA!"
 b2_str_135_max_size equ 0x1F
 b2_str_135_new_size equ strlen(b2_str_135)
 
@@ -542,11 +542,11 @@ b2_str_136 equ "NOVO LOCAL: *HORTO *DOS *OGROS!"
 b2_str_136_max_size equ 0x1F
 b2_str_136_new_size equ strlen(b2_str_136)
 
-b2_str_137 equ "NOVO LOCAL: *LAVÁPOLIS!"
+b2_str_137 equ "NOVO LOCAL: *CIDADE *LÁVICA!"
 b2_str_137_max_size equ 0x1F
 b2_str_137_new_size equ strlen(b2_str_137)
 
-b2_str_138 equ "NOVO LOCAL: *MUSEULÂNDIA!"
+b2_str_138 equ "NOVO LOCAL: *CIDADE *MUSEU!"
 b2_str_138_max_size equ 0x1F
 b2_str_138_new_size equ strlen(b2_str_138)
 
@@ -554,7 +554,7 @@ b2_str_139 equ "NOVO LOCAL: *PENHA *DAS *NAGAS!"
 b2_str_139_max_size equ 0x1F
 b2_str_139_new_size equ strlen(b2_str_139)
 
-b2_str_140 equ "NOVO LOCAL: *BREJOLÂNDIA!"
+b2_str_140 equ "NOVO LOCAL: *CIDADE *BREJADA!"
 b2_str_140_max_size equ 0x1F
 b2_str_140_new_size equ strlen(b2_str_140)
 
@@ -598,7 +598,7 @@ b2_str_150 equ "Aqui está, Prefeito"
 b2_str_150_max_size equ 0x1F
 b2_str_150_new_size equ strlen(b2_str_150)
 
-b2_str_151 equ "Mexerico!^"
+b2_str_151 equ "Scuttlebutt!^"
 b2_str_151_max_size equ 0x1F
 b2_str_151_new_size equ strlen(b2_str_151)
 
@@ -630,7 +630,7 @@ b2_str_158 equ "por toda a costa da"
 b2_str_158_max_size equ 0x1F
 b2_str_158_new_size equ strlen(b2_str_158)
 
-b2_str_159 equ "*MEXERICÁPOLIS!^"
+b2_str_159 equ "*CIDADE *AGITADA!^"
 b2_str_159_max_size equ 0x1F
 b2_str_159_new_size equ strlen(b2_str_159)
 
@@ -794,7 +794,7 @@ b2_str_199 equ "o trampo pesado!"
 b2_str_199_max_size equ 0x1F
 b2_str_199_new_size equ strlen(b2_str_199)
 
-b2_str_200 equ "Celina, Bolo! Foi mal!"
+b2_str_200 equ "Sky, Bolo! Foi mal!"
 b2_str_200_max_size equ 0x1F
 b2_str_200_new_size equ strlen(b2_str_200)
 
@@ -826,7 +826,7 @@ b2_str_207 equ "Essa é minha nova amiga,"
 b2_str_207_max_size equ 0x1F
 b2_str_207_new_size equ strlen(b2_str_207)
 
-b2_str_208 equ "Delamorta!"
+b2_str_208 equ "Rottytops!"
 b2_str_208_max_size equ 0x1F
 b2_str_208_new_size equ strlen(b2_str_208)
 
@@ -854,7 +854,7 @@ b2_str_214 equ "são o inferno na terra!"
 b2_str_214_max_size equ 0x1F
 b2_str_214_new_size equ strlen(b2_str_214)
 
-b2_str_215 equ "Celina, você está levando"
+b2_str_215 equ "Sky, você está levando"
 b2_str_215_max_size equ 0x1F
 b2_str_215_new_size equ strlen(b2_str_215)
 
@@ -978,7 +978,7 @@ b2_str_245 equ "a icônica e única...^"
 b2_str_245_max_size equ 0x1F
 b2_str_245_new_size equ strlen(b2_str_245)
 
-b2_str_246 equ "BOTA NEGRA!^"
+b2_str_246 equ "RISKY BOOTS!^"
 b2_str_246_max_size equ 0x1F
 b2_str_246_new_size equ strlen(b2_str_246)
 
@@ -1042,11 +1042,11 @@ b2_str_261 equ "Venham me pegar se puderem!^"
 b2_str_261_max_size equ 0x1F
 b2_str_261_new_size equ strlen(b2_str_261)
 
-b2_str_262 equ "Tchau-tchau!"
+b2_str_262 equ "Tchauzinho!"
 b2_str_262_max_size equ 0x1F
 b2_str_262_new_size equ strlen(b2_str_262)
 
-b2_str_263 equ "A Bota Negra tá fugindo!"
+b2_str_263 equ "A Risky Boots tá fugindo!"
 b2_str_263_max_size equ 0x1F
 b2_str_263_new_size equ strlen(b2_str_263)
 
@@ -1074,7 +1074,7 @@ b2_str_269 equ "Eu mal te conheço e"
 b2_str_269_max_size equ 0x1F
 b2_str_269_new_size equ strlen(b2_str_269)
 
-b2_str_270 equ "já te odeio muito."
+b2_str_270 equ "já te desconsidero pacas."
 b2_str_270_max_size equ 0x1F
 b2_str_270_new_size equ strlen(b2_str_270)
 
@@ -1214,19 +1214,19 @@ b2_str_304 equ "*VEZ que você *SALVOU!^"
 b2_str_304_max_size equ 0x1F
 b2_str_304_new_size equ strlen(b2_str_304)
 
-b2_str_305 equ "Então chore baixo se alguma"
+b2_str_305 equ "Então chore baixo se você"
 b2_str_305_max_size equ 0x1F
 b2_str_305_new_size equ strlen(b2_str_305)
 
-b2_str_306 equ "coisa de ruim acontecer.^"
+b2_str_306 equ "tiver feito caquinha.^"
 b2_str_306_max_size equ 0x1F
 b2_str_306_new_size equ strlen(b2_str_306)
 
-b2_str_307 equ "Então lembre-se...^"
+b2_str_307 equ "Por isso, lembre-se...^"
 b2_str_307_max_size equ 0x1F
 b2_str_307_new_size equ strlen(b2_str_307)
 
-b2_str_308 equ "*SALVE *O *RAIO *DO *JOGO!"
+b2_str_308 equ "*SALVA *A *CACETA *DO *JOGO!"
 b2_str_308_max_size equ 0x1F
 b2_str_308_new_size equ strlen(b2_str_308)
 
@@ -1294,7 +1294,7 @@ b2_str_324 equ "Beijinho, tchau, tchau!^"
 b2_str_324_max_size equ 0x1F
 b2_str_324_new_size equ strlen(b2_str_324)
 
-b2_str_325 equ "- BarraQueiro"
+b2_str_325 equ "- MishMash"
 b2_str_325_max_size equ 0x1F
 b2_str_325_new_size equ strlen(b2_str_325)
 
@@ -1342,7 +1342,7 @@ b2_str_336 equ "Ninguém vai conseguir achar.^"
 b2_str_336_max_size equ 0x1F
 b2_str_336_new_size equ strlen(b2_str_336)
 
-b2_str_337 equ "- MarMelada"
+b2_str_337 equ "- FlimFlam"
 b2_str_337_max_size equ 0x1F
 b2_str_337_new_size equ strlen(b2_str_337)
 
@@ -1402,7 +1402,7 @@ b2_str_351 equ "Falou, tô cheio de fome.^"
 b2_str_351_max_size equ 0x1F
 b2_str_351_new_size equ strlen(b2_str_351)
 
-b2_str_352 equ "- PapoFurado"
+b2_str_352 equ "- Hogswoggle"
 b2_str_352_max_size equ 0x1F
 b2_str_352_new_size equ strlen(b2_str_352)
 
@@ -1442,7 +1442,7 @@ b2_str_361 equ "Ru ru ru!^"
 b2_str_361_max_size equ 0x1F
 b2_str_361_new_size equ strlen(b2_str_361)
 
-b2_str_362 equ "- MarMelada"
+b2_str_362 equ "- FlimFlam"
 b2_str_362_max_size equ 0x1F
 b2_str_362_new_size equ strlen(b2_str_362)
 
@@ -1462,7 +1462,7 @@ b2_str_366 equ "Não vão querer perder!^"
 b2_str_366_max_size equ 0x1F
 b2_str_366_new_size equ strlen(b2_str_366)
 
-b2_str_367 equ "- Delamorta"
+b2_str_367 equ "- Rottytops"
 b2_str_367_max_size equ 0x1F
 b2_str_367_new_size equ strlen(b2_str_367)
 
@@ -1494,7 +1494,7 @@ b2_str_374 equ "Fique paradinha aí,"
 b2_str_374_max_size equ 0x1F
 b2_str_374_new_size equ strlen(b2_str_374)
 
-b2_str_375 equ "Bota Negra!"
+b2_str_375 equ "Risky Boots!"
 b2_str_375_max_size equ 0x1F
 b2_str_375_new_size equ strlen(b2_str_375)
 
@@ -1578,7 +1578,7 @@ b2_str_395 equ "Ta-tah!"
 b2_str_395_max_size equ 0x1F
 b2_str_395_new_size equ strlen(b2_str_395)
 
-b2_str_396 equ "Bota Negra, sua linguaruda!"
+b2_str_396 equ "Risky Boots, sua linguaruda!"
 b2_str_396_max_size equ 0x1F
 b2_str_396_new_size equ strlen(b2_str_396)
 
@@ -1594,7 +1594,7 @@ b2_str_399 equ "Você tá bem?"
 b2_str_399_max_size equ 0x1F
 b2_str_399_new_size equ strlen(b2_str_399)
 
-b2_str_400 equ "Parece ser a Celina!"
+b2_str_400 equ "Parece ser a Sky!"
 b2_str_400_max_size equ 0x1F
 b2_str_400_new_size equ strlen(b2_str_400)
 
@@ -1606,11 +1606,11 @@ b2_str_402 equ "Que pássaro enorme!"
 b2_str_402_max_size equ 0x1F
 b2_str_402_new_size equ strlen(b2_str_402)
 
-b2_str_403 equ "É a mamãe do Chaves,"
+b2_str_403 equ "É a mamãe do Wrench,"
 b2_str_403_max_size equ 0x1F
 b2_str_403_new_size equ strlen(b2_str_403)
 
-b2_str_404 equ "a Machadinha!^"
+b2_str_404 equ "a Hatchet!^"
 b2_str_404_max_size equ 0x1F
 b2_str_404_new_size equ strlen(b2_str_404)
 
@@ -1654,7 +1654,7 @@ b2_str_414 equ "Tenho que descobrir o que a"
 b2_str_414_max_size equ 0x1F
 b2_str_414_new_size equ strlen(b2_str_414)
 
-b2_str_415 equ "Bota Negra tá aprontando!"
+b2_str_415 equ "Risky Boots tá aprontando!"
 b2_str_415_max_size equ 0x1F
 b2_str_415_new_size equ strlen(b2_str_415)
 
@@ -1714,11 +1714,11 @@ b2_str_429 equ "em baixo da cidade!"
 b2_str_429_max_size equ 0x1F
 b2_str_429_new_size equ strlen(b2_str_429)
 
-b2_str_430 equ "CELINA: Esta caverna é ainda"
+b2_str_430 equ "SKY: Esta caverna é ainda"
 b2_str_430_max_size equ 0x1F
 b2_str_430_new_size equ strlen(b2_str_430)
 
-b2_str_431 equ "maior que Mexericápolis!^"
+b2_str_431 equ "maior que a Cidade Agitada!^"
 b2_str_431_max_size equ 0x1F
 b2_str_431_new_size equ strlen(b2_str_431)
 
@@ -1726,11 +1726,11 @@ b2_str_432 equ "Olhem!"
 b2_str_432_max_size equ 0x1F
 b2_str_432_new_size equ strlen(b2_str_432)
 
-b2_str_433 equ "CELINA: Vai além da visão!"
+b2_str_433 equ "SKY: Vai além da visão!"
 b2_str_433_max_size equ 0x1F
 b2_str_433_new_size equ strlen(b2_str_433)
 
-b2_str_434 equ "DELAMORTA: Uma caverna assim"
+b2_str_434 equ "ROTTYTOPS: Uma caverna assim"
 b2_str_434_max_size equ 0x1F
 b2_str_434_new_size equ strlen(b2_str_434)
 
@@ -1738,15 +1738,15 @@ b2_str_435 equ "poderia se estender por"
 b2_str_435_max_size equ 0x1F
 b2_str_435_new_size equ strlen(b2_str_435)
 
-b2_str_436 equ "toda a Lantejoulândia!"
+b2_str_436 equ "toda a Sequin Land!"
 b2_str_436_max_size equ 0x1F
 b2_str_436_new_size equ strlen(b2_str_436)
 
-b2_str_437 equ "BOTA NEGRA: E você acertou!"
+b2_str_437 equ "RISKY: E você acertou!"
 b2_str_437_max_size equ 0x1F
 b2_str_437_new_size equ strlen(b2_str_437)
 
-b2_str_438 equ "SHANTAE: Bota Negra!^"
+b2_str_438 equ "SHANTAE: Risky Boots!^"
 b2_str_438_max_size equ 0x1F
 b2_str_438_new_size equ strlen(b2_str_438)
 
@@ -1774,7 +1774,7 @@ b2_str_444 equ "... aqui embaixo?"
 b2_str_444_max_size equ 0x1F
 b2_str_444_new_size equ strlen(b2_str_444)
 
-b2_str_445 equ "BOTA NEGRA: Ora, eu tava"
+b2_str_445 equ "RISKY: Ora, eu tava"
 b2_str_445_max_size equ 0x1F
 b2_str_445_new_size equ strlen(b2_str_445)
 
@@ -1790,7 +1790,7 @@ b2_str_448 equ "Já estou cansada dessa plebe"
 b2_str_448_max_size equ 0x1F
 b2_str_448_new_size equ strlen(b2_str_448)
 
-b2_str_449 equ "pobre de Lantejoulândia"
+b2_str_449 equ "pobre de Sequin Land"
 b2_str_449_max_size equ 0x1F
 b2_str_449_new_size equ strlen(b2_str_449)
 
@@ -1834,7 +1834,7 @@ b2_str_459 equ "dizer com isso?"
 b2_str_459_max_size equ 0x1F
 b2_str_459_new_size equ strlen(b2_str_459)
 
-b2_str_460 equ "BOTA NEGRA: Tá vendo esses"
+b2_str_460 equ "RISKY: Tá vendo esses"
 b2_str_460_max_size equ 0x1F
 b2_str_460_new_size equ strlen(b2_str_460)
 
@@ -1858,7 +1858,7 @@ b2_str_465 equ "Eles são o *PRÓPRIO *ALICERCE"
 b2_str_465_max_size equ 0x1F
 b2_str_465_new_size equ strlen(b2_str_465)
 
-b2_str_466 equ "de Lantejoulândia.^"
+b2_str_466 equ "de Sequin Land.^"
 b2_str_466_max_size equ 0x1F
 b2_str_466_new_size equ strlen(b2_str_466)
 
@@ -1890,11 +1890,11 @@ b2_str_473 equ "*DO *INTERIOR para a *COSTA!^"
 b2_str_473_max_size equ 0x1F
 b2_str_473_new_size equ strlen(b2_str_473)
 
-b2_str_474 equ "E vice versa!^"
+b2_str_474 equ "E vice-versa!^"
 b2_str_474_max_size equ 0x1F
 b2_str_474_new_size equ strlen(b2_str_474)
 
-b2_str_475 equ "Cada lugar em Lantejoulândia"
+b2_str_475 equ "Cada lugar em Sequin Land"
 b2_str_475_max_size equ 0x1F
 b2_str_475_new_size equ strlen(b2_str_475)
 
@@ -1914,7 +1914,7 @@ b2_str_479 equ "comer solta!"
 b2_str_479_max_size equ 0x1F
 b2_str_479_new_size equ strlen(b2_str_479)
 
-b2_str_480 equ "CELINA: Isso é loucura!"
+b2_str_480 equ "SKY: Isso é loucura!"
 b2_str_480_max_size equ 0x1F
 b2_str_480_new_size equ strlen(b2_str_480)
 
@@ -1926,7 +1926,7 @@ b2_str_482 equ "é impossível!"
 b2_str_482_max_size equ 0x1F
 b2_str_482_new_size equ strlen(b2_str_482)
 
-b2_str_483 equ "DELAMORTA: Ahn... pessoal?"
+b2_str_483 equ "ROTTYTOPS: Ahn... pessoal?"
 b2_str_483_max_size equ 0x1F
 b2_str_483_new_size equ strlen(b2_str_483)
 
@@ -1934,7 +1934,7 @@ b2_str_484 equ "Eu tô vendo um monte"
 b2_str_484_max_size equ 0x1F
 b2_str_484_new_size equ strlen(b2_str_484)
 
-b2_str_485 equ "de parafernalhas aqui."
+b2_str_485 equ "de parafernalhas lá em cima."
 b2_str_485_max_size equ 0x1F
 b2_str_485_new_size equ strlen(b2_str_485)
 
@@ -1946,7 +1946,7 @@ b2_str_487 equ "vazar daqui."
 b2_str_487_max_size equ 0x1F
 b2_str_487_new_size equ strlen(b2_str_487)
 
-b2_str_488 equ "BOTA NEGRA: Lantejoulândia"
+b2_str_488 equ "RISKY: Sequin Land"
 b2_str_488_max_size equ 0x1F
 b2_str_488_new_size equ strlen(b2_str_488)
 
@@ -1962,19 +1962,19 @@ b2_str_491 equ "e digam a eles que"
 b2_str_491_max_size equ 0x1F
 b2_str_491_new_size equ strlen(b2_str_491)
 
-b2_str_492 equ "a Bota Negra...^"
+b2_str_492 equ "a Risky Boots...^"
 b2_str_492_max_size equ 0x1F
 b2_str_492_new_size equ strlen(b2_str_492)
 
-b2_str_493 equ "...sua *NOVA *RAINHA...^"
+b2_str_493 equ "sua *NOVA *RAINHA...^"
 b2_str_493_max_size equ 0x1F
 b2_str_493_new_size equ strlen(b2_str_493)
 
-b2_str_494 equ "...chegará em breve para"
+b2_str_494 equ "em breve vai fazer a coleta"
 b2_str_494_max_size equ 0x1F
 b2_str_494_new_size equ strlen(b2_str_494)
 
-b2_str_495 equ "pegar o dinheiro de geral!^"
+b2_str_495 equ "não-oficial de impostos!^"
 b2_str_495_max_size equ 0x1F
 b2_str_495_new_size equ strlen(b2_str_495)
 
@@ -2010,7 +2010,7 @@ b2_str_503 equ "Ativem o *MOTOR"
 b2_str_503_max_size equ 0x1F
 b2_str_503_new_size equ strlen(b2_str_503)
 
-b2_str_504 equ "*DE *TREMOR!"
+b2_str_504 equ "*TREMULANTE!"
 b2_str_504_max_size equ 0x1F
 b2_str_504_new_size equ strlen(b2_str_504)
 
@@ -2026,7 +2026,7 @@ b2_str_507 equ "SHANTAE: Temos que avisar a"
 b2_str_507_max_size equ 0x1F
 b2_str_507_new_size equ strlen(b2_str_507)
 
-b2_str_508 equ "*MEXERICÁPOLIS!^"
+b2_str_508 equ "*CIDADE *AGITADA!^"
 b2_str_508_max_size equ 0x1F
 b2_str_508_new_size equ strlen(b2_str_508)
 
@@ -2034,7 +2034,7 @@ b2_str_509 equ "E também a todo mundo na"
 b2_str_509_max_size equ 0x1F
 b2_str_509_new_size equ strlen(b2_str_509)
 
-b2_str_510 equ "Lantejoulândia...^"
+b2_str_510 equ "Sequin Land...^"
 b2_str_510_max_size equ 0x1F
 b2_str_510_new_size equ strlen(b2_str_510)
 
@@ -2074,7 +2074,7 @@ b2_str_519 equ "da máquina subterrânea"
 b2_str_519_max_size equ 0x1F
 b2_str_519_new_size equ strlen(b2_str_519)
 
-b2_str_520 equ "da Bota Negra!"
+b2_str_520 equ "da Risky Boots!"
 b2_str_520_max_size equ 0x1F
 b2_str_520_new_size equ strlen(b2_str_520)
 
@@ -2134,7 +2134,7 @@ b2_str_534 equ "Um lugar para curar seus"
 b2_str_534_max_size equ 0x1F
 b2_str_534_new_size equ strlen(b2_str_534)
 
-b2_str_535 equ "*CORAÇÕES e afogar todas"
+b2_str_535 equ "*CORAÇÕES e lavar todas"
 b2_str_535_max_size equ 0x1F
 b2_str_535_new_size equ strlen(b2_str_535)
 
@@ -2258,7 +2258,7 @@ b2_str_565 equ "É só entrar aqui."
 b2_str_565_max_size equ 0x1F
 b2_str_565_new_size equ strlen(b2_str_565)
 
-b2_str_566 equ "Bem-vinda à *MEXERICÁPOLIS!^"
+b2_str_566 equ "Bem-vinda à *CIDADE *AGITADA!^"
 b2_str_566_max_size equ 0x1F
 b2_str_566_new_size equ strlen(b2_str_566)
 
@@ -2318,7 +2318,7 @@ b2_str_580 equ "Aaaaiiii!"
 b2_str_580_max_size equ 0x1F
 b2_str_580_new_size equ strlen(b2_str_580)
 
-b2_str_581 equ "Tio, a Bota Negra, ela-"
+b2_str_581 equ "Tio, a Risky Boots, ela-"
 b2_str_581_max_size equ 0x1F
 b2_str_581_new_size equ strlen(b2_str_581)
 
@@ -2446,7 +2446,7 @@ b2_str_612 equ "É a *CAIXA *DE *FERRAMENTAS!^"
 b2_str_612_max_size equ 0x1F
 b2_str_612_new_size equ strlen(b2_str_612)
 
-b2_str_613 equ "Leve-a pro *TIO *MÍMICO,"
+b2_str_613 equ "Leve-a pro *TIO *MIMIC,"
 b2_str_613_max_size equ 0x1F
 b2_str_613_new_size equ strlen(b2_str_613)
 
@@ -2526,7 +2526,7 @@ b2_str_632 equ "dessa vez?"
 b2_str_632_max_size equ 0x1F
 b2_str_632_new_size equ strlen(b2_str_632)
 
-b2_str_633 equ "A Bota Negra voltou,"
+b2_str_633 equ "A Risky Boots voltou,"
 b2_str_633_max_size equ 0x1F
 b2_str_633_new_size equ strlen(b2_str_633)
 
@@ -2566,7 +2566,7 @@ b2_str_642 equ "Acho que ela chamou de"
 b2_str_642_max_size equ 0x1F
 b2_str_642_new_size equ strlen(b2_str_642)
 
-b2_str_643 equ "*MOTOR *DE *TREMOR."
+b2_str_643 equ "*MOTOR *TREMULANTE."
 b2_str_643_max_size equ 0x1F
 b2_str_643_new_size equ strlen(b2_str_643)
 
@@ -2782,7 +2782,7 @@ b2_str_696 equ "NÃO TÔ GRITANDO!"
 b2_str_696_max_size equ 0x1F
 b2_str_696_new_size equ strlen(b2_str_696)
 
-b2_str_697 equ "A Bota Negra fez isso.^"
+b2_str_697 equ "A Risky Boots fez isso.^"
 b2_str_697_max_size equ 0x1F
 b2_str_697_new_size equ strlen(b2_str_697)
 
@@ -2858,7 +2858,7 @@ b2_str_715 equ "Afinal, eu SOU a Gênia"
 b2_str_715_max_size equ 0x1F
 b2_str_715_new_size equ strlen(b2_str_715)
 
-b2_str_716 equ "Guardiã de *MEXERICÁPOLIS.^"
+b2_str_716 equ "Guardiã da *CIDADE *AGITADA.^"
 b2_str_716_max_size equ 0x1F
 b2_str_716_new_size equ strlen(b2_str_716)
 
@@ -2954,7 +2954,7 @@ b2_str_739 equ "reverter os efeitos da"
 b2_str_739_max_size equ 0x1F
 b2_str_739_new_size equ strlen(b2_str_739)
 
-b2_str_740 equ "máquina da Bota Negra.^"
+b2_str_740 equ "máquina da Risky Boots.^"
 b2_str_740_max_size equ 0x1F
 b2_str_740_new_size equ strlen(b2_str_740)
 
@@ -3014,7 +3014,7 @@ b2_str_754 equ "Com as localidades de"
 b2_str_754_max_size equ 0x1F
 b2_str_754_new_size equ strlen(b2_str_754)
 
-b2_str_755 equ "Lantejoulândia todas"
+b2_str_755 equ "Sequin Land todas"
 b2_str_755_max_size equ 0x1F
 b2_str_755_new_size equ strlen(b2_str_755)
 
@@ -3026,7 +3026,7 @@ b2_str_757 equ "certeza."
 b2_str_757_max_size equ 0x1F
 b2_str_757_new_size equ strlen(b2_str_757)
 
-b2_str_758 equ "Vou deixar a Machadinha"
+b2_str_758 equ "Vou deixar a Hatchet"
 b2_str_758_max_size equ 0x1F
 b2_str_758_new_size equ strlen(b2_str_758)
 
@@ -3082,7 +3082,7 @@ b2_str_771 equ "Então esses certinhos acham"
 b2_str_771_max_size equ 0x1F
 b2_str_771_new_size equ strlen(b2_str_771)
 
-b2_str_772 equ "que podem me derrotar"
+b2_str_772 equ "que podem ganhar de mim"
 b2_str_772_max_size equ 0x1F
 b2_str_772_new_size equ strlen(b2_str_772)
 
@@ -3118,15 +3118,15 @@ b2_str_780 equ "de contingência."
 b2_str_780_max_size equ 0x1F
 b2_str_780_new_size equ strlen(b2_str_780)
 
-b2_str_781 equ "BOTA: *BARRAQUEIRO!^"
+b2_str_781 equ "RISKY: *MISHMASH!^"
 b2_str_781_max_size equ 0x1F
 b2_str_781_new_size equ strlen(b2_str_781)
 
-b2_str_782 equ "*MARMELADA!^"
+b2_str_782 equ "*FLIMFLAM!^"
 b2_str_782_max_size equ 0x1F
 b2_str_782_new_size equ strlen(b2_str_782)
 
-b2_str_783 equ "*PAPOFURADO!^"
+b2_str_783 equ "*HOGSWOGGLE!^"
 b2_str_783_max_size equ 0x1F
 b2_str_783_new_size equ strlen(b2_str_783)
 
@@ -3178,7 +3178,7 @@ b2_str_795 equ "feito."
 b2_str_795_max_size equ 0x1F
 b2_str_795_new_size equ strlen(b2_str_795)
 
-b2_str_796 equ "BOTA: Heh.^"
+b2_str_796 equ "RISKY: Heh.^"
 b2_str_796_max_size equ 0x1F
 b2_str_796_new_size equ strlen(b2_str_796)
 
@@ -3486,7 +3486,7 @@ b2_str_872 equ "Dê um pulo nesse lugar aqui."
 b2_str_872_max_size equ 0x1F
 b2_str_872_new_size equ strlen(b2_str_872)
 
-b2_str_873 equ "PEGOU *MAPA *DE *MINÁPOLIS!"
+b2_str_873 equ "PEGOU *MAPA *DA *CID. *MINADA!"
 b2_str_873_max_size equ 0x1F
 b2_str_873_new_size equ strlen(b2_str_873)
 
@@ -3494,7 +3494,7 @@ b2_str_874 equ "Esse mapa leva direto à"
 b2_str_874_max_size equ 0x1F
 b2_str_874_new_size equ strlen(b2_str_874)
 
-b2_str_875 equ "*MINÁPOLIS!^"
+b2_str_875 equ "*CIDADE *MINADA!^"
 b2_str_875_max_size equ 0x1F
 b2_str_875_new_size equ strlen(b2_str_875)
 
@@ -3542,7 +3542,7 @@ b2_str_886 equ "Esse mapa leva direto à"
 b2_str_886_max_size equ 0x1F
 b2_str_886_new_size equ strlen(b2_str_886)
 
-b2_str_887 equ "*MINÁPOLIS!^"
+b2_str_887 equ "*CIDADE *MINADA!^"
 b2_str_887_max_size equ 0x1F
 b2_str_887_new_size equ strlen(b2_str_887)
 
@@ -3566,7 +3566,7 @@ b2_str_892 equ "reverter os efeitos da"
 b2_str_892_max_size equ 0x1F
 b2_str_892_new_size equ strlen(b2_str_892)
 
-b2_str_893 equ "máquina da Bota Negra!"
+b2_str_893 equ "máquina da Risky Boots!"
 b2_str_893_max_size equ 0x1F
 b2_str_893_new_size equ strlen(b2_str_893)
 
@@ -3650,11 +3650,11 @@ b2_str_913 equ "Por que não vasculha a"
 b2_str_913_max_size equ 0x1F
 b2_str_913_new_size equ strlen(b2_str_913)
 
-b2_str_914 equ "*MEXERICÁPOLIS por pistas?"
+b2_str_914 equ "*CIDADE *AGITADA por pistas?"
 b2_str_914_max_size equ 0x1F
 b2_str_914_new_size equ strlen(b2_str_914)
 
-b2_str_915 equ "Minápolis, né?^"
+b2_str_915 equ "A Cidade Minada, né?^"
 b2_str_915_max_size equ 0x1F
 b2_str_915_new_size equ strlen(b2_str_915)
 
@@ -3674,15 +3674,15 @@ b2_str_919 equ "Sabe...^"
 b2_str_919_max_size equ 0x1F
 b2_str_919_new_size equ strlen(b2_str_919)
 
-b2_str_920 equ "Parece fazer sentido que"
+b2_str_920 equ "Parece fazer sentido que a"
 b2_str_920_max_size equ 0x1F
 b2_str_920_new_size equ strlen(b2_str_920)
 
-b2_str_921 equ "Minápolis *TROCOU *DE *LUGAR"
+b2_str_921 equ "Cidade Minada *TROCOU *DE"
 b2_str_921_max_size equ 0x1F
 b2_str_921_new_size equ strlen(b2_str_921)
 
-b2_str_922 equ "com *MEXERICÁPOLIS.^"
+b2_str_922 equ "*LUGAR com a *CIDADE *AGITADA.^"
 b2_str_922_max_size equ 0x1F
 b2_str_922_new_size equ strlen(b2_str_922)
 
@@ -3694,7 +3694,7 @@ b2_str_924 equ "pra conferir é algo fácil!"
 b2_str_924_max_size equ 0x1F
 b2_str_924_new_size equ strlen(b2_str_924)
 
-b2_str_925 equ "Vou adicionar *MINÁPOLIS"
+b2_str_925 equ "Vou adicionar *CIDADE *MINADA"
 b2_str_925_max_size equ 0x1F
 b2_str_925_new_size equ strlen(b2_str_925)
 
@@ -3966,7 +3966,7 @@ b2_str_992 equ "soltou quando tava tendo"
 b2_str_992_max_size equ 0x1F
 b2_str_992_new_size equ strlen(b2_str_992)
 
-b2_str_993 equ "os terremotos.^"
+b2_str_993 equ "os tremores.^"
 b2_str_993_max_size equ 0x1F
 b2_str_993_new_size equ strlen(b2_str_993)
 
@@ -4046,11 +4046,11 @@ b2_str_1012 equ "boas, e o precinho, ó!"
 b2_str_1012_max_size equ 0x1F
 b2_str_1012_new_size equ strlen(b2_str_1012)
 
-b2_str_1013 equ "Vem comprar com a Delamorta"
+b2_str_1013 equ "Vem comprar com a Rottytops"
 b2_str_1013_max_size equ 0x1F
 b2_str_1013_new_size equ strlen(b2_str_1013)
 
-b2_str_1014 equ "senão tu vira mosca-morta!"
+b2_str_1014 equ "senão vão te dar o bote!"
 b2_str_1014_max_size equ 0x1F
 b2_str_1014_new_size equ strlen(b2_str_1014)
 
@@ -4090,7 +4090,7 @@ b2_str_1023 equ "Você conseguiu!^"
 b2_str_1023_max_size equ 0x1F
 b2_str_1023_new_size equ strlen(b2_str_1023)
 
-b2_str_1024 equ "*MEXERICÁPOLIS enfim voltou"
+b2_str_1024 equ "*CIDADE *AGITADA enfim voltou"
 b2_str_1024_max_size equ 0x1F
 b2_str_1024_new_size equ strlen(b2_str_1024)
 
@@ -4098,7 +4098,7 @@ b2_str_1025 equ "pra onde devia estar!^"
 b2_str_1025_max_size equ 0x1F
 b2_str_1025_new_size equ strlen(b2_str_1025)
 
-b2_str_1026 equ "Imagino que *MINÁPOLIS"
+b2_str_1026 equ "Imagino que a *CIDADE *MINADA"
 b2_str_1026_max_size equ 0x1F
 b2_str_1026_new_size equ strlen(b2_str_1026)
 
@@ -4158,11 +4158,11 @@ b2_str_1040 equ "movido por aí desse jeito!"
 b2_str_1040_max_size equ 0x1F
 b2_str_1040_new_size equ strlen(b2_str_1040)
 
-b2_str_1041 equ "Mexericápolis e Minápolis"
+b2_str_1041 equ "A Cidade Agitada e a Cidade"
 b2_str_1041_max_size equ 0x1F
 b2_str_1041_new_size equ strlen(b2_str_1041)
 
-b2_str_1042 equ "foram trocadas?^"
+b2_str_1042 equ "Minada foram trocadas?^"
 b2_str_1042_max_size equ 0x1F
 b2_str_1042_new_size equ strlen(b2_str_1042)
 
@@ -4178,11 +4178,11 @@ b2_str_1045 equ "ficar toda arrepiada!"
 b2_str_1045_max_size equ 0x1F
 b2_str_1045_new_size equ strlen(b2_str_1045)
 
-b2_str_1046 equ "O terreno sob Mexericápolis"
+b2_str_1046 equ "O terreno sob a Cidade"
 b2_str_1046_max_size equ 0x1F
 b2_str_1046_new_size equ strlen(b2_str_1046)
 
-b2_str_1047 equ "é oco?^"
+b2_str_1047 equ "Agitada é oco?^"
 b2_str_1047_max_size equ 0x1F
 b2_str_1047_new_size equ strlen(b2_str_1047)
 
@@ -4234,7 +4234,7 @@ b2_str_1059 equ "de peixe voltou!"
 b2_str_1059_max_size equ 0x1F
 b2_str_1059_new_size equ strlen(b2_str_1059)
 
-b2_str_1060 equ "Cê consertou Mexericápolis!^"
+b2_str_1060 equ "Consertou a Cidade Agitada!^"
 b2_str_1060_max_size equ 0x1F
 b2_str_1060_new_size equ strlen(b2_str_1060)
 
@@ -4870,23 +4870,23 @@ b2_str_1218 equ "É toda sua, minha chapa!"
 b2_str_1218_max_size equ 0x1F
 b2_str_1218_new_size equ strlen(b2_str_1218)
 
-b2_str_1219 equ "Iaê negow! Wúul!"
+b2_str_1219 equ "Iaêr!"
 b2_str_1219_max_size equ 0x1F
 b2_str_1219_new_size equ strlen(b2_str_1219)
 
-b2_str_1220 equ "Aqui é o Lobo Borrachudo!^"
+b2_str_1220 equ "Sou o Lobo dos Vaporwares!^"
 b2_str_1220_max_size equ 0x1F
 b2_str_1220_new_size equ strlen(b2_str_1220)
 
-b2_str_1221 equ "Minha pira agora é colecio-"
+b2_str_1221 equ "Minha pira é em colecionar"
 b2_str_1221_max_size equ 0x1F
 b2_str_1221_new_size equ strlen(b2_str_1221)
 
-b2_str_1222 equ "nismo de mídias perdidas!^"
+b2_str_1222 equ "mídias perdidas!^"
 b2_str_1222_max_size equ 0x1F
 b2_str_1222_new_size equ strlen(b2_str_1222)
 
-b2_str_1223 equ "Adivinha a bola da vez?^"
+b2_str_1223 equ "Qual a bola da vez?^"
 b2_str_1223_max_size equ 0x1F
 b2_str_1223_new_size equ strlen(b2_str_1223)
 
@@ -4898,7 +4898,7 @@ b2_str_1225 equ "*RARÍSSIMO num sebo.^"
 b2_str_1225_max_size equ 0x1F
 b2_str_1225_new_size equ strlen(b2_str_1225)
 
-b2_str_1226 equ "Um neguin' tava com a fita.^"
+b2_str_1226 equ "Um pivete tava com a fita.^"
 b2_str_1226_max_size equ 0x1F
 b2_str_1226_new_size equ strlen(b2_str_1226)
 
@@ -4926,7 +4926,7 @@ b2_str_1232 equ "inédito, *INCOMPLETO"
 b2_str_1232_max_size equ 0x1F
 b2_str_1232_new_size equ strlen(b2_str_1232)
 
-b2_str_1233 equ "nunca lançado, negow.^"
+b2_str_1233 equ "que nunca foi lançado.^"
 b2_str_1233_max_size equ 0x1F
 b2_str_1233_new_size equ strlen(b2_str_1233)
 
@@ -4946,19 +4946,19 @@ b2_str_1237 equ "Agora tá perdida de novo.^"
 b2_str_1237_max_size equ 0x1F
 b2_str_1237_new_size equ strlen(b2_str_1237)
 
-b2_str_1238 equ "Tudo porque me enrolaram"
+b2_str_1238 equ "Tudo porque um repreiro me"
 b2_str_1238_max_size equ 0x1F
 b2_str_1238_new_size equ strlen(b2_str_1238)
 
-b2_str_1239 equ "quando fui fazer um rolo"
+b2_str_1239 equ "enrolou e trocamo a fita"
 b2_str_1239_max_size equ 0x1F
 b2_str_1239_new_size equ strlen(b2_str_1239)
 
-b2_str_1240 equ "lá na casa do Tiozã...^"
+b2_str_1240 equ "por um CD porn...^"
 b2_str_1240_max_size equ 0x1F
 b2_str_1240_new_size equ strlen(b2_str_1240)
 
-b2_str_1241 equ "Opa, quase garoteei.^"
+b2_str_1241 equ "Ops.^"
 b2_str_1241_max_size equ 0x1F
 b2_str_1241_new_size equ strlen(b2_str_1241)
 
@@ -4966,7 +4966,7 @@ b2_str_1242 equ "Se tu achar a fita...^"
 b2_str_1242_max_size equ 0x1F
 b2_str_1242_new_size equ strlen(b2_str_1242)
 
-b2_str_1243 equ "Vou te dar um negocin' que"
+b2_str_1243 equ "Vou te dar um negócio que"
 b2_str_1243_max_size equ 0x1F
 b2_str_1243_new_size equ strlen(b2_str_1243)
 
@@ -4974,7 +4974,7 @@ b2_str_1244 equ "vai te deixar bem na fita!"
 b2_str_1244_max_size equ 0x1F
 b2_str_1244_new_size equ strlen(b2_str_1244)
 
-b2_str_1245 equ "Epa!^"
+b2_str_1245 equ "Opa!^"
 b2_str_1245_max_size equ 0x1F
 b2_str_1245_new_size equ strlen(b2_str_1245)
 
@@ -4990,11 +4990,11 @@ b2_str_1248 equ "> Neca"
 b2_str_1248_max_size equ 0x1F
 b2_str_1248_new_size equ strlen(b2_str_1248)
 
-b2_str_1249 equ "Pô nêgo, me deixou no hype!"
+b2_str_1249 equ "Me empolgou à toa!"
 b2_str_1249_max_size equ 0x1F
 b2_str_1249_new_size equ strlen(b2_str_1249)
 
-b2_str_1250 equ "Opa, issaer carai!"
+b2_str_1250 equ "Opa, é nóis na fita!"
 b2_str_1250_max_size equ 0x1F
 b2_str_1250_new_size equ strlen(b2_str_1250)
 
@@ -5010,31 +5010,31 @@ b2_str_1253 equ "Promessa é dívida!^"
 b2_str_1253_max_size equ 0x1F
 b2_str_1253_new_size equ strlen(b2_str_1253)
 
-b2_str_1254 equ "Toma aí, nêga."
+b2_str_1254 equ "Toma aí."
 b2_str_1254_max_size equ 0x1F
 b2_str_1254_new_size equ strlen(b2_str_1254)
 
-b2_str_1255 equ "GANHOU UM *PORTA *CORAÇÃO!"
+b2_str_1255 equ "GANHOU UM *PORTA-CORAÇÃO!"
 b2_str_1255_max_size equ 0x1F
 b2_str_1255_new_size equ strlen(b2_str_1255)
 
-b2_str_1256 equ "Valeu, neguinha!"
+b2_str_1256 equ "Obrigado amiga, você é uma"
 b2_str_1256_max_size equ 0x1F
 b2_str_1256_new_size equ strlen(b2_str_1256)
 
-b2_str_1257 equ "Cê me salvou!^"
+b2_str_1257 equ "amiga!^"
 b2_str_1257_max_size equ 0x1F
 b2_str_1257_new_size equ strlen(b2_str_1257)
 
-b2_str_1258 equ "Chegou a hora de abrir essa"
+b2_str_1258 equ "Tá na hora de abrir essa"
 b2_str_1258_max_size equ 0x1F
 b2_str_1258_new_size equ strlen(b2_str_1258)
 
-b2_str_1259 equ "belezinha e ver o que tem"
+b2_str_1259 equ "belezinha e ver como que"
 b2_str_1259_max_size equ 0x1F
 b2_str_1259_new_size equ strlen(b2_str_1259)
 
-b2_str_1260 equ "de bom nesse negocin'!^"
+b2_str_1260 equ "bota ela pra funcionar!^"
 b2_str_1260_max_size equ 0x1F
 b2_str_1260_new_size equ strlen(b2_str_1260)
 
@@ -5042,15 +5042,15 @@ b2_str_1261 equ "Onde enfio esse troço?"
 b2_str_1261_max_size equ 0x1F
 b2_str_1261_new_size equ strlen(b2_str_1261)
 
-b2_str_1262 equ "Aqui é o Lobo Borrachudo!^"
+b2_str_1262 equ "Sou o Lobo dos Vaporwares!^"
 b2_str_1262_max_size equ 0x1F
 b2_str_1262_new_size equ strlen(b2_str_1262)
 
-b2_str_1263 equ "Minha pira agora é colecio-"
+b2_str_1263 equ "Minha pira é em colecionar"
 b2_str_1263_max_size equ 0x1F
 b2_str_1263_new_size equ strlen(b2_str_1263)
 
-b2_str_1264 equ "nismo de mídias perdidas!^"
+b2_str_1264 equ "mídias perdidas!^"
 b2_str_1264_max_size equ 0x1F
 b2_str_1264_new_size equ strlen(b2_str_1264)
 
@@ -5062,7 +5062,7 @@ b2_str_1266 equ "..."
 b2_str_1266_max_size equ 0x1F
 b2_str_1266_new_size equ strlen(b2_str_1266)
 
-b2_str_1267 equ "Esse *INTERRUPTOR *DE *TREMOR"
+b2_str_1267 equ "Esse *INTERRUPTOR *TREMULANTE"
 b2_str_1267_max_size equ 0x1F
 b2_str_1267_new_size equ strlen(b2_str_1267)
 
@@ -5146,15 +5146,15 @@ b2_str_1287 equ "Saca só!^"
 b2_str_1287_max_size equ 0x1F
 b2_str_1287_new_size equ strlen(b2_str_1287)
 
-b2_str_1288 equ "BarraQueiro vai botar pra"
+b2_str_1288 equ "MishMash vai te deixar"
 b2_str_1288_max_size equ 0x1F
 b2_str_1288_new_size equ strlen(b2_str_1288)
 
-b2_str_1289 equ "quebrar o barraco!"
+b2_str_1289 equ "com miorrexe!"
 b2_str_1289_max_size equ 0x1F
 b2_str_1289_new_size equ strlen(b2_str_1289)
 
-b2_str_1290 equ "Minha nossa senhora!^"
+b2_str_1290 equ "Minha Nossa Senhora!^"
 b2_str_1290_max_size equ 0x1F
 b2_str_1290_new_size equ strlen(b2_str_1290)
 
@@ -5194,11 +5194,11 @@ b2_str_1299 equ "Sou a filha do"
 b2_str_1299_max_size equ 0x1F
 b2_str_1299_new_size equ strlen(b2_str_1299)
 
-b2_str_1300 equ "Tio Mímico!"
+b2_str_1300 equ "Tio Mimic!"
 b2_str_1300_max_size equ 0x1F
 b2_str_1300_new_size equ strlen(b2_str_1300)
 
-b2_str_1301 equ "Tio Mímico?^"
+b2_str_1301 equ "Tio Mimic?^"
 b2_str_1301_max_size equ 0x1F
 b2_str_1301_new_size equ strlen(b2_str_1301)
 
@@ -5266,7 +5266,7 @@ b2_str_1317 equ "É justo por isso que o Tio"
 b2_str_1317_max_size equ 0x1F
 b2_str_1317_new_size equ strlen(b2_str_1317)
 
-b2_str_1318 equ "Mímico precisa de você!"
+b2_str_1318 equ "Mimic precisa de você!"
 b2_str_1318_max_size equ 0x1F
 b2_str_1318_new_size equ strlen(b2_str_1318)
 
@@ -5298,7 +5298,7 @@ b2_str_1325 equ "algazarra!^"
 b2_str_1325_max_size equ 0x1F
 b2_str_1325_new_size equ strlen(b2_str_1325)
 
-b2_str_1326 equ "Passe lá em *MEXERICÁPOLIS"
+b2_str_1326 equ "Passe lá na *CIDADE *AGITADA"
 b2_str_1326_max_size equ 0x1F
 b2_str_1326_new_size equ strlen(b2_str_1326)
 
@@ -5346,11 +5346,11 @@ b2_str_1337 equ "Ele é o maior especialista"
 b2_str_1337_max_size equ 0x1F
 b2_str_1337_new_size equ strlen(b2_str_1337)
 
-b2_str_1338 equ "no Subsolo da Lantejou-"
+b2_str_1338 equ "no Subsolo da Sequin Land"
 b2_str_1338_max_size equ 0x1F
 b2_str_1338_new_size equ strlen(b2_str_1338)
 
-b2_str_1339 equ "lândia que conheço."
+b2_str_1339 equ "que conheço."
 b2_str_1339_max_size equ 0x1F
 b2_str_1339_new_size equ strlen(b2_str_1339)
 
@@ -5378,11 +5378,11 @@ b2_str_1345 equ "Mas que vergonha!"
 b2_str_1345_max_size equ 0x1F
 b2_str_1345_new_size equ strlen(b2_str_1345)
 
-b2_str_1346 equ "Suspeitamos que a Bota"
+b2_str_1346 equ "Suspeitamos que a Risky"
 b2_str_1346_max_size equ 0x1F
 b2_str_1346_new_size equ strlen(b2_str_1346)
 
-b2_str_1347 equ "Negra também capturou"
+b2_str_1347 equ "Boots também capturou"
 b2_str_1347_max_size equ 0x1F
 b2_str_1347_new_size equ strlen(b2_str_1347)
 
@@ -5414,7 +5414,7 @@ b2_str_1354 equ "Ache-os para arruinar os"
 b2_str_1354_max_size equ 0x1F
 b2_str_1354_new_size equ strlen(b2_str_1354)
 
-b2_str_1355 equ "planos da Bota Negra."
+b2_str_1355 equ "planos da Risky Boots."
 b2_str_1355_max_size equ 0x1F
 b2_str_1355_new_size equ strlen(b2_str_1355)
 
@@ -5450,7 +5450,7 @@ b2_str_1363 equ "causadas pela máquina"
 b2_str_1363_max_size equ 0x1F
 b2_str_1363_new_size equ strlen(b2_str_1363)
 
-b2_str_1364 equ "da tal Bota Negrona.^"
+b2_str_1364 equ "da tal Risky Boots.^"
 b2_str_1364_max_size equ 0x1F
 b2_str_1364_new_size equ strlen(b2_str_1364)
 
@@ -5594,7 +5594,7 @@ b2_str_1399 equ "modo acabou indo parar"
 b2_str_1399_max_size equ 0x1F
 b2_str_1399_new_size equ strlen(b2_str_1399)
 
-b2_str_1400 equ "em Minápolis...^"
+b2_str_1400 equ "na Cidade Minada...^"
 b2_str_1400_max_size equ 0x1F
 b2_str_1400_new_size equ strlen(b2_str_1400)
 
@@ -5602,7 +5602,7 @@ b2_str_1401 equ "Depois de coletar sal"
 b2_str_1401_max_size equ 0x1F
 b2_str_1401_new_size equ strlen(b2_str_1401)
 
-b2_str_1402 equ "marinho de Mexericápolis!^"
+b2_str_1402 equ "marinho da Cidade Agitada!^"
 b2_str_1402_max_size equ 0x1F
 b2_str_1402_new_size equ strlen(b2_str_1402)
 
@@ -5666,7 +5666,7 @@ b2_str_1417 equ "parar até aqui...^"
 b2_str_1417_max_size equ 0x1F
 b2_str_1417_new_size equ strlen(b2_str_1417)
 
-b2_str_1418 equ "...Então a Bota Negra deve"
+b2_str_1418 equ "...Então a Risky Boots deve"
 b2_str_1418_max_size equ 0x1F
 b2_str_1418_new_size equ strlen(b2_str_1418)
 
@@ -5678,15 +5678,15 @@ b2_str_1420 equ "antes pelo menos uma vez!^"
 b2_str_1420_max_size equ 0x1F
 b2_str_1420_new_size equ strlen(b2_str_1420)
 
-b2_str_1421 equ "Porque essa rocha é de"
+b2_str_1421 equ "Porque essa rocha é da"
 b2_str_1421_max_size equ 0x1F
 b2_str_1421_new_size equ strlen(b2_str_1421)
 
-b2_str_1422 equ "*LAVÁPOLIS!"
+b2_str_1422 equ "*CIDADE *LÁVICA!"
 b2_str_1422_max_size equ 0x1F
 b2_str_1422_new_size equ strlen(b2_str_1422)
 
-b2_str_1423 equ "Lavápolis? Onde fica isso?"
+b2_str_1423 equ "Cidade Lávica? Onde fica?"
 b2_str_1423_max_size equ 0x1F
 b2_str_1423_new_size equ strlen(b2_str_1423)
 
@@ -5702,19 +5702,19 @@ b2_str_1426 equ "É só pegar a distância"
 b2_str_1426_max_size equ 0x1F
 b2_str_1426_new_size equ strlen(b2_str_1426)
 
-b2_str_1427 equ "entre Mexericápolis e"
+b2_str_1427 equ "entre a Cidade Agitada e"
 b2_str_1427_max_size equ 0x1F
 b2_str_1427_new_size equ strlen(b2_str_1427)
 
-b2_str_1428 equ "Minápolis...^"
+b2_str_1428 equ "a Cidade Minada...^"
 b2_str_1428_max_size equ 0x1F
 b2_str_1428_new_size equ strlen(b2_str_1428)
 
-b2_str_1429 equ "...depois de Minápolis"
+b2_str_1429 equ "...depois da Cidade Minada"
 b2_str_1429_max_size equ 0x1F
 b2_str_1429_new_size equ strlen(b2_str_1429)
 
-b2_str_1430 equ "a Lavápolis...^"
+b2_str_1430 equ "à Cidade Lávica...^"
 b2_str_1430_max_size equ 0x1F
 b2_str_1430_new_size equ strlen(b2_str_1430)
 
@@ -5738,19 +5738,19 @@ b2_str_1435 equ "Bam!^"
 b2_str_1435_max_size equ 0x1F
 b2_str_1435_new_size equ strlen(b2_str_1435)
 
-b2_str_1436 equ "Você vai achar Lavápolis"
+b2_str_1436 equ "Você vai achar a Cidade"
 b2_str_1436_max_size equ 0x1F
 b2_str_1436_new_size equ strlen(b2_str_1436)
 
-b2_str_1437 equ "bem aqui!"
+b2_str_1437 equ "Lávica bem aqui!"
 b2_str_1437_max_size equ 0x1F
 b2_str_1437_new_size equ strlen(b2_str_1437)
 
-b2_str_1438 equ "PEGOU *MAPA *DE *LAVÁPOLIS!"
+b2_str_1438 equ "PEGOU *MAPA *DA *CID. *LÁVICA!"
 b2_str_1438_max_size equ 0x1F
 b2_str_1438_new_size equ strlen(b2_str_1438)
 
-b2_str_1439 equ "O que a Bota Negra iria"
+b2_str_1439 equ "O que a Risky Boots iria"
 b2_str_1439_max_size equ 0x1F
 b2_str_1439_new_size equ strlen(b2_str_1439)
 
@@ -5758,7 +5758,7 @@ b2_str_1440 equ "querer com um lugar como"
 b2_str_1440_max_size equ 0x1F
 b2_str_1440_new_size equ strlen(b2_str_1440)
 
-b2_str_1441 equ "Lavápolis?"
+b2_str_1441 equ "a Cidade Lávica?"
 b2_str_1441_max_size equ 0x1F
 b2_str_1441_new_size equ strlen(b2_str_1441)
 
@@ -5826,7 +5826,7 @@ b2_str_1457 equ "pra ontem!^"
 b2_str_1457_max_size equ 0x1F
 b2_str_1457_new_size equ strlen(b2_str_1457)
 
-b2_str_1458 equ "*LAVÁPOLIS, lá vou eu!"
+b2_str_1458 equ "*CIDADE *LÁVICA, lá vou eu!"
 b2_str_1458_max_size equ 0x1F
 b2_str_1458_new_size equ strlen(b2_str_1458)
 
@@ -5854,7 +5854,7 @@ b2_str_1464 equ "vamos achar o *PROFESSOR"
 b2_str_1464_max_size equ 0x1F
 b2_str_1464_new_size equ strlen(b2_str_1464)
 
-b2_str_1465 equ "*PEPPERON em *LAVÁPOLIS?"
+b2_str_1465 equ "*PEPPERON na *CIDADE *LÁVICA?"
 b2_str_1465_max_size equ 0x1F
 b2_str_1465_new_size equ strlen(b2_str_1465)
 
@@ -5898,7 +5898,7 @@ b2_str_1475 equ "Ah, tá bom."
 b2_str_1475_max_size equ 0x1F
 b2_str_1475_new_size equ strlen(b2_str_1475)
 
-b2_str_1476 equ "Essa é a *LAVÁPOLIS?^"
+b2_str_1476 equ "Essa é a *CIDADE *LÁVICA?^"
 b2_str_1476_max_size equ 0x1F
 b2_str_1476_new_size equ strlen(b2_str_1476)
 
@@ -6166,15 +6166,15 @@ b2_str_1542 equ "*PEPPERON, e detenha a"
 b2_str_1542_max_size equ 0x1F
 b2_str_1542_new_size equ strlen(b2_str_1542)
 
-b2_str_1543 equ "Bota Negra!^"
+b2_str_1543 equ "Risky Boots!^"
 b2_str_1543_max_size equ 0x1F
 b2_str_1543_new_size equ strlen(b2_str_1543)
 
-b2_str_1544 equ "Você devia começar"
+b2_str_1544 equ "Você devia começar procu-"
 b2_str_1544_max_size equ 0x1F
 b2_str_1544_new_size equ strlen(b2_str_1544)
 
-b2_str_1545 equ "procurando em *LAVÁPOLIS!"
+b2_str_1545 equ "rando na *CIDADE *LÁVICA!"
 b2_str_1545_max_size equ 0x1F
 b2_str_1545_new_size equ strlen(b2_str_1545)
 
@@ -6578,7 +6578,7 @@ b2_str_1645 equ "o professor...^"
 b2_str_1645_max_size equ 0x1F
 b2_str_1645_new_size equ strlen(b2_str_1645)
 
-b2_str_1646 equ "...Vá pra *MUSEULÂNDIA!^"
+b2_str_1646 equ "...Vá pra *CIDADE *MUSEU!^"
 b2_str_1646_max_size equ 0x1F
 b2_str_1646_new_size equ strlen(b2_str_1646)
 
@@ -6594,7 +6594,7 @@ b2_str_1649 equ "Vai precisar disso."
 b2_str_1649_max_size equ 0x1F
 b2_str_1649_new_size equ strlen(b2_str_1649)
 
-b2_str_1650 equ "PEGOU *MAPA *DE *MUSEULÂNDIA!"
+b2_str_1650 equ "PEGOU *MAPA *DA *CIDADE *MUSEU!"
 b2_str_1650_max_size equ 0x1F
 b2_str_1650_new_size equ strlen(b2_str_1650)
 
@@ -6630,7 +6630,7 @@ b2_str_1658 equ "*ANCIÃ, e começar de novo!"
 b2_str_1658_max_size equ 0x1F
 b2_str_1658_new_size equ strlen(b2_str_1658)
 
-b2_str_1659 equ "Essa aldeã de Lavápolis"
+b2_str_1659 equ "Essa aldeã da Cidade Lávica"
 b2_str_1659_max_size equ 0x1F
 b2_str_1659_new_size equ strlen(b2_str_1659)
 
@@ -6642,7 +6642,7 @@ b2_str_1661 equ "Hmm.^"
 b2_str_1661_max_size equ 0x1F
 b2_str_1661_new_size equ strlen(b2_str_1661)
 
-b2_str_1662 equ " *MUSEULÂNDIA.^"
+b2_str_1662 equ "*CIDADE *MUSEU.^"
 b2_str_1662_max_size equ 0x1F
 b2_str_1662_new_size equ strlen(b2_str_1662)
 
@@ -6658,7 +6658,7 @@ b2_str_1665 equ "As temperaturas abaixo de"
 b2_str_1665_max_size equ 0x1F
 b2_str_1665_new_size equ strlen(b2_str_1665)
 
-b2_str_1666 equ "zero tornam Museulândia"
+b2_str_1666 equ "zero tornam a Cidade Museu"
 b2_str_1666_max_size equ 0x1F
 b2_str_1666_new_size equ strlen(b2_str_1666)
 
@@ -6666,11 +6666,11 @@ b2_str_1667 equ "inacessível de navio.^"
 b2_str_1667_max_size equ 0x1F
 b2_str_1667_new_size equ strlen(b2_str_1667)
 
-b2_str_1668 equ "Talvez a Bota Negra trocou"
+b2_str_1668 equ "Talvez a Risky Boots trocou"
 b2_str_1668_max_size equ 0x1F
 b2_str_1668_new_size equ strlen(b2_str_1668)
 
-b2_str_1669 equ "Lavápolis e Museulândia"
+b2_str_1669 equ "as Cidades Lávica e Museu"
 b2_str_1669_max_size equ 0x1F
 b2_str_1669_new_size equ strlen(b2_str_1669)
 
@@ -6678,11 +6678,11 @@ b2_str_1670 equ "pra derreter o gelo!"
 b2_str_1670_max_size equ 0x1F
 b2_str_1670_new_size equ strlen(b2_str_1670)
 
-b2_str_1671 equ "Quer dizer que Museulândia"
+b2_str_1671 equ "Quer dizer o próximo alvo"
 b2_str_1671_max_size equ 0x1F
 b2_str_1671_new_size equ strlen(b2_str_1671)
 
-b2_str_1672 equ "é o próximo alvo dela!^"
+b2_str_1672 equ "dela é a Cidade Museu!^"
 b2_str_1672_max_size equ 0x1F
 b2_str_1672_new_size equ strlen(b2_str_1672)
 
@@ -6874,11 +6874,11 @@ b2_str_1719 equ "*CERIMÔNIA de *PURIFICAÇÃO!^"
 b2_str_1719_max_size equ 0x1F
 b2_str_1719_new_size equ strlen(b2_str_1719)
 
-b2_str_1720 equ "Então, Lavápolis ia ficar"
+b2_str_1720 equ "Então, a Cidade Lávica ia"
 b2_str_1720_max_size equ 0x1F
 b2_str_1720_new_size equ strlen(b2_str_1720)
 
-b2_str_1721 equ "novinha em folha!"
+b2_str_1721 equ "ficar novinha em folha!"
 b2_str_1721_max_size equ 0x1F
 b2_str_1721_new_size equ strlen(b2_str_1721)
 
@@ -7222,11 +7222,11 @@ b2_str_1806 equ "Está na hora!"
 b2_str_1806_max_size equ 0x1F
 b2_str_1806_new_size equ strlen(b2_str_1806)
 
-b2_str_1807 equ "Agora que Lavápolis foi"
+b2_str_1807 equ "Agora que a Cidade Lávica"
 b2_str_1807_max_size equ 0x1F
 b2_str_1807_new_size equ strlen(b2_str_1807)
 
-b2_str_1808 equ "restaurada, poderemos"
+b2_str_1808 equ "foi restaurada, poderemos"
 b2_str_1808_max_size equ 0x1F
 b2_str_1808_new_size equ strlen(b2_str_1808)
 
@@ -7562,7 +7562,7 @@ b2_str_1891 equ "Bom, o lugar é aqui!^"
 b2_str_1891_max_size equ 0x1F
 b2_str_1891_new_size equ strlen(b2_str_1891)
 
-b2_str_1892 equ "Museulândia!^"
+b2_str_1892 equ "Cidade Museu!^"
 b2_str_1892_max_size equ 0x1F
 b2_str_1892_new_size equ strlen(b2_str_1892)
 
@@ -7570,7 +7570,7 @@ b2_str_1893 equ "Arquivo de arte e história"
 b2_str_1893_max_size equ 0x1F
 b2_str_1893_new_size equ strlen(b2_str_1893)
 
-b2_str_1894 equ "de Lantejoulândia."
+b2_str_1894 equ "de Sequin Land."
 b2_str_1894_max_size equ 0x1F
 b2_str_1894_new_size equ strlen(b2_str_1894)
 
@@ -7598,11 +7598,11 @@ b2_str_1900 equ "Só um jeito de descobrir!"
 b2_str_1900_max_size equ 0x1F
 b2_str_1900_new_size equ strlen(b2_str_1900)
 
-b2_str_1901 equ "Meu deus do céu!^"
+b2_str_1901 equ "Meu Deus do céu!^"
 b2_str_1901_max_size equ 0x1F
 b2_str_1901_new_size equ strlen(b2_str_1901)
 
-b2_str_1902 equ "Agora é que a Museulândia"
+b2_str_1902 equ "Agora é que a Cidade Museu"
 b2_str_1902_max_size equ 0x1F
 b2_str_1902_new_size equ strlen(b2_str_1902)
 
@@ -7690,11 +7690,11 @@ b2_str_1923 equ "Bem em cima do museu!^"
 b2_str_1923_max_size equ 0x1F
 b2_str_1923_new_size equ strlen(b2_str_1923)
 
-b2_str_1924 equ "Que vergonha!^"
+b2_str_1924 equ "É uma vergonha!^"
 b2_str_1924_max_size equ 0x1F
 b2_str_1924_new_size equ strlen(b2_str_1924)
 
-b2_str_1925 equ "Que desmoralização!^"
+b2_str_1925 equ "Uma desmoralização!^"
 b2_str_1925_max_size equ 0x1F
 b2_str_1925_new_size equ strlen(b2_str_1925)
 
@@ -7742,7 +7742,7 @@ b2_str_1936 equ "O Clube de Guardiões Mirins"
 b2_str_1936_max_size equ 0x1F
 b2_str_1936_new_size equ strlen(b2_str_1936)
 
-b2_str_1937 equ "de Lantejoulândia!^"
+b2_str_1937 equ "de Sequin Land!^"
 b2_str_1937_max_size equ 0x1F
 b2_str_1937_new_size equ strlen(b2_str_1937)
 
@@ -7770,7 +7770,7 @@ b2_str_1943 equ "*QUE *JAMAIS *ESQUECERÃO!^"
 b2_str_1943_max_size equ 0x1F
 b2_str_1943_new_size equ strlen(b2_str_1943)
 
-b2_str_1944 equ "Valha-me deus!^"
+b2_str_1944 equ "Valha-me Deus!^"
 b2_str_1944_max_size equ 0x1F
 b2_str_1944_new_size equ strlen(b2_str_1944)
 
@@ -7874,7 +7874,7 @@ b2_str_1969 equ "o circo pegar fogo!^"
 b2_str_1969_max_size equ 0x1F
 b2_str_1969_new_size equ strlen(b2_str_1969)
 
-b2_str_1970 equ "Valha-me nossa senhora!"
+b2_str_1970 equ "Valha-me Nossa Senhora!"
 b2_str_1970_max_size equ 0x1F
 b2_str_1970_new_size equ strlen(b2_str_1970)
 
@@ -8018,7 +8018,7 @@ b2_str_2005 equ "Do ângulo que eu tô,"
 b2_str_2005_max_size equ 0x1F
 b2_str_2005_new_size equ strlen(b2_str_2005)
 
-b2_str_2006 equ "parecia um negócio"
+b2_str_2006 equ "parece um negócio"
 b2_str_2006_max_size equ 0x1F
 b2_str_2006_new_size equ strlen(b2_str_2006)
 
@@ -8126,7 +8126,7 @@ b2_str_2032 equ "Você conseguiu!^"
 b2_str_2032_max_size equ 0x1F
 b2_str_2032_new_size equ strlen(b2_str_2032)
 
-b2_str_2033 equ "*MUSEULÂNDIA finalmente"
+b2_str_2033 equ "A *CIDADE *MUSEU finalmente"
 b2_str_2033_max_size equ 0x1F
 b2_str_2033_new_size equ strlen(b2_str_2033)
 
@@ -8134,7 +8134,7 @@ b2_str_2034 equ "voltou ao seu devido lugar!^"
 b2_str_2034_max_size equ 0x1F
 b2_str_2034_new_size equ strlen(b2_str_2034)
 
-b2_str_2035 equ "Imagino que *LAVÁPOLIS"
+b2_str_2035 equ "Imagino que a *CIDADE *LÁVICA"
 b2_str_2035_max_size equ 0x1F
 b2_str_2035_new_size equ strlen(b2_str_2035)
 
@@ -8146,11 +8146,11 @@ b2_str_2037 equ "lugar de direito.^"
 b2_str_2037_max_size equ 0x1F
 b2_str_2037_new_size equ strlen(b2_str_2037)
 
-b2_str_2038 equ "Você deveria visitá-los,"
+b2_str_2038 equ "Cê devia fazer uma"
 b2_str_2038_max_size equ 0x1F
 b2_str_2038_new_size equ strlen(b2_str_2038)
 
-b2_str_2039 equ "não acha?"
+b2_str_2039 equ "visitinha lá, não acha?"
 b2_str_2039_max_size equ 0x1F
 b2_str_2039_new_size equ strlen(b2_str_2039)
 
@@ -8170,7 +8170,7 @@ b2_str_2043 equ "Lembre-se...^"
 b2_str_2043_max_size equ 0x1F
 b2_str_2043_new_size equ strlen(b2_str_2043)
 
-b2_str_2044 equ "A máquina da Bota só pode"
+b2_str_2044 equ "A máquina da Risky só pode"
 b2_str_2044_max_size equ 0x1F
 b2_str_2044_new_size equ strlen(b2_str_2044)
 
@@ -8386,7 +8386,7 @@ b2_str_2097 equ "Da coleção de história"
 b2_str_2097_max_size equ 0x1F
 b2_str_2097_new_size equ strlen(b2_str_2097)
 
-b2_str_2098 equ "natural de Lantejoulândia.^"
+b2_str_2098 equ "natural de Sequin Land.^"
 b2_str_2098_max_size equ 0x1F
 b2_str_2098_new_size equ strlen(b2_str_2098)
 
@@ -8458,11 +8458,11 @@ b2_str_2115 equ "primata, ora tiveram"
 b2_str_2115_max_size equ 0x1F
 b2_str_2115_new_size equ strlen(b2_str_2115)
 
-b2_str_2116 equ "repulsa pelo gato, ou vice"
+b2_str_2116 equ "repulsa pelo gato,"
 b2_str_2116_max_size equ 0x1F
 b2_str_2116_new_size equ strlen(b2_str_2116)
 
-b2_str_2117 equ "versa.^"
+b2_str_2117 equ "ou vice-versa.^"
 b2_str_2117_max_size equ 0x1F
 b2_str_2117_new_size equ strlen(b2_str_2117)
 
@@ -8674,11 +8674,11 @@ b2_str_2169 equ "Que tédio!^"
 b2_str_2169_max_size equ 0x1F
 b2_str_2169_new_size equ strlen(b2_str_2169)
 
-b2_str_2170 equ "Esses quadros de arte"
+b2_str_2170 equ "Esses quadros de arte é tudo"
 b2_str_2170_max_size equ 0x1F
 b2_str_2170_new_size equ strlen(b2_str_2170)
 
-b2_str_2171 equ "não tem utilidade alguma!^"
+b2_str_2171 equ "tranqueira inútil!^"
 b2_str_2171_max_size equ 0x1F
 b2_str_2171_new_size equ strlen(b2_str_2171)
 
@@ -8690,7 +8690,7 @@ b2_str_2173 equ "sentido, ou provocar alguma"
 b2_str_2173_max_size equ 0x1F
 b2_str_2173_new_size equ strlen(b2_str_2173)
 
-b2_str_2174 equ "sensação aos visitantes,"
+b2_str_2174 equ "sensação nos visitantes,"
 b2_str_2174_max_size equ 0x1F
 b2_str_2174_new_size equ strlen(b2_str_2174)
 
@@ -8710,27 +8710,27 @@ b2_str_2178 equ "Eu não escondi a cola."
 b2_str_2178_max_size equ 0x1F
 b2_str_2178_new_size equ strlen(b2_str_2178)
 
-b2_str_2179 equ "E aí, fanfarrona!"
+b2_str_2179 equ "Jogo barato, mas lixo!"
 b2_str_2179_max_size equ 0x1F
 b2_str_2179_new_size equ strlen(b2_str_2179)
 
-b2_str_2180 equ "Aqui é o Sr. Lobuílson!^"
+b2_str_2180 equ "injogável.^"
 b2_str_2180_max_size equ 0x1F
 b2_str_2180_new_size equ strlen(b2_str_2180)
 
-b2_str_2181 equ "Vivo para caçar jogos 'FFG'.^"
+b2_str_2181 equ "Jogo rushado fezes, clone"
 b2_str_2181_max_size equ 0x1F
 b2_str_2181_new_size equ strlen(b2_str_2181)
 
-b2_str_2182 equ "O que é 'FFG', cê pergunta?^"
+b2_str_2182 equ "fuleira de outros sucessos!^"
 b2_str_2182_max_size equ 0x1F
 b2_str_2182_new_size equ strlen(b2_str_2182)
 
-b2_str_2183 equ "'Fríquin Fâquin Gêims',"
+b2_str_2183 equ "É disso que eu tô atrás!^"
 b2_str_2183_max_size equ 0x1F
 b2_str_2183_new_size equ strlen(b2_str_2183)
 
-b2_str_2184 equ "jogos ruins e zoados!^"
+b2_str_2184 equ "Sou o Lobo dos Shovelwares!^"
 b2_str_2184_max_size equ 0x1F
 b2_str_2184_new_size equ strlen(b2_str_2184)
 
@@ -8738,23 +8738,23 @@ b2_str_2185 equ "Eu escavo o que há de mais"
 b2_str_2185_max_size equ 0x1F
 b2_str_2185_new_size equ strlen(b2_str_2185)
 
-b2_str_2186 equ "podre no mundo dos games!^"
+b2_str_2186 equ "podre no mundo dos jogos!^"
 b2_str_2186_max_size equ 0x1F
 b2_str_2186_new_size equ strlen(b2_str_2186)
 
-b2_str_2187 equ "Achou um jogo ruim e zoado,"
+b2_str_2187 equ "Traz pra mim o que há"
 b2_str_2187_max_size equ 0x1F
 b2_str_2187_new_size equ strlen(b2_str_2187)
 
-b2_str_2188 equ "de uma LJN da vida?^"
+b2_str_2188 equ "de pior!^"
 b2_str_2188_max_size equ 0x1F
 b2_str_2188_new_size equ strlen(b2_str_2188)
 
-b2_str_2189 equ "Traz pra eu fazer review, e"
+b2_str_2189 equ "Eu troco contigo por"
 b2_str_2189_max_size equ 0x1F
 b2_str_2189_new_size equ strlen(b2_str_2189)
 
-b2_str_2190 equ "te dou algo bom em troca!"
+b2_str_2190 equ "um negócio bom!"
 b2_str_2190_max_size equ 0x1F
 b2_str_2190_new_size equ strlen(b2_str_2190)
 
@@ -8762,27 +8762,27 @@ b2_str_2191 equ "Ah!^"
 b2_str_2191_max_size equ 0x1F
 b2_str_2191_new_size equ strlen(b2_str_2191)
 
-b2_str_2192 equ "Achou um 'Fríquin Fâquin"
+b2_str_2192 equ "Achou pra mim um jogo lixo,"
 b2_str_2192_max_size equ 0x1F
 b2_str_2192_new_size equ strlen(b2_str_2192)
 
-b2_str_2193 equ "Gêim' dos ruins pra mim?"
+b2_str_2193 equ "de uma LJN da vida?"
 b2_str_2193_max_size equ 0x1F
 b2_str_2193_new_size equ strlen(b2_str_2193)
 
-b2_str_2194 equ "> Claro"
+b2_str_2194 equ "> Isso aí"
 b2_str_2194_max_size equ 0x1F
 b2_str_2194_new_size equ strlen(b2_str_2194)
 
-b2_str_2195 equ "> Nem a pau"
+b2_str_2195 equ "> Neca"
 b2_str_2195_max_size equ 0x1F
 b2_str_2195_new_size equ strlen(b2_str_2195)
 
-b2_str_2196 equ "Droga. Me empolgou à toa."
+b2_str_2196 equ "Putz. Me empolgou à toa."
 b2_str_2196_max_size equ 0x1F
 b2_str_2196_new_size equ strlen(b2_str_2196)
 
-b2_str_2197 equ "Ei, olha só essa belezura!"
+b2_str_2197 equ "Ei, olha só pra isso!"
 b2_str_2197_max_size equ 0x1F
 b2_str_2197_new_size equ strlen(b2_str_2197)
 
@@ -8794,39 +8794,39 @@ b2_str_2199 equ "*PORTÁTIL!"
 b2_str_2199_max_size equ 0x1F
 b2_str_2199_new_size equ strlen(b2_str_2199)
 
-b2_str_2200 equ "Tá zoando com a minha cara?^"
+b2_str_2200 equ "Isso é pra ser uma piada?^"
 b2_str_2200_max_size equ 0x1F
 b2_str_2200_new_size equ strlen(b2_str_2200)
 
-b2_str_2201 equ "Esse jogo é bom pra época."
+b2_str_2201 equ "Esse jogo parece que é bem"
 b2_str_2201_max_size equ 0x1F
 b2_str_2201_new_size equ strlen(b2_str_2201)
 
-b2_str_2202 equ "Dou nota sete, de dez.^"
+b2_str_2202 equ "bomzinho pra época dele.^"
 b2_str_2202_max_size equ 0x1F
 b2_str_2202_new_size equ strlen(b2_str_2202)
 
-b2_str_2203 equ "Pode ser um daqueles 'jogos"
+b2_str_2203 equ "Nota seis de dez, pela mídia"
 b2_str_2203_max_size equ 0x1F
 b2_str_2203_new_size equ strlen(b2_str_2203)
 
-b2_str_2204 equ "bons que você não conhece'.^"
+b2_str_2204 equ "especializada comprada.^"
 b2_str_2204_max_size equ 0x1F
 b2_str_2204_new_size equ strlen(b2_str_2204)
 
-b2_str_2205 equ "Deve ser AWESOME, pois na"
+b2_str_2205 equ "Hoje em dia, rola promo a"
 b2_str_2205_max_size equ 0x1F
 b2_str_2205_new_size equ strlen(b2_str_2205)
 
-b2_str_2206 equ "capa tem TITS TITS TITS!^"
+b2_str_2206 equ "dez centavos na 'istím'.^"
 b2_str_2206_max_size equ 0x1F
 b2_str_2206_new_size equ strlen(b2_str_2206)
 
-b2_str_2207 equ "Mas não é 'Fríquin Fâquin^"
+b2_str_2207 equ "Mas ironicamente, isso não"
 b2_str_2207_max_size equ 0x1F
 b2_str_2207_new_size equ strlen(b2_str_2207)
 
-b2_str_2208 equ "Gêim'. Não é pra mim.^"
+b2_str_2208 equ "é pra mim.^"
 b2_str_2208_max_size equ 0x1F
 b2_str_2208_new_size equ strlen(b2_str_2208)
 
@@ -8838,39 +8838,39 @@ b2_str_2210 equ "Acho que consigo fazer um"
 b2_str_2210_max_size equ 0x1F
 b2_str_2210_new_size equ strlen(b2_str_2210)
 
-b2_str_2211 equ "rolo com uns amigos depois.^"
+b2_str_2211 equ "rolo com alguém depois.^"
 b2_str_2211_max_size equ 0x1F
 b2_str_2211_new_size equ strlen(b2_str_2211)
 
-b2_str_2212 equ "Aqui, pode ficar."
+b2_str_2212 equ "Aqui."
 b2_str_2212_max_size equ 0x1F
 b2_str_2212_new_size equ strlen(b2_str_2212)
 
-b2_str_2213 equ "GANHOU UM *PORTA *CORAÇÃO!"
+b2_str_2213 equ "GANHOU UM *PORTA-CORAÇÃO!"
 b2_str_2213_max_size equ 0x1F
 b2_str_2213_new_size equ strlen(b2_str_2213)
 
-b2_str_2214 equ "E aí, fanfarrona! Qué pagá"
+b2_str_2214 equ "Também vendo kit de limpeza"
 b2_str_2214_max_size equ 0x1F
 b2_str_2214_new_size equ strlen(b2_str_2214)
 
-b2_str_2215 equ "quanto? Qué pagá quanto?^"
+b2_str_2215 equ "de cartuchos.^"
 b2_str_2215_max_size equ 0x1F
 b2_str_2215_new_size equ strlen(b2_str_2215)
 
-b2_str_2216 equ "Menos zero que não é número"
+b2_str_2216 equ "Proteja seu investimento.^"
 b2_str_2216_max_size equ 0x1F
 b2_str_2216_new_size equ strlen(b2_str_2216)
 
-b2_str_2217 equ "senão te dou um ti...^"
+b2_str_2217 equ "...^"
 b2_str_2217_max_size equ 0x1F
 b2_str_2217_new_size equ strlen(b2_str_2217)
 
-b2_str_2218 equ "... Perdi o jabá."
+b2_str_2218 equ "Sou nerdão."
 b2_str_2218_max_size equ 0x1F
 b2_str_2218_new_size equ strlen(b2_str_2218)
 
-b2_str_2219 equ "Aqui é o Sr. Lobuílson!^"
+b2_str_2219 equ "Sou o Lobo dos Shovelwares!^"
 b2_str_2219_max_size equ 0x1F
 b2_str_2219_new_size equ strlen(b2_str_2219)
 
@@ -8878,23 +8878,23 @@ b2_str_2220 equ "Eu escavo o que há de mais"
 b2_str_2220_max_size equ 0x1F
 b2_str_2220_new_size equ strlen(b2_str_2220)
 
-b2_str_2221 equ "podre no mundo dos games!^"
+b2_str_2221 equ "podre no mundo dos jogos!"
 b2_str_2221_max_size equ 0x1F
 b2_str_2221_new_size equ strlen(b2_str_2221)
 
-b2_str_2222 equ "Achou um jogo ruim e zoado,"
+b2_str_2222 equ "Traz pra mim o que há"
 b2_str_2222_max_size equ 0x1F
 b2_str_2222_new_size equ strlen(b2_str_2222)
 
-b2_str_2223 equ "de uma LJN da vida?^"
+b2_str_2223 equ "de pior!^"
 b2_str_2223_max_size equ 0x1F
 b2_str_2223_new_size equ strlen(b2_str_2223)
 
-b2_str_2224 equ "Traz pra eu fazer review, e"
+b2_str_2224 equ "Eu troco contigo por"
 b2_str_2224_max_size equ 0x1F
 b2_str_2224_new_size equ strlen(b2_str_2224)
 
-b2_str_2225 equ "te dou algo bom em troca!"
+b2_str_2225 equ "um negócio bom!"
 b2_str_2225_max_size equ 0x1F
 b2_str_2225_new_size equ strlen(b2_str_2225)
 
@@ -8918,7 +8918,7 @@ b2_str_2230 equ "passar pelos meus truques"
 b2_str_2230_max_size equ 0x1F
 b2_str_2230_new_size equ strlen(b2_str_2230)
 
-b2_str_2231 equ "e marmeladas...^"
+b2_str_2231 equ "e armadilhas...^"
 b2_str_2231_max_size equ 0x1F
 b2_str_2231_new_size equ strlen(b2_str_2231)
 
@@ -8934,7 +8934,7 @@ b2_str_2234 equ "É hora de encarar o"
 b2_str_2234_max_size equ 0x1F
 b2_str_2234_new_size equ strlen(b2_str_2234)
 
-b2_str_2235 equ "todo-poderoso *MARMELADA!"
+b2_str_2235 equ "todo-poderoso *FLIMFLAM!"
 b2_str_2235_max_size equ 0x1F
 b2_str_2235_new_size equ strlen(b2_str_2235)
 
@@ -9010,7 +9010,7 @@ b2_str_2253 equ "Vou te xingar no xuiter."
 b2_str_2253_max_size equ 0x1F
 b2_str_2253_new_size equ strlen(b2_str_2253)
 
-b2_str_2254 equ "Bom, meu Tio Mímico e o"
+b2_str_2254 equ "Bom, meu Tio Mimic e o"
 b2_str_2254_max_size equ 0x1F
 b2_str_2254_new_size equ strlen(b2_str_2254)
 
@@ -9130,7 +9130,7 @@ b2_str_2283 equ "Moça, Pepperon é tão velho"
 b2_str_2283_max_size equ 0x1F
 b2_str_2283_new_size equ strlen(b2_str_2283)
 
-b2_str_2284 equ "que tem idade pra ser seu"
+b2_str_2284 equ "que tem idade para ser seu"
 b2_str_2284_max_size equ 0x1F
 b2_str_2284_new_size equ strlen(b2_str_2284)
 
@@ -9138,303 +9138,303 @@ b2_str_2285 equ "tatara tatara tataratioavô!"
 b2_str_2285_max_size equ 0x1F
 b2_str_2285_new_size equ strlen(b2_str_2285)
 
-b2_str_2286 equ "Don't know what to tell"
+b2_str_2286 equ "Pivete é a mãe,"
 b2_str_2286_max_size equ 0x1F
 b2_str_2286_new_size equ strlen(b2_str_2286)
 
-b2_str_2287 equ "ya.^"
+b2_str_2287 equ "ô velhaco.^"
 b2_str_2287_max_size equ 0x1F
 b2_str_2287_new_size equ strlen(b2_str_2287)
 
-b2_str_2288 equ "If you're one of these"
+b2_str_2288 equ "Se tu é um dos coroas que"
 b2_str_2288_max_size equ 0x1F
 b2_str_2288_new_size equ strlen(b2_str_2288)
 
-b2_str_2289 equ "geezers who owes the guy"
+b2_str_2289 equ "tão devendo grana pro"
 b2_str_2289_max_size equ 0x1F
 b2_str_2289_new_size equ strlen(b2_str_2289)
 
-b2_str_2290 equ "money, that's me so pay"
+b2_str_2290 equ "agiota, esse sou eu, então"
 b2_str_2290_max_size equ 0x1F
 b2_str_2290_new_size equ strlen(b2_str_2290)
 
-b2_str_2291 equ "up."
+b2_str_2291 equ "pode ir me pagando."
 b2_str_2291_max_size equ 0x1F
 b2_str_2291_new_size equ strlen(b2_str_2291)
 
-b2_str_2292 equ "But you look nothing like"
+b2_str_2292 equ "Mas você não se parece nada"
 b2_str_2292_max_size equ 0x1F
 b2_str_2292_new_size equ strlen(b2_str_2292)
 
-b2_str_2293 equ "him!"
+b2_str_2293 equ "com ele!"
 b2_str_2293_max_size equ 0x1F
 b2_str_2293_new_size equ strlen(b2_str_2293)
 
-b2_str_2294 equ "Says you. You're old.^"
+b2_str_2294 equ "Olha quem fala, coroa gagá.^"
 b2_str_2294_max_size equ 0x1F
 b2_str_2294_new_size equ strlen(b2_str_2294)
 
-b2_str_2295 equ "Maybe your memory's shot."
+b2_str_2295 equ "Tua memória deve tar zoada."
 b2_str_2295_max_size equ 0x1F
 b2_str_2295_new_size equ strlen(b2_str_2295)
 
-b2_str_2296 equ "Ok, that's it!^"
+b2_str_2296 equ "Ok, já chega!^"
 b2_str_2296_max_size equ 0x1F
 b2_str_2296_new_size equ strlen(b2_str_2296)
 
-b2_str_2297 equ "We've had it up to here"
+b2_str_2297 equ "A gente já tá por aqui com"
 b2_str_2297_max_size equ 0x1F
 b2_str_2297_new_size equ strlen(b2_str_2297)
 
-b2_str_2298 equ "with you and your lies!^"
+b2_str_2298 equ "você e suas mentiras!^"
 b2_str_2298_max_size equ 0x1F
 b2_str_2298_new_size equ strlen(b2_str_2298)
 
-b2_str_2299 equ "Tell us the truth right"
+b2_str_2299 equ "Fala a verdade agora!"
 b2_str_2299_max_size equ 0x1F
 b2_str_2299_new_size equ strlen(b2_str_2299)
 
-b2_str_2300 equ "now!"
+b2_str_2300 equ "Cadê o professor?"
 b2_str_2300_max_size equ 0x1F
 b2_str_2300_new_size equ strlen(b2_str_2300)
 
-b2_str_2301 equ "Fine.^"
+b2_str_2301 equ "Tá bom.^"
 b2_str_2301_max_size equ 0x1F
 b2_str_2301_new_size equ strlen(b2_str_2301)
 
-b2_str_2302 equ "The professor kicked the"
+b2_str_2302 equ "O mané bateu as botas."
 b2_str_2302_max_size equ 0x1F
 b2_str_2302_new_size equ strlen(b2_str_2302)
 
-b2_str_2303 equ "bucket."
+b2_str_2303 equ " "
 b2_str_2303_max_size equ 0x1F
 b2_str_2303_new_size equ strlen(b2_str_2303)
 
-b2_str_2304 equ "What?"
+b2_str_2304 equ "Como é?"
 b2_str_2304_max_size equ 0x1F
 b2_str_2304_new_size equ strlen(b2_str_2304)
 
-b2_str_2305 equ "Yeah.^"
+b2_str_2305 equ "Isso aí.^"
 b2_str_2305_max_size equ 0x1F
 b2_str_2305_new_size equ strlen(b2_str_2305)
 
-b2_str_2306 equ "Don't look at me like"
+b2_str_2306 equ "Não olhem pra mim assim."
 b2_str_2306_max_size equ 0x1F
 b2_str_2306_new_size equ strlen(b2_str_2306)
 
-b2_str_2307 equ "that.^"
+b2_str_2307 equ " ^"
 b2_str_2307_max_size equ 0x1F
 b2_str_2307_new_size equ strlen(b2_str_2307)
 
-b2_str_2308 equ "I didn't lay a finger on"
+b2_str_2308 equ "Eu não encostei um dedo"
 b2_str_2308_max_size equ 0x1F
 b2_str_2308_new_size equ strlen(b2_str_2308)
 
-b2_str_2309 equ "him.^"
+b2_str_2309 equ "nele.^"
 b2_str_2309_max_size equ 0x1F
 b2_str_2309_new_size equ strlen(b2_str_2309)
 
-b2_str_2310 equ "It was natural causes.^"
+b2_str_2310 equ "Foi de causas naturais.^"
 b2_str_2310_max_size equ 0x1F
 b2_str_2310_new_size equ strlen(b2_str_2310)
 
-b2_str_2311 equ "Eaten by a shark.^"
+b2_str_2311 equ "Comido por um tubarão.^"
 b2_str_2311_max_size equ 0x1F
 b2_str_2311_new_size equ strlen(b2_str_2311)
 
-b2_str_2312 equ "Well...^"
+b2_str_2312 equ "Err...^"
 b2_str_2312_max_size equ 0x1F
 b2_str_2312_new_size equ strlen(b2_str_2312)
 
-b2_str_2313 equ "Two sharks, really.^"
+b2_str_2313 equ "Dois tubarões, na real.^"
 b2_str_2313_max_size equ 0x1F
 b2_str_2313_new_size equ strlen(b2_str_2313)
 
-b2_str_2314 equ "Each got half of him."
+b2_str_2314 equ "Cada um comeu metade."
 b2_str_2314_max_size equ 0x1F
 b2_str_2314_new_size equ strlen(b2_str_2314)
 
-b2_str_2315 equ "That's not natural causes!"
+b2_str_2315 equ "Isso não é causas naturais!"
 b2_str_2315_max_size equ 0x1F
 b2_str_2315_new_size equ strlen(b2_str_2315)
 
-b2_str_2316 equ "You sayin' aquatic life"
+b2_str_2316 equ "Tá dizendo que vida"
 b2_str_2316_max_size equ 0x1F
 b2_str_2316_new_size equ strlen(b2_str_2316)
 
-b2_str_2317 equ "ain't natural?^"
+b2_str_2317 equ "aquática não é natural?^"
 b2_str_2317_max_size equ 0x1F
 b2_str_2317_new_size equ strlen(b2_str_2317)
 
-b2_str_2318 equ "Anyway, the sharks swam"
+b2_str_2318 equ "Pois bem, os tubarões foram"
 b2_str_2318_max_size equ 0x1F
 b2_str_2318_new_size equ strlen(b2_str_2318)
 
-b2_str_2319 equ "into brackish water.^"
+b2_str_2319 equ "nadar em água salobra.^"
 b2_str_2319_max_size equ 0x1F
 b2_str_2319_new_size equ strlen(b2_str_2319)
 
-b2_str_2320 equ "Got eaten by piranha.^"
+b2_str_2320 equ "Foram comidos por piranhas.^"
 b2_str_2320_max_size equ 0x1F
 b2_str_2320_new_size equ strlen(b2_str_2320)
 
-b2_str_2321 equ "Piranha were caught and"
+b2_str_2321 equ "As piranhas foram pescadas"
 b2_str_2321_max_size equ 0x1F
 b2_str_2321_new_size equ strlen(b2_str_2321)
 
-b2_str_2322 equ "served at a local fish fry"
+b2_str_2322 equ "e servidas numa feira"
 b2_str_2322_max_size equ 0x1F
 b2_str_2322_new_size equ strlen(b2_str_2322)
 
-b2_str_2323 equ "where I happened to be"
+b2_str_2323 equ "gastronômica de peixe frito"
 b2_str_2323_max_size equ 0x1F
 b2_str_2323_new_size equ strlen(b2_str_2323)
 
-b2_str_2324 equ "dining.^"
+b2_str_2324 equ "onde eu tava jantando.^"
 b2_str_2324_max_size equ 0x1F
 b2_str_2324_new_size equ strlen(b2_str_2324)
 
-b2_str_2325 equ "I chipped a tooth on my"
+b2_str_2325 equ "Abocanhei um pastelzinho de"
 b2_str_2325_max_size equ 0x1F
 b2_str_2325_new_size equ strlen(b2_str_2325)
 
-b2_str_2326 equ "fish patty and found a key"
+b2_str_2326 equ "peixe frito e achei uma"
 b2_str_2326_max_size equ 0x1F
 b2_str_2326_new_size equ strlen(b2_str_2326)
 
-b2_str_2327 equ "inside.^"
+b2_str_2327 equ "chave dentro.^"
 b2_str_2327_max_size equ 0x1F
 b2_str_2327_new_size equ strlen(b2_str_2327)
 
-b2_str_2328 equ "Pepperpex's name, and the"
+b2_str_2328 equ "O nome do Pepperon, e a"
 b2_str_2328_max_size equ 0x1F
 b2_str_2328_new_size equ strlen(b2_str_2328)
 
-b2_str_2329 equ "location of his workshop"
+b2_str_2329 equ "localização de sua oficina,"
 b2_str_2329_max_size equ 0x1F
 b2_str_2329_new_size equ strlen(b2_str_2329)
 
-b2_str_2330 equ "were inscribed on the key"
+b2_str_2330 equ "estavam escritas no"
 b2_str_2330_max_size equ 0x1F
 b2_str_2330_new_size equ strlen(b2_str_2330)
 
-b2_str_2331 equ "fob.^"
+b2_str_2331 equ "chaveiro.^"
 b2_str_2331_max_size equ 0x1F
 b2_str_2331_new_size equ strlen(b2_str_2331)
 
-b2_str_2332 equ "Turns out he was owed a"
+b2_str_2332 equ "Parece que uma galera devia"
 b2_str_2332_max_size equ 0x1F
 b2_str_2332_new_size equ strlen(b2_str_2332)
 
-b2_str_2333 equ "lot of money, so I changed"
+b2_str_2333 equ "dinheiro pra ele, aí mudei"
 b2_str_2333_max_size equ 0x1F
 b2_str_2333_new_size equ strlen(b2_str_2333)
 
-b2_str_2334 equ "my name and took over."
+b2_str_2334 equ "meu nome e virei agiota."
 b2_str_2334_max_size equ 0x1F
 b2_str_2334_new_size equ strlen(b2_str_2334)
 
-b2_str_2335 equ "You're an imposter!"
+b2_str_2335 equ "Você é uma impostora!"
 b2_str_2335_max_size equ 0x1F
 b2_str_2335_new_size equ strlen(b2_str_2335)
 
-b2_str_2336 equ "You don't know the first"
+b2_str_2336 equ "Você não sabe patavina"
 b2_str_2336_max_size equ 0x1F
 b2_str_2336_new_size equ strlen(b2_str_2336)
 
-b2_str_2337 equ "thing about Relic Hunting"
+b2_str_2337 equ "de Caça de Relíquias"
 b2_str_2337_max_size equ 0x1F
 b2_str_2337_new_size equ strlen(b2_str_2337)
 
-b2_str_2338 equ "or volcanology!"
+b2_str_2338 equ "nem vulcanologia!"
 b2_str_2338_max_size equ 0x1F
 b2_str_2338_new_size equ strlen(b2_str_2338)
 
-b2_str_2339 equ "Aww, c'mon.^"
+b2_str_2339 equ "Ahh, qualé.^"
 b2_str_2339_max_size equ 0x1F
 b2_str_2339_new_size equ strlen(b2_str_2339)
 
-b2_str_2340 equ "I ain't a total fraud.^"
+b2_str_2340 equ "Não sou de todo uma fraude.^"
 b2_str_2340_max_size equ 0x1F
 b2_str_2340_new_size equ strlen(b2_str_2340)
 
-b2_str_2341 equ "I got bored, so I read"
+b2_str_2341 equ "Fiquei de saco cheio, aí li"
 b2_str_2341_max_size equ 0x1F
 b2_str_2341_new_size equ strlen(b2_str_2341)
 
-b2_str_2342 equ "everything the guy wrote.^"
+b2_str_2342 equ "tudo que o cara escreveu.^"
 b2_str_2342_max_size equ 0x1F
 b2_str_2342_new_size equ strlen(b2_str_2342)
 
-b2_str_2343 equ "Figure I know at least as"
+b2_str_2343 equ "No mínimo, eu sei tanto"
 b2_str_2343_max_size equ 0x1F
 b2_str_2343_new_size equ strlen(b2_str_2343)
 
-b2_str_2344 equ "much as he ever did.^"
+b2_str_2344 equ "quanto ele sabia.^"
 b2_str_2344_max_size equ 0x1F
 b2_str_2344_new_size equ strlen(b2_str_2344)
 
-b2_str_2345 equ "Anyway, these geezers told"
+b2_str_2345 equ "Bom, esses coroas me"
 b2_str_2345_max_size equ 0x1F
 b2_str_2345_new_size equ strlen(b2_str_2345)
 
-b2_str_2346 equ "me about your pirate"
+b2_str_2346 equ "falaram do seu problema"
 b2_str_2346_max_size equ 0x1F
 b2_str_2346_new_size equ strlen(b2_str_2346)
 
-b2_str_2347 equ "problem."
+b2_str_2347 equ "com a pirata."
 b2_str_2347_max_size equ 0x1F
 b2_str_2347_new_size equ strlen(b2_str_2347)
 
-b2_str_2348 equ "Get me a piece of *PUMICE,"
+b2_str_2348 equ "Me arranja uma *PEDRA-POMES,"
 b2_str_2348_max_size equ 0x1F
 b2_str_2348_new_size equ strlen(b2_str_2348)
 
-b2_str_2349 equ "and I can help.^"
+b2_str_2349 equ "e aí ajudo vocês.^"
 b2_str_2349_max_size equ 0x1F
 b2_str_2349_new_size equ strlen(b2_str_2349)
 
-b2_str_2350 equ "But you're going to owe me"
+b2_str_2350 equ "Mas cês vão ficar me"
 b2_str_2350_max_size equ 0x1F
 b2_str_2350_new_size equ strlen(b2_str_2350)
 
-b2_str_2351 equ "big time."
+b2_str_2351 equ "devendo uma nota preta."
 b2_str_2351_max_size equ 0x1F
 b2_str_2351_new_size equ strlen(b2_str_2351)
 
-b2_str_2352 equ "What do you think?"
+b2_str_2352 equ "O que vocês acham?"
 b2_str_2352_max_size equ 0x1F
 b2_str_2352_new_size equ strlen(b2_str_2352)
 
-b2_str_2353 equ "Can we trust her?"
+b2_str_2353 equ "Podemos confiar nela?"
 b2_str_2353_max_size equ 0x1F
 b2_str_2353_new_size equ strlen(b2_str_2353)
 
-b2_str_2354 equ "I believe we'll have to!"
+b2_str_2354 equ "O jeito vai ser confiar!"
 b2_str_2354_max_size equ 0x1F
 b2_str_2354_new_size equ strlen(b2_str_2354)
 
-b2_str_2355 equ "Sigh... if you say so."
+b2_str_2355 equ "Tsc... se é assim, sim."
 b2_str_2355_max_size equ 0x1F
 b2_str_2355_new_size equ strlen(b2_str_2355)
 
-b2_str_2356 equ "Ok then.^"
+b2_str_2356 equ "Beleza então.^"
 b2_str_2356_max_size equ 0x1F
 b2_str_2356_new_size equ strlen(b2_str_2356)
 
-b2_str_2357 equ "Shut up your cake hole and"
+b2_str_2357 equ "Agora senta e cala a boca,"
 b2_str_2357_max_size equ 0x1F
 b2_str_2357_new_size equ strlen(b2_str_2357)
 
-b2_str_2358 equ "bring me that *PUMICE."
+b2_str_2358 equ "e me tragam a *PEDRA-POMES."
 b2_str_2358_max_size equ 0x1F
 b2_str_2358_new_size equ strlen(b2_str_2358)
 
-b2_str_2359 equ "Would it kill you to be"
+b2_str_2359 equ "Custava ser um pouco"
 b2_str_2359_max_size equ 0x1F
 b2_str_2359_new_size equ strlen(b2_str_2359)
 
-b2_str_2360 equ "polite?"
+b2_str_2360 equ "mais educada?"
 b2_str_2360_max_size equ 0x1F
 b2_str_2360_new_size equ strlen(b2_str_2360)
 
@@ -9442,99 +9442,99 @@ b2_str_2361 equ "ARRRRRRGHH!!^"
 b2_str_2361_max_size equ 0x1F
 b2_str_2361_new_size equ strlen(b2_str_2361)
 
-b2_str_2362 equ "Snort!^"
+b2_str_2362 equ "Cacilda!^"
 b2_str_2362_max_size equ 0x1F
 b2_str_2362_new_size equ strlen(b2_str_2362)
 
-b2_str_2363 equ "Please?^"
+b2_str_2363 equ "Por favor?^"
 b2_str_2363_max_size equ 0x1F
 b2_str_2363_new_size equ strlen(b2_str_2363)
 
-b2_str_2364 equ "Shut.... your...^"
+b2_str_2364 equ "Senta.... e...^"
 b2_str_2364_max_size equ 0x1F
 b2_str_2364_new_size equ strlen(b2_str_2364)
 
-b2_str_2365 equ "Please shut the hole and"
+b2_str_2365 equ "Favor sentar e calar a boca"
 b2_str_2365_max_size equ 0x1F
 b2_str_2365_new_size equ strlen(b2_str_2365)
 
-b2_str_2366 equ "gimme it, the thing I"
+b2_str_2366 equ "e dar a mim, o negócio"
 b2_str_2366_max_size equ 0x1F
 b2_str_2366_new_size equ strlen(b2_str_2366)
 
-b2_str_2367 equ "demand?"
+b2_str_2367 equ "que solicitei?"
 b2_str_2367_max_size equ 0x1F
 b2_str_2367_new_size equ strlen(b2_str_2367)
 
-b2_str_2368 equ "Shut up and please bring"
+b2_str_2368 equ "Senta e cala a boca e traz"
 b2_str_2368_max_size equ 0x1F
 b2_str_2368_new_size equ strlen(b2_str_2368)
 
-b2_str_2369 equ "*PUMICE, or else!^"
+b2_str_2369 equ "a *PEDRA-POMES, agora!^"
 b2_str_2369_max_size equ 0x1F
 b2_str_2369_new_size equ strlen(b2_str_2369)
 
-b2_str_2370 equ "Try lookin' by *VOLCANOES"
+b2_str_2370 equ "Tenta procurar em *VULCÕES,"
 b2_str_2370_max_size equ 0x1F
 b2_str_2370_new_size equ strlen(b2_str_2370)
 
-b2_str_2371 equ "or whatever!"
+b2_str_2371 equ "sei lá!"
 b2_str_2371_max_size equ 0x1F
 b2_str_2371_new_size equ strlen(b2_str_2371)
 
-b2_str_2372 equ "Shut up and please bring"
+b2_str_2372 equ "Senta e cala a boca e traz"
 b2_str_2372_max_size equ 0x1F
 b2_str_2372_new_size equ strlen(b2_str_2372)
 
-b2_str_2373 equ "*PUMICE, or else!^"
+b2_str_2373 equ "a *PEDRA-POMES, agora!^"
 b2_str_2373_max_size equ 0x1F
 b2_str_2373_new_size equ strlen(b2_str_2373)
 
-b2_str_2374 equ "Oh! That's *PUMICE all"
+b2_str_2374 equ "Ah! Beleza, é a"
 b2_str_2374_max_size equ 0x1F
 b2_str_2374_new_size equ strlen(b2_str_2374)
 
-b2_str_2375 equ "right!^"
+b2_str_2375 equ "*PEDRA-POMES!^"
 b2_str_2375_max_size equ 0x1F
 b2_str_2375_new_size equ strlen(b2_str_2375)
 
-b2_str_2376 equ "Hand it over."
+b2_str_2376 equ "Passa pra cá."
 b2_str_2376_max_size equ 0x1F
 b2_str_2376_new_size equ strlen(b2_str_2376)
 
-b2_str_2377 equ "> Sure"
+b2_str_2377 equ "> Beleza"
 b2_str_2377_max_size equ 0x1F
 b2_str_2377_new_size equ strlen(b2_str_2377)
 
-b2_str_2378 equ "> Sorry"
+b2_str_2378 equ "> Nem a pau"
 b2_str_2378_max_size equ 0x1F
 b2_str_2378_new_size equ strlen(b2_str_2378)
 
-b2_str_2379 equ "Don't cross me."
+b2_str_2379 equ "Não tira com minha cara."
 b2_str_2379_max_size equ 0x1F
 b2_str_2379_new_size equ strlen(b2_str_2379)
 
-b2_str_2380 equ "YOU GAVE THE *PUMICE!"
+b2_str_2380 equ "ENTREGOU A *PEDRA-POMES!"
 b2_str_2380_max_size equ 0x1F
 b2_str_2380_new_size equ strlen(b2_str_2380)
 
-b2_str_2381 equ "Ok, now I'm gonna prove"
+b2_str_2381 equ "Beleza, agora vou provar"
 b2_str_2381_max_size equ 0x1F
 b2_str_2381_new_size equ strlen(b2_str_2381)
 
-b2_str_2382 equ "that I'm just as good as"
+b2_str_2382 equ "que sou tão boa quanto"
 b2_str_2382_max_size equ 0x1F
 b2_str_2382_new_size equ strlen(b2_str_2382)
 
-b2_str_2383 equ "that old fish fart.^"
+b2_str_2383 equ "aquele velho pamonha.^"
 b2_str_2383_max_size equ 0x1F
 b2_str_2383_new_size equ strlen(b2_str_2383)
 
-b2_str_2384 equ "Sit back and watch me do"
+b2_str_2384 equ "Sentem e vejam eu fazer"
 b2_str_2384_max_size equ 0x1F
 b2_str_2384_new_size equ strlen(b2_str_2384)
 
-b2_str_2385 equ "my thing.^"
+b2_str_2385 equ "minha mágica.^"
 b2_str_2385_max_size equ 0x1F
 b2_str_2385_new_size equ strlen(b2_str_2385)
 
@@ -9550,7 +9550,7 @@ b2_str_2388 equ "...^"
 b2_str_2388_max_size equ 0x1F
 b2_str_2388_new_size equ strlen(b2_str_2388)
 
-b2_str_2389 equ "Think think.^"
+b2_str_2389 equ "Pensa pensa.^"
 b2_str_2389_max_size equ 0x1F
 b2_str_2389_new_size equ strlen(b2_str_2389)
 
@@ -9558,7 +9558,7 @@ b2_str_2390 equ "...^"
 b2_str_2390_max_size equ 0x1F
 b2_str_2390_new_size equ strlen(b2_str_2390)
 
-b2_str_2391 equ "Ponder ponder.^"
+b2_str_2391 equ "Pondera pondera.^"
 b2_str_2391_max_size equ 0x1F
 b2_str_2391_new_size equ strlen(b2_str_2391)
 
@@ -9566,7 +9566,7 @@ b2_str_2392 equ "...^"
 b2_str_2392_max_size equ 0x1F
 b2_str_2392_new_size equ strlen(b2_str_2392)
 
-b2_str_2393 equ "Muse muse.^"
+b2_str_2393 equ "Carrega carrega.^"
 b2_str_2393_max_size equ 0x1F
 b2_str_2393_new_size equ strlen(b2_str_2393)
 
@@ -9574,555 +9574,555 @@ b2_str_2394 equ "...^"
 b2_str_2394_max_size equ 0x1F
 b2_str_2394_new_size equ strlen(b2_str_2394)
 
-b2_str_2395 equ "Done.^"
+b2_str_2395 equ "Pronto.^"
 b2_str_2395_max_size equ 0x1F
 b2_str_2395_new_size equ strlen(b2_str_2395)
 
-b2_str_2396 equ "Ok, I've got news for you"
+b2_str_2396 equ "Ok, tenho novidades pra"
 b2_str_2396_max_size equ 0x1F
 b2_str_2396_new_size equ strlen(b2_str_2396)
 
-b2_str_2397 equ "losers.^"
+b2_str_2397 equ "vocês otários.^"
 b2_str_2397_max_size equ 0x1F
 b2_str_2397_new_size equ strlen(b2_str_2397)
 
-b2_str_2398 equ "And it's all bad."
+b2_str_2398 equ "E é tudo notícia ruim."
 b2_str_2398_max_size equ 0x1F
 b2_str_2398_new_size equ strlen(b2_str_2398)
 
-b2_str_2399 equ "What's wrong?"
+b2_str_2399 equ "Qual o problema?"
 b2_str_2399_max_size equ 0x1F
 b2_str_2399_new_size equ strlen(b2_str_2399)
 
-b2_str_2400 equ "See for yourself."
+b2_str_2400 equ "Veja por si mesmo."
 b2_str_2400_max_size equ 0x1F
 b2_str_2400_new_size equ strlen(b2_str_2400)
 
-b2_str_2401 equ "It's a hunk of the *KING'S"
+b2_str_2401 equ "É um pedaço do *PILAR"
 b2_str_2401_max_size equ 0x1F
 b2_str_2401_new_size equ strlen(b2_str_2401)
 
-b2_str_2402 equ "*PILLAR...^"
+b2_str_2402 equ "*DO *REI...^"
 b2_str_2402_max_size equ 0x1F
 b2_str_2402_new_size equ strlen(b2_str_2402)
 
-b2_str_2403 equ "Freshly removed, then"
+b2_str_2403 equ "Recém removido, e depois"
 b2_str_2403_max_size equ 0x1F
 b2_str_2403_new_size equ strlen(b2_str_2403)
 
-b2_str_2404 equ "dunked into fiery fondue."
+b2_str_2404 equ "caído em lava ardente."
 b2_str_2404_max_size equ 0x1F
 b2_str_2404_new_size equ strlen(b2_str_2404)
 
-b2_str_2405 equ "The King's Pillar is a"
+b2_str_2405 equ "O Pilar do Rei é um"
 b2_str_2405_max_size equ 0x1F
 b2_str_2405_new_size equ strlen(b2_str_2405)
 
-b2_str_2406 equ "colossal support, holding"
+b2_str_2406 equ "suporte colossal,"
 b2_str_2406_max_size equ 0x1F
 b2_str_2406_new_size equ strlen(b2_str_2406)
 
-b2_str_2407 equ "up the surface of Sequin"
+b2_str_2407 equ "sustentando a superfície de"
 b2_str_2407_max_size equ 0x1F
 b2_str_2407_new_size equ strlen(b2_str_2407)
 
-b2_str_2408 equ "Land.^"
+b2_str_2408 equ "Sequin Land.^"
 b2_str_2408_max_size equ 0x1F
 b2_str_2408_new_size equ strlen(b2_str_2408)
 
-b2_str_2409 equ "Every time that pirate"
+b2_str_2409 equ "Toda vez que aquela pirata"
 b2_str_2409_max_size equ 0x1F
 b2_str_2409_new_size equ strlen(b2_str_2409)
 
-b2_str_2410 equ "activates her machine...^"
+b2_str_2410 equ "ativa a máquina dela...^"
 b2_str_2410_max_size equ 0x1F
 b2_str_2410_new_size equ strlen(b2_str_2410)
 
-b2_str_2411 equ "...she grinds more of the"
+b2_str_2411 equ "...ela raspa fora um pedaço"
 b2_str_2411_max_size equ 0x1F
 b2_str_2411_new_size equ strlen(b2_str_2411)
 
-b2_str_2412 equ "support away.^"
+b2_str_2412 equ "desse suporte.^"
 b2_str_2412_max_size equ 0x1F
 b2_str_2412_new_size equ strlen(b2_str_2412)
 
-b2_str_2413 equ "Sooner or later...^"
+b2_str_2413 equ "Cedo ou tarde...^"
 b2_str_2413_max_size equ 0x1F
 b2_str_2413_new_size equ strlen(b2_str_2413)
 
-b2_str_2414 equ "*SEQUIN *LAND is gonna *FALL"
+b2_str_2414 equ "*SEQUIN *LAND vai acabar"
 b2_str_2414_max_size equ 0x1F
 b2_str_2414_new_size equ strlen(b2_str_2414)
 
-b2_str_2415 equ "into an *OCEAN *OF *MOLTEN"
+b2_str_2415 equ "*CAINDO num *OCEANO *DE *MAGMA"
 b2_str_2415_max_size equ 0x1F
 b2_str_2415_new_size equ strlen(b2_str_2415)
 
-b2_str_2416 equ "*HOT *MAGMA!"
+b2_str_2416 equ "*EM *FUSÃO!"
 b2_str_2416_max_size equ 0x1F
 b2_str_2416_new_size equ strlen(b2_str_2416)
 
-b2_str_2417 equ "GASP!!^"
+b2_str_2417 equ "AHHH!!^"
 b2_str_2417_max_size equ 0x1F
 b2_str_2417_new_size equ strlen(b2_str_2417)
 
-b2_str_2418 equ "NO WAY!!"
+b2_str_2418 equ "NÃO PODE SER!!"
 b2_str_2418_max_size equ 0x1F
 b2_str_2418_new_size equ strlen(b2_str_2418)
 
-b2_str_2419 equ "I think she may be"
+b2_str_2419 equ "Acho que ela pode estar"
 b2_str_2419_max_size equ 0x1F
 b2_str_2419_new_size equ strlen(b2_str_2419)
 
-b2_str_2420 equ "correct."
+b2_str_2420 equ "certa."
 b2_str_2420_max_size equ 0x1F
 b2_str_2420_new_size equ strlen(b2_str_2420)
 
-b2_str_2421 equ "Can't argue the facts."
+b2_str_2421 equ "Ante fatos, sem argumentos."
 b2_str_2421_max_size equ 0x1F
 b2_str_2421_new_size equ strlen(b2_str_2421)
 
-b2_str_2422 equ "How much time do we have?^"
+b2_str_2422 equ "Quanto tempo ainda temos?^"
 b2_str_2422_max_size equ 0x1F
 b2_str_2422_new_size equ strlen(b2_str_2422)
 
-b2_str_2423 equ "And what can we do about"
+b2_str_2423 equ "E o que podemos fazer"
 b2_str_2423_max_size equ 0x1F
 b2_str_2423_new_size equ strlen(b2_str_2423)
 
-b2_str_2424 equ "it?"
+b2_str_2424 equ "a respeito?"
 b2_str_2424_max_size equ 0x1F
 b2_str_2424_new_size equ strlen(b2_str_2424)
 
-b2_str_2425 equ "To answer that question...^"
+b2_str_2425 equ "Para responder isso...^"
 b2_str_2425_max_size equ 0x1F
 b2_str_2425_new_size equ strlen(b2_str_2425)
 
-b2_str_2426 equ "...we'll need to find"
+b2_str_2426 equ "...vamos precisar achar o"
 b2_str_2426_max_size equ 0x1F
 b2_str_2426_new_size equ strlen(b2_str_2426)
 
-b2_str_2427 equ "*DOCTOR *CORNELIOUS *CRUST.^"
+b2_str_2427 equ "*DOUTOR *CORNÉLIO *CROSTA.^"
 b2_str_2427_max_size equ 0x1F
 b2_str_2427_new_size equ strlen(b2_str_2427)
 
-b2_str_2428 equ "He's our *FINAL *RELIC"
+b2_str_2428 equ "Ele é nosso *ÚLTIMO *CAÇADOR"
 b2_str_2428_max_size equ 0x1F
 b2_str_2428_new_size equ strlen(b2_str_2428)
 
-b2_str_2429 equ "*HUNTER!"
+b2_str_2429 equ "*DE *RELÍQUIAS!"
 b2_str_2429_max_size equ 0x1F
 b2_str_2429_new_size equ strlen(b2_str_2429)
 
-b2_str_2430 equ "You think we're old?^"
+b2_str_2430 equ "Acha que somos velhos?^"
 b2_str_2430_max_size equ 0x1F
 b2_str_2430_new_size equ strlen(b2_str_2430)
 
-b2_str_2431 equ "This guy's a dinosaur!"
+b2_str_2431 equ "Esse cara é um dinossauro!"
 b2_str_2431_max_size equ 0x1F
 b2_str_2431_new_size equ strlen(b2_str_2431)
 
-b2_str_2432 equ "We're facing an *EPIC"
+b2_str_2432 equ "Estamos enfrentando um"
 b2_str_2432_max_size equ 0x1F
 b2_str_2432_new_size equ strlen(b2_str_2432)
 
-b2_str_2433 equ "*CATACLYSM!^"
+b2_str_2433 equ "*CATACLISMA *ÉPICO!^"
 b2_str_2433_max_size equ 0x1F
 b2_str_2433_new_size equ strlen(b2_str_2433)
 
-b2_str_2434 equ "If anyone can help us, Dr."
+b2_str_2434 equ "Se alguém pode nos ajudar,"
 b2_str_2434_max_size equ 0x1F
 b2_str_2434_new_size equ strlen(b2_str_2434)
 
-b2_str_2435 equ "Cornelious Crust can!"
+b2_str_2435 equ "é o Dr. Cornélio Crosta!"
 b2_str_2435_max_size equ 0x1F
 b2_str_2435_new_size equ strlen(b2_str_2435)
 
-b2_str_2436 equ "But where is he?"
+b2_str_2436 equ "Mas onde ele está?"
 b2_str_2436_max_size equ 0x1F
 b2_str_2436_new_size equ strlen(b2_str_2436)
 
-b2_str_2437 equ "I can tell ya.^"
+b2_str_2437 equ "Eu sei onde ele tá.^"
 b2_str_2437_max_size equ 0x1F
 b2_str_2437_new_size equ strlen(b2_str_2437)
 
-b2_str_2438 equ "He's right here."
+b2_str_2438 equ "Ele tá bem aqui."
 b2_str_2438_max_size equ 0x1F
 b2_str_2438_new_size equ strlen(b2_str_2438)
 
-b2_str_2439 equ "YOU GOT *BOG *TOWN *MAP!"
+b2_str_2439 equ "PEGOU *MAPA *DA *CID *BREJADA"
 b2_str_2439_max_size equ 0x1F
 b2_str_2439_new_size equ strlen(b2_str_2439)
 
-b2_str_2440 equ "Crust was studying dumb"
+b2_str_2440 equ "O Crosta tava estudando"
 b2_str_2440_max_size equ 0x1F
 b2_str_2440_new_size equ strlen(b2_str_2440)
 
-b2_str_2441 equ "bugs or whatever.^"
+b2_str_2441 equ "insetos, ou algo do tipo.^"
 b2_str_2441_max_size equ 0x1F
 b2_str_2441_new_size equ strlen(b2_str_2441)
 
-b2_str_2442 equ "I read all about it in"
+b2_str_2442 equ "Li tudo a respeito no"
 b2_str_2442_max_size equ 0x1F
 b2_str_2442_new_size equ strlen(b2_str_2442)
 
-b2_str_2443 equ "Pepperpex's journal."
+b2_str_2443 equ "diário do Pepperon."
 b2_str_2443_max_size equ 0x1F
 b2_str_2443_new_size equ strlen(b2_str_2443)
 
-b2_str_2444 equ "Ok then!^"
+b2_str_2444 equ "Certo, então!^"
 b2_str_2444_max_size equ 0x1F
 b2_str_2444_new_size equ strlen(b2_str_2444)
 
-b2_str_2445 equ "It looks like you've got"
+b2_str_2445 equ "Parece que já sabe qual vai"
 b2_str_2445_max_size equ 0x1F
 b2_str_2445_new_size equ strlen(b2_str_2445)
 
-b2_str_2446 equ "your next destination!"
+b2_str_2446 equ "ser seu próximo destino!"
 b2_str_2446_max_size equ 0x1F
 b2_str_2446_new_size equ strlen(b2_str_2446)
 
-b2_str_2447 equ "I'm off to *BOG *TOWN!^"
+b2_str_2447 equ "Bora lá pra *CIDADE *BREJADA!^"
 b2_str_2447_max_size equ 0x1F
 b2_str_2447_new_size equ strlen(b2_str_2447)
 
-b2_str_2448 equ "It's time to find the"
+b2_str_2448 equ "Vambora achar o *ÚLTIMO"
 b2_str_2448_max_size equ 0x1F
 b2_str_2448_new_size equ strlen(b2_str_2448)
 
-b2_str_2449 equ "*FINAL *RELIC *HUNTER and"
+b2_str_2449 equ "*CAÇADOR *DE *RELIQUIAS"
 b2_str_2449_max_size equ 0x1F
 b2_str_2449_new_size equ strlen(b2_str_2449)
 
-b2_str_2450 equ "save *SEQUIN *LAND!"
+b2_str_2450 equ "e salvar *SEQUIN *LAND!"
 b2_str_2450_max_size equ 0x1F
 b2_str_2450_new_size equ strlen(b2_str_2450)
 
-b2_str_2451 equ "*DR. *CRUST is the *FINAL"
+b2_str_2451 equ "*DR. *CROSTA é o *ÚLTIMO"
 b2_str_2451_max_size equ 0x1F
 b2_str_2451_new_size equ strlen(b2_str_2451)
 
-b2_str_2452 equ "*RELIC *HUNTER we need!^"
+b2_str_2452 equ "CAÇADOR DE RELÍQUIAS que^"
 b2_str_2452_max_size equ 0x1F
 b2_str_2452_new_size equ strlen(b2_str_2452)
 
-b2_str_2453 equ "Keep searching until you"
+b2_str_2453 equ "precisamos. Vá procurar ele"
 b2_str_2453_max_size equ 0x1F
 b2_str_2453_new_size equ strlen(b2_str_2453)
 
-b2_str_2454 equ "find him!^"
+b2_str_2454 equ "até achar!^"
 b2_str_2454_max_size equ 0x1F
 b2_str_2454_new_size equ strlen(b2_str_2454)
 
-b2_str_2455 equ "The future of *SEQUIN *LAND"
+b2_str_2455 equ "O futuro de *SEQUIN *LAND"
 b2_str_2455_max_size equ 0x1F
 b2_str_2455_new_size equ strlen(b2_str_2455)
 
-b2_str_2456 equ "depends on it!"
+b2_str_2456 equ "depende disso!"
 b2_str_2456_max_size equ 0x1F
 b2_str_2456_new_size equ strlen(b2_str_2456)
 
-b2_str_2457 equ "*BOG *TOWN?^"
+b2_str_2457 equ "*CIDADE *BREJADA?^"
 b2_str_2457_max_size equ 0x1F
 b2_str_2457_new_size equ strlen(b2_str_2457)
 
-b2_str_2458 equ "This is where we'll find"
+b2_str_2458 equ "É onde vamos achar o último"
 b2_str_2458_max_size equ 0x1F
 b2_str_2458_new_size equ strlen(b2_str_2458)
 
-b2_str_2459 equ "the last *RELIC *HUNTER?"
+b2_str_2459 equ "*CAÇADOR *DE *RELÍQUIAS?"
 b2_str_2459_max_size equ 0x1F
 b2_str_2459_new_size equ strlen(b2_str_2459)
 
-b2_str_2460 equ "According to Professor"
+b2_str_2460 equ "De acordo com o Professor"
 b2_str_2460_max_size equ 0x1F
 b2_str_2460_new_size equ strlen(b2_str_2460)
 
-b2_str_2461 equ "Pepperpex, it is."
+b2_str_2461 equ "Pepperon, é sim."
 b2_str_2461_max_size equ 0x1F
 b2_str_2461_new_size equ strlen(b2_str_2461)
 
-b2_str_2462 equ "Ahhh... Pepperpex.^"
+b2_str_2462 equ "Ahhh... Pepperon.^"
 b2_str_2462_max_size equ 0x1F
 b2_str_2462_new_size equ strlen(b2_str_2462)
 
-b2_str_2463 equ "Promise me you'll"
+b2_str_2463 equ "Promete que vai apresentar"
 b2_str_2463_max_size equ 0x1F
 b2_str_2463_new_size equ strlen(b2_str_2463)
 
-b2_str_2464 equ "introduce us later, ok?^"
+b2_str_2464 equ "ele pra mim depois, tá?^"
 b2_str_2464_max_size equ 0x1F
 b2_str_2464_new_size equ strlen(b2_str_2464)
 
-b2_str_2465 equ "He sounds dreamy!"
+b2_str_2465 equ "Ele deve ser um gato!"
 b2_str_2465_max_size equ 0x1F
 b2_str_2465_new_size equ strlen(b2_str_2465)
 
-b2_str_2466 equ "Pretty sure you'll be"
+b2_str_2466 equ "Aposto que cê vai ter uma"
 b2_str_2466_max_size equ 0x1F
 b2_str_2466_new_size equ strlen(b2_str_2466)
 
-b2_str_2467 equ "disappointed."
+b2_str_2467 equ "baita decepção."
 b2_str_2467_max_size equ 0x1F
 b2_str_2467_new_size equ strlen(b2_str_2467)
 
-b2_str_2468 equ "I'll be the judge of that!^"
+b2_str_2468 equ "Eu que vou decidir isso!^"
 b2_str_2468_max_size equ 0x1F
 b2_str_2468_new_size equ strlen(b2_str_2468)
 
-b2_str_2469 equ "And tell that zombie to"
+b2_str_2469 equ "E fala praquela zumbi"
 b2_str_2469_max_size equ 0x1F
 b2_str_2469_new_size equ strlen(b2_str_2469)
 
-b2_str_2470 equ "stop following you!^"
+b2_str_2470 equ "parar de te seguir!^"
 b2_str_2470_max_size equ 0x1F
 b2_str_2470_new_size equ strlen(b2_str_2470)
 
-b2_str_2471 equ "Don't encourage it!"
+b2_str_2471 equ "Não dá corda pra ela!"
 b2_str_2471_max_size equ 0x1F
 b2_str_2471_new_size equ strlen(b2_str_2471)
 
-b2_str_2472 equ "Sky says you've been"
+b2_str_2472 equ "A Sky disse que cê tava"
 b2_str_2472_max_size equ 0x1F
 b2_str_2472_new_size equ strlen(b2_str_2472)
 
-b2_str_2473 equ "battling monsters...^"
+b2_str_2473 equ "lutando contra monstros...^"
 b2_str_2473_max_size equ 0x1F
 b2_str_2473_new_size equ strlen(b2_str_2473)
 
-b2_str_2474 equ "...and collecting their"
+b2_str_2474 equ "...e coletando suas"
 b2_str_2474_max_size equ 0x1F
 b2_str_2474_new_size equ strlen(b2_str_2474)
 
-b2_str_2475 equ "gems...^"
+b2_str_2475 equ "joias...^"
 b2_str_2475_max_size equ 0x1F
 b2_str_2475_new_size equ strlen(b2_str_2475)
 
-b2_str_2476 equ "...and then trading the"
+b2_str_2476 equ "...e então trocando joias"
 b2_str_2476_max_size equ 0x1F
 b2_str_2476_new_size equ strlen(b2_str_2476)
 
-b2_str_2477 equ "gems to a monster...^"
+b2_str_2477 equ "com um monstro...^"
 b2_str_2477_max_size equ 0x1F
 b2_str_2477_new_size equ strlen(b2_str_2477)
 
-b2_str_2478 equ "...so you could get stuff"
+b2_str_2478 equ "...para que você consiga"
 b2_str_2478_max_size equ 0x1F
 b2_str_2478_new_size equ strlen(b2_str_2478)
 
-b2_str_2479 equ "that makes you better at"
+b2_str_2479 equ "coisas que te ajudam a"
 b2_str_2479_max_size equ 0x1F
 b2_str_2479_new_size equ strlen(b2_str_2479)
 
-b2_str_2480 equ "battling monsters.^"
+b2_str_2480 equ "lutar contra monstros.^"
 b2_str_2480_max_size equ 0x1F
 b2_str_2480_new_size equ strlen(b2_str_2480)
 
-b2_str_2481 equ "I told her she's nuts."
+b2_str_2481 equ "Ela deve ter endoidado."
 b2_str_2481_max_size equ 0x1F
 b2_str_2481_new_size equ strlen(b2_str_2481)
 
-b2_str_2482 equ "I sold my dad's dusty old"
+b2_str_2482 equ "Vendi uma fita velha"
 b2_str_2482_max_size equ 0x1F
 b2_str_2482_new_size equ strlen(b2_str_2482)
 
-b2_str_2483 equ "game tape to a werewolf"
+b2_str_2483 equ "empoeirada do meu pai"
 b2_str_2483_max_size equ 0x1F
 b2_str_2483_new_size equ strlen(b2_str_2483)
 
-b2_str_2484 equ "for money.^"
+b2_str_2484 equ "pra um lobisomem malandro^"
 b2_str_2484_max_size equ 0x1F
 b2_str_2484_new_size equ strlen(b2_str_2484)
 
-b2_str_2485 equ "Then I used the money to"
+b2_str_2485 equ "com cara de rato."
 b2_str_2485_max_size equ 0x1F
 b2_str_2485_new_size equ strlen(b2_str_2485)
 
-b2_str_2486 equ "buy him something brand"
+b2_str_2486 equ "Aí usei a grana pra comprar"
 b2_str_2486_max_size equ 0x1F
 b2_str_2486_new_size equ strlen(b2_str_2486)
 
-b2_str_2487 equ "new!^"
+b2_str_2487 equ "pra ele uma coisa nova!^"
 b2_str_2487_max_size equ 0x1F
 b2_str_2487_new_size equ strlen(b2_str_2487)
 
-b2_str_2488 equ "It was gum!^"
+b2_str_2488 equ "Era chiclete!^"
 b2_str_2488_max_size equ 0x1F
 b2_str_2488_new_size equ strlen(b2_str_2488)
 
-b2_str_2489 equ "Dad smiled at me so hard"
+b2_str_2489 equ "Quando soube, papai deu um"
 b2_str_2489_max_size equ 0x1F
 b2_str_2489_new_size equ strlen(b2_str_2489)
 
-b2_str_2490 equ "when he found out!^"
+b2_str_2490 equ "sorriso de orelha a orelha!^"
 b2_str_2490_max_size equ 0x1F
 b2_str_2490_new_size equ strlen(b2_str_2490)
 
-b2_str_2491 equ "You could hear his teeth"
+b2_str_2491 equ "Dava até pra ouvir os"
 b2_str_2491_max_size equ 0x1F
 b2_str_2491_new_size equ strlen(b2_str_2491)
 
-b2_str_2492 equ "cracking!"
+b2_str_2492 equ "dentes rachando!"
 b2_str_2492_max_size equ 0x1F
 b2_str_2492_new_size equ strlen(b2_str_2492)
 
-b2_str_2493 equ "I saw a *SECRET *SQUID!^"
+b2_str_2493 equ "Eu vi uma *LULA *SECRETA!^"
 b2_str_2493_max_size equ 0x1F
 b2_str_2493_new_size equ strlen(b2_str_2493)
 
-b2_str_2494 equ "But I forgot where."
+b2_str_2494 equ "Mas esqueci onde foi."
 b2_str_2494_max_size equ 0x1F
 b2_str_2494_new_size equ strlen(b2_str_2494)
 
-b2_str_2495 equ "I've always wondered why"
+b2_str_2495 equ "Me pergunto por que a nossa"
 b2_str_2495_max_size equ 0x1F
 b2_str_2495_new_size equ strlen(b2_str_2495)
 
-b2_str_2496 equ "our town has a *TALL *MAST.^"
+b2_str_2496 equ "cidade tem um *MASTRO *ALTO.^"
 b2_str_2496_max_size equ 0x1F
 b2_str_2496_new_size equ strlen(b2_str_2496)
 
-b2_str_2497 equ "Was it part of a ship"
+b2_str_2497 equ "Ela já foi parte de um"
 b2_str_2497_max_size equ 0x1F
 b2_str_2497_new_size equ strlen(b2_str_2497)
 
-b2_str_2498 equ "once?"
+b2_str_2498 equ "navio uma vez?"
 b2_str_2498_max_size equ 0x1F
 b2_str_2498_new_size equ strlen(b2_str_2498)
 
-b2_str_2499 equ "If you rely on magical"
+b2_str_2499 equ "Se você usa bastante"
 b2_str_2499_max_size equ 0x1F
 b2_str_2499_new_size equ strlen(b2_str_2499)
 
-b2_str_2500 equ "powers, purchase a *MAGIC"
+b2_str_2500 equ "poderes mágicos, compre um"
 b2_str_2500_max_size equ 0x1F
 b2_str_2500_new_size equ strlen(b2_str_2500)
 
-b2_str_2501 equ "*SAVER!^"
+b2_str_2501 equ "*POUPA-PM!^"
 b2_str_2501_max_size equ 0x1F
 b2_str_2501_new_size equ strlen(b2_str_2501)
 
-b2_str_2502 equ "It's a permanent item that"
+b2_str_2502 equ "É um item permanente que"
 b2_str_2502_max_size equ 0x1F
 b2_str_2502_new_size equ strlen(b2_str_2502)
 
-b2_str_2503 equ "makes your magic last"
+b2_str_2503 equ "faz seus pontos de magia"
 b2_str_2503_max_size equ 0x1F
 b2_str_2503_new_size equ strlen(b2_str_2503)
 
-b2_str_2504 equ "longer!"
+b2_str_2504 equ "durarem mais!"
 b2_str_2504_max_size equ 0x1F
 b2_str_2504_new_size equ strlen(b2_str_2504)
 
-b2_str_2505 equ "The *ROYAL *PALACE sits atop"
+b2_str_2505 equ "O *PALÁCIO *REAL fica em cima"
 b2_str_2505_max_size equ 0x1F
 b2_str_2505_new_size equ strlen(b2_str_2505)
 
-b2_str_2506 equ "a complex drainage system.^"
+b2_str_2506 equ "de um sistema de drenagem.^"
 b2_str_2506_max_size equ 0x1F
 b2_str_2506_new_size equ strlen(b2_str_2506)
 
-b2_str_2507 equ "That's why there's a *DEEP"
+b2_str_2507 equ "É por isso que tem uma"
 b2_str_2507_max_size equ 0x1F
 b2_str_2507_new_size equ strlen(b2_str_2507)
 
-b2_str_2508 equ "*POOL beneath it.^"
+b2_str_2508 equ "*PISCINA *FUNDA embaixo dela.^"
 b2_str_2508_max_size equ 0x1F
 b2_str_2508_new_size equ strlen(b2_str_2508)
 
-b2_str_2509 equ "The water is purified"
+b2_str_2509 equ "A água é purificada"
 b2_str_2509_max_size equ 0x1F
 b2_str_2509_new_size equ strlen(b2_str_2509)
 
-b2_str_2510 equ "naturally...^"
+b2_str_2510 equ "naturalmente...^"
 b2_str_2510_max_size equ 0x1F
 b2_str_2510_new_size equ strlen(b2_str_2510)
 
-b2_str_2511 equ "...by you...^"
+b2_str_2511 equ "...por você...^"
 b2_str_2511_max_size equ 0x1F
 b2_str_2511_new_size equ strlen(b2_str_2511)
 
-b2_str_2512 equ "...If you drink it.^"
+b2_str_2512 equ "...se você beber...^"
 b2_str_2512_max_size equ 0x1F
 b2_str_2512_new_size equ strlen(b2_str_2512)
 
-b2_str_2513 equ "So, you know...^"
+b2_str_2513 equ "Então, sabe...^"
 b2_str_2513_max_size equ 0x1F
 b2_str_2513_new_size equ strlen(b2_str_2513)
 
-b2_str_2514 equ "Don't."
+b2_str_2514 equ "Não beba."
 b2_str_2514_max_size equ 0x1F
 b2_str_2514_new_size equ strlen(b2_str_2514)
 
-b2_str_2515 equ "Some enemies can be"
+b2_str_2515 equ "Alguns inimigos podem ser"
 b2_str_2515_max_size equ 0x1F
 b2_str_2515_new_size equ strlen(b2_str_2515)
 
-b2_str_2516 equ "knocked around after"
+b2_str_2516 equ "quicados por aí após"
 b2_str_2516_max_size equ 0x1F
 b2_str_2516_new_size equ strlen(b2_str_2516)
 
-b2_str_2517 equ "they're defeated.^"
+b2_str_2517 equ "serem derrotados.^"
 b2_str_2517_max_size equ 0x1F
 b2_str_2517_new_size equ strlen(b2_str_2517)
 
-b2_str_2518 equ "They'll keep dropping"
+b2_str_2518 equ "Vão continuar soltando"
 b2_str_2518_max_size equ 0x1F
 b2_str_2518_new_size equ strlen(b2_str_2518)
 
-b2_str_2519 equ "loot.^"
+b2_str_2519 equ "joias a cada porrada.^"
 b2_str_2519_max_size equ 0x1F
 b2_str_2519_new_size equ strlen(b2_str_2519)
 
-b2_str_2520 equ "It's so cruel.^"
+b2_str_2520 equ "É cruel pacas.^"
 b2_str_2520_max_size equ 0x1F
 b2_str_2520_new_size equ strlen(b2_str_2520)
 
-b2_str_2521 equ "Try it."
+b2_str_2521 equ "Testa aí."
 b2_str_2521_max_size equ 0x1F
 b2_str_2521_new_size equ strlen(b2_str_2521)
 
-b2_str_2522 equ "With the *FLOAT *MUFFIN, you"
+b2_str_2522 equ "Com o *MUFFIN *FLUTUANTE, dá"
 b2_str_2522_max_size equ 0x1F
 b2_str_2522_new_size equ strlen(b2_str_2522)
 
-b2_str_2523 equ "can run off any ledge"
+b2_str_2523 equ "pra correr pra fora de"
 b2_str_2523_max_size equ 0x1F
 b2_str_2523_new_size equ strlen(b2_str_2523)
 
-b2_str_2524 equ "without falling!^"
+b2_str_2524 equ "qualquer borda sem cair!^"
 b2_str_2524_max_size equ 0x1F
 b2_str_2524_new_size equ strlen(b2_str_2524)
 
-b2_str_2525 equ "Buy one and you'll see"
+b2_str_2525 equ "Compra um e cê vai sacar"
 b2_str_2525_max_size equ 0x1F
 b2_str_2525_new_size equ strlen(b2_str_2525)
 
-b2_str_2526 equ "what I mean!^"
+b2_str_2526 equ "o que tô dizendo!^"
 b2_str_2526_max_size equ 0x1F
 b2_str_2526_new_size equ strlen(b2_str_2526)
 
-b2_str_2527 equ "If you don't like it, you"
+b2_str_2527 equ "Se não tiver gostado, é só"
 b2_str_2527_max_size equ 0x1F
 b2_str_2527_new_size equ strlen(b2_str_2527)
 
-b2_str_2528 equ "can always reload your"
+b2_str_2528 equ "recarregar seu último"
 b2_str_2528_max_size equ 0x1F
 b2_str_2528_new_size equ strlen(b2_str_2528)
 
-b2_str_2529 equ "last save!^"
+b2_str_2529 equ "salvamento!^"
 b2_str_2529_max_size equ 0x1F
 b2_str_2529_new_size equ strlen(b2_str_2529)
 
-b2_str_2530 equ "No one will ever know!^"
+b2_str_2530 equ "Ninguém vai ficar sabendo!^"
 b2_str_2530_max_size equ 0x1F
 b2_str_2530_new_size equ strlen(b2_str_2530)
 
-b2_str_2531 equ "That's what I always...^"
+b2_str_2531 equ "É o que eu sempre...^"
 b2_str_2531_max_size equ 0x1F
 b2_str_2531_new_size equ strlen(b2_str_2531)
 
-b2_str_2532 equ "Huh?^"
+b2_str_2532 equ "Hã?^"
 b2_str_2532_max_size equ 0x1F
 b2_str_2532_new_size equ strlen(b2_str_2532)
 
@@ -10130,7 +10130,7 @@ b2_str_2533 equ "...^"
 b2_str_2533_max_size equ 0x1F
 b2_str_2533_new_size equ strlen(b2_str_2533)
 
-b2_str_2534 equ "I can't say that?^"
+b2_str_2534 equ "Não posso dizer isso não?^"
 b2_str_2534_max_size equ 0x1F
 b2_str_2534_new_size equ strlen(b2_str_2534)
 
@@ -10138,415 +10138,415 @@ b2_str_2535 equ "...^"
 b2_str_2535_max_size equ 0x1F
 b2_str_2535_new_size equ strlen(b2_str_2535)
 
-b2_str_2536 equ "...oh...^"
+b2_str_2536 equ "...ah...^"
 b2_str_2536_max_size equ 0x1F
 b2_str_2536_new_size equ strlen(b2_str_2536)
 
-b2_str_2537 equ "Nevermind!"
+b2_str_2537 equ "Deixa pra lá!"
 b2_str_2537_max_size equ 0x1F
 b2_str_2537_new_size equ strlen(b2_str_2537)
 
-b2_str_2538 equ "Oh dear!^"
+b2_str_2538 equ "Ai caramba!^"
 b2_str_2538_max_size equ 0x1F
 b2_str_2538_new_size equ strlen(b2_str_2538)
 
-b2_str_2539 equ "Someone has to *GET *RID of"
+b2_str_2539 equ "Alguém tem que *SE *LIVRAR"
 b2_str_2539_max_size equ 0x1F
 b2_str_2539_new_size equ strlen(b2_str_2539)
 
-b2_str_2540 equ "that *ZOMBIE!^"
+b2_str_2540 equ "daquela *ZUMBI!^"
 b2_str_2540_max_size equ 0x1F
 b2_str_2540_new_size equ strlen(b2_str_2540)
 
-b2_str_2541 equ "Look around!^"
+b2_str_2541 equ "Olhe em volta!^"
 b2_str_2541_max_size equ 0x1F
 b2_str_2541_new_size equ strlen(b2_str_2541)
 
-b2_str_2542 equ "Everyone is in a panic!"
+b2_str_2542 equ "Tá todo mundo em pânico!"
 b2_str_2542_max_size equ 0x1F
 b2_str_2542_new_size equ strlen(b2_str_2542)
 
-b2_str_2543 equ "She hasn't done anything"
+b2_str_2543 equ "Mas ela não fez nada"
 b2_str_2543_max_size equ 0x1F
 b2_str_2543_new_size equ strlen(b2_str_2543)
 
-b2_str_2544 equ "wrong!^"
+b2_str_2544 equ "de errado!^"
 b2_str_2544_max_size equ 0x1F
 b2_str_2544_new_size equ strlen(b2_str_2544)
 
-b2_str_2545 equ "Why do you have to be so"
+b2_str_2545 equ "Por que tem que ser tão"
 b2_str_2545_max_size equ 0x1F
 b2_str_2545_new_size equ strlen(b2_str_2545)
 
-b2_str_2546 equ "mean, Mayor?"
+b2_str_2546 equ "maldoso, Prefeito?"
 b2_str_2546_max_size equ 0x1F
 b2_str_2546_new_size equ strlen(b2_str_2546)
 
-b2_str_2547 equ "Oh, it's not my fault.^"
+b2_str_2547 equ "Ah, não é minha culpa.^"
 b2_str_2547_max_size equ 0x1F
 b2_str_2547_new_size equ strlen(b2_str_2547)
 
-b2_str_2548 equ "It's my cursed robot"
+b2_str_2548 equ "É da minha linhagem"
 b2_str_2548_max_size equ 0x1F
 b2_str_2548_new_size equ strlen(b2_str_2548)
 
-b2_str_2549 equ "bloodline."
+b2_str_2549 equ "robótica amaldiçoada."
 b2_str_2549_max_size equ 0x1F
 b2_str_2549_new_size equ strlen(b2_str_2549)
 
-b2_str_2550 equ "Huh?"
+b2_str_2550 equ "Como é?"
 b2_str_2550_max_size equ 0x1F
 b2_str_2550_new_size equ strlen(b2_str_2550)
 
-b2_str_2551 equ "You see...^"
+b2_str_2551 equ "Sabe...^"
 b2_str_2551_max_size equ 0x1F
 b2_str_2551_new_size equ strlen(b2_str_2551)
 
-b2_str_2552 equ "Many generations ago, my"
+b2_str_2552 equ "Muitas eras atrás, minha"
 b2_str_2552_max_size equ 0x1F
 b2_str_2552_new_size equ strlen(b2_str_2552)
 
-b2_str_2553 equ "great great great and so"
+b2_str_2553 equ "tátara tátara tátara,"
 b2_str_2553_max_size equ 0x1F
 b2_str_2553_new_size equ strlen(b2_str_2553)
 
-b2_str_2554 equ "on grandmother...^"
+b2_str_2554 equ "e alguns mais, tátaravó...^"
 b2_str_2554_max_size equ 0x1F
 b2_str_2554_new_size equ strlen(b2_str_2554)
 
-b2_str_2555 equ "...had a romantic"
+b2_str_2555 equ "...teve um encontro"
 b2_str_2555_max_size equ 0x1F
 b2_str_2555_new_size equ strlen(b2_str_2555)
 
-b2_str_2556 equ "encounter with a Heroic"
+b2_str_2556 equ "romântico com um Líder"
 b2_str_2556_max_size equ 0x1F
 b2_str_2556_new_size equ strlen(b2_str_2556)
 
-b2_str_2557 equ "Robot Leader...^"
+b2_str_2557 equ "Robô Heroico...^"
 b2_str_2557_max_size equ 0x1F
 b2_str_2557_new_size equ strlen(b2_str_2557)
 
-b2_str_2558 equ "...whose consciousness had"
+b2_str_2558 equ "...cuja consciência foi"
 b2_str_2558_max_size equ 0x1F
 b2_str_2558_new_size equ strlen(b2_str_2558)
 
-b2_str_2559 equ "recently been transferred"
+b2_str_2559 equ "recentemente transferida"
 b2_str_2559_max_size equ 0x1F
 b2_str_2559_new_size equ strlen(b2_str_2559)
 
-b2_str_2560 equ "into a humanoid body...^"
+b2_str_2560 equ "para um corpo humanoide...^"
 b2_str_2560_max_size equ 0x1F
 b2_str_2560_new_size equ strlen(b2_str_2560)
 
-b2_str_2561 equ "...by a ruthless evil"
+b2_str_2561 equ "...por uma impiedosa"
 b2_str_2561_max_size equ 0x1F
 b2_str_2561_new_size equ strlen(b2_str_2561)
 
-b2_str_2562 equ "criminal organization"
+b2_str_2562 equ "organização criminosa"
 b2_str_2562_max_size equ 0x1F
 b2_str_2562_new_size equ strlen(b2_str_2562)
 
-b2_str_2563 equ "determined to rule the"
+b2_str_2563 equ "determinada a governar"
 b2_str_2563_max_size equ 0x1F
 b2_str_2563_new_size equ strlen(b2_str_2563)
 
-b2_str_2564 equ "world."
+b2_str_2564 equ "o mundo."
 b2_str_2564_max_size equ 0x1F
 b2_str_2564_new_size equ strlen(b2_str_2564)
 
-b2_str_2565 equ "That sounds pretty far"
+b2_str_2565 equ "Isso parece bem"
 b2_str_2565_max_size equ 0x1F
 b2_str_2565_new_size equ strlen(b2_str_2565)
 
-b2_str_2566 equ "fetched."
+b2_str_2566 equ "improvável."
 b2_str_2566_max_size equ 0x1F
 b2_str_2566_new_size equ strlen(b2_str_2566)
 
-b2_str_2567 equ "Yes.^"
+b2_str_2567 equ "Pois é.^"
 b2_str_2567_max_size equ 0x1F
 b2_str_2567_new_size equ strlen(b2_str_2567)
 
-b2_str_2568 equ "Ten months later...^"
+b2_str_2568 equ "Dez meses depois...^"
 b2_str_2568_max_size equ 0x1F
 b2_str_2568_new_size equ strlen(b2_str_2568)
 
-b2_str_2569 equ "...my great great great"
+b2_str_2569 equ "...meu tátara tátara tátara"
 b2_str_2569_max_size equ 0x1F
 b2_str_2569_new_size equ strlen(b2_str_2569)
 
-b2_str_2570 equ "and so on grandpappy was"
+b2_str_2570 equ "e alguns tátaras mais,"
 b2_str_2570_max_size equ 0x1F
 b2_str_2570_new_size equ strlen(b2_str_2570)
 
-b2_str_2571 equ "born.^"
+b2_str_2571 equ "tátaravô nasceu.^"
 b2_str_2571_max_size equ 0x1F
 b2_str_2571_new_size equ strlen(b2_str_2571)
 
-b2_str_2572 equ "I'm half emotionless"
+b2_str_2572 equ "Sou meio robô"
 b2_str_2572_max_size equ 0x1F
 b2_str_2572_new_size equ strlen(b2_str_2572)
 
-b2_str_2573 equ "robot!^"
+b2_str_2573 equ "sem emoções!^"
 b2_str_2573_max_size equ 0x1F
 b2_str_2573_new_size equ strlen(b2_str_2573)
 
-b2_str_2574 equ "That's why I'm cursed to"
+b2_str_2574 equ "Por isso que estou conde-"
 b2_str_2574_max_size equ 0x1F
 b2_str_2574_new_size equ strlen(b2_str_2574)
 
-b2_str_2575 equ "be so awful!"
+b2_str_2575 equ "nado a ser tão horrível!"
 b2_str_2575_max_size equ 0x1F
 b2_str_2575_new_size equ strlen(b2_str_2575)
 
-b2_str_2576 equ "Oh Mayor!"
+b2_str_2576 equ "Ah, Prefeiro!"
 b2_str_2576_max_size equ 0x1F
 b2_str_2576_new_size equ strlen(b2_str_2576)
 
-b2_str_2577 equ "It doesn't matter *HOW you"
+b2_str_2577 equ "Não importa *COMO você"
 b2_str_2577_max_size equ 0x1F
 b2_str_2577_new_size equ strlen(b2_str_2577)
 
-b2_str_2578 equ "got here!^"
+b2_str_2578 equ "veio parar aqui!^"
 b2_str_2578_max_size equ 0x1F
 b2_str_2578_new_size equ strlen(b2_str_2578)
 
-b2_str_2579 equ "You're here *NOW, and you"
+b2_str_2579 equ "Você está aqui *AGORA, e"
 b2_str_2579_max_size equ 0x1F
 b2_str_2579_new_size equ strlen(b2_str_2579)
 
-b2_str_2580 equ "can make your own"
+b2_str_2580 equ "pode tomar suas próprias"
 b2_str_2580_max_size equ 0x1F
 b2_str_2580_new_size equ strlen(b2_str_2580)
 
-b2_str_2581 equ "decisions!^"
+b2_str_2581 equ "decisões!^"
 b2_str_2581_max_size equ 0x1F
 b2_str_2581_new_size equ strlen(b2_str_2581)
 
-b2_str_2582 equ "You can be awful because"
+b2_str_2582 equ "Você pode ser horrível"
 b2_str_2582_max_size equ 0x1F
 b2_str_2582_new_size equ strlen(b2_str_2582)
 
-b2_str_2583 equ "*YOU choose to be!^"
+b2_str_2583 equ "porque *VOCÊ escolheu ser!^"
 b2_str_2583_max_size equ 0x1F
 b2_str_2583_new_size equ strlen(b2_str_2583)
 
-b2_str_2584 equ "Not because of your robot"
+b2_str_2584 equ "Não por causa de sua"
 b2_str_2584_max_size equ 0x1F
 b2_str_2584_new_size equ strlen(b2_str_2584)
 
-b2_str_2585 equ "heritage."
+b2_str_2585 equ "herança robótica."
 b2_str_2585_max_size equ 0x1F
 b2_str_2585_new_size equ strlen(b2_str_2585)
 
-b2_str_2586 equ "Sniff...^"
+b2_str_2586 equ "Snif...^"
 b2_str_2586_max_size equ 0x1F
 b2_str_2586_new_size equ strlen(b2_str_2586)
 
-b2_str_2587 equ "You really think so?"
+b2_str_2587 equ "Você realmente acha?"
 b2_str_2587_max_size equ 0x1F
 b2_str_2587_new_size equ strlen(b2_str_2587)
 
-b2_str_2588 equ "Look at me!^"
+b2_str_2588 equ "Olha pra mim!^"
 b2_str_2588_max_size equ 0x1F
 b2_str_2588_new_size equ strlen(b2_str_2588)
 
-b2_str_2589 equ "I'm Half-Genie, and I'm"
+b2_str_2589 equ "Sou Meia-Gênia, e fui"
 b2_str_2589_max_size equ 0x1F
 b2_str_2589_new_size equ strlen(b2_str_2589)
 
-b2_str_2590 equ "accepted by all of you!"
+b2_str_2590 equ "aceita por todo mundo!"
 b2_str_2590_max_size equ 0x1F
 b2_str_2590_new_size equ strlen(b2_str_2590)
 
-b2_str_2591 equ "Well...^"
+b2_str_2591 equ "Bom...^"
 b2_str_2591_max_size equ 0x1F
 b2_str_2591_new_size equ strlen(b2_str_2591)
 
-b2_str_2592 equ "We are getting a little"
+b2_str_2592 equ "Estamos nos acostumando"
 b2_str_2592_max_size equ 0x1F
 b2_str_2592_new_size equ strlen(b2_str_2592)
 
-b2_str_2593 equ "bit used to you.^"
+b2_str_2593 equ "mais com você ultimamente.^"
 b2_str_2593_max_size equ 0x1F
 b2_str_2593_new_size equ strlen(b2_str_2593)
 
-b2_str_2594 equ "You do seem a little less"
+b2_str_2594 equ "Você parece um pouco menos"
 b2_str_2594_max_size equ 0x1F
 b2_str_2594_new_size equ strlen(b2_str_2594)
 
-b2_str_2595 equ "weird than before."
+b2_str_2595 equ "estranha do que antes."
 b2_str_2595_max_size equ 0x1F
 b2_str_2595_new_size equ strlen(b2_str_2595)
 
-b2_str_2596 equ "You see?"
+b2_str_2596 equ "Viu?"
 b2_str_2596_max_size equ 0x1F
 b2_str_2596_new_size equ strlen(b2_str_2596)
 
-b2_str_2597 equ "I guess you're right!^"
+b2_str_2597 equ "Acho que tem razão!^"
 b2_str_2597_max_size equ 0x1F
 b2_str_2597_new_size equ strlen(b2_str_2597)
 
-b2_str_2598 equ "If people can like"
+b2_str_2598 equ "Se as pessoas podem gostar"
 b2_str_2598_max_size equ 0x1F
 b2_str_2598_new_size equ strlen(b2_str_2598)
 
-b2_str_2599 equ "something impossibly super"
+b2_str_2599 equ "de alguém tão, mas tão"
 b2_str_2599_max_size equ 0x1F
 b2_str_2599_new_size equ strlen(b2_str_2599)
 
-b2_str_2600 equ "strange, like you...^"
+b2_str_2600 equ "estranha como você...^"
 b2_str_2600_max_size equ 0x1F
 b2_str_2600_new_size equ strlen(b2_str_2600)
 
-b2_str_2601 equ "Then maybe they can like"
+b2_str_2601 equ "Então talvez eles possam"
 b2_str_2601_max_size equ 0x1F
 b2_str_2601_new_size equ strlen(b2_str_2601)
 
-b2_str_2602 equ "me, too!"
+b2_str_2602 equ "gostar de mim também!"
 b2_str_2602_max_size equ 0x1F
 b2_str_2602_new_size equ strlen(b2_str_2602)
 
-b2_str_2603 equ "That's the spirit!"
+b2_str_2603 equ "É assim que se faz!"
 b2_str_2603_max_size equ 0x1F
 b2_str_2603_new_size equ strlen(b2_str_2603)
 
-b2_str_2604 equ "Look.^"
+b2_str_2604 equ "Olha.^"
 b2_str_2604_max_size equ 0x1F
 b2_str_2604_new_size equ strlen(b2_str_2604)
 
-b2_str_2605 equ "I'm sorry I made up that"
+b2_str_2605 equ "Desculpa por ter inventado"
 b2_str_2605_max_size equ 0x1F
 b2_str_2605_new_size equ strlen(b2_str_2605)
 
-b2_str_2606 equ "whole cursed robot"
+b2_str_2606 equ "toda essa história de"
 b2_str_2606_max_size equ 0x1F
 b2_str_2606_new_size equ strlen(b2_str_2606)
 
-b2_str_2607 equ "bloodline story.^"
+b2_str_2607 equ "linhagem robô amaldiçoada.^"
 b2_str_2607_max_size equ 0x1F
 b2_str_2607_new_size equ strlen(b2_str_2607)
 
-b2_str_2608 equ "I was just making excuses"
+b2_str_2608 equ "Tava só inventando desculpa"
 b2_str_2608_max_size equ 0x1F
 b2_str_2608_new_size equ strlen(b2_str_2608)
 
-b2_str_2609 equ "for my bad behavior."
+b2_str_2609 equ "pelo meu mau comportamento."
 b2_str_2609_max_size equ 0x1F
 b2_str_2609_new_size equ strlen(b2_str_2609)
 
-b2_str_2610 equ "Forget all about it,"
+b2_str_2610 equ "Esqueça esse assunto aí,"
 b2_str_2610_max_size equ 0x1F
 b2_str_2610_new_size equ strlen(b2_str_2610)
 
-b2_str_2611 equ "Mayor!"
+b2_str_2611 equ "Prefeito!"
 b2_str_2611_max_size equ 0x1F
 b2_str_2611_new_size equ strlen(b2_str_2611)
 
-b2_str_2612 equ "Your *ZOMBIE *FRIEND can"
+b2_str_2612 equ "Sua *AMIGA *ZUMBI pode"
 b2_str_2612_max_size equ 0x1F
 b2_str_2612_new_size equ strlen(b2_str_2612)
 
-b2_str_2613 equ "stay!^"
+b2_str_2613 equ "ficar!^"
 b2_str_2613_max_size equ 0x1F
 b2_str_2613_new_size equ strlen(b2_str_2613)
 
-b2_str_2614 equ "...For a few days."
+b2_str_2614 equ "...Por alguns dias."
 b2_str_2614_max_size equ 0x1F
 b2_str_2614_new_size equ strlen(b2_str_2614)
 
-b2_str_2615 equ "Oh, Mayor."
+b2_str_2615 equ "Ah, Prefeito."
 b2_str_2615_max_size equ 0x1F
 b2_str_2615_new_size equ strlen(b2_str_2615)
 
-b2_str_2616 equ "beep berp"
+b2_str_2616 equ "bip bip"
 b2_str_2616_max_size equ 0x1F
 b2_str_2616_new_size equ strlen(b2_str_2616)
 
-b2_str_2617 equ "Sorry, what did you say?"
+b2_str_2617 equ "Desculpa, o que disse?"
 b2_str_2617_max_size equ 0x1F
 b2_str_2617_new_size equ strlen(b2_str_2617)
 
-b2_str_2618 equ "Nothing."
+b2_str_2618 equ "Nada."
 b2_str_2618_max_size equ 0x1F
 b2_str_2618_new_size equ strlen(b2_str_2618)
 
-b2_str_2619 equ "I'm convinced!^"
+b2_str_2619 equ "Estou convencido!^"
 b2_str_2619_max_size equ 0x1F
 b2_str_2619_new_size equ strlen(b2_str_2619)
 
-b2_str_2620 equ "Your *ZOMBIE *FRIEND can"
+b2_str_2620 equ "Sua *AMIGA *ZUMBI pode"
 b2_str_2620_max_size equ 0x1F
 b2_str_2620_new_size equ strlen(b2_str_2620)
 
-b2_str_2621 equ "stay!^"
+b2_str_2621 equ "ficar!^"
 b2_str_2621_max_size equ 0x1F
 b2_str_2621_new_size equ strlen(b2_str_2621)
 
-b2_str_2622 equ "...For a few days."
+b2_str_2622 equ "...Por alguns dias."
 b2_str_2622_max_size equ 0x1F
 b2_str_2622_new_size equ strlen(b2_str_2622)
 
-b2_str_2623 equ "Find the last *RELIC"
+b2_str_2623 equ "Ache o último *CAÇADOR *DE"
 b2_str_2623_max_size equ 0x1F
 b2_str_2623_new_size equ strlen(b2_str_2623)
 
-b2_str_2624 equ "*HUNTER!^"
+b2_str_2624 equ "*RELÍQUIAS!^"
 b2_str_2624_max_size equ 0x1F
 b2_str_2624_new_size equ strlen(b2_str_2624)
 
-b2_str_2625 equ "You should begin your"
+b2_str_2625 equ "Comece sua busca indo lá"
 b2_str_2625_max_size equ 0x1F
 b2_str_2625_new_size equ strlen(b2_str_2625)
 
-b2_str_2626 equ "search in *BOG *TOWN!"
+b2_str_2626 equ "na *CIDADE *BREJADA!"
 b2_str_2626_max_size equ 0x1F
 b2_str_2626_new_size equ strlen(b2_str_2626)
 
-b2_str_2627 equ "Load up, men!^"
+b2_str_2627 equ "Carreguem tudo, homens!^"
 b2_str_2627_max_size equ 0x1F
 b2_str_2627_new_size equ strlen(b2_str_2627)
 
-b2_str_2628 equ "And be careful!^"
+b2_str_2628 equ "E com cuidado!^"
 b2_str_2628_max_size equ 0x1F
 b2_str_2628_new_size equ strlen(b2_str_2628)
 
-b2_str_2629 equ "That *ROYAL *AMBERGRIS is"
+b2_str_2629 equ "Esse *ÂMBAR-GRIS *REAL vale"
 b2_str_2629_max_size equ 0x1F
 b2_str_2629_new_size equ strlen(b2_str_2629)
 
-b2_str_2630 equ "worth a fortune!^"
+b2_str_2630 equ "uma fortuna!^"
 b2_str_2630_max_size equ 0x1F
 b2_str_2630_new_size equ strlen(b2_str_2630)
 
-b2_str_2631 equ "No sloshing!"
+b2_str_2631 equ "Sem balançar!"
 b2_str_2631_max_size equ 0x1F
 b2_str_2631_new_size equ strlen(b2_str_2631)
 
-b2_str_2632 equ "Ha!^"
+b2_str_2632 equ "Rá!^"
 b2_str_2632_max_size equ 0x1F
 b2_str_2632_new_size equ strlen(b2_str_2632)
 
-b2_str_2633 equ "That was the last treasure"
+b2_str_2633 equ "Esse era o último tesouro"
 b2_str_2633_max_size equ 0x1F
 b2_str_2633_new_size equ strlen(b2_str_2633)
 
-b2_str_2634 equ "I needed to complete my"
+b2_str_2634 equ "que precisava pra completar"
 b2_str_2634_max_size equ 0x1F
 b2_str_2634_new_size equ strlen(b2_str_2634)
 
-b2_str_2635 equ "collection!^"
+b2_str_2635 equ "minha coleção!^"
 b2_str_2635_max_size equ 0x1F
 b2_str_2635_new_size equ strlen(b2_str_2635)
 
-b2_str_2636 equ "Sequin Land and everything"
+b2_str_2636 equ "Sequin Land e tudo mais"
 b2_str_2636_max_size equ 0x1F
 b2_str_2636_new_size equ strlen(b2_str_2636)
 
-b2_str_2637 equ "in it...^"
+b2_str_2637 equ "nela...^"
 b2_str_2637_max_size equ 0x1F
 b2_str_2637_new_size equ strlen(b2_str_2637)
 
-b2_str_2638 equ "will be MINE!"
+b2_str_2638 equ "será MINHA!"
 b2_str_2638_max_size equ 0x1F
 b2_str_2638_new_size equ strlen(b2_str_2638)
 
@@ -10554,431 +10554,431 @@ b2_str_2639 equ "Ho ho ho!"
 b2_str_2639_max_size equ 0x1F
 b2_str_2639_new_size equ strlen(b2_str_2639)
 
-b2_str_2640 equ "Eww.^"
+b2_str_2640 equ "Eca.^"
 b2_str_2640_max_size equ 0x1F
 b2_str_2640_new_size equ strlen(b2_str_2640)
 
-b2_str_2641 equ "Bog Town.^"
+b2_str_2641 equ "Cidade Brejada.^"
 b2_str_2641_max_size equ 0x1F
 b2_str_2641_new_size equ strlen(b2_str_2641)
 
-b2_str_2642 equ "Not a place I like to"
+b2_str_2642 equ "Não é um lugar que sou"
 b2_str_2642_max_size equ 0x1F
 b2_str_2642_new_size equ strlen(b2_str_2642)
 
-b2_str_2643 equ "visit."
+b2_str_2643 equ "muito fã de visitar."
 b2_str_2643_max_size equ 0x1F
 b2_str_2643_new_size equ strlen(b2_str_2643)
 
-b2_str_2644 equ "You've been here before?"
+b2_str_2644 equ "Já esteve aqui antes?"
 b2_str_2644_max_size equ 0x1F
 b2_str_2644_new_size equ strlen(b2_str_2644)
 
-b2_str_2645 equ "Well, it looked different"
+b2_str_2645 equ "Bom, era diferente"
 b2_str_2645_max_size equ 0x1F
 b2_str_2645_new_size equ strlen(b2_str_2645)
 
-b2_str_2646 equ "back then.^"
+b2_str_2646 equ "antigamente.^"
 b2_str_2646_max_size equ 0x1F
 b2_str_2646_new_size equ strlen(b2_str_2646)
 
-b2_str_2647 equ "It's usually even more"
+b2_str_2647 equ "Se hoje é um lugar nojento,"
 b2_str_2647_max_size equ 0x1F
 b2_str_2647_new_size equ strlen(b2_str_2647)
 
-b2_str_2648 equ "disgusting, if you can"
+b2_str_2648 equ "antes era pior ainda,"
 b2_str_2648_max_size equ 0x1F
 b2_str_2648_new_size equ strlen(b2_str_2648)
 
-b2_str_2649 equ "imagine that.^"
+b2_str_2649 equ "se é que dá pra imaginar.^"
 b2_str_2649_max_size equ 0x1F
 b2_str_2649_new_size equ strlen(b2_str_2649)
 
-b2_str_2650 equ "Let's find this *CRUST guy"
+b2_str_2650 equ "Bora achar esse tal *CROSTA"
 b2_str_2650_max_size equ 0x1F
 b2_str_2650_new_size equ strlen(b2_str_2650)
 
-b2_str_2651 equ "and get out of here."
+b2_str_2651 equ "e vazar daqui."
 b2_str_2651_max_size equ 0x1F
 b2_str_2651_new_size equ strlen(b2_str_2651)
 
-b2_str_2652 equ "Sound the Bugkini Alarm!^"
+b2_str_2652 equ "Soem o Alarme Biquinseta!^"
 b2_str_2652_max_size equ 0x1F
 b2_str_2652_new_size equ strlen(b2_str_2652)
 
-b2_str_2653 equ "Another outsider, here to"
+b2_str_2653 equ "Outra estranha veio roubar"
 b2_str_2653_max_size equ 0x1F
 b2_str_2653_new_size equ strlen(b2_str_2653)
 
-b2_str_2654 equ "steal our *ROYAL *JELLY!"
+b2_str_2654 equ "nossa *GELEIA *REAL!"
 b2_str_2654_max_size equ 0x1F
 b2_str_2654_new_size equ strlen(b2_str_2654)
 
-b2_str_2655 equ "No, no!^"
+b2_str_2655 equ "Não, não!^"
 b2_str_2655_max_size equ 0x1F
 b2_str_2655_new_size equ strlen(b2_str_2655)
 
-b2_str_2656 equ "You've got it all wrong!^"
+b2_str_2656 equ "Cês entenderam tudo errado!^"
 b2_str_2656_max_size equ 0x1F
 b2_str_2656_new_size equ strlen(b2_str_2656)
 
-b2_str_2657 equ "I just came here to find"
+b2_str_2657 equ "Só vim aqui pra achar o"
 b2_str_2657_max_size equ 0x1F
 b2_str_2657_new_size equ strlen(b2_str_2657)
 
-b2_str_2658 equ "*DR. *CRUST!"
+b2_str_2658 equ "*DR. *CROSTA!"
 b2_str_2658_max_size equ 0x1F
 b2_str_2658_new_size equ strlen(b2_str_2658)
 
-b2_str_2659 equ "Well... your timing"
+b2_str_2659 equ "Bom... chegou na pior"
 b2_str_2659_max_size equ 0x1F
 b2_str_2659_new_size equ strlen(b2_str_2659)
 
-b2_str_2660 equ "stinks!^"
+b2_str_2660 equ "hora possível!^"
 b2_str_2660_max_size equ 0x1F
 b2_str_2660_new_size equ strlen(b2_str_2660)
 
-b2_str_2661 equ "We're having a doozy of a"
+b2_str_2661 equ "A gente tá tendo um dia"
 b2_str_2661_max_size equ 0x1F
 b2_str_2661_new_size equ strlen(b2_str_2661)
 
-b2_str_2662 equ "day!^"
+b2_str_2662 equ "daqueles!^"
 b2_str_2662_max_size equ 0x1F
 b2_str_2662_new_size equ strlen(b2_str_2662)
 
-b2_str_2663 equ "First our birthing ponds"
+b2_str_2663 equ "Primeiro nossas piscinas de"
 b2_str_2663_max_size equ 0x1F
 b2_str_2663_new_size equ strlen(b2_str_2663)
 
-b2_str_2664 equ "vanish into thin air...^"
+b2_str_2664 equ "parto sumiram do nada...^"
 b2_str_2664_max_size equ 0x1F
 b2_str_2664_new_size equ strlen(b2_str_2664)
 
-b2_str_2665 equ "Then some pirate shows up"
+b2_str_2665 equ "Então uns piratas deram as"
 b2_str_2665_max_size equ 0x1F
 b2_str_2665_new_size equ strlen(b2_str_2665)
 
-b2_str_2666 equ "and steals the last of our"
+b2_str_2666 equ "caras e roubaram a nossa"
 b2_str_2666_max_size equ 0x1F
 b2_str_2666_new_size equ strlen(b2_str_2666)
 
-b2_str_2667 equ "*ROYAL *JELLY!^"
+b2_str_2667 equ "última *GELEIA *REAL!^"
 b2_str_2667_max_size equ 0x1F
 b2_str_2667_new_size equ strlen(b2_str_2667)
 
-b2_str_2668 equ "Without our vitamin rich"
+b2_str_2668 equ "Sem os *FOSSOS *DE *ESCARRO"
 b2_str_2668_max_size equ 0x1F
 b2_str_2668_new_size equ strlen(b2_str_2668)
 
-b2_str_2669 equ "*SPUTUM *POOLS, our sweet"
+b2_str_2669 equ "super vitaminados, nossas"
 b2_str_2669_max_size equ 0x1F
 b2_str_2669_new_size equ strlen(b2_str_2669)
 
-b2_str_2670 equ "larvae can't pupate!"
+b2_str_2670 equ "larvas não viram pupas!"
 b2_str_2670_max_size equ 0x1F
 b2_str_2670_new_size equ strlen(b2_str_2670)
 
-b2_str_2671 equ "That sounds pretty"
+b2_str_2671 equ "Isso parece bem"
 b2_str_2671_max_size equ 0x1F
 b2_str_2671_new_size equ strlen(b2_str_2671)
 
-b2_str_2672 equ "serious.^"
+b2_str_2672 equ "sério.^"
 b2_str_2672_max_size equ 0x1F
 b2_str_2672_new_size equ strlen(b2_str_2672)
 
-b2_str_2673 equ "And disgusting."
+b2_str_2673 equ "E nojento."
 b2_str_2673_max_size equ 0x1F
 b2_str_2673_new_size equ strlen(b2_str_2673)
 
-b2_str_2674 equ "It is!^"
+b2_str_2674 equ "Pois é!^"
 b2_str_2674_max_size equ 0x1F
 b2_str_2674_new_size equ strlen(b2_str_2674)
 
-b2_str_2675 equ "And I know who's behind"
+b2_str_2675 equ "E eu sei quem é que tá por"
 b2_str_2675_max_size equ 0x1F
 b2_str_2675_new_size equ strlen(b2_str_2675)
 
-b2_str_2676 equ "this.^"
+b2_str_2676 equ "trás disso.^"
 b2_str_2676_max_size equ 0x1F
 b2_str_2676_new_size equ strlen(b2_str_2676)
 
-b2_str_2677 equ "The *ROYAL *PALACE!^"
+b2_str_2677 equ "O *PALÁCIO *REAL!^"
 b2_str_2677_max_size equ 0x1F
 b2_str_2677_new_size equ strlen(b2_str_2677)
 
-b2_str_2678 equ "They just want our fancy"
+b2_str_2678 equ "Só querem nossos fluidos"
 b2_str_2678_max_size equ 0x1F
 b2_str_2678_new_size equ strlen(b2_str_2678)
 
-b2_str_2679 equ "fluids to adorn their"
+b2_str_2679 equ "fogosos pra decorar aquele"
 b2_str_2679_max_size equ 0x1F
 b2_str_2679_new_size equ strlen(b2_str_2679)
 
-b2_str_2680 equ "lumpy old palace!^"
+b2_str_2680 equ "palácio velho carcumido!^"
 b2_str_2680_max_size equ 0x1F
 b2_str_2680_new_size equ strlen(b2_str_2680)
 
-b2_str_2681 equ "Who else would send a"
+b2_str_2681 equ "Afinal, quem mais enviaria"
 b2_str_2681_max_size equ 0x1F
 b2_str_2681_new_size equ strlen(b2_str_2681)
 
-b2_str_2682 equ "pirate to steal *ROYAL"
+b2_str_2682 equ "uma pirata pra roubar nossa"
 b2_str_2682_max_size equ 0x1F
 b2_str_2682_new_size equ strlen(b2_str_2682)
 
-b2_str_2683 equ "*JELLY, anyway?"
+b2_str_2683 equ "*GELEIA *REAL?"
 b2_str_2683_max_size equ 0x1F
 b2_str_2683_new_size equ strlen(b2_str_2683)
 
-b2_str_2684 equ "Uhh..."
+b2_str_2684 equ "Ahh..."
 b2_str_2684_max_size equ 0x1F
 b2_str_2684_new_size equ strlen(b2_str_2684)
 
-b2_str_2685 equ "You'll help us, right?"
+b2_str_2685 equ "Cê vai ajudar a gente, né?"
 b2_str_2685_max_size equ 0x1F
 b2_str_2685_new_size equ strlen(b2_str_2685)
 
-b2_str_2686 equ "> Sure"
+b2_str_2686 equ "> Vou sim"
 b2_str_2686_max_size equ 0x1F
 b2_str_2686_new_size equ strlen(b2_str_2686)
 
-b2_str_2687 equ "> Sorry"
+b2_str_2687 equ "> Foi mal"
 b2_str_2687_max_size equ 0x1F
 b2_str_2687_new_size equ strlen(b2_str_2687)
 
-b2_str_2688 equ "You're just as cruel as"
+b2_str_2688 equ "Você é tão cruel quanto"
 b2_str_2688_max_size equ 0x1F
 b2_str_2688_new_size equ strlen(b2_str_2688)
 
-b2_str_2689 equ "they are! Guh!"
+b2_str_2689 equ "eles! Argh!"
 b2_str_2689_max_size equ 0x1F
 b2_str_2689_new_size equ strlen(b2_str_2689)
 
-b2_str_2690 equ "I knew you were on our"
+b2_str_2690 equ "Sabia que cê tava do nosso"
 b2_str_2690_max_size equ 0x1F
 b2_str_2690_new_size equ strlen(b2_str_2690)
 
-b2_str_2691 equ "side."
+b2_str_2691 equ "lado."
 b2_str_2691_max_size equ 0x1F
 b2_str_2691_new_size equ strlen(b2_str_2691)
 
-b2_str_2692 equ "It took months to fill the"
+b2_str_2692 equ "Levou meses pra encher a"
 b2_str_2692_max_size equ 0x1F
 b2_str_2692_new_size equ strlen(b2_str_2692)
 
-b2_str_2693 equ "phlegm sluice with vomit!^"
+b2_str_2693 equ "membrana mucosa de vômito!^"
 b2_str_2693_max_size equ 0x1F
 b2_str_2693_new_size equ strlen(b2_str_2693)
 
-b2_str_2694 equ "They won't get away with"
+b2_str_2694 equ "Eles não vão se safar dessa"
 b2_str_2694_max_size equ 0x1F
 b2_str_2694_new_size equ strlen(b2_str_2694)
 
-b2_str_2695 equ "this!^"
+b2_str_2695 equ "assim!^"
 b2_str_2695_max_size equ 0x1F
 b2_str_2695_new_size equ strlen(b2_str_2695)
 
-b2_str_2696 equ "Go and punch their buns.^"
+b2_str_2696 equ "Vai lá e desce o pau neles.^"
 b2_str_2696_max_size equ 0x1F
 b2_str_2696_new_size equ strlen(b2_str_2696)
 
-b2_str_2697 equ "You'll find the palace"
+b2_str_2697 equ "Cê vai achar o palácio"
 b2_str_2697_max_size equ 0x1F
 b2_str_2697_new_size equ strlen(b2_str_2697)
 
-b2_str_2698 equ "over here!"
+b2_str_2698 equ "bem aqui!"
 b2_str_2698_max_size equ 0x1F
 b2_str_2698_new_size equ strlen(b2_str_2698)
 
-b2_str_2699 equ "YOU GOT *ROYAL *PALACE *MAP!"
+b2_str_2699 equ "PEGOU *MAPA *DO *PALÁCIO!"
 b2_str_2699_max_size equ 0x1F
 b2_str_2699_new_size equ strlen(b2_str_2699)
 
-b2_str_2700 equ "Tell those nasty humans at"
+b2_str_2700 equ "Diz praquela gentalha"
 b2_str_2700_max_size equ 0x1F
 b2_str_2700_new_size equ strlen(b2_str_2700)
 
-b2_str_2701 equ "the palace that we mean"
+b2_str_2701 equ "lá do palácio"
 b2_str_2701_max_size equ 0x1F
 b2_str_2701_new_size equ strlen(b2_str_2701)
 
-b2_str_2702 equ "business!"
+b2_str_2702 equ "que a gente não se mistura!"
 b2_str_2702_max_size equ 0x1F
 b2_str_2702_new_size equ strlen(b2_str_2702)
 
-b2_str_2703 equ "Just leave it to me!^"
+b2_str_2703 equ "Pode deixar comigo!^"
 b2_str_2703_max_size equ 0x1F
 b2_str_2703_new_size equ strlen(b2_str_2703)
 
-b2_str_2704 equ "I'll... uh..."
+b2_str_2704 equ "Eu vou... Ééé..."
 b2_str_2704_max_size equ 0x1F
 b2_str_2704_new_size equ strlen(b2_str_2704)
 
-b2_str_2705 equ "Save your *BARFY..."
+b2_str_2705 equ "Salvar as *BOLSAS..."
 b2_str_2705_max_size equ 0x1F
 b2_str_2705_new_size equ strlen(b2_str_2705)
 
-b2_str_2706 equ "... your *BARFY *BIRTH *SACS!"
+b2_str_2706 equ "as *BOLSAS *DE *PARTO *PARIDO!"
 b2_str_2706_max_size equ 0x1F
 b2_str_2706_new_size equ strlen(b2_str_2706)
 
-b2_str_2707 equ "Oh, pretty please and"
+b2_str_2707 equ "Ah, por favorzinho,"
 b2_str_2707_max_size equ 0x1F
 b2_str_2707_new_size equ strlen(b2_str_2707)
 
-b2_str_2708 equ "thank you!"
+b2_str_2708 equ "e muito agradecida!"
 b2_str_2708_max_size equ 0x1F
 b2_str_2708_new_size equ strlen(b2_str_2708)
 
-b2_str_2709 equ "What am I signing up for"
+b2_str_2709 equ "No que é que eu tô"
 b2_str_2709_max_size equ 0x1F
 b2_str_2709_new_size equ strlen(b2_str_2709)
 
-b2_str_2710 equ "this time?"
+b2_str_2710 equ "me metendo dessa vez?"
 b2_str_2710_max_size equ 0x1F
 b2_str_2710_new_size equ strlen(b2_str_2710)
 
-b2_str_2711 equ "Find a way to get our"
+b2_str_2711 equ "Dá um jeito de reencher"
 b2_str_2711_max_size equ 0x1F
 b2_str_2711_new_size equ strlen(b2_str_2711)
 
-b2_str_2712 equ "*SPUTUM *POOLS refilled, and"
+b2_str_2712 equ "nossos *FOSSOS *DE *ESCARRO,"
 b2_str_2712_max_size equ 0x1F
 b2_str_2712_new_size equ strlen(b2_str_2712)
 
-b2_str_2713 equ "fast!^"
+b2_str_2713 equ "e pra ontem!^"
 b2_str_2713_max_size equ 0x1F
 b2_str_2713_new_size equ strlen(b2_str_2713)
 
-b2_str_2714 equ "Otherwise, our *EGG *SACS"
+b2_str_2714 equ "Senão nossas *BOLSAS *DE *OVOS"
 b2_str_2714_max_size equ 0x1F
 b2_str_2714_new_size equ strlen(b2_str_2714)
 
-b2_str_2715 equ "are *DOOMED!"
+b2_str_2715 equ "vão pro *SACO!"
 b2_str_2715_max_size equ 0x1F
 b2_str_2715_new_size equ strlen(b2_str_2715)
 
-b2_str_2716 equ "Aha!^"
+b2_str_2716 equ "A-há!^"
 b2_str_2716_max_size equ 0x1F
 b2_str_2716_new_size equ strlen(b2_str_2716)
 
-b2_str_2717 equ "A map to the *ROYAL *PALACE!^"
+b2_str_2717 equ "Um mapa do *PALÁCIO *REAL!^"
 b2_str_2717_max_size equ 0x1F
 b2_str_2717_new_size equ strlen(b2_str_2717)
 
-b2_str_2718 equ "We can ask the *SULTANA for"
+b2_str_2718 equ "Podemos pedir ajuda à"
 b2_str_2718_max_size equ 0x1F
 b2_str_2718_new_size equ strlen(b2_str_2718)
 
-b2_str_2719 equ "help!^"
+b2_str_2719 equ "*SULTANA!^"
 b2_str_2719_max_size equ 0x1F
 b2_str_2719_new_size equ strlen(b2_str_2719)
 
-b2_str_2720 equ "I think our job is about"
+b2_str_2720 equ "Acho que nosso trabalho vai"
 b2_str_2720_max_size equ 0x1F
 b2_str_2720_new_size equ strlen(b2_str_2720)
 
-b2_str_2721 equ "to get a whole lot easier!^"
+b2_str_2721 equ "ficar bem mais fácil agora!^"
 b2_str_2721_max_size equ 0x1F
 b2_str_2721_new_size equ strlen(b2_str_2721)
 
-b2_str_2722 equ "I'll add the *ROYAL *PALACE"
+b2_str_2722 equ "Vou adicionar o *PALÁCIO"
 b2_str_2722_max_size equ 0x1F
 b2_str_2722_new_size equ strlen(b2_str_2722)
 
-b2_str_2723 equ "to our travel list."
+b2_str_2723 equ "*REAL aos nossos destinos."
 b2_str_2723_max_size equ 0x1F
 b2_str_2723_new_size equ strlen(b2_str_2723)
 
-b2_str_2724 equ "Hey!"
+b2_str_2724 equ "Eita!"
 b2_str_2724_max_size equ 0x1F
 b2_str_2724_new_size equ strlen(b2_str_2724)
 
-b2_str_2725 equ "Hey what?"
+b2_str_2725 equ "Que foi?"
 b2_str_2725_max_size equ 0x1F
 b2_str_2725_new_size equ strlen(b2_str_2725)
 
-b2_str_2726 equ "What happened to the Royal"
+b2_str_2726 equ "O que aconteceu com o"
 b2_str_2726_max_size equ 0x1F
 b2_str_2726_new_size equ strlen(b2_str_2726)
 
-b2_str_2727 equ "Palace?^"
+b2_str_2727 equ "Palácio Real?^"
 b2_str_2727_max_size equ 0x1F
 b2_str_2727_new_size equ strlen(b2_str_2727)
 
-b2_str_2728 equ "It's *COVERED in *SLIME!"
+b2_str_2728 equ "Tá *COBERTO de *GOSMA!"
 b2_str_2728_max_size equ 0x1F
 b2_str_2728_new_size equ strlen(b2_str_2728)
 
-b2_str_2729 equ "Is that not normal?"
+b2_str_2729 equ "Isso não é normal não?"
 b2_str_2729_max_size equ 0x1F
 b2_str_2729_new_size equ strlen(b2_str_2729)
 
-b2_str_2730 equ "No.^"
+b2_str_2730 equ "Claro que não.^"
 b2_str_2730_max_size equ 0x1F
 b2_str_2730_new_size equ strlen(b2_str_2730)
 
-b2_str_2731 equ "The Royal Palace...^"
+b2_str_2731 equ "O Palácio Real...^"
 b2_str_2731_max_size equ 0x1F
 b2_str_2731_new_size equ strlen(b2_str_2731)
 
-b2_str_2732 equ "Home of Sequin Land's"
+b2_str_2732 equ "Lar da governante de"
 b2_str_2732_max_size equ 0x1F
 b2_str_2732_new_size equ strlen(b2_str_2732)
 
-b2_str_2733 equ "ruler...^"
+b2_str_2733 equ "Sequin Land...^"
 b2_str_2733_max_size equ 0x1F
 b2_str_2733_new_size equ strlen(b2_str_2733)
 
-b2_str_2734 equ "Is NOT normally covered in"
+b2_str_2734 equ "NÃO É coberta de gosma"
 b2_str_2734_max_size equ 0x1F
 b2_str_2734_new_size equ strlen(b2_str_2734)
 
-b2_str_2735 equ "slime."
+b2_str_2735 equ "normalmente."
 b2_str_2735_max_size equ 0x1F
 b2_str_2735_new_size equ strlen(b2_str_2735)
 
-b2_str_2736 equ "I was just *ASKING!^"
+b2_str_2736 equ "Eu tava só *PERGUNTANDO!^"
 b2_str_2736_max_size equ 0x1F
 b2_str_2736_new_size equ strlen(b2_str_2736)
 
-b2_str_2737 equ "*ERRGH!^"
+b2_str_2737 equ "*ARGH!^"
 b2_str_2737_max_size equ 0x1F
 b2_str_2737_new_size equ strlen(b2_str_2737)
 
-b2_str_2738 equ "You're such a *SOURPUSS"
+b2_str_2738 equ "Tu só pode tá *DE *CHICO"
 b2_str_2738_max_size equ 0x1F
 b2_str_2738_new_size equ strlen(b2_str_2738)
 
-b2_str_2739 equ "today!"
+b2_str_2739 equ "hoje!"
 b2_str_2739_max_size equ 0x1F
 b2_str_2739_new_size equ strlen(b2_str_2739)
 
-b2_str_2740 equ "Tell it to your new best"
+b2_str_2740 equ "Conta pra sua nova melhor"
 b2_str_2740_max_size equ 0x1F
 b2_str_2740_new_size equ strlen(b2_str_2740)
 
-b2_str_2741 equ "friend.^"
+b2_str_2741 equ "amiga zumbi.^"
 b2_str_2741_max_size equ 0x1F
 b2_str_2741_new_size equ strlen(b2_str_2741)
 
-b2_str_2742 equ "I'm sure she's all ears.^"
+b2_str_2742 equ "Se pá ela é toda ouvidos.^"
 b2_str_2742_max_size equ 0x1F
 b2_str_2742_new_size equ strlen(b2_str_2742)
 
-b2_str_2743 equ "And eyes and brains and"
+b2_str_2743 equ "E olhos, cérebros,"
 b2_str_2743_max_size equ 0x1F
 b2_str_2743_new_size equ strlen(b2_str_2743)
 
-b2_str_2744 equ "skulls and..."
+b2_str_2744 equ "caveiras e..."
 b2_str_2744_max_size equ 0x1F
 b2_str_2744_new_size equ strlen(b2_str_2744)
 
-b2_str_2745 equ "I'm *GOING!"
+b2_str_2745 equ "Eu já tô *INDO!"
 b2_str_2745_max_size equ 0x1F
 b2_str_2745_new_size equ strlen(b2_str_2745)
 
-b2_str_2746 equ "Oh hey, you're here, too?"
+b2_str_2746 equ "Aê, cê tá aqui, também?"
 b2_str_2746_max_size equ 0x1F
 b2_str_2746_new_size equ strlen(b2_str_2746)
 
@@ -10986,691 +10986,691 @@ b2_str_2747 equ "Bolo!"
 b2_str_2747_max_size equ 0x1F
 b2_str_2747_new_size equ strlen(b2_str_2747)
 
-b2_str_2748 equ "Hey, about your little"
+b2_str_2748 equ "Ei, sobre seu"
 b2_str_2748_max_size equ 0x1F
 b2_str_2748_new_size equ strlen(b2_str_2748)
 
-b2_str_2749 equ "brother...."
+b2_str_2749 equ "irmãozinho..."
 b2_str_2749_max_size equ 0x1F
 b2_str_2749_new_size equ strlen(b2_str_2749)
 
-b2_str_2750 equ "Oh, Pongo?^"
+b2_str_2750 equ "Ah, o Pongo?^"
 b2_str_2750_max_size equ 0x1F
 b2_str_2750_new_size equ strlen(b2_str_2750)
 
-b2_str_2751 equ "Don't sweat it.^"
+b2_str_2751 equ "Não esquenta.^"
 b2_str_2751_max_size equ 0x1F
 b2_str_2751_new_size equ strlen(b2_str_2751)
 
-b2_str_2752 equ "I found him by the"
+b2_str_2752 equ "Achei ele lá pelo"
 b2_str_2752_max_size equ 0x1F
 b2_str_2752_new_size equ strlen(b2_str_2752)
 
-b2_str_2753 equ "lighthouse."
+b2_str_2753 equ "farol."
 b2_str_2753_max_size equ 0x1F
 b2_str_2753_new_size equ strlen(b2_str_2753)
 
-b2_str_2754 equ "He's back with Grandma"
+b2_str_2754 equ "Ele já tá com a vovó"
 b2_str_2754_max_size equ 0x1F
 b2_str_2754_new_size equ strlen(b2_str_2754)
 
-b2_str_2755 equ "now."
+b2_str_2755 equ "agora."
 b2_str_2755_max_size equ 0x1F
 b2_str_2755_new_size equ strlen(b2_str_2755)
 
-b2_str_2756 equ "Oh, thank goodness!"
+b2_str_2756 equ "Ah, graças a Deus!"
 b2_str_2756_max_size equ 0x1F
 b2_str_2756_new_size equ strlen(b2_str_2756)
 
-b2_str_2757 equ "He did say you stole his"
+b2_str_2757 equ "Mas ele me disse que cê"
 b2_str_2757_max_size equ 0x1F
 b2_str_2757_new_size equ strlen(b2_str_2757)
 
-b2_str_2758 equ "ball, though."
+b2_str_2758 equ "roubou o chocalho dele."
 b2_str_2758_max_size equ 0x1F
 b2_str_2758_new_size equ strlen(b2_str_2758)
 
-b2_str_2759 equ "Uh..."
+b2_str_2759 equ "Ahn..."
 b2_str_2759_max_size equ 0x1F
 b2_str_2759_new_size equ strlen(b2_str_2759)
 
-b2_str_2760 equ "By the way, did you"
+b2_str_2760 equ "Falando nisso, cê"
 b2_str_2760_max_size equ 0x1F
 b2_str_2760_new_size equ strlen(b2_str_2760)
 
-b2_str_2761 equ "notice?^"
+b2_str_2761 equ "percebeu?^"
 b2_str_2761_max_size equ 0x1F
 b2_str_2761_new_size equ strlen(b2_str_2761)
 
-b2_str_2762 equ "It's another one of these"
+b2_str_2762 equ "É mais uma daquelas"
 b2_str_2762_max_size equ 0x1F
 b2_str_2762_new_size equ strlen(b2_str_2762)
 
-b2_str_2763 equ "gizmos.^"
+b2_str_2763 equ "engenhocas.^"
 b2_str_2763_max_size equ 0x1F
 b2_str_2763_new_size equ strlen(b2_str_2763)
 
-b2_str_2764 equ "Pretty sure there's a"
+b2_str_2764 equ "Se pá tem um fio solto aí"
 b2_str_2764_max_size equ 0x1F
 b2_str_2764_new_size equ strlen(b2_str_2764)
 
-b2_str_2765 equ "loose wire.^"
+b2_str_2765 equ "dentro. Tá com mais curto^"
 b2_str_2765_max_size equ 0x1F
 b2_str_2765_new_size equ strlen(b2_str_2765)
 
-b2_str_2766 equ "It's got more shorts in it"
+b2_str_2766 equ "que minha churrasqueira"
 b2_str_2766_max_size equ 0x1F
 b2_str_2766_new_size equ strlen(b2_str_2766)
 
-b2_str_2767 equ "than my underwear drawer.^"
+b2_str_2767 equ "controle remoto.^"
 b2_str_2767_max_size equ 0x1F
 b2_str_2767_new_size equ strlen(b2_str_2767)
 
-b2_str_2768 equ "Every time I stick my toe"
+b2_str_2768 equ "Eu aperto o número um,"
 b2_str_2768_max_size equ 0x1F
 b2_str_2768_new_size equ strlen(b2_str_2768)
 
-b2_str_2769 equ "in there, it hurts.^"
+b2_str_2769 equ "ela liga...^"
 b2_str_2769_max_size equ 0x1F
 b2_str_2769_new_size equ strlen(b2_str_2769)
 
-b2_str_2770 equ "Every^"
+b2_str_2770 equ "Fíuuu...^"
 b2_str_2770_max_size equ 0x1F
 b2_str_2770_new_size equ strlen(b2_str_2770)
 
-b2_str_2771 equ "Single^"
+b2_str_2771 equ "...^"
 b2_str_2771_max_size equ 0x1F
 b2_str_2771_new_size equ strlen(b2_str_2771)
 
-b2_str_2772 equ "..."
+b2_str_2772 equ "KA-BUUM!"
 b2_str_2772_max_size equ 0x1F
 b2_str_2772_new_size equ strlen(b2_str_2772)
 
-b2_str_2773 equ "Ouch!"
+b2_str_2773 equ "TÁ PEGANDO FOGO BICHO!"
 b2_str_2773_max_size equ 0x1F
 b2_str_2773_new_size equ strlen(b2_str_2773)
 
-b2_str_2774 equ "With a *COG, I could try to"
+b2_str_2774 equ "Com uma *ENGRENAGEM, posso"
 b2_str_2774_max_size equ 0x1F
 b2_str_2774_new_size equ strlen(b2_str_2774)
 
-b2_str_2775 equ "fix this.^"
+b2_str_2775 equ "tentar ajeitar.^"
 b2_str_2775_max_size equ 0x1F
 b2_str_2775_new_size equ strlen(b2_str_2775)
 
-b2_str_2776 equ "Pretty sure there's a"
+b2_str_2776 equ "Se pá tem um fio solto"
 b2_str_2776_max_size equ 0x1F
 b2_str_2776_new_size equ strlen(b2_str_2776)
 
-b2_str_2777 equ "loose wire somewhere."
+b2_str_2777 equ "aí dentro."
 b2_str_2777_max_size equ 0x1F
 b2_str_2777_new_size equ strlen(b2_str_2777)
 
-b2_str_2778 equ "Hey, what've you got"
+b2_str_2778 equ "Ei, que peça é essa que"
 b2_str_2778_max_size equ 0x1F
 b2_str_2778_new_size equ strlen(b2_str_2778)
 
-b2_str_2779 equ "there?^"
+b2_str_2779 equ "cê tem aí?^"
 b2_str_2779_max_size equ 0x1F
 b2_str_2779_new_size equ strlen(b2_str_2779)
 
-b2_str_2780 equ "Is that another *COG?^"
+b2_str_2780 equ "É outra *ENGRENAGEM?^"
 b2_str_2780_max_size equ 0x1F
 b2_str_2780_new_size equ strlen(b2_str_2780)
 
-b2_str_2781 equ "I'll take it off your"
+b2_str_2781 equ "Vou pegar isso"
 b2_str_2781_max_size equ 0x1F
 b2_str_2781_new_size equ strlen(b2_str_2781)
 
-b2_str_2782 equ "hands."
+b2_str_2782 equ "emprestado."
 b2_str_2782_max_size equ 0x1F
 b2_str_2782_new_size equ strlen(b2_str_2782)
 
-b2_str_2783 equ "> Sure"
+b2_str_2783 equ "> Tá bom"
 b2_str_2783_max_size equ 0x1F
 b2_str_2783_new_size equ strlen(b2_str_2783)
 
-b2_str_2784 equ "> Sorry"
+b2_str_2784 equ "> Foi mal"
 b2_str_2784_max_size equ 0x1F
 b2_str_2784_new_size equ strlen(b2_str_2784)
 
-b2_str_2785 equ "Suit yourself."
+b2_str_2785 equ "Cê que sabe."
 b2_str_2785_max_size equ 0x1F
 b2_str_2785_new_size equ strlen(b2_str_2785)
 
-b2_str_2786 equ "Cool."
+b2_str_2786 equ "Beleza."
 b2_str_2786_max_size equ 0x1F
 b2_str_2786_new_size equ strlen(b2_str_2786)
 
-b2_str_2787 equ "YOU GAVE THE *COG!"
+b2_str_2787 equ "DEU *ENGRENAGEM!"
 b2_str_2787_max_size equ 0x1F
 b2_str_2787_new_size equ strlen(b2_str_2787)
 
-b2_str_2788 equ "Ha!^"
+b2_str_2788 equ "Rá!^"
 b2_str_2788_max_size equ 0x1F
 b2_str_2788_new_size equ strlen(b2_str_2788)
 
-b2_str_2789 equ "You've shocked me for the"
+b2_str_2789 equ "Vou apertar essa caceta que"
 b2_str_2789_max_size equ 0x1F
 b2_str_2789_new_size equ strlen(b2_str_2789)
 
-b2_str_2790 equ "last time, rotten button!^"
+b2_str_2790 equ "tá pegando fogo!^"
 b2_str_2790_max_size equ 0x1F
 b2_str_2790_new_size equ strlen(b2_str_2790)
 
-b2_str_2791 equ "I'll fix you good!"
+b2_str_2791 equ "Chamar o bombeiro lá!"
 b2_str_2791_max_size equ 0x1F
 b2_str_2791_new_size equ strlen(b2_str_2791)
 
-b2_str_2792 equ "All done!^"
+b2_str_2792 equ "Pra apagar, cê chama o"
 b2_str_2792_max_size equ 0x1F
 b2_str_2792_new_size equ strlen(b2_str_2792)
 
-b2_str_2793 equ "It should be working now.^"
+b2_str_2793 equ "corpo de bombeiros.^"
 b2_str_2793_max_size equ 0x1F
 b2_str_2793_new_size equ strlen(b2_str_2793)
 
-b2_str_2794 equ "Give it a shot."
+b2_str_2794 equ "Aperta ele aí."
 b2_str_2794_max_size equ 0x1F
 b2_str_2794_new_size equ strlen(b2_str_2794)
 
-b2_str_2795 equ "That button should work"
+b2_str_2795 equ "O botão deve tar"
 b2_str_2795_max_size equ 0x1F
 b2_str_2795_new_size equ strlen(b2_str_2795)
 
-b2_str_2796 equ "now.^"
+b2_str_2796 equ "funcionando agora.^"
 b2_str_2796_max_size equ 0x1F
 b2_str_2796_new_size equ strlen(b2_str_2796)
 
-b2_str_2797 equ "Give it a shot."
+b2_str_2797 equ "Aperta ele aí."
 b2_str_2797_max_size equ 0x1F
 b2_str_2797_new_size equ strlen(b2_str_2797)
 
-b2_str_2798 equ "It worked!"
+b2_str_2798 equ "Funcionou!"
 b2_str_2798_max_size equ 0x1F
 b2_str_2798_new_size equ strlen(b2_str_2798)
 
-b2_str_2799 equ "You did it!^"
+b2_str_2799 equ "Você conseguiu!^"
 b2_str_2799_max_size equ 0x1F
 b2_str_2799_new_size equ strlen(b2_str_2799)
 
-b2_str_2800 equ "*BOG *TOWN is finally back"
+b2_str_2800 equ "*CIDADE *BREJADA enfim voltou"
 b2_str_2800_max_size equ 0x1F
 b2_str_2800_new_size equ strlen(b2_str_2800)
 
-b2_str_2801 equ "where it belongs!^"
+b2_str_2801 equ "pra onde devia estar!^"
 b2_str_2801_max_size equ 0x1F
 b2_str_2801_new_size equ strlen(b2_str_2801)
 
-b2_str_2802 equ "I'd imagine that the *ROYAL"
+b2_str_2802 equ "Imagino que o *PALÁCIO *REAL"
 b2_str_2802_max_size equ 0x1F
 b2_str_2802_new_size equ strlen(b2_str_2802)
 
-b2_str_2803 equ "*PALACE has returned to its"
+b2_str_2803 equ "também voltou pro seu"
 b2_str_2803_max_size equ 0x1F
 b2_str_2803_new_size equ strlen(b2_str_2803)
 
-b2_str_2804 equ "rightful place, as well.^"
+b2_str_2804 equ "lugar de direito.^"
 b2_str_2804_max_size equ 0x1F
 b2_str_2804_new_size equ strlen(b2_str_2804)
 
-b2_str_2805 equ "You should pay them a"
+b2_str_2805 equ "Cê devia fazer uma"
 b2_str_2805_max_size equ 0x1F
 b2_str_2805_new_size equ strlen(b2_str_2805)
 
-b2_str_2806 equ "visit, don't you think?"
+b2_str_2806 equ "visitinha lá, não acha?"
 b2_str_2806_max_size equ 0x1F
 b2_str_2806_new_size equ strlen(b2_str_2806)
 
-b2_str_2807 equ "I don't know what you"
+b2_str_2807 equ "Eu não sei o que foi que"
 b2_str_2807_max_size equ 0x1F
 b2_str_2807_new_size equ strlen(b2_str_2807)
 
-b2_str_2808 equ "did...^"
+b2_str_2808 equ "cê fez...^"
 b2_str_2808_max_size equ 0x1F
 b2_str_2808_new_size equ strlen(b2_str_2808)
 
-b2_str_2809 equ "...but the vomit ponds are"
+b2_str_2809 equ "...mas as fossas de vômito"
 b2_str_2809_max_size equ 0x1F
 b2_str_2809_new_size equ strlen(b2_str_2809)
 
-b2_str_2810 equ "overflowing with vital"
+b2_str_2810 equ "tão transbordando de"
 b2_str_2810_max_size equ 0x1F
 b2_str_2810_new_size equ strlen(b2_str_2810)
 
-b2_str_2811 equ "juices!^"
+b2_str_2811 equ "fluidos vitais!^"
 b2_str_2811_max_size equ 0x1F
 b2_str_2811_new_size equ strlen(b2_str_2811)
 
-b2_str_2812 equ "And look!^"
+b2_str_2812 equ "E olha só!^"
 b2_str_2812_max_size equ 0x1F
 b2_str_2812_new_size equ strlen(b2_str_2812)
 
-b2_str_2813 equ "Even the *EGG *SACS are"
+b2_str_2813 equ "Até as *BOLSAS *DE *PARTO tão"
 b2_str_2813_max_size equ 0x1F
 b2_str_2813_new_size equ strlen(b2_str_2813)
 
-b2_str_2814 equ "pulsing with excitement!^"
+b2_str_2814 equ "chutando de tanta animação!^"
 b2_str_2814_max_size equ 0x1F
 b2_str_2814_new_size equ strlen(b2_str_2814)
 
-b2_str_2815 equ "I think it's time!"
+b2_str_2815 equ "Acho que tá na hora!"
 b2_str_2815_max_size equ 0x1F
 b2_str_2815_new_size equ strlen(b2_str_2815)
 
-b2_str_2816 equ "Time for what?"
+b2_str_2816 equ "Hora do quê?"
 b2_str_2816_max_size equ 0x1F
 b2_str_2816_new_size equ strlen(b2_str_2816)
 
-b2_str_2817 equ "Time to *POKE *THOSE *EGGS!"
+b2_str_2817 equ "De *CUTUCAR *ESSES *OVOS!"
 b2_str_2817_max_size equ 0x1F
 b2_str_2817_new_size equ strlen(b2_str_2817)
 
-b2_str_2818 equ "Eww!"
+b2_str_2818 equ "Eca!"
 b2_str_2818_max_size equ 0x1F
 b2_str_2818_new_size equ strlen(b2_str_2818)
 
-b2_str_2819 equ "Go ahead!^"
+b2_str_2819 equ "Vá em frente!^"
 b2_str_2819_max_size equ 0x1F
 b2_str_2819_new_size equ strlen(b2_str_2819)
 
-b2_str_2820 equ "Witness the miracle of"
+b2_str_2820 equ "Testemunhe o milagre"
 b2_str_2820_max_size equ 0x1F
 b2_str_2820_new_size equ strlen(b2_str_2820)
 
-b2_str_2821 equ "birth!"
+b2_str_2821 equ "da vida!"
 b2_str_2821_max_size equ 0x1F
 b2_str_2821_new_size equ strlen(b2_str_2821)
 
-b2_str_2822 equ "Do I have to?"
+b2_str_2822 equ "Preciso mesmo?"
 b2_str_2822_max_size equ 0x1F
 b2_str_2822_new_size equ strlen(b2_str_2822)
 
-b2_str_2823 equ "Yes! Yes!^"
+b2_str_2823 equ "Sim! Sim!^"
 b2_str_2823_max_size equ 0x1F
 b2_str_2823_new_size equ strlen(b2_str_2823)
 
-b2_str_2824 equ "It will be beautiful!^"
+b2_str_2824 equ "Será lindo!^"
 b2_str_2824_max_size equ 0x1F
 b2_str_2824_new_size equ strlen(b2_str_2824)
 
-b2_str_2825 equ "Go on!"
+b2_str_2825 equ "Vai nessa!"
 b2_str_2825_max_size equ 0x1F
 b2_str_2825_new_size equ strlen(b2_str_2825)
 
-b2_str_2826 equ "Destroy!^"
+b2_str_2826 equ "Destroçar!^"
 b2_str_2826_max_size equ 0x1F
 b2_str_2826_new_size equ strlen(b2_str_2826)
 
-b2_str_2827 equ "Devour!^"
+b2_str_2827 equ "Devorar!^"
 b2_str_2827_max_size equ 0x1F
 b2_str_2827_new_size equ strlen(b2_str_2827)
 
-b2_str_2828 equ "Destroy and devour!"
+b2_str_2828 equ "Destroçar e devorar!"
 b2_str_2828_max_size equ 0x1F
 b2_str_2828_new_size equ strlen(b2_str_2828)
 
-b2_str_2829 equ "Destroy!^"
+b2_str_2829 equ "Destroçar!^"
 b2_str_2829_max_size equ 0x1F
 b2_str_2829_new_size equ strlen(b2_str_2829)
 
-b2_str_2830 equ "Devour!^"
+b2_str_2830 equ "Devorar!^"
 b2_str_2830_max_size equ 0x1F
 b2_str_2830_new_size equ strlen(b2_str_2830)
 
-b2_str_2831 equ "Destroy and devour!"
+b2_str_2831 equ "Destroçar e devorar!"
 b2_str_2831_max_size equ 0x1F
 b2_str_2831_new_size equ strlen(b2_str_2831)
 
-b2_str_2832 equ "Revenge!^"
+b2_str_2832 equ "Vingança!^"
 b2_str_2832_max_size equ 0x1F
 b2_str_2832_new_size equ strlen(b2_str_2832)
 
-b2_str_2833 equ "Vengeance!^"
+b2_str_2833 equ "Revanche!^"
 b2_str_2833_max_size equ 0x1F
 b2_str_2833_new_size equ strlen(b2_str_2833)
 
-b2_str_2834 equ "Revengers of vengeance!"
+b2_str_2834 equ "Vingadores da revanche!"
 b2_str_2834_max_size equ 0x1F
 b2_str_2834_new_size equ strlen(b2_str_2834)
 
-b2_str_2835 equ "Bite!^"
+b2_str_2835 equ "Fezes!^"
 b2_str_2835_max_size equ 0x1F
 b2_str_2835_new_size equ strlen(b2_str_2835)
 
-b2_str_2836 equ "Sting!^"
+b2_str_2836 equ "Puríssima!^"
 b2_str_2836_max_size equ 0x1F
 b2_str_2836_new_size equ strlen(b2_str_2836)
 
-b2_str_2837 equ "Bite and sting!"
+b2_str_2837 equ "Fezes puríssima!"
 b2_str_2837_max_size equ 0x1F
 b2_str_2837_new_size equ strlen(b2_str_2837)
 
-b2_str_2838 equ "You've never heard of the"
+b2_str_2838 equ "Nunca ouviu falar da"
 b2_str_2838_max_size equ 0x1F
 b2_str_2838_new_size equ strlen(b2_str_2838)
 
-b2_str_2839 equ "*BUGKINI *SQUAD?^"
+b2_str_2839 equ "*TROPA *DAS *BIQUINSETAS?^"
 b2_str_2839_max_size equ 0x1F
 b2_str_2839_new_size equ strlen(b2_str_2839)
 
-b2_str_2840 equ "We're a trio of Hot Bug"
+b2_str_2840 equ "Somos um trio de"
 b2_str_2840_max_size equ 0x1F
 b2_str_2840_new_size equ strlen(b2_str_2840)
 
-b2_str_2841 equ "Moms.^"
+b2_str_2841 equ "Mães Casadas Gasosas.^"
 b2_str_2841_max_size equ 0x1F
 b2_str_2841_new_size equ strlen(b2_str_2841)
 
-b2_str_2842 equ "This is what we look like"
+b2_str_2842 equ "É assim que ficamos na"
 b2_str_2842_max_size equ 0x1F
 b2_str_2842_new_size equ strlen(b2_str_2842)
 
-b2_str_2843 equ "in our third metamorphic"
+b2_str_2843 equ "nossa terceira fase da"
 b2_str_2843_max_size equ 0x1F
 b2_str_2843_new_size equ strlen(b2_str_2843)
 
-b2_str_2844 equ "phase."
+b2_str_2844 equ "metamorfose."
 b2_str_2844_max_size equ 0x1F
 b2_str_2844_new_size equ strlen(b2_str_2844)
 
-b2_str_2845 equ "I'm Slushfund.^"
+b2_str_2845 equ "Sou a Slushfund.^"
 b2_str_2845_max_size equ 0x1F
 b2_str_2845_new_size equ strlen(b2_str_2845)
 
-b2_str_2846 equ "Over there is Jawdrop and"
+b2_str_2846 equ "Mais pra lá tem a Jawdrop"
 b2_str_2846_max_size equ 0x1F
 b2_str_2846_new_size equ strlen(b2_str_2846)
 
-b2_str_2847 equ "Buckshot.^"
+b2_str_2847 equ "e a Buckshot.^"
 b2_str_2847_max_size equ 0x1F
 b2_str_2847_new_size equ strlen(b2_str_2847)
 
-b2_str_2848 equ "The bloated blubber slugs"
+b2_str_2848 equ "As lesmas carnudas pançudas"
 b2_str_2848_max_size equ 0x1F
 b2_str_2848_new_size equ strlen(b2_str_2848)
 
-b2_str_2849 equ "you see lying around are"
+b2_str_2849 equ "que cê tá vendo aqui"
 b2_str_2849_max_size equ 0x1F
 b2_str_2849_new_size equ strlen(b2_str_2849)
 
-b2_str_2850 equ "just for decoration."
+b2_str_2850 equ "são só pra decoração."
 b2_str_2850_max_size equ 0x1F
 b2_str_2850_new_size equ strlen(b2_str_2850)
 
-b2_str_2851 equ "Our lands are thick with"
+b2_str_2851 equ "Nosso lar está cheio de"
 b2_str_2851_max_size equ 0x1F
 b2_str_2851_new_size equ strlen(b2_str_2851)
 
-b2_str_2852 equ "jolly jam once more.^"
+b2_str_2852 equ "geleia gostosa de novo.^"
 b2_str_2852_max_size equ 0x1F
 b2_str_2852_new_size equ strlen(b2_str_2852)
 
-b2_str_2853 equ "I'm overcome with various"
+b2_str_2853 equ "Estou tomada por várias"
 b2_str_2853_max_size equ 0x1F
 b2_str_2853_new_size equ strlen(b2_str_2853)
 
-b2_str_2854 equ "emotions."
+b2_str_2854 equ "emoções."
 b2_str_2854_max_size equ 0x1F
 b2_str_2854_new_size equ strlen(b2_str_2854)
 
-b2_str_2855 equ "The young are safe now.^"
+b2_str_2855 equ "Os filhotes estão seguros.^"
 b2_str_2855_max_size equ 0x1F
 b2_str_2855_new_size equ strlen(b2_str_2855)
 
-b2_str_2856 equ "I'm a very proud parent.^"
+b2_str_2856 equ "Sou uma mãe maravilhosa.^"
 b2_str_2856_max_size equ 0x1F
 b2_str_2856_new_size equ strlen(b2_str_2856)
 
-b2_str_2857 equ "Celebrate with us.^"
+b2_str_2857 equ "Comemore com a gente.^"
 b2_str_2857_max_size equ 0x1F
 b2_str_2857_new_size equ strlen(b2_str_2857)
 
-b2_str_2858 equ "Ingest some membrane."
+b2_str_2858 equ "Vem comer uma membrana aí."
 b2_str_2858_max_size equ 0x1F
 b2_str_2858_new_size equ strlen(b2_str_2858)
 
-b2_str_2859 equ "Welcome to *BOG *TOWN.^"
+b2_str_2859 equ "Esta é a *CIDADE *BREJADA. Lar"
 b2_str_2859_max_size equ 0x1F
 b2_str_2859_new_size equ strlen(b2_str_2859)
 
-b2_str_2860 equ "Home of the Hot Bug Moms.^"
+b2_str_2860 equ "das Mães Casadas Gasosas.^"
 b2_str_2860_max_size equ 0x1F
 b2_str_2860_new_size equ strlen(b2_str_2860)
 
-b2_str_2861 equ "Watch your step.^"
+b2_str_2861 equ "Olhe onde pisa.^"
 b2_str_2861_max_size equ 0x1F
 b2_str_2861_new_size equ strlen(b2_str_2861)
 
-b2_str_2862 equ "There's goo on everything."
+b2_str_2862 equ "Tem ranho em todo canto."
 b2_str_2862_max_size equ 0x1F
 b2_str_2862_new_size equ strlen(b2_str_2862)
 
-b2_str_2863 equ "Wow."
+b2_str_2863 equ "Uau."
 b2_str_2863_max_size equ 0x1F
 b2_str_2863_new_size equ strlen(b2_str_2863)
 
-b2_str_2864 equ "That's more bile than I've"
+b2_str_2864 equ "Fazia tempo que eu não via"
 b2_str_2864_max_size equ 0x1F
 b2_str_2864_new_size equ strlen(b2_str_2864)
 
-b2_str_2865 equ "seen in quite awhile!"
+b2_str_2865 equ "tanto bile soltado assim!"
 b2_str_2865_max_size equ 0x1F
 b2_str_2865_new_size equ strlen(b2_str_2865)
 
-b2_str_2866 equ "The eggs have hatched into"
+b2_str_2866 equ "Os ovos chocaram e virarm"
 b2_str_2866_max_size equ 0x1F
 b2_str_2866_new_size equ strlen(b2_str_2866)
 
-b2_str_2867 equ "little killing machines!^"
+b2_str_2867 equ "maquininhas mortíferas!^"
 b2_str_2867_max_size equ 0x1F
 b2_str_2867_new_size equ strlen(b2_str_2867)
 
-b2_str_2868 equ "And look!^"
+b2_str_2868 equ "E olha só!^"
 b2_str_2868_max_size equ 0x1F
 b2_str_2868_new_size equ strlen(b2_str_2868)
 
-b2_str_2869 equ "They're bulging with"
+b2_str_2869 equ "Tão estufados de tanta"
 b2_str_2869_max_size equ 0x1F
 b2_str_2869_new_size equ strlen(b2_str_2869)
 
-b2_str_2870 equ "gloop!"
+b2_str_2870 equ "meleca!"
 b2_str_2870_max_size equ 0x1F
 b2_str_2870_new_size equ strlen(b2_str_2870)
 
-b2_str_2871 equ "Awww!"
+b2_str_2871 equ "Ahhh que fofos!"
 b2_str_2871_max_size equ 0x1F
 b2_str_2871_new_size equ strlen(b2_str_2871)
 
-b2_str_2872 equ "We can't leave yet.^"
+b2_str_2872 equ "A gente não pode ir ainda.^"
 b2_str_2872_max_size equ 0x1F
 b2_str_2872_new_size equ strlen(b2_str_2872)
 
-b2_str_2873 equ "Apparently one of these"
+b2_str_2873 equ "Aparentemente, uma dessas"
 b2_str_2873_max_size equ 0x1F
 b2_str_2873_new_size equ strlen(b2_str_2873)
 
-b2_str_2874 equ "mucus mommies has a"
+b2_str_2874 equ "mães mucosas têm um"
 b2_str_2874_max_size equ 0x1F
 b2_str_2874_new_size equ strlen(b2_str_2874)
 
-b2_str_2875 equ "present for you.^"
+b2_str_2875 equ "presente pra você.^"
 b2_str_2875_max_size equ 0x1F
 b2_str_2875_new_size equ strlen(b2_str_2875)
 
-b2_str_2876 equ "May as well go and get it."
+b2_str_2876 equ "Aproveita e vai lá receber."
 b2_str_2876_max_size equ 0x1F
 b2_str_2876_new_size equ strlen(b2_str_2876)
 
-b2_str_2877 equ "I knew you'd knock some"
+b2_str_2877 equ "Sabia que cê ia botar juízo"
 b2_str_2877_max_size equ 0x1F
 b2_str_2877_new_size equ strlen(b2_str_2877)
 
-b2_str_2878 equ "sense into those humans!^"
+b2_str_2878 equ "na cabeça desses humanos!^"
 b2_str_2878_max_size equ 0x1F
 b2_str_2878_new_size equ strlen(b2_str_2878)
 
-b2_str_2879 equ "Looky look!^"
+b2_str_2879 equ "Olha, olha!^"
 b2_str_2879_max_size equ 0x1F
 b2_str_2879_new_size equ strlen(b2_str_2879)
 
-b2_str_2880 equ "The eggs have hatched into"
+b2_str_2880 equ "Os ovos chocaram e viraram"
 b2_str_2880_max_size equ 0x1F
 b2_str_2880_new_size equ strlen(b2_str_2880)
 
-b2_str_2881 equ "larvae!^"
+b2_str_2881 equ "larvas!^"
 b2_str_2881_max_size equ 0x1F
 b2_str_2881_new_size equ strlen(b2_str_2881)
 
-b2_str_2882 equ "Soon our hive will be"
+b2_str_2882 equ "Em breve nossa colmeia vai"
 b2_str_2882_max_size equ 0x1F
 b2_str_2882_new_size equ strlen(b2_str_2882)
 
-b2_str_2883 equ "throbbing with glistening"
+b2_str_2883 equ "pulsando com centenas de"
 b2_str_2883_max_size equ 0x1F
 b2_str_2883_new_size equ strlen(b2_str_2883)
 
-b2_str_2884 equ "grubs!^"
+b2_str_2884 equ "larvinídeos!^"
 b2_str_2884_max_size equ 0x1F
 b2_str_2884_new_size equ strlen(b2_str_2884)
 
-b2_str_2885 equ "Your actions deserve"
+b2_str_2885 equ "Suas ações merecem"
 b2_str_2885_max_size equ 0x1F
 b2_str_2885_new_size equ strlen(b2_str_2885)
 
-b2_str_2886 equ "payment!^"
+b2_str_2886 equ "pagamento!^"
 b2_str_2886_max_size equ 0x1F
 b2_str_2886_new_size equ strlen(b2_str_2886)
 
-b2_str_2887 equ "Here!"
+b2_str_2887 equ "Aqui!"
 b2_str_2887_max_size equ 0x1F
 b2_str_2887_new_size equ strlen(b2_str_2887)
 
-b2_str_2888 equ "YOU GOT *TREMOR *STONE!"
+b2_str_2888 equ "PEGOU *PEDRA *TREMULANTE!"
 b2_str_2888_max_size equ 0x1F
 b2_str_2888_new_size equ strlen(b2_str_2888)
 
-b2_str_2889 equ "Huh?^"
+b2_str_2889 equ "Ahn?^"
 b2_str_2889_max_size equ 0x1F
 b2_str_2889_new_size equ strlen(b2_str_2889)
 
-b2_str_2890 equ "What's this?"
+b2_str_2890 equ "O que é isso?"
 b2_str_2890_max_size equ 0x1F
 b2_str_2890_new_size equ strlen(b2_str_2890)
 
-b2_str_2891 equ "People call it a *TREMOR"
+b2_str_2891 equ "As pessoas chamam de *PEDRA"
 b2_str_2891_max_size equ 0x1F
 b2_str_2891_new_size equ strlen(b2_str_2891)
 
-b2_str_2892 equ "*STONE...^"
+b2_str_2892 equ "*TREMULANTE...^"
 b2_str_2892_max_size equ 0x1F
 b2_str_2892_new_size equ strlen(b2_str_2892)
 
-b2_str_2893 equ "But really, it's just a"
+b2_str_2893 equ "Mas na real, é só uma larva"
 b2_str_2893_max_size equ 0x1F
 b2_str_2893_new_size equ strlen(b2_str_2893)
 
-b2_str_2894 equ "very fidgety larvae sealed"
+b2_str_2894 equ "muito agitada, presa dentro"
 b2_str_2894_max_size equ 0x1F
 b2_str_2894_new_size equ strlen(b2_str_2894)
 
-b2_str_2895 equ "in inside a chrysalis.^"
+b2_str_2895 equ "de um casulo.^"
 b2_str_2895_max_size equ 0x1F
 b2_str_2895_new_size equ strlen(b2_str_2895)
 
-b2_str_2896 equ "It jumps around...^"
+b2_str_2896 equ "Fica pulando direto...^"
 b2_str_2896_max_size equ 0x1F
 b2_str_2896_new_size equ strlen(b2_str_2896)
 
-b2_str_2897 equ "...bounces to and fro...^"
+b2_str_2897 equ "quicando pra lá e pra cá...^"
 b2_str_2897_max_size equ 0x1F
 b2_str_2897_new_size equ strlen(b2_str_2897)
 
-b2_str_2898 equ "Fun for the whole family!"
+b2_str_2898 equ "Diversão pra família toda!"
 b2_str_2898_max_size equ 0x1F
 b2_str_2898_new_size equ strlen(b2_str_2898)
 
-b2_str_2899 equ "Neat!"
+b2_str_2899 equ "Massa!"
 b2_str_2899_max_size equ 0x1F
 b2_str_2899_new_size equ strlen(b2_str_2899)
 
-b2_str_2900 equ "Well, fun until it"
+b2_str_2900 equ "Bom, só é divertido até"
 b2_str_2900_max_size equ 0x1F
 b2_str_2900_new_size equ strlen(b2_str_2900)
 
-b2_str_2901 equ "hatches...^"
+b2_str_2901 equ "ele chocar...^"
 b2_str_2901_max_size equ 0x1F
 b2_str_2901_new_size equ strlen(b2_str_2901)
 
-b2_str_2902 equ "...and sucks out your"
+b2_str_2902 equ "...e chupar todos os"
 b2_str_2902_max_size equ 0x1F
 b2_str_2902_new_size equ strlen(b2_str_2902)
 
-b2_str_2903 equ "fluids...^"
+b2_str_2903 equ "seus fluidos...^"
 b2_str_2903_max_size equ 0x1F
 b2_str_2903_new_size equ strlen(b2_str_2903)
 
-b2_str_2904 equ "...and builds its nest"
+b2_str_2904 equ "...e construir seu ninho"
 b2_str_2904_max_size equ 0x1F
 b2_str_2904_new_size equ strlen(b2_str_2904)
 
-b2_str_2905 equ "inside your lifeless husk."
+b2_str_2905 equ "dentro da sua carcaça."
 b2_str_2905_max_size equ 0x1F
 b2_str_2905_new_size equ strlen(b2_str_2905)
 
-b2_str_2906 equ "Errruhhhh...."
+b2_str_2906 equ "Errrghhhh...."
 b2_str_2906_max_size equ 0x1F
 b2_str_2906_new_size equ strlen(b2_str_2906)
 
-b2_str_2907 equ "Anyway, keep it nice and"
+b2_str_2907 equ "Bom, deixa ele num lugar"
 b2_str_2907_max_size equ 0x1F
 b2_str_2907_new_size equ strlen(b2_str_2907)
 
-b2_str_2908 equ "moist!"
+b2_str_2908 equ "úmido e arejado!"
 b2_str_2908_max_size equ 0x1F
 b2_str_2908_new_size equ strlen(b2_str_2908)
 
-b2_str_2909 equ "Enjoy that *TREMOR *STONE...^"
+b2_str_2909 equ "Curta a *PEDRA *TREMULANTE...^"
 b2_str_2909_max_size equ 0x1F
 b2_str_2909_new_size equ strlen(b2_str_2909)
 
-b2_str_2910 equ "...before it enjoys you!"
+b2_str_2910 equ "...até ela curtir contigo!"
 b2_str_2910_max_size equ 0x1F
 b2_str_2910_new_size equ strlen(b2_str_2910)
 
-b2_str_2911 equ "I am Sultana of Sequin"
+b2_str_2911 equ "Sou a Sultana de"
 b2_str_2911_max_size equ 0x1F
 b2_str_2911_new_size equ strlen(b2_str_2911)
 
-b2_str_2912 equ "Land.^"
+b2_str_2912 equ "Sequin Land.^"
 b2_str_2912_max_size equ 0x1F
 b2_str_2912_new_size equ strlen(b2_str_2912)
 
-b2_str_2913 equ "I bid you welcome.^"
+b2_str_2913 equ "Dou-lhe as boas vindas.^"
 b2_str_2913_max_size equ 0x1F
 b2_str_2913_new_size equ strlen(b2_str_2913)
 
-b2_str_2914 equ "It's not often we get a"
+b2_str_2914 equ "Não é comum recebermos"
 b2_str_2914_max_size equ 0x1F
 b2_str_2914_new_size equ strlen(b2_str_2914)
 
-b2_str_2915 equ "visit from a Guardian"
+b2_str_2915 equ "visita de uma Gênia"
 b2_str_2915_max_size equ 0x1F
 b2_str_2915_new_size equ strlen(b2_str_2915)
 
-b2_str_2916 equ "Genie!^"
+b2_str_2916 equ "Guardiã!^"
 b2_str_2916_max_size equ 0x1F
 b2_str_2916_new_size equ strlen(b2_str_2916)
 
-b2_str_2917 equ "I hope you will pardon the"
+b2_str_2917 equ "Espero que perdoe o"
 b2_str_2917_max_size equ 0x1F
 b2_str_2917_new_size equ strlen(b2_str_2917)
 
-b2_str_2918 equ "unsightly state of the"
+b2_str_2918 equ "estado deplorável do"
 b2_str_2918_max_size equ 0x1F
 b2_str_2918_new_size equ strlen(b2_str_2918)
 
-b2_str_2919 equ "Royal Palace."
+b2_str_2919 equ "Palácio Real."
 b2_str_2919_max_size equ 0x1F
 b2_str_2919_new_size equ strlen(b2_str_2919)
 
@@ -11678,315 +11678,315 @@ b2_str_2920 equ "Gasp!"
 b2_str_2920_max_size equ 0x1F
 b2_str_2920_new_size equ strlen(b2_str_2920)
 
-b2_str_2921 equ "Thank you so very, very"
+b2_str_2921 equ "Muito, muito obrigada!"
 b2_str_2921_max_size equ 0x1F
 b2_str_2921_new_size equ strlen(b2_str_2921)
 
-b2_str_2922 equ "much!^"
+b2_str_2922 equ " ^"
 b2_str_2922_max_size equ 0x1F
 b2_str_2922_new_size equ strlen(b2_str_2922)
 
-b2_str_2923 equ "It's an *ENORMOUS honor to"
+b2_str_2923 equ "É uma *ENORME honra"
 b2_str_2923_max_size equ 0x1F
 b2_str_2923_new_size equ strlen(b2_str_2923)
 
-b2_str_2924 equ "meet you!"
+b2_str_2924 equ "conhecê-la!"
 b2_str_2924_max_size equ 0x1F
 b2_str_2924_new_size equ strlen(b2_str_2924)
 
-b2_str_2925 equ "I mean..."
+b2_str_2925 equ "Digo..."
 b2_str_2925_max_size equ 0x1F
 b2_str_2925_new_size equ strlen(b2_str_2925)
 
-b2_str_2926 equ "Just being in your"
+b2_str_2926 equ "Só de estar ante a sua"
 b2_str_2926_max_size equ 0x1F
 b2_str_2926_new_size equ strlen(b2_str_2926)
 
-b2_str_2927 equ "presence is a *HUMONGOUS"
+b2_str_2927 equ "presença é uma emoção"
 b2_str_2927_max_size equ 0x1F
 b2_str_2927_new_size equ strlen(b2_str_2927)
 
-b2_str_2928 equ "thrill!^"
+b2_str_2928 equ "*GIGANTESCA!^"
 b2_str_2928_max_size equ 0x1F
 b2_str_2928_new_size equ strlen(b2_str_2928)
 
-b2_str_2929 equ "More *TITANIC than anything"
+b2_str_2929 equ "Mais *TITÂNICA do que tudo"
 b2_str_2929_max_size equ 0x1F
 b2_str_2929_new_size equ strlen(b2_str_2929)
 
-b2_str_2930 equ "I've ever..."
+b2_str_2930 equ "que eu já..."
 b2_str_2930_max_size equ 0x1F
 b2_str_2930_new_size equ strlen(b2_str_2930)
 
-b2_str_2931 equ "Uhh...^"
+b2_str_2931 equ "Ahn...^"
 b2_str_2931_max_size equ 0x1F
 b2_str_2931_new_size equ strlen(b2_str_2931)
 
-b2_str_2932 equ "Sorry...^"
+b2_str_2932 equ "Desculpa...^"
 b2_str_2932_max_size equ 0x1F
 b2_str_2932_new_size equ strlen(b2_str_2932)
 
-b2_str_2933 equ "I'll just stop talking..."
+b2_str_2933 equ "Melhor eu parar de falar..."
 b2_str_2933_max_size equ 0x1F
 b2_str_2933_new_size equ strlen(b2_str_2933)
 
-b2_str_2934 equ "...before I make a *MASSIVE"
+b2_str_2934 equ "...antes que eu pague um"
 b2_str_2934_max_size equ 0x1F
 b2_str_2934_new_size equ strlen(b2_str_2934)
 
-b2_str_2935 equ "*ROYAL *BOOB of myself."
+b2_str_2935 equ "*MICO *MONUMENTAL."
 b2_str_2935_max_size equ 0x1F
 b2_str_2935_new_size equ strlen(b2_str_2935)
 
-b2_str_2936 equ "That might be for the"
+b2_str_2936 equ "Talvez seja melhor"
 b2_str_2936_max_size equ 0x1F
 b2_str_2936_new_size equ strlen(b2_str_2936)
 
-b2_str_2937 equ "best.^"
+b2_str_2937 equ "assim.^"
 b2_str_2937_max_size equ 0x1F
 b2_str_2937_new_size equ strlen(b2_str_2937)
 
-b2_str_2938 equ "I'm told that you wish to"
+b2_str_2938 equ "Foi-me dito que você"
 b2_str_2938_max_size equ 0x1F
 b2_str_2938_new_size equ strlen(b2_str_2938)
 
-b2_str_2939 equ "put an end to to these"
+b2_str_2939 equ "deseja pôr um fim a esses"
 b2_str_2939_max_size equ 0x1F
 b2_str_2939_new_size equ strlen(b2_str_2939)
 
-b2_str_2940 equ "troubling *EARTHQUAKES...^"
+b2_str_2940 equ "*TERREMOTOS atribulantes...^"
 b2_str_2940_max_size equ 0x1F
 b2_str_2940_new_size equ strlen(b2_str_2940)
 
-b2_str_2941 equ "And restore *SEQUIN *LAND'S"
+b2_str_2941 equ "E restaurar a ordem natural"
 b2_str_2941_max_size equ 0x1F
 b2_str_2941_new_size equ strlen(b2_str_2941)
 
-b2_str_2942 equ "natural order.^"
+b2_str_2942 equ "da *SEQUIN *LAND.^"
 b2_str_2942_max_size equ 0x1F
 b2_str_2942_new_size equ strlen(b2_str_2942)
 
-b2_str_2943 equ "Is this true?"
+b2_str_2943 equ "Isto é verdade?"
 b2_str_2943_max_size equ 0x1F
 b2_str_2943_new_size equ strlen(b2_str_2943)
 
-b2_str_2944 equ "Yes, ma'am!"
+b2_str_2944 equ "Sim, senhora!"
 b2_str_2944_max_size equ 0x1F
 b2_str_2944_new_size equ strlen(b2_str_2944)
 
-b2_str_2945 equ "And to do this, you"
+b2_str_2945 equ "E para este fim, você"
 b2_str_2945_max_size equ 0x1F
 b2_str_2945_new_size equ strlen(b2_str_2945)
 
-b2_str_2946 equ "require the help of a"
+b2_str_2946 equ "solicita a ajuda de um"
 b2_str_2946_max_size equ 0x1F
 b2_str_2946_new_size equ strlen(b2_str_2946)
 
-b2_str_2947 equ "Relic Hunter...^"
+b2_str_2947 equ "Caçador de Relíquias...^"
 b2_str_2947_max_size equ 0x1F
 b2_str_2947_new_size equ strlen(b2_str_2947)
 
-b2_str_2948 equ "*DOCTOR *CORNELIOUS *CRUST."
+b2_str_2948 equ "*DOUTOR *CORNÉLIO *CROSTA."
 b2_str_2948_max_size equ 0x1F
 b2_str_2948_new_size equ strlen(b2_str_2948)
 
-b2_str_2949 equ "Yes, exactly!"
+b2_str_2949 equ "Sim, exatamente!"
 b2_str_2949_max_size equ 0x1F
 b2_str_2949_new_size equ strlen(b2_str_2949)
 
-b2_str_2950 equ "Then this is good news!^"
+b2_str_2950 equ "Então são ótimas notícias!^"
 b2_str_2950_max_size equ 0x1F
 b2_str_2950_new_size equ strlen(b2_str_2950)
 
-b2_str_2951 equ "We have already located"
+b2_str_2951 equ "Nós já localizamos o"
 b2_str_2951_max_size equ 0x1F
 b2_str_2951_new_size equ strlen(b2_str_2951)
 
-b2_str_2952 equ "the one you seek!^"
+b2_str_2952 equ "indivíduo que procura!^"
 b2_str_2952_max_size equ 0x1F
 b2_str_2952_new_size equ strlen(b2_str_2952)
 
-b2_str_2953 equ "He can be found here."
+b2_str_2953 equ "Você o encontrará aqui."
 b2_str_2953_max_size equ 0x1F
 b2_str_2953_new_size equ strlen(b2_str_2953)
 
-b2_str_2954 equ "YOU GOT *HAUNTED *GROVE *MAP!"
+b2_str_2954 equ "PEGOU *MAPA *DA *MATA!"
 b2_str_2954_max_size equ 0x1F
 b2_str_2954_new_size equ strlen(b2_str_2954)
 
-b2_str_2955 equ "Deep within the *HAUNTED"
+b2_str_2955 equ "Nas profundezas da *MATA"
 b2_str_2955_max_size equ 0x1F
 b2_str_2955_new_size equ strlen(b2_str_2955)
 
-b2_str_2956 equ "*GROVE lies an *ABANDONED"
+b2_str_2956 equ "*ASSOMBRADA, jaz uma"
 b2_str_2956_max_size equ 0x1F
 b2_str_2956_new_size equ strlen(b2_str_2956)
 
-b2_str_2957 equ "*PRISON.^"
+b2_str_2957 equ "*PRISÂO *ABANDONADA.^"
 b2_str_2957_max_size equ 0x1F
 b2_str_2957_new_size equ strlen(b2_str_2957)
 
-b2_str_2958 equ "The doctor is held captive"
+b2_str_2958 equ "O doutor é mantido refém"
 b2_str_2958_max_size equ 0x1F
 b2_str_2958_new_size equ strlen(b2_str_2958)
 
-b2_str_2959 equ "inside."
+b2_str_2959 equ "lá dentro."
 b2_str_2959_max_size equ 0x1F
 b2_str_2959_new_size equ strlen(b2_str_2959)
 
-b2_str_2960 equ "Oh no!"
+b2_str_2960 equ "Ah, não!"
 b2_str_2960_max_size equ 0x1F
 b2_str_2960_new_size equ strlen(b2_str_2960)
 
-b2_str_2961 equ "There's no need for worry.^"
+b2_str_2961 equ "Não precisa se preocupar.^"
 b2_str_2961_max_size equ 0x1F
 b2_str_2961_new_size equ strlen(b2_str_2961)
 
-b2_str_2962 equ "This time, you won't have"
+b2_str_2962 equ "Desta vez, não terá que"
 b2_str_2962_max_size equ 0x1F
 b2_str_2962_new_size equ strlen(b2_str_2962)
 
-b2_str_2963 equ "to battle alone."
+b2_str_2963 equ "lutar sozinha."
 b2_str_2963_max_size equ 0x1F
 b2_str_2963_new_size equ strlen(b2_str_2963)
 
-b2_str_2964 equ "Huh?"
+b2_str_2964 equ "Como?"
 b2_str_2964_max_size equ 0x1F
 b2_str_2964_new_size equ strlen(b2_str_2964)
 
-b2_str_2965 equ "My *ROYAL *SOLDIERS will"
+b2_str_2965 equ "Meus *SOLDADOS *REAIS"
 b2_str_2965_max_size equ 0x1F
 b2_str_2965_new_size equ strlen(b2_str_2965)
 
-b2_str_2966 equ "assist you.^"
+b2_str_2966 equ "lhe auxiliarão.^"
 b2_str_2966_max_size equ 0x1F
 b2_str_2966_new_size equ strlen(b2_str_2966)
 
-b2_str_2967 equ "They will be waiting for"
+b2_str_2967 equ "Eles estarão esperando por"
 b2_str_2967_max_size equ 0x1F
 b2_str_2967_new_size equ strlen(b2_str_2967)
 
-b2_str_2968 equ "you when  you arrive.^"
+b2_str_2968 equ "você, quando chegar.^"
 b2_str_2968_max_size equ 0x1F
 b2_str_2968_new_size equ strlen(b2_str_2968)
 
-b2_str_2969 equ "Their instructions are to"
+b2_str_2969 equ "As instruções deles são"
 b2_str_2969_max_size equ 0x1F
 b2_str_2969_new_size equ strlen(b2_str_2969)
 
-b2_str_2970 equ "follow your orders as they"
+b2_str_2970 equ "para seguir suas ordens"
 b2_str_2970_max_size equ 0x1F
 b2_str_2970_new_size equ strlen(b2_str_2970)
 
-b2_str_2971 equ "would my own."
+b2_str_2971 equ "como se fossem as minhas."
 b2_str_2971_max_size equ 0x1F
 b2_str_2971_new_size equ strlen(b2_str_2971)
 
-b2_str_2972 equ "No kidding!"
+b2_str_2972 equ "Não brinca!"
 b2_str_2972_max_size equ 0x1F
 b2_str_2972_new_size equ strlen(b2_str_2972)
 
-b2_str_2973 equ "There is much that I owe"
+b2_str_2973 equ "Devo muito às Gênias"
 b2_str_2973_max_size equ 0x1F
 b2_str_2973_new_size equ strlen(b2_str_2973)
 
-b2_str_2974 equ "to Guardian Genies!^"
+b2_str_2974 equ "Guardiãs!^"
 b2_str_2974_max_size equ 0x1F
 b2_str_2974_new_size equ strlen(b2_str_2974)
 
-b2_str_2975 equ "I will place my trust in"
+b2_str_2975 equ "Depositarei minha confiança"
 b2_str_2975_max_size equ 0x1F
 b2_str_2975_new_size equ strlen(b2_str_2975)
 
-b2_str_2976 equ "you."
+b2_str_2976 equ "em você."
 b2_str_2976_max_size equ 0x1F
 b2_str_2976_new_size equ strlen(b2_str_2976)
 
-b2_str_2977 equ "I promise...^"
+b2_str_2977 equ "Eu prometo...^"
 b2_str_2977_max_size equ 0x1F
 b2_str_2977_new_size equ strlen(b2_str_2977)
 
-b2_str_2978 equ "I won't let you down!"
+b2_str_2978 equ "Não vou lhe decepcionar!"
 b2_str_2978_max_size equ 0x1F
 b2_str_2978_new_size equ strlen(b2_str_2978)
 
-b2_str_2979 equ "Travel to the *HAUNTED"
+b2_str_2979 equ "Viaje até a *MATA"
 b2_str_2979_max_size equ 0x1F
 b2_str_2979_new_size equ strlen(b2_str_2979)
 
-b2_str_2980 equ "*GROVE...^"
+b2_str_2980 equ "*ASSOMBRADA...^"
 b2_str_2980_max_size equ 0x1F
 b2_str_2980_new_size equ strlen(b2_str_2980)
 
-b2_str_2981 equ "...and seek the *ABANDONED"
+b2_str_2981 equ "...e procure pela *PRISÃO"
 b2_str_2981_max_size equ 0x1F
 b2_str_2981_new_size equ strlen(b2_str_2981)
 
-b2_str_2982 equ "*PRISON.^"
+b2_str_2982 equ "*ABANDONADA.^"
 b2_str_2982_max_size equ 0x1F
 b2_str_2982_new_size equ strlen(b2_str_2982)
 
-b2_str_2983 equ "My *ROYAL *SOLDIERS will"
+b2_str_2983 equ "Meus *SOLDADOS *REAIS"
 b2_str_2983_max_size equ 0x1F
 b2_str_2983_new_size equ strlen(b2_str_2983)
 
-b2_str_2984 equ "assist you."
+b2_str_2984 equ "lhe auxiliarão.^"
 b2_str_2984_max_size equ 0x1F
 b2_str_2984_new_size equ strlen(b2_str_2984)
 
-b2_str_2985 equ "What's this?^"
+b2_str_2985 equ "O que é isso?^"
 b2_str_2985_max_size equ 0x1F
 b2_str_2985_new_size equ strlen(b2_str_2985)
 
-b2_str_2986 equ "A map to the *HAUNTED"
+b2_str_2986 equ "Um mapa da *MATA"
 b2_str_2986_max_size equ 0x1F
 b2_str_2986_new_size equ strlen(b2_str_2986)
 
-b2_str_2987 equ "*GROVE?^"
+b2_str_2987 equ "*ASSOMBRADA?^"
 b2_str_2987_max_size equ 0x1F
 b2_str_2987_new_size equ strlen(b2_str_2987)
 
-b2_str_2988 equ "Why would the Sultana send"
+b2_str_2988 equ "Por que a Sultana ia te"
 b2_str_2988_max_size equ 0x1F
 b2_str_2988_new_size equ strlen(b2_str_2988)
 
-b2_str_2989 equ "you there?"
+b2_str_2989 equ "mandar ir lá?"
 b2_str_2989_max_size equ 0x1F
 b2_str_2989_new_size equ strlen(b2_str_2989)
 
-b2_str_2990 equ "Don't worry!^"
+b2_str_2990 equ "Não se preocupa!^"
 b2_str_2990_max_size equ 0x1F
 b2_str_2990_new_size equ strlen(b2_str_2990)
 
-b2_str_2991 equ "This time it's all under"
+b2_str_2991 equ "Dessa vez, tá tudo sob"
 b2_str_2991_max_size equ 0x1F
 b2_str_2991_new_size equ strlen(b2_str_2991)
 
-b2_str_2992 equ "control."
+b2_str_2992 equ "controle."
 b2_str_2992_max_size equ 0x1F
 b2_str_2992_new_size equ strlen(b2_str_2992)
 
-b2_str_2993 equ "Why am I not convinced...^"
+b2_str_2993 equ "Não tô muito convencida...^"
 b2_str_2993_max_size equ 0x1F
 b2_str_2993_new_size equ strlen(b2_str_2993)
 
-b2_str_2994 equ "Anyway..."
+b2_str_2994 equ "De todo modo..."
 b2_str_2994_max_size equ 0x1F
 b2_str_2994_new_size equ strlen(b2_str_2994)
 
-b2_str_2995 equ "The Sultana's *SOLDIERS"
+b2_str_2995 equ "Os *SOLDADOS da Sultana"
 b2_str_2995_max_size equ 0x1F
 b2_str_2995_new_size equ strlen(b2_str_2995)
 
-b2_str_2996 equ "should already be here.^"
+b2_str_2996 equ "já devem estar lá.^"
 b2_str_2996_max_size equ 0x1F
 b2_str_2996_new_size equ strlen(b2_str_2996)
 
-b2_str_2997 equ "Find that *PRISON and"
+b2_str_2997 equ "Ache essa *PRISÃO e"
 b2_str_2997_max_size equ 0x1F
 b2_str_2997_new_size equ strlen(b2_str_2997)
 
-b2_str_2998 equ "rescue *DOCTOR *CRUST!"
+b2_str_2998 equ "salve o *DOUTOR *CROSTA!"
 b2_str_2998_max_size equ 0x1F
 b2_str_2998_new_size equ strlen(b2_str_2998)
 
@@ -12010,239 +12010,239 @@ b2_str_3003 equ "xxxxxx"
 b2_str_3003_max_size equ 0x1F
 b2_str_3003_new_size equ strlen(b2_str_3003)
 
-b2_str_3004 equ "Genies are such amazing"
+b2_str_3004 equ "Gênias são criaturas"
 b2_str_3004_max_size equ 0x1F
 b2_str_3004_new_size equ strlen(b2_str_3004)
 
-b2_str_3005 equ "creatures.^"
+b2_str_3005 equ "incríveis.^"
 b2_str_3005_max_size equ 0x1F
 b2_str_3005_new_size equ strlen(b2_str_3005)
 
-b2_str_3006 equ "I knew you would succeed.^"
+b2_str_3006 equ "Sabia que conseguiria.^"
 b2_str_3006_max_size equ 0x1F
 b2_str_3006_new_size equ strlen(b2_str_3006)
 
-b2_str_3007 equ "I will share a story with"
+b2_str_3007 equ "Contarei-lhe uma história,"
 b2_str_3007_max_size equ 0x1F
 b2_str_3007_new_size equ strlen(b2_str_3007)
 
-b2_str_3008 equ "you, if you would hear it."
+b2_str_3008 equ "caso queira ouvi-la."
 b2_str_3008_max_size equ 0x1F
 b2_str_3008_new_size equ strlen(b2_str_3008)
 
-b2_str_3009 equ "Yes, please!^"
+b2_str_3009 equ "Sim, por favor!^"
 b2_str_3009_max_size equ 0x1F
 b2_str_3009_new_size equ strlen(b2_str_3009)
 
-b2_str_3010 equ "I love hearing stories!"
+b2_str_3010 equ "Adoro ouvir histórias!"
 b2_str_3010_max_size equ 0x1F
 b2_str_3010_new_size equ strlen(b2_str_3010)
 
-b2_str_3011 equ "Very well.^"
+b2_str_3011 equ "Muito bem.^"
 b2_str_3011_max_size equ 0x1F
 b2_str_3011_new_size equ strlen(b2_str_3011)
 
-b2_str_3012 equ "Long ago, Sequin Land was"
+b2_str_3012 equ "Há muito tempo, Sequin Land"
 b2_str_3012_max_size equ 0x1F
 b2_str_3012_new_size equ strlen(b2_str_3012)
 
-b2_str_3013 equ "protected by Guardian"
+b2_str_3013 equ "era protegida por Gênias"
 b2_str_3013_max_size equ 0x1F
 b2_str_3013_new_size equ strlen(b2_str_3013)
 
-b2_str_3014 equ "Genies.^"
+b2_str_3014 equ "Guardiãs.^"
 b2_str_3014_max_size equ 0x1F
 b2_str_3014_new_size equ strlen(b2_str_3014)
 
-b2_str_3015 equ "Their magic kept us safe"
+b2_str_3015 equ "A magia delas nos mantinha"
 b2_str_3015_max_size equ 0x1F
 b2_str_3015_new_size equ strlen(b2_str_3015)
 
-b2_str_3016 equ "from evil in all its"
+b2_str_3016 equ "a salvo do mal em todas as"
 b2_str_3016_max_size equ 0x1F
 b2_str_3016_new_size equ strlen(b2_str_3016)
 
-b2_str_3017 equ "forms.^"
+b2_str_3017 equ "suas formas.^"
 b2_str_3017_max_size equ 0x1F
 b2_str_3017_new_size equ strlen(b2_str_3017)
 
-b2_str_3018 equ "But one day, the Genies"
+b2_str_3018 equ "Mas um dia, as Gênias"
 b2_str_3018_max_size equ 0x1F
 b2_str_3018_new_size equ strlen(b2_str_3018)
 
-b2_str_3019 equ "returned to their realm...^"
+b2_str_3019 equ "retornaram ao seu reino...^"
 b2_str_3019_max_size equ 0x1F
 b2_str_3019_new_size equ strlen(b2_str_3019)
 
-b2_str_3020 equ "Leaving their daughters,"
+b2_str_3020 equ "Deixando suas filhas, as"
 b2_str_3020_max_size equ 0x1F
 b2_str_3020_new_size equ strlen(b2_str_3020)
 
-b2_str_3021 equ "the Half-Genies, behind.^"
+b2_str_3021 equ "Meia-Gênias, para trás.^"
 b2_str_3021_max_size equ 0x1F
 b2_str_3021_new_size equ strlen(b2_str_3021)
 
-b2_str_3022 equ "The Sultana gathered the"
+b2_str_3022 equ "A Sultana reuniu aquelas"
 b2_str_3022_max_size equ 0x1F
 b2_str_3022_new_size equ strlen(b2_str_3022)
 
-b2_str_3023 equ "ones who had come of"
+b2_str_3023 equ "que haviam atingido a"
 b2_str_3023_max_size equ 0x1F
 b2_str_3023_new_size equ strlen(b2_str_3023)
 
-b2_str_3024 equ "age...^"
+b2_str_3024 equ "maioridade...^"
 b2_str_3024_max_size equ 0x1F
 b2_str_3024_new_size equ strlen(b2_str_3024)
 
-b2_str_3025 equ "...and brought them here,"
+b2_str_3025 equ "...e trouxe-as até aqui,"
 b2_str_3025_max_size equ 0x1F
 b2_str_3025_new_size equ strlen(b2_str_3025)
 
-b2_str_3026 equ "to the palace.^"
+b2_str_3026 equ "no palácio.^"
 b2_str_3026_max_size equ 0x1F
 b2_str_3026_new_size equ strlen(b2_str_3026)
 
-b2_str_3027 equ "She wished to offer them"
+b2_str_3027 equ "Ela desejava oferecê-las"
 b2_str_3027_max_size equ 0x1F
 b2_str_3027_new_size equ strlen(b2_str_3027)
 
-b2_str_3028 equ "comfort, and seek their"
+b2_str_3028 equ "conforto e buscar o"
 b2_str_3028_max_size equ 0x1F
 b2_str_3028_new_size equ strlen(b2_str_3028)
 
-b2_str_3029 equ "council.^"
+b2_str_3029 equ "conselho delas.^"
 b2_str_3029_max_size equ 0x1F
 b2_str_3029_new_size equ strlen(b2_str_3029)
 
-b2_str_3030 equ "It was decided that to"
+b2_str_3030 equ "Foi decidido que, para"
 b2_str_3030_max_size equ 0x1F
 b2_str_3030_new_size equ strlen(b2_str_3030)
 
-b2_str_3031 equ "follow in their mothers'"
+b2_str_3031 equ "seguir os passos de suas"
 b2_str_3031_max_size equ 0x1F
 b2_str_3031_new_size equ strlen(b2_str_3031)
 
-b2_str_3032 equ "footsteps...^"
+b2_str_3032 equ "mães...^"
 b2_str_3032_max_size equ 0x1F
 b2_str_3032_new_size equ strlen(b2_str_3032)
 
-b2_str_3033 equ "Each Half-Genie would"
+b2_str_3033 equ "Cada Meia-Gênia adotaria"
 b2_str_3033_max_size equ 0x1F
 b2_str_3033_new_size equ strlen(b2_str_3033)
 
-b2_str_3034 equ "adopt a town, to serve as"
+b2_str_3034 equ "uma cidade, para servir"
 b2_str_3034_max_size equ 0x1F
 b2_str_3034_new_size equ strlen(b2_str_3034)
 
-b2_str_3035 equ "its protector.^"
+b2_str_3035 equ "como sua protetora.^"
 b2_str_3035_max_size equ 0x1F
 b2_str_3035_new_size equ strlen(b2_str_3035)
 
-b2_str_3036 equ "Those that were too young"
+b2_str_3036 equ "Aquelas que eram muito"
 b2_str_3036_max_size equ 0x1F
 b2_str_3036_new_size equ strlen(b2_str_3036)
 
-b2_str_3037 equ "would remain with their"
+b2_str_3037 equ "jovens permaneceriam com"
 b2_str_3037_max_size equ 0x1F
 b2_str_3037_new_size equ strlen(b2_str_3037)
 
-b2_str_3038 equ "human fathers...^"
+b2_str_3038 equ "seus pais humanos...^"
 b2_str_3038_max_size equ 0x1F
 b2_str_3038_new_size equ strlen(b2_str_3038)
 
-b2_str_3039 equ "...and would be granted"
+b2_str_3039 equ "...e receberiam proteção"
 b2_str_3039_max_size equ 0x1F
 b2_str_3039_new_size equ strlen(b2_str_3039)
 
-b2_str_3040 equ "special protection until"
+b2_str_3040 equ "especial até atingir"
 b2_str_3040_max_size equ 0x1F
 b2_str_3040_new_size equ strlen(b2_str_3040)
 
-b2_str_3041 equ "they had grown.^"
+b2_str_3041 equ "a maioridade.^"
 b2_str_3041_max_size equ 0x1F
 b2_str_3041_new_size equ strlen(b2_str_3041)
 
-b2_str_3042 equ "Then they could choose"
+b2_str_3042 equ "Então, elas escolheriam"
 b2_str_3042_max_size equ 0x1F
 b2_str_3042_new_size equ strlen(b2_str_3042)
 
-b2_str_3043 equ "their own path."
+b2_str_3043 equ "seu próprio caminho."
 b2_str_3043_max_size equ 0x1F
 b2_str_3043_new_size equ strlen(b2_str_3043)
 
-b2_str_3044 equ "That must be when I was"
+b2_str_3044 equ "Acho que foi quando me man-"
 b2_str_3044_max_size equ 0x1F
 b2_str_3044_new_size equ strlen(b2_str_3044)
 
-b2_str_3045 equ "sent to live with Uncle.^"
+b2_str_3045 equ "daram pra viver com o Tio.^"
 b2_str_3045_max_size equ 0x1F
 b2_str_3045_new_size equ strlen(b2_str_3045)
 
-b2_str_3046 equ "I was too young to"
+b2_str_3046 equ "Eu era muito nova pra"
 b2_str_3046_max_size equ 0x1F
 b2_str_3046_new_size equ strlen(b2_str_3046)
 
-b2_str_3047 equ "remember."
+b2_str_3047 equ "lembrar."
 b2_str_3047_max_size equ 0x1F
 b2_str_3047_new_size equ strlen(b2_str_3047)
 
-b2_str_3048 equ "As the Half-Genie children"
+b2_str_3048 equ "À medida que as Meia-Gênias"
 b2_str_3048_max_size equ 0x1F
 b2_str_3048_new_size equ strlen(b2_str_3048)
 
-b2_str_3049 equ "grew, so did Sequin Land.^"
+b2_str_3049 equ "cresciam, Sequin Land^"
 b2_str_3049_max_size equ 0x1F
 b2_str_3049_new_size equ strlen(b2_str_3049)
 
-b2_str_3050 equ "Eventually there were more"
+b2_str_3050 equ "também crescia. Num certo"
 b2_str_3050_max_size equ 0x1F
 b2_str_3050_new_size equ strlen(b2_str_3050)
 
-b2_str_3051 equ "towns than there were"
+b2_str_3051 equ "ponto, havia mais cidades"
 b2_str_3051_max_size equ 0x1F
 b2_str_3051_new_size equ strlen(b2_str_3051)
 
-b2_str_3052 equ "Half-Genies to protect"
+b2_str_3052 equ "do que Meias-Gênias para"
 b2_str_3052_max_size equ 0x1F
 b2_str_3052_new_size equ strlen(b2_str_3052)
 
-b2_str_3053 equ "them.^"
+b2_str_3053 equ "protegê-las.^"
 b2_str_3053_max_size equ 0x1F
 b2_str_3053_new_size equ strlen(b2_str_3053)
 
-b2_str_3054 equ "And over time, the sight"
+b2_str_3054 equ "E com o passar do tempo,"
 b2_str_3054_max_size equ 0x1F
 b2_str_3054_new_size equ strlen(b2_str_3054)
 
-b2_str_3055 equ "of a Guardian Genie became"
+b2_str_3055 equ "ver uma Gênia Guardiã"
 b2_str_3055_max_size equ 0x1F
 b2_str_3055_new_size equ strlen(b2_str_3055)
 
-b2_str_3056 equ "quite rare.^"
+b2_str_3056 equ "tornou-se bastante raro.^"
 b2_str_3056_max_size equ 0x1F
 b2_str_3056_new_size equ strlen(b2_str_3056)
 
-b2_str_3057 equ "Many began to distrust"
+b2_str_3057 equ "Muitos passaram a"
 b2_str_3057_max_size equ 0x1F
 b2_str_3057_new_size equ strlen(b2_str_3057)
 
-b2_str_3058 equ "magic.^"
+b2_str_3058 equ "desconfiar da magia.^"
 b2_str_3058_max_size equ 0x1F
 b2_str_3058_new_size equ strlen(b2_str_3058)
 
-b2_str_3059 equ "But here at the palace,"
+b2_str_3059 equ "Mas aqui no palácio, as"
 b2_str_3059_max_size equ 0x1F
 b2_str_3059_new_size equ strlen(b2_str_3059)
 
-b2_str_3060 equ "the good deeds were never"
+b2_str_3060 equ "boas ações nunca foram"
 b2_str_3060_max_size equ 0x1F
 b2_str_3060_new_size equ strlen(b2_str_3060)
 
-b2_str_3061 equ "forgotten.^"
+b2_str_3061 equ "esquecidas.^"
 b2_str_3061_max_size equ 0x1F
 b2_str_3061_new_size equ strlen(b2_str_3061)
 
-b2_str_3062 equ "And neither were you."
+b2_str_3062 equ "E nem você foi esquecida."
 b2_str_3062_max_size equ 0x1F
 b2_str_3062_new_size equ strlen(b2_str_3062)
 
@@ -12250,123 +12250,123 @@ b2_str_3063 equ "..."
 b2_str_3063_max_size equ 0x1F
 b2_str_3063_new_size equ strlen(b2_str_3063)
 
-b2_str_3064 equ "You have your mother's"
+b2_str_3064 equ "Você tem o fogo da sua"
 b2_str_3064_max_size equ 0x1F
 b2_str_3064_new_size equ strlen(b2_str_3064)
 
-b2_str_3065 equ "fire.^"
+b2_str_3065 equ "mãe.^"
 b2_str_3065_max_size equ 0x1F
 b2_str_3065_new_size equ strlen(b2_str_3065)
 
-b2_str_3066 equ "Be patient, and you will"
+b2_str_3066 equ "Seja paciente, e você a"
 b2_str_3066_max_size equ 0x1F
 b2_str_3066_new_size equ strlen(b2_str_3066)
 
-b2_str_3067 equ "see her again one day.^"
+b2_str_3067 equ "verá novamente um dia.^"
 b2_str_3067_max_size equ 0x1F
 b2_str_3067_new_size equ strlen(b2_str_3067)
 
-b2_str_3068 equ "That is where the story"
+b2_str_3068 equ "É aqui que a história"
 b2_str_3068_max_size equ 0x1F
 b2_str_3068_new_size equ strlen(b2_str_3068)
 
-b2_str_3069 equ "must end, for now.^"
+b2_str_3069 equ "termina, por agora.^"
 b2_str_3069_max_size equ 0x1F
 b2_str_3069_new_size equ strlen(b2_str_3069)
 
-b2_str_3070 equ "You will write the next"
+b2_str_3070 equ "Você escreverá o próximo"
 b2_str_3070_max_size equ 0x1F
 b2_str_3070_new_size equ strlen(b2_str_3070)
 
-b2_str_3071 equ "chapter yourself.^"
+b2_str_3071 equ "capítulo por si mesma.^"
 b2_str_3071_max_size equ 0x1F
 b2_str_3071_new_size equ strlen(b2_str_3071)
 
-b2_str_3072 equ "Take this."
+b2_str_3072 equ "Tome isto."
 b2_str_3072_max_size equ 0x1F
 b2_str_3072_new_size equ strlen(b2_str_3072)
 
-b2_str_3073 equ "YOU GOT A *SHOCK *EGG!"
+b2_str_3073 equ "PEGOU *OVO *CHOCANTE!"
 b2_str_3073_max_size equ 0x1F
 b2_str_3073_new_size equ strlen(b2_str_3073)
 
-b2_str_3074 equ "I have given you my most"
+b2_str_3074 equ "Eu lhe dei o meu mais"
 b2_str_3074_max_size equ 0x1F
 b2_str_3074_new_size equ strlen(b2_str_3074)
 
-b2_str_3075 equ "*FAVORITE *TREASURE.^"
+b2_str_3075 equ "*FAVORITO *TESOURO.^"
 b2_str_3075_max_size equ 0x1F
 b2_str_3075_new_size equ strlen(b2_str_3075)
 
-b2_str_3076 equ "When the time comes...^"
+b2_str_3076 equ "Quando a hora chegar...^"
 b2_str_3076_max_size equ 0x1F
 b2_str_3076_new_size equ strlen(b2_str_3076)
 
-b2_str_3077 equ "I'm certain that you will"
+b2_str_3077 equ "Estou certo de que fará"
 b2_str_3077_max_size equ 0x1F
 b2_str_3077_new_size equ strlen(b2_str_3077)
 
-b2_str_3078 equ "put it to good use.^"
+b2_str_3078 equ "bom uso disso.^"
 b2_str_3078_max_size equ 0x1F
 b2_str_3078_new_size equ strlen(b2_str_3078)
 
-b2_str_3079 equ "Good luck, Guardian Genie!^"
+b2_str_3079 equ "Boa sorte, Gênia Guardiã!^"
 b2_str_3079_max_size equ 0x1F
 b2_str_3079_new_size equ strlen(b2_str_3079)
 
-b2_str_3080 equ "Go now.^"
+b2_str_3080 equ "Agora vá.^"
 b2_str_3080_max_size equ 0x1F
 b2_str_3080_new_size equ strlen(b2_str_3080)
 
-b2_str_3081 equ "And *SAVE *SEQUIN *LAND!"
+b2_str_3081 equ "E *SALVE *SEQUIN *LAND!"
 b2_str_3081_max_size equ 0x1F
 b2_str_3081_new_size equ strlen(b2_str_3081)
 
-b2_str_3082 equ "Good luck, Guardian Genie!^"
+b2_str_3082 equ "Boa sorte, Gênia Guardiã!^"
 b2_str_3082_max_size equ 0x1F
 b2_str_3082_new_size equ strlen(b2_str_3082)
 
-b2_str_3083 equ "Go now.^"
+b2_str_3083 equ "Vá agora.^"
 b2_str_3083_max_size equ 0x1F
 b2_str_3083_new_size equ strlen(b2_str_3083)
 
-b2_str_3084 equ "And *SAVE *SEQUIN *LAND!"
+b2_str_3084 equ "E *SALVE *Sequin Land!"
 b2_str_3084_max_size equ 0x1F
 b2_str_3084_new_size equ strlen(b2_str_3084)
 
-b2_str_3085 equ "The royal palace is"
+b2_str_3085 equ "O palácio real está cheio"
 b2_str_3085_max_size equ 0x1F
 b2_str_3085_new_size equ strlen(b2_str_3085)
 
-b2_str_3086 equ "covered in gunk!^"
+b2_str_3086 equ "de grude!^"
 b2_str_3086_max_size equ 0x1F
 b2_str_3086_new_size equ strlen(b2_str_3086)
 
-b2_str_3087 equ "What is this stuff?^"
+b2_str_3087 equ "Que coisa é essa?^"
 b2_str_3087_max_size equ 0x1F
 b2_str_3087_new_size equ strlen(b2_str_3087)
 
-b2_str_3088 equ "And why won't it wash off?"
+b2_str_3088 equ "E por que não sai ao lavar?"
 b2_str_3088_max_size equ 0x1F
 b2_str_3088_new_size equ strlen(b2_str_3088)
 
-b2_str_3089 equ "Everything changed after"
+b2_str_3089 equ "Tudo mudou depois do"
 b2_str_3089_max_size equ 0x1F
 b2_str_3089_new_size equ strlen(b2_str_3089)
 
-b2_str_3090 equ "the earthquake!^"
+b2_str_3090 equ "terremoto!^"
 b2_str_3090_max_size equ 0x1F
 b2_str_3090_new_size equ strlen(b2_str_3090)
 
-b2_str_3091 equ "We seem to be miles away"
+b2_str_3091 equ "Parece que estamos a léguas"
 b2_str_3091_max_size equ 0x1F
 b2_str_3091_new_size equ strlen(b2_str_3091)
 
-b2_str_3092 equ "from the coastline."
+b2_str_3092 equ "de distância da costa."
 b2_str_3092_max_size equ 0x1F
 b2_str_3092_new_size equ strlen(b2_str_3092)
 
-b2_str_3093 equ "This water doesn't taste"
+b2_str_3093 equ "O gosto dessa água não tá"
 b2_str_3093_max_size equ 0x1F
 b2_str_3093_new_size equ strlen(b2_str_3093)
 
@@ -12374,43 +12374,43 @@ b2_str_3094 equ "normal.^"
 b2_str_3094_max_size equ 0x1F
 b2_str_3094_new_size equ strlen(b2_str_3094)
 
-b2_str_3095 equ "Try it.^"
+b2_str_3095 equ "Experimenta.^"
 b2_str_3095_max_size equ 0x1F
 b2_str_3095_new_size equ strlen(b2_str_3095)
 
-b2_str_3096 equ "It tastes the same as bug"
+b2_str_3096 equ "Tá com gosto de besouro,"
 b2_str_3096_max_size equ 0x1F
 b2_str_3096_new_size equ strlen(b2_str_3096)
 
-b2_str_3097 equ "mucus, right?"
+b2_str_3097 equ "não é não?"
 b2_str_3097_max_size equ 0x1F
 b2_str_3097_new_size equ strlen(b2_str_3097)
 
-b2_str_3098 equ "Wuff.^"
+b2_str_3098 equ "Snif-snif...^"
 b2_str_3098_max_size equ 0x1F
 b2_str_3098_new_size equ strlen(b2_str_3098)
 
-b2_str_3099 equ "That smell."
+b2_str_3099 equ "Esse cheiro."
 b2_str_3099_max_size equ 0x1F
 b2_str_3099_new_size equ strlen(b2_str_3099)
 
-b2_str_3100 equ "You are a Guardian Genie!^"
+b2_str_3100 equ "Você é uma Gênia Guardiã!^"
 b2_str_3100_max_size equ 0x1F
 b2_str_3100_new_size equ strlen(b2_str_3100)
 
-b2_str_3101 equ "Please, see the Sultana"
+b2_str_3101 equ "Por favor, vá ver a Sultana"
 b2_str_3101_max_size equ 0x1F
 b2_str_3101_new_size equ strlen(b2_str_3101)
 
-b2_str_3102 equ "right away."
+b2_str_3102 equ "agora mesmo."
 b2_str_3102_max_size equ 0x1F
 b2_str_3102_new_size equ strlen(b2_str_3102)
 
-b2_str_3103 equ "Whenever monsters rush in"
+b2_str_3103 equ "Sempre que monstros vêm"
 b2_str_3103_max_size equ 0x1F
 b2_str_3103_new_size equ strlen(b2_str_3103)
 
-b2_str_3104 equ "here to attack our"
+b2_str_3104 equ "para atacar a nossa"
 b2_str_3104_max_size equ 0x1F
 b2_str_3104_new_size equ strlen(b2_str_3104)
 
@@ -12418,87 +12418,87 @@ b2_str_3105 equ "Sultana...^"
 b2_str_3105_max_size equ 0x1F
 b2_str_3105_new_size equ strlen(b2_str_3105)
 
-b2_str_3106 equ "I slay them.^"
+b2_str_3106 equ "Eu mato e como o fígado.^"
 b2_str_3106_max_size equ 0x1F
 b2_str_3106_new_size equ strlen(b2_str_3106)
 
-b2_str_3107 equ "Then I eat the meat.^"
+b2_str_3107 equ "Faço churrasco com a carne.^"
 b2_str_3107_max_size equ 0x1F
 b2_str_3107_new_size equ strlen(b2_str_3107)
 
-b2_str_3108 equ "The bones, I keep.^"
+b2_str_3108 equ "Os ossos, eu guardo.^"
 b2_str_3108_max_size equ 0x1F
 b2_str_3108_new_size equ strlen(b2_str_3108)
 
-b2_str_3109 equ "Femurs are stored in"
+b2_str_3109 equ "Os fêmures são triturados"
 b2_str_3109_max_size equ 0x1F
 b2_str_3109_new_size equ strlen(b2_str_3109)
 
-b2_str_3110 equ "packing tubes.^"
+b2_str_3110 equ "e viram dominó de osso.^"
 b2_str_3110_max_size equ 0x1F
 b2_str_3110_new_size equ strlen(b2_str_3110)
 
-b2_str_3111 equ "Claws and teeth into the"
+b2_str_3111 equ "Garras e dentes viram"
 b2_str_3111_max_size equ 0x1F
 b2_str_3111_new_size equ strlen(b2_str_3111)
 
-b2_str_3112 equ "craft caddy.^"
+b2_str_3112 equ "miçangas.^"
 b2_str_3112_max_size equ 0x1F
 b2_str_3112_new_size equ strlen(b2_str_3112)
 
-b2_str_3113 equ "I have a system."
+b2_str_3113 equ "Sou bastante metódico."
 b2_str_3113_max_size equ 0x1F
 b2_str_3113_new_size equ strlen(b2_str_3113)
 
-b2_str_3114 equ "The SULTANA'S chamber lies"
+b2_str_3114 equ "Os aposentos da SULTANA"
 b2_str_3114_max_size equ 0x1F
 b2_str_3114_new_size equ strlen(b2_str_3114)
 
-b2_str_3115 equ "ahead."
+b2_str_3115 equ "ficam adiante."
 b2_str_3115_max_size equ 0x1F
 b2_str_3115_new_size equ strlen(b2_str_3115)
 
-b2_str_3116 equ "Our former ruler, the"
+b2_str_3116 equ "Nosso ex-governante, o"
 b2_str_3116_max_size equ 0x1F
 b2_str_3116_new_size equ strlen(b2_str_3116)
 
-b2_str_3117 equ "Sultan, loved the Sultana"
+b2_str_3117 equ "Sultão, amava perdidamente"
 b2_str_3117_max_size equ 0x1F
 b2_str_3117_new_size equ strlen(b2_str_3117)
 
-b2_str_3118 equ "dearly.^"
+b2_str_3118 equ "a Sultana.^"
 b2_str_3118_max_size equ 0x1F
 b2_str_3118_new_size equ strlen(b2_str_3118)
 
-b2_str_3119 equ "But on the night of their"
+b2_str_3119 equ "Mas na noite de lua de mel"
 b2_str_3119_max_size equ 0x1F
 b2_str_3119_new_size equ strlen(b2_str_3119)
 
-b2_str_3120 equ "honeymoon...^"
+b2_str_3120 equ "deles...^"
 b2_str_3120_max_size equ 0x1F
 b2_str_3120_new_size equ strlen(b2_str_3120)
 
-b2_str_3121 equ "There was a tragic"
+b2_str_3121 equ "Houve um acidente"
 b2_str_3121_max_size equ 0x1F
 b2_str_3121_new_size equ strlen(b2_str_3121)
 
-b2_str_3122 equ "accident...^"
+b2_str_3122 equ "trágico...^"
 b2_str_3122_max_size equ 0x1F
 b2_str_3122_new_size equ strlen(b2_str_3122)
 
-b2_str_3123 equ "...and the Sultan did not"
+b2_str_3123 equ "...e o Sultão não"
 b2_str_3123_max_size equ 0x1F
 b2_str_3123_new_size equ strlen(b2_str_3123)
 
-b2_str_3124 equ "survive.^"
+b2_str_3124 equ "sobreviveu.^"
 b2_str_3124_max_size equ 0x1F
 b2_str_3124_new_size equ strlen(b2_str_3124)
 
-b2_str_3125 equ "The poor Sultana.^"
+b2_str_3125 equ "Ah, Sultana. Seu pesar foi"
 b2_str_3125_max_size equ 0x1F
 b2_str_3125_new_size equ strlen(b2_str_3125)
 
-b2_str_3126 equ "She was utterly crushed.^"
+b2_str_3126 equ "tanto que ficou esmagada.^"
 b2_str_3126_max_size equ 0x1F
 b2_str_3126_new_size equ strlen(b2_str_3126)
 
@@ -12506,27 +12506,27 @@ b2_str_3127 equ "...^"
 b2_str_3127_max_size equ 0x1F
 b2_str_3127_new_size equ strlen(b2_str_3127)
 
-b2_str_3128 equ "Sorry...^"
+b2_str_3128 equ "Foi mal...^"
 b2_str_3128_max_size equ 0x1F
 b2_str_3128_new_size equ strlen(b2_str_3128)
 
-b2_str_3129 equ "I mean...^"
+b2_str_3129 equ "Digo...^"
 b2_str_3129_max_size equ 0x1F
 b2_str_3129_new_size equ strlen(b2_str_3129)
 
-b2_str_3130 equ "HE was utterly crushed."
+b2_str_3130 equ "ELE ficou esmagado."
 b2_str_3130_max_size equ 0x1F
 b2_str_3130_new_size equ strlen(b2_str_3130)
 
-b2_str_3131 equ "The royal palace is clean"
+b2_str_3131 equ "O palácio real está limpo"
 b2_str_3131_max_size equ 0x1F
 b2_str_3131_new_size equ strlen(b2_str_3131)
 
-b2_str_3132 equ "once more!^"
+b2_str_3132 equ "novamente!^"
 b2_str_3132_max_size equ 0x1F
 b2_str_3132_new_size equ strlen(b2_str_3132)
 
-b2_str_3133 equ "Huzzah!"
+b2_str_3133 equ "Viva!"
 b2_str_3133_max_size equ 0x1F
 b2_str_3133_new_size equ strlen(b2_str_3133)
 
@@ -12534,75 +12534,75 @@ b2_str_3134 equ "Ahhh...^"
 b2_str_3134_max_size equ 0x1F
 b2_str_3134_new_size equ strlen(b2_str_3134)
 
-b2_str_3135 equ "It's good to smell the"
+b2_str_3135 equ "Como é bom sentir o cheiro"
 b2_str_3135_max_size equ 0x1F
 b2_str_3135_new_size equ strlen(b2_str_3135)
 
-b2_str_3136 equ "salty sea air once more!"
+b2_str_3136 equ "da brisa salgada do mar!"
 b2_str_3136_max_size equ 0x1F
 b2_str_3136_new_size equ strlen(b2_str_3136)
 
-b2_str_3137 equ "Much of the structural"
+b2_str_3137 equ "Boa parte dos danos estru-"
 b2_str_3137_max_size equ 0x1F
 b2_str_3137_new_size equ strlen(b2_str_3137)
 
-b2_str_3138 equ "damage has been repaired.^"
+b2_str_3138 equ "turais foram reparados.^"
 b2_str_3138_max_size equ 0x1F
 b2_str_3138_new_size equ strlen(b2_str_3138)
 
-b2_str_3139 equ "But what of my feelings?"
+b2_str_3139 equ "Mas e meus sentimentos?"
 b2_str_3139_max_size equ 0x1F
 b2_str_3139_new_size equ strlen(b2_str_3139)
 
-b2_str_3140 equ "Welcome to Sequin Land"
+b2_str_3140 equ "Bem-vindo ao Palácio de"
 b2_str_3140_max_size equ 0x1F
 b2_str_3140_new_size equ strlen(b2_str_3140)
 
-b2_str_3141 equ "Palace!"
+b2_str_3141 equ "Sequin Land!"
 b2_str_3141_max_size equ 0x1F
 b2_str_3141_new_size equ strlen(b2_str_3141)
 
-b2_str_3142 equ "The Sultana would like to"
+b2_str_3142 equ "A Sultana gostaria de"
 b2_str_3142_max_size equ 0x1F
 b2_str_3142_new_size equ strlen(b2_str_3142)
 
-b2_str_3143 equ "see you.^"
+b2_str_3143 equ "vê-la.^"
 b2_str_3143_max_size equ 0x1F
 b2_str_3143_new_size equ strlen(b2_str_3143)
 
-b2_str_3144 equ "Right this way."
+b2_str_3144 equ "Por aqui."
 b2_str_3144_max_size equ 0x1F
 b2_str_3144_new_size equ strlen(b2_str_3144)
 
-b2_str_3145 equ "Whenever the Sultana has"
+b2_str_3145 equ "Sempre a Sultana recebe a"
 b2_str_3145_max_size equ 0x1F
 b2_str_3145_new_size equ strlen(b2_str_3145)
 
-b2_str_3146 equ "family visit from out of"
+b2_str_3146 equ "visita de familiares de"
 b2_str_3146_max_size equ 0x1F
 b2_str_3146_new_size equ strlen(b2_str_3146)
 
-b2_str_3147 equ "town...^"
+b2_str_3147 equ "fora da cidade...^"
 b2_str_3147_max_size equ 0x1F
 b2_str_3147_new_size equ strlen(b2_str_3147)
 
-b2_str_3148 equ "I slay them.^"
+b2_str_3148 equ "Eu mato e como o fígado.^"
 b2_str_3148_max_size equ 0x1F
 b2_str_3148_new_size equ strlen(b2_str_3148)
 
-b2_str_3149 equ "Then I eat the meat.^"
+b2_str_3149 equ "Faço churrasco com a carne.^"
 b2_str_3149_max_size equ 0x1F
 b2_str_3149_new_size equ strlen(b2_str_3149)
 
-b2_str_3150 equ "The bones, I keep.^"
+b2_str_3150 equ "Os ossos, eu guardo.^"
 b2_str_3150_max_size equ 0x1F
 b2_str_3150_new_size equ strlen(b2_str_3150)
 
-b2_str_3151 equ "Femurs are stored in"
+b2_str_3151 equ "Os fêmures são triturados"
 b2_str_3151_max_size equ 0x1F
 b2_str_3151_new_size equ strlen(b2_str_3151)
 
-b2_str_3152 equ "packing tubes.^"
+b2_str_3152 equ "e viram dominó de osso.^"
 b2_str_3152_max_size equ 0x1F
 b2_str_3152_new_size equ strlen(b2_str_3152)
 
@@ -12610,407 +12610,407 @@ b2_str_3153 equ "...^"
 b2_str_3153_max_size equ 0x1F
 b2_str_3153_new_size equ strlen(b2_str_3153)
 
-b2_str_3154 equ "Oh wait!^"
+b2_str_3154 equ "Opa, peraí!^"
 b2_str_3154_max_size equ 0x1F
 b2_str_3154_new_size equ strlen(b2_str_3154)
 
-b2_str_3155 equ "Let me check my notes.^"
+b2_str_3155 equ "Deixa eu checar meu texto.^"
 b2_str_3155_max_size equ 0x1F
 b2_str_3155_new_size equ strlen(b2_str_3155)
 
-b2_str_3156 equ "Right, that's for"
+b2_str_3156 equ "Ah tá, isso é o que eu faço"
 b2_str_3156_max_size equ 0x1F
 b2_str_3156_new_size equ strlen(b2_str_3156)
 
-b2_str_3157 equ "monsters.^"
+b2_str_3157 equ "com os monstros.^"
 b2_str_3157_max_size equ 0x1F
 b2_str_3157_new_size equ strlen(b2_str_3157)
 
-b2_str_3158 equ "For family, I greet them"
+b2_str_3158 equ "A família, eu saúdo eles"
 b2_str_3158_max_size equ 0x1F
 b2_str_3158_new_size equ strlen(b2_str_3158)
 
-b2_str_3159 equ "with kindness.^"
+b2_str_3159 equ "com gentileza.^"
 b2_str_3159_max_size equ 0x1F
 b2_str_3159_new_size equ strlen(b2_str_3159)
 
-b2_str_3160 equ "Then I eat cinnamon rolls."
+b2_str_3160 equ "Aí como rolinhos de canela."
 b2_str_3160_max_size equ 0x1F
 b2_str_3160_new_size equ strlen(b2_str_3160)
 
-b2_str_3161 equ "The SULTANA awaits!"
+b2_str_3161 equ "A SULTANA lhe aguarda!"
 b2_str_3161_max_size equ 0x1F
 b2_str_3161_new_size equ strlen(b2_str_3161)
 
-b2_str_3162 equ "I'm still watching you."
+b2_str_3162 equ "Ainda tô de olho em você."
 b2_str_3162_max_size equ 0x1F
 b2_str_3162_new_size equ strlen(b2_str_3162)
 
-b2_str_3163 equ "Hey new best buddy!^"
+b2_str_3163 equ "E aí, minha chapa!^"
 b2_str_3163_max_size equ 0x1F
 b2_str_3163_new_size equ strlen(b2_str_3163)
 
-b2_str_3164 equ "I'm Shareware Wolf!^"
+b2_str_3164 equ "Sou o Lobo dos Sharewares!^"
 b2_str_3164_max_size equ 0x1F
 b2_str_3164_new_size equ strlen(b2_str_3164)
 
-b2_str_3165 equ "I love sharing!^"
+b2_str_3165 equ "Adoro compartilho!^"
 b2_str_3165_max_size equ 0x1F
 b2_str_3165_new_size equ strlen(b2_str_3165)
 
-b2_str_3166 equ "I might even share too"
+b2_str_3166 equ "Às vezes compartilhar"
 b2_str_3166_max_size equ 0x1F
 b2_str_3166_new_size equ strlen(b2_str_3166)
 
-b2_str_3167 equ "much!^"
+b2_str_3167 equ "até demais!^"
 b2_str_3167_max_size equ 0x1F
 b2_str_3167_new_size equ strlen(b2_str_3167)
 
-b2_str_3168 equ "Tell me about your"
+b2_str_3168 equ "Fale como está se sentindo"
 b2_str_3168_max_size equ 0x1F
 b2_str_3168_new_size equ strlen(b2_str_3168)
 
-b2_str_3169 equ "feelings!^"
+b2_str_3169 equ "hoje!^"
 b2_str_3169_max_size equ 0x1F
 b2_str_3169_new_size equ strlen(b2_str_3169)
 
-b2_str_3170 equ "I'm feeling pretty totally"
+b2_str_3170 equ "Eu mesmo tô me sentindo"
 b2_str_3170_max_size equ 0x1F
 b2_str_3170_new_size equ strlen(b2_str_3170)
 
-b2_str_3171 equ "amazing myself!^"
+b2_str_3171 equ "bem pacas!^"
 b2_str_3171_max_size equ 0x1F
 b2_str_3171_new_size equ strlen(b2_str_3171)
 
-b2_str_3172 equ "My mom is also very"
+b2_str_3172 equ "Minha mãe também tá com"
 b2_str_3172_max_size equ 0x1F
 b2_str_3172_new_size equ strlen(b2_str_3172)
 
-b2_str_3173 equ "healthy!^"
+b2_str_3173 equ "saúde!^"
 b2_str_3173_max_size equ 0x1F
 b2_str_3173_new_size equ strlen(b2_str_3173)
 
-b2_str_3174 equ "The rest of my family, I"
+b2_str_3174 equ "O resto da minha família,"
 b2_str_3174_max_size equ 0x1F
 b2_str_3174_new_size equ strlen(b2_str_3174)
 
-b2_str_3175 equ "ate!^"
+b2_str_3175 equ "eu comi!^"
 b2_str_3175_max_size equ 0x1F
 b2_str_3175_new_size equ strlen(b2_str_3175)
 
-b2_str_3176 equ "Gotta show that dominance,"
+b2_str_3176 equ "Tem que mostrar quem é que"
 b2_str_3176_max_size equ 0x1F
 b2_str_3176_new_size equ strlen(b2_str_3176)
 
-b2_str_3177 equ "best bud!^"
+b2_str_3177 equ "manda, minha chapa!^"
 b2_str_3177_max_size equ 0x1F
 b2_str_3177_new_size equ strlen(b2_str_3177)
 
-b2_str_3178 equ "Anyhoo...^"
+b2_str_3178 equ "Enfim...^"
 b2_str_3178_max_size equ 0x1F
 b2_str_3178_new_size equ strlen(b2_str_3178)
 
-b2_str_3179 equ "I'm hankering to get my"
+b2_str_3179 equ "Tô numa vibe de colecionar"
 b2_str_3179_max_size equ 0x1F
 b2_str_3179_new_size equ strlen(b2_str_3179)
 
-b2_str_3180 equ "hands on some of those"
+b2_str_3180 equ "CDs de jogos gratuitos.^"
 b2_str_3180_max_size equ 0x1F
 b2_str_3180_new_size equ strlen(b2_str_3180)
 
-b2_str_3181 equ "classic...^"
+b2_str_3181 equ "Daquelas revistas antigas"
 b2_str_3181_max_size equ 0x1F
 b2_str_3181_new_size equ strlen(b2_str_3181)
 
-b2_str_3182 equ "Free-to-Share game discs!^"
+b2_str_3182 equ "que vinham com um CD com"
 b2_str_3182_max_size equ 0x1F
 b2_str_3182_new_size equ strlen(b2_str_3182)
 
-b2_str_3183 equ "None of that copy"
+b2_str_3183 equ "um milhão de jogos grátis!^"
 b2_str_3183_max_size equ 0x1F
 b2_str_3183_new_size equ strlen(b2_str_3183)
 
-b2_str_3184 equ "protected all rights"
+b2_str_3184 equ "Nada daquela patifaria de"
 b2_str_3184_max_size equ 0x1F
 b2_str_3184_new_size equ strlen(b2_str_3184)
 
-b2_str_3185 equ "reserved malarkey!^"
+b2_str_3185 equ "jogo pago com aquelas"
 b2_str_3185_max_size equ 0x1F
 b2_str_3185_new_size equ strlen(b2_str_3185)
 
-b2_str_3186 equ "I want to share all that"
+b2_str_3186 equ "chavinha anti-pirataria!^"
 b2_str_3186_max_size equ 0x1F
 b2_str_3186_new_size equ strlen(b2_str_3186)
 
-b2_str_3187 equ "free stuff!^"
+b2_str_3187 equ "Quero jogo grátis pra"
 b2_str_3187_max_size equ 0x1F
 b2_str_3187_new_size equ strlen(b2_str_3187)
 
-b2_str_3188 equ "With my very best bud,"
+b2_str_3188 equ "compartilhar com a galera!^"
 b2_str_3188_max_size equ 0x1F
 b2_str_3188_new_size equ strlen(b2_str_3188)
 
-b2_str_3189 equ "which is you!^"
+b2_str_3189 equ "E contigo também, chapa!^"
 b2_str_3189_max_size equ 0x1F
 b2_str_3189_new_size equ strlen(b2_str_3189)
 
-b2_str_3190 equ "You think I'm still"
+b2_str_3190 equ "Ainda tá achando que não sou"
 b2_str_3190_max_size equ 0x1F
 b2_str_3190_new_size equ strlen(b2_str_3190)
 
-b2_str_3191 equ "dominant, right?^"
+b2_str_3191 equ "eu quem manda, né?^"
 b2_str_3191_max_size equ 0x1F
 b2_str_3191_new_size equ strlen(b2_str_3191)
 
-b2_str_3192 equ "Ha!^"
+b2_str_3192 equ "Rá!^"
 b2_str_3192_max_size equ 0x1F
 b2_str_3192_new_size equ strlen(b2_str_3192)
 
-b2_str_3193 equ "Mom didn't!^"
+b2_str_3193 equ "Mamãe não achava!^"
 b2_str_3193_max_size equ 0x1F
 b2_str_3193_new_size equ strlen(b2_str_3193)
 
-b2_str_3194 equ "I ate her!^"
+b2_str_3194 equ "Aí comi ela!^"
 b2_str_3194_max_size equ 0x1F
 b2_str_3194_new_size equ strlen(b2_str_3194)
 
-b2_str_3195 equ "Anyway, bring me those"
+b2_str_3195 equ "Enfim, traz pra mim uns *CDS"
 b2_str_3195_max_size equ 0x1F
 b2_str_3195_new_size equ strlen(b2_str_3195)
 
-b2_str_3196 equ "fine *GAME *DISCS so I can"
+b2_str_3196 equ "*DE *JOGOS *GRÁTIS supimpas"
 b2_str_3196_max_size equ 0x1F
 b2_str_3196_new_size equ strlen(b2_str_3196)
 
-b2_str_3197 equ "share 'em!^"
+b2_str_3197 equ "pra eu dividir com geral!^"
 b2_str_3197_max_size equ 0x1F
 b2_str_3197_new_size equ strlen(b2_str_3197)
 
-b2_str_3198 equ "You share 'em with me!^"
+b2_str_3198 equ "Cê divide comigo!^"
 b2_str_3198_max_size equ 0x1F
 b2_str_3198_new_size equ strlen(b2_str_3198)
 
-b2_str_3199 equ "I'll share 'em with you!"
+b2_str_3199 equ "E eu divido contigo!"
 b2_str_3199_max_size equ 0x1F
 b2_str_3199_new_size equ strlen(b2_str_3199)
 
-b2_str_3200 equ "Oh!^"
+b2_str_3200 equ "Ah!^"
 b2_str_3200_max_size equ 0x1F
 b2_str_3200_new_size equ strlen(b2_str_3200)
 
-b2_str_3201 equ "Is that a *SHARE *DISC?"
+b2_str_3201 equ "É um *CD *DE *JOGOS?"
 b2_str_3201_max_size equ 0x1F
 b2_str_3201_new_size equ strlen(b2_str_3201)
 
-b2_str_3202 equ "> Claro"
+b2_str_3202 equ "> É sim"
 b2_str_3202_max_size equ 0x1F
 b2_str_3202_new_size equ strlen(b2_str_3202)
 
-b2_str_3203 equ "> Nem a pau"
+b2_str_3203 equ "> Neca"
 b2_str_3203_max_size equ 0x1F
 b2_str_3203_new_size equ strlen(b2_str_3203)
 
-b2_str_3204 equ "Rats. You got my hopes up."
+b2_str_3204 equ "Putz. Me empolgou à toa."
 b2_str_3204_max_size equ 0x1F
 b2_str_3204_new_size equ strlen(b2_str_3204)
 
-b2_str_3205 equ "Rad, let's see!"
+b2_str_3205 equ "Que massa! Deixa eu ver!"
 b2_str_3205_max_size equ 0x1F
 b2_str_3205_new_size equ strlen(b2_str_3205)
 
-b2_str_3206 equ "YOU GAVE THE *CLASSIC *GAME"
+b2_str_3206 equ "ENTREGOU O *CARTUCHO"
 b2_str_3206_max_size equ 0x1F
 b2_str_3206_new_size equ strlen(b2_str_3206)
 
-b2_str_3207 equ "*TAPE!"
+b2_str_3207 equ "*CLÁSSICO!"
 b2_str_3207_max_size equ 0x1F
 b2_str_3207_new_size equ strlen(b2_str_3207)
 
-b2_str_3208 equ "Hey!^"
+b2_str_3208 equ "Ei!^"
 b2_str_3208_max_size equ 0x1F
 b2_str_3208_new_size equ strlen(b2_str_3208)
 
-b2_str_3209 equ "This ain't not ever no"
+b2_str_3209 equ "Isso aí não é um CD com"
 b2_str_3209_max_size equ 0x1F
 b2_str_3209_new_size equ strlen(b2_str_3209)
 
-b2_str_3210 equ "Free-to-Share disc!^"
+b2_str_3210 equ "jogos grátis!^"
 b2_str_3210_max_size equ 0x1F
 b2_str_3210_new_size equ strlen(b2_str_3210)
 
-b2_str_3211 equ "It's one of those fan"
+b2_str_3211 equ "É uma daqueles jogos com uma"
 b2_str_3211_max_size equ 0x1F
 b2_str_3211_new_size equ strlen(b2_str_3211)
 
-b2_str_3212 equ "translated custom jobs!^"
+b2_str_3212 equ "fã-tradução completa!^"
 b2_str_3212_max_size equ 0x1F
 b2_str_3212_new_size equ strlen(b2_str_3212)
 
-b2_str_3213 equ "Woah!^"
+b2_str_3213 equ "Uau!^"
 b2_str_3213_max_size equ 0x1F
 b2_str_3213_new_size equ strlen(b2_str_3213)
 
-b2_str_3214 equ "Uh...^"
+b2_str_3214 equ "Umm...^"
 b2_str_3214_max_size equ 0x1F
 b2_str_3214_new_size equ strlen(b2_str_3214)
 
-b2_str_3215 equ "I'm keeping this!^"
+b2_str_3215 equ "Não divido isso nem a pau!^"
 b2_str_3215_max_size equ 0x1F
 b2_str_3215_new_size equ strlen(b2_str_3215)
 
-b2_str_3216 equ "Sharing is good and all,"
+b2_str_3216 equ "Compartilhar é legal e tal,"
 b2_str_3216_max_size equ 0x1F
 b2_str_3216_new_size equ strlen(b2_str_3216)
 
-b2_str_3217 equ "but...^"
+b2_str_3217 equ "mas...^"
 b2_str_3217_max_size equ 0x1F
 b2_str_3217_new_size equ strlen(b2_str_3217)
 
-b2_str_3218 equ "Well..^"
+b2_str_3218 equ "Bem...^"
 b2_str_3218_max_size equ 0x1F
 b2_str_3218_new_size equ strlen(b2_str_3218)
 
-b2_str_3219 equ "There's a time and"
+b2_str_3219 equ "Essa repro é um artigo bem"
 b2_str_3219_max_size equ 0x1F
 b2_str_3219_new_size equ strlen(b2_str_3219)
 
-b2_str_3220 equ "place...^"
+b2_str_3220 equ "raro, que no mercado cinza,^"
 b2_str_3220_max_size equ 0x1F
 b2_str_3220_new_size equ strlen(b2_str_3220)
 
-b2_str_3221 equ "For...^"
+b2_str_3221 equ "vale...^"
 b2_str_3221_max_size equ 0x1F
 b2_str_3221_new_size equ strlen(b2_str_3221)
 
-b2_str_3222 equ "HOLEEE HACK BACON!^"
+b2_str_3222 equ "UMA NOTA PRETA!^"
 b2_str_3222_max_size equ 0x1F
 b2_str_3222_new_size equ strlen(b2_str_3222)
 
-b2_str_3223 equ "...just look at that"
+b2_str_3223 equ "Saca só essas capinha e"
 b2_str_3223_max_size equ 0x1F
 b2_str_3223_new_size equ strlen(b2_str_3223)
 
-b2_str_3224 equ "sparkly decal...^"
+b2_str_3224 equ "manual tudo traduzido...^"
 b2_str_3224_max_size equ 0x1F
 b2_str_3224_new_size equ strlen(b2_str_3224)
 
-b2_str_3225 equ "...that cover art is just"
+b2_str_3225 equ "E olha só a fonte que"
 b2_str_3225_max_size equ 0x1F
 b2_str_3225_new_size equ strlen(b2_str_3225)
 
-b2_str_3226 equ "so...^"
+b2_str_3226 equ "usaram na logo...^"
 b2_str_3226_max_size equ 0x1F
 b2_str_3226_new_size equ strlen(b2_str_3226)
 
-b2_str_3227 equ "...Is that a foil"
+b2_str_3227 equ "...será que é a Comic Sans?^"
 b2_str_3227_max_size equ 0x1F
 b2_str_3227_new_size equ strlen(b2_str_3227)
 
-b2_str_3228 equ "hologram?^"
+b2_str_3228 equ "Acho que consigo enrolar um"
 b2_str_3228_max_size equ 0x1F
 b2_str_3228_new_size equ strlen(b2_str_3228)
 
-b2_str_3229 equ "My finger goes right"
+b2_str_3229 equ "trouxa igual quando troquei^"
 b2_str_3229_max_size equ 0x1F
 b2_str_3229_new_size equ strlen(b2_str_3229)
 
-b2_str_3230 equ "through the pokey outy"
+b2_str_3230 equ "um cartucho raro por um"
 b2_str_3230_max_size equ 0x1F
 b2_str_3230_new_size equ strlen(b2_str_3230)
 
-b2_str_3231 equ "parts!^"
+b2_str_3231 equ "CD porn...^"
 b2_str_3231_max_size equ 0x1F
 b2_str_3231_new_size equ strlen(b2_str_3231)
 
-b2_str_3232 equ "You see 'n that?^"
+b2_str_3232 equ "Ops...^"
 b2_str_3232_max_size equ 0x1F
 b2_str_3232_new_size equ strlen(b2_str_3232)
 
-b2_str_3233 equ "Oh, right! It's sharing"
+b2_str_3233 equ "Ah, é! Tenho que dividir"
 b2_str_3233_max_size equ 0x1F
 b2_str_3233_new_size equ strlen(b2_str_3233)
 
-b2_str_3234 equ "time!^"
+b2_str_3234 equ "um negócio contigo!^"
 b2_str_3234_max_size equ 0x1F
 b2_str_3234_new_size equ strlen(b2_str_3234)
 
-b2_str_3235 equ "Here you go!^"
+b2_str_3235 equ "Toma aí!^"
 b2_str_3235_max_size equ 0x1F
 b2_str_3235_new_size equ strlen(b2_str_3235)
 
-b2_str_3236 equ "No trade backs!"
+b2_str_3236 equ "Sem reembolso!"
 b2_str_3236_max_size equ 0x1F
 b2_str_3236_new_size equ strlen(b2_str_3236)
 
-b2_str_3237 equ "GANHOU UM *PORTA *CORAÇÃO!"
+b2_str_3237 equ "GANHOU UM *PORTA-CORAÇÃO!"
 b2_str_3237_max_size equ 0x1F
 b2_str_3237_new_size equ strlen(b2_str_3237)
 
-b2_str_3238 equ "Thanks, best bud!"
+b2_str_3238 equ "Valeu, minha chapa!"
 b2_str_3238_max_size equ 0x1F
 b2_str_3238_new_size equ strlen(b2_str_3238)
 
-b2_str_3239 equ "Gimme those Free-to-Share"
+b2_str_3239 equ "Traz pra mim uns CDs de"
 b2_str_3239_max_size equ 0x1F
 b2_str_3239_new_size equ strlen(b2_str_3239)
 
-b2_str_3240 equ "game discs!^"
+b2_str_3240 equ "jogos grátis supimpas"
 b2_str_3240_max_size equ 0x1F
 b2_str_3240_new_size equ strlen(b2_str_3240)
 
-b2_str_3241 equ "You share 'em with me!^"
+b2_str_3241 equ "pra eu dividir com geral!^"
 b2_str_3241_max_size equ 0x1F
 b2_str_3241_new_size equ strlen(b2_str_3241)
 
-b2_str_3242 equ "I'll share 'em with you!^"
+b2_str_3242 equ "Cê divide comigo!^"
 b2_str_3242_max_size equ 0x1F
 b2_str_3242_new_size equ strlen(b2_str_3242)
 
-b2_str_3243 equ "Because you're my best"
+b2_str_3243 equ "E eu divido contigo!^"
 b2_str_3243_max_size equ 0x1F
 b2_str_3243_new_size equ strlen(b2_str_3243)
 
-b2_str_3244 equ "bud!"
+b2_str_3244 equ "Pois cê é minha chapa!"
 b2_str_3244_max_size equ 0x1F
 b2_str_3244_new_size equ strlen(b2_str_3244)
 
-b2_str_3245 equ "Oumph!^"
+b2_str_3245 equ "Nhac!^"
 b2_str_3245_max_size equ 0x1F
 b2_str_3245_new_size equ strlen(b2_str_3245)
 
-b2_str_3246 equ "Chomp!"
+b2_str_3246 equ "Nhoc!"
 b2_str_3246_max_size equ 0x1F
 b2_str_3246_new_size equ strlen(b2_str_3246)
 
-b2_str_3247 equ "Oh my gosh!"
+b2_str_3247 equ "Valha-me Deus!"
 b2_str_3247_max_size equ 0x1F
 b2_str_3247_new_size equ strlen(b2_str_3247)
 
-b2_str_3248 equ "Oh, hello!^"
+b2_str_3248 equ "Ah, oi!^"
 b2_str_3248_max_size equ 0x1F
 b2_str_3248_new_size equ strlen(b2_str_3248)
 
-b2_str_3249 equ "Did you come to rescue the"
+b2_str_3249 equ "Cê veio salvar o *ÚLTIMO"
 b2_str_3249_max_size equ 0x1F
 b2_str_3249_new_size equ strlen(b2_str_3249)
 
-b2_str_3250 equ "*FINAL *RELIC *HUNTER?^"
+b2_str_3250 equ "*CAÇADOR *DE *RELÍQUIAS?^"
 b2_str_3250_max_size equ 0x1F
 b2_str_3250_new_size equ strlen(b2_str_3250)
 
-b2_str_3251 equ "Gob gob gobble..."
+b2_str_3251 equ "Nham nham nham..."
 b2_str_3251_max_size equ 0x1F
 b2_str_3251_new_size equ strlen(b2_str_3251)
 
-b2_str_3252 equ "Yes!^"
+b2_str_3252 equ "Sim!^"
 b2_str_3252_max_size equ 0x1F
 b2_str_3252_new_size equ strlen(b2_str_3252)
 
-b2_str_3253 equ "You'd better release him,"
+b2_str_3253 equ "É melhor soltar ele agora,"
 b2_str_3253_max_size equ 0x1F
 b2_str_3253_new_size equ strlen(b2_str_3253)
 
-b2_str_3254 equ "or else!"
+b2_str_3254 equ "senão!"
 b2_str_3254_max_size equ 0x1F
 b2_str_3254_new_size equ strlen(b2_str_3254)
 
@@ -13018,71 +13018,71 @@ b2_str_3255 equ "Ok!^"
 b2_str_3255_max_size equ 0x1F
 b2_str_3255_new_size equ strlen(b2_str_3255)
 
-b2_str_3256 equ "Slorple slorple...^"
+b2_str_3256 equ "Croc croc...^"
 b2_str_3256_max_size equ 0x1F
 b2_str_3256_new_size equ strlen(b2_str_3256)
 
-b2_str_3257 equ "It's fine!^"
+b2_str_3257 equ "Tá bem!^"
 b2_str_3257_max_size equ 0x1F
 b2_str_3257_new_size equ strlen(b2_str_3257)
 
-b2_str_3258 equ "I'll go get him.^"
+b2_str_3258 equ "Vou buscar ele.^"
 b2_str_3258_max_size equ 0x1F
 b2_str_3258_new_size equ strlen(b2_str_3258)
 
-b2_str_3259 equ "Chew chomp...^"
+b2_str_3259 equ "Nhoc nhoc...^"
 b2_str_3259_max_size equ 0x1F
 b2_str_3259_new_size equ strlen(b2_str_3259)
 
-b2_str_3260 equ "Just let me polish off"
+b2_str_3260 equ "Deixa só eu dar um trato"
 b2_str_3260_max_size equ 0x1F
 b2_str_3260_new_size equ strlen(b2_str_3260)
 
-b2_str_3261 equ "this cake first."
+b2_str_3261 equ "nesse bolo primeiro."
 b2_str_3261_max_size equ 0x1F
 b2_str_3261_new_size equ strlen(b2_str_3261)
 
-b2_str_3262 equ "I'LL POLISH YOUR CAKE!"
+b2_str_3262 equ "VOU DAR UM TRATO EM VOCÊ!"
 b2_str_3262_max_size equ 0x1F
 b2_str_3262_new_size equ strlen(b2_str_3262)
 
-b2_str_3263 equ "Huh?"
+b2_str_3263 equ "Hã?"
 b2_str_3263_max_size equ 0x1F
 b2_str_3263_new_size equ strlen(b2_str_3263)
 
-b2_str_3264 equ "Oh, hello there."
+b2_str_3264 equ "Ah, olá."
 b2_str_3264_max_size equ 0x1F
 b2_str_3264_new_size equ strlen(b2_str_3264)
 
-b2_str_3265 equ "YEEEEEK!^"
+b2_str_3265 equ "AAAAAAH!^"
 b2_str_3265_max_size equ 0x1F
 b2_str_3265_new_size equ strlen(b2_str_3265)
 
-b2_str_3266 equ "Please please please don't"
+b2_str_3266 equ "Por favor, por favor não"
 b2_str_3266_max_size equ 0x1F
 b2_str_3266_new_size equ strlen(b2_str_3266)
 
-b2_str_3267 equ "eat me!^"
+b2_str_3267 equ "me coma!^"
 b2_str_3267_max_size equ 0x1F
 b2_str_3267_new_size equ strlen(b2_str_3267)
 
-b2_str_3268 equ "My fat! It's all"
+b2_str_3268 equ "Meu corpo! Tá cheio de"
 b2_str_3268_max_size equ 0x1F
 b2_str_3268_new_size equ strlen(b2_str_3268)
 
-b2_str_3269 equ "saturated!"
+b2_str_3269 equ "gordura saturada!"
 b2_str_3269_max_size equ 0x1F
 b2_str_3269_new_size equ strlen(b2_str_3269)
 
-b2_str_3270 equ "Well perhaps it's time to"
+b2_str_3270 equ "Bom, talvez devamos tentar"
 b2_str_3270_max_size equ 0x1F
 b2_str_3270_new_size equ strlen(b2_str_3270)
 
-b2_str_3271 equ "try that again.^"
+b2_str_3271 equ "isso de novo.^"
 b2_str_3271_max_size equ 0x1F
 b2_str_3271_new_size equ strlen(b2_str_3271)
 
-b2_str_3272 equ "Oh, hello there."
+b2_str_3272 equ "Ah, olá."
 b2_str_3272_max_size equ 0x1F
 b2_str_3272_new_size equ strlen(b2_str_3272)
 
@@ -13090,775 +13090,775 @@ b2_str_3273 equ "Ah!"
 b2_str_3273_max_size equ 0x1F
 b2_str_3273_new_size equ strlen(b2_str_3273)
 
-b2_str_3274 equ "You wouldn't be...^"
+b2_str_3274 equ "Você não seria o...^"
 b2_str_3274_max_size equ 0x1F
 b2_str_3274_new_size equ strlen(b2_str_3274)
 
-b2_str_3275 equ "*DOCTOR *CORNELIOUS *CRUST...^"
+b2_str_3275 equ "*DOUTOR *CORNÉLIO *CROSTA...^"
 b2_str_3275_max_size equ 0x1F
 b2_str_3275_new_size equ strlen(b2_str_3275)
 
-b2_str_3276 equ "...would you?"
+b2_str_3276 equ "...seria?"
 b2_str_3276_max_size equ 0x1F
 b2_str_3276_new_size equ strlen(b2_str_3276)
 
-b2_str_3277 equ "Yes indeed.^"
+b2_str_3277 equ "Sim, de fato.^"
 b2_str_3277_max_size equ 0x1F
 b2_str_3277_new_size equ strlen(b2_str_3277)
 
-b2_str_3278 equ "But please...^"
+b2_str_3278 equ "Mas por favor...^"
 b2_str_3278_max_size equ 0x1F
 b2_str_3278_new_size equ strlen(b2_str_3278)
 
-b2_str_3279 equ "Call me *CORNY *CRUST, why"
+b2_str_3279 equ "Pode me chamar de"
 b2_str_3279_max_size equ 0x1F
 b2_str_3279_new_size equ strlen(b2_str_3279)
 
-b2_str_3280 equ "don't you.^"
+b2_str_3280 equ "*CORNO *CROSTA, se quiser."
 b2_str_3280_max_size equ 0x1F
 b2_str_3280_new_size equ strlen(b2_str_3280)
 
-b2_str_3281 equ "My friends all call me"
+b2_str_3281 equ "Todos os meus amigos"
 b2_str_3281_max_size equ 0x1F
 b2_str_3281_new_size equ strlen(b2_str_3281)
 
-b2_str_3282 equ "that.^"
+b2_str_3282 equ "me chamam assim.^"
 b2_str_3282_max_size equ 0x1F
 b2_str_3282_new_size equ strlen(b2_str_3282)
 
-b2_str_3283 equ "They say it's an endearing"
+b2_str_3283 equ "Dizem que é um apelido"
 b2_str_3283_max_size equ 0x1F
 b2_str_3283_new_size equ strlen(b2_str_3283)
 
-b2_str_3284 equ "nickname.^"
+b2_str_3284 equ "carinhoso.^"
 b2_str_3284_max_size equ 0x1F
 b2_str_3284_new_size equ strlen(b2_str_3284)
 
-b2_str_3285 equ "Personally...^"
+b2_str_3285 equ "Pessoalmente...^"
 b2_str_3285_max_size equ 0x1F
 b2_str_3285_new_size equ strlen(b2_str_3285)
 
-b2_str_3286 equ "I think they're full of"
+b2_str_3286 equ "Acho que eles estavam de"
 b2_str_3286_max_size equ 0x1F
 b2_str_3286_new_size equ strlen(b2_str_3286)
 
-b2_str_3287 equ "mammal sap.^"
+b2_str_3287 equ "gozação comigo.^"
 b2_str_3287_max_size equ 0x1F
 b2_str_3287_new_size equ strlen(b2_str_3287)
 
-b2_str_3288 equ "Probably trying to pick a"
+b2_str_3288 equ "Talvez querendo comprar"
 b2_str_3288_max_size equ 0x1F
 b2_str_3288_new_size equ strlen(b2_str_3288)
 
-b2_str_3289 equ "fight, and so on.^"
+b2_str_3289 equ "briga, ou algo assim.^"
 b2_str_3289_max_size equ 0x1F
 b2_str_3289_new_size equ strlen(b2_str_3289)
 
-b2_str_3290 equ "Anyway...^"
+b2_str_3290 equ "Enfim...^"
 b2_str_3290_max_size equ 0x1F
 b2_str_3290_new_size equ strlen(b2_str_3290)
 
-b2_str_3291 equ "What are you doing here?^"
+b2_str_3291 equ "O que está fazendo aqui?^"
 b2_str_3291_max_size equ 0x1F
 b2_str_3291_new_size equ strlen(b2_str_3291)
 
-b2_str_3292 equ "They didn't send you to"
+b2_str_3292 equ "Não te enviaram aqui para"
 b2_str_3292_max_size equ 0x1F
 b2_str_3292_new_size equ strlen(b2_str_3292)
 
-b2_str_3293 equ "interrogate me, did they?^"
+b2_str_3293 equ "me interrogar, mandaram?^"
 b2_str_3293_max_size equ 0x1F
 b2_str_3293_new_size equ strlen(b2_str_3293)
 
-b2_str_3294 equ "Because I'm very"
+b2_str_3294 equ "Porque sou muito suscetível"
 b2_str_3294_max_size equ 0x1F
 b2_str_3294_new_size equ strlen(b2_str_3294)
 
-b2_str_3295 equ "susceptible to torture.^"
+b2_str_3295 equ "à tortura.^"
 b2_str_3295_max_size equ 0x1F
 b2_str_3295_new_size equ strlen(b2_str_3295)
 
-b2_str_3296 equ "...Followed by cross"
+b2_str_3296 equ "...Seguida de"
 b2_str_3296_max_size equ 0x1F
 b2_str_3296_new_size equ strlen(b2_str_3296)
 
-b2_str_3297 equ "examination by different"
+b2_str_3297 equ "interrogatório por"
 b2_str_3297_max_size equ 0x1F
 b2_str_3297_new_size equ strlen(b2_str_3297)
 
-b2_str_3298 equ "parties."
+b2_str_3298 equ "diferentes partes."
 b2_str_3298_max_size equ 0x1F
 b2_str_3298_new_size equ strlen(b2_str_3298)
 
-b2_str_3299 equ "Huh?"
+b2_str_3299 equ "Ahn?"
 b2_str_3299_max_size equ 0x1F
 b2_str_3299_new_size equ strlen(b2_str_3299)
 
-b2_str_3300 equ "Oh, no!"
+b2_str_3300 equ "Ah, não!"
 b2_str_3300_max_size equ 0x1F
 b2_str_3300_new_size equ strlen(b2_str_3300)
 
-b2_str_3301 equ "I'm here to rescue you!"
+b2_str_3301 equ "Vim aqui pra te salvar!"
 b2_str_3301_max_size equ 0x1F
 b2_str_3301_new_size equ strlen(b2_str_3301)
 
-b2_str_3302 equ "My Uncle Mimic needs your"
+b2_str_3302 equ "Meu Tio Mimic precisa"
 b2_str_3302_max_size equ 0x1F
 b2_str_3302_new_size equ strlen(b2_str_3302)
 
-b2_str_3303 equ "help, desperately!^"
+b2_str_3303 equ "urgentemente da sua ajuda!^"
 b2_str_3303_max_size equ 0x1F
 b2_str_3303_new_size equ strlen(b2_str_3303)
 
-b2_str_3304 equ "He's waiting for you back"
+b2_str_3304 equ "Ele está esperando por você"
 b2_str_3304_max_size equ 0x1F
 b2_str_3304_new_size equ strlen(b2_str_3304)
 
-b2_str_3305 equ "at his workshop."
+b2_str_3305 equ "na sua oficina."
 b2_str_3305_max_size equ 0x1F
 b2_str_3305_new_size equ strlen(b2_str_3305)
 
-b2_str_3306 equ "Oh, well you don't say.^"
+b2_str_3306 equ "Ah, devia ter falado antes.^"
 b2_str_3306_max_size equ 0x1F
 b2_str_3306_new_size equ strlen(b2_str_3306)
 
-b2_str_3307 equ "I could never say no to"
+b2_str_3307 equ "Eu nunca conseguiria dizer"
 b2_str_3307_max_size equ 0x1F
 b2_str_3307_new_size equ strlen(b2_str_3307)
 
-b2_str_3308 equ "your uncle.^"
+b2_str_3308 equ "não para o seu tio.^"
 b2_str_3308_max_size equ 0x1F
 b2_str_3308_new_size equ strlen(b2_str_3308)
 
-b2_str_3309 equ "I'd better go and check it"
+b2_str_3309 equ "É melhor eu ir dar uma"
 b2_str_3309_max_size equ 0x1F
 b2_str_3309_new_size equ strlen(b2_str_3309)
 
-b2_str_3310 equ "out.^"
+b2_str_3310 equ "olhada.^"
 b2_str_3310_max_size equ 0x1F
 b2_str_3310_new_size equ strlen(b2_str_3310)
 
-b2_str_3311 equ "But if his recklessness is"
+b2_str_3311 equ "Mas se a imprudência dele"
 b2_str_3311_max_size equ 0x1F
 b2_str_3311_new_size equ strlen(b2_str_3311)
 
-b2_str_3312 equ "the reason behind my"
+b2_str_3312 equ "for a causa da minha"
 b2_str_3312_max_size equ 0x1F
 b2_str_3312_new_size equ strlen(b2_str_3312)
 
-b2_str_3313 equ "capture...^"
+b2_str_3313 equ "captura...^"
 b2_str_3313_max_size equ 0x1F
 b2_str_3313_new_size equ strlen(b2_str_3313)
 
-b2_str_3314 equ "...then I shall be very"
+b2_str_3314 equ "...então ficarei muito"
 b2_str_3314_max_size equ 0x1F
 b2_str_3314_new_size equ strlen(b2_str_3314)
 
-b2_str_3315 equ "put out with your uncle.^"
+b2_str_3315 equ "aborrecido com o seu tio.^"
 b2_str_3315_max_size equ 0x1F
 b2_str_3315_new_size equ strlen(b2_str_3315)
 
-b2_str_3316 equ "You see...^"
+b2_str_3316 equ "Sabe...^"
 b2_str_3316_max_size equ 0x1F
 b2_str_3316_new_size equ strlen(b2_str_3316)
 
-b2_str_3317 equ "I don't like to get"
+b2_str_3317 equ "Não gosto de me envolver"
 b2_str_3317_max_size equ 0x1F
 b2_str_3317_new_size equ strlen(b2_str_3317)
 
-b2_str_3318 equ "involved.^"
+b2_str_3318 equ "em problemas.^"
 b2_str_3318_max_size equ 0x1F
 b2_str_3318_new_size equ strlen(b2_str_3318)
 
-b2_str_3319 equ "I like to stay at home and"
+b2_str_3319 equ "Prefiro ficar em casa e"
 b2_str_3319_max_size equ 0x1F
 b2_str_3319_new_size equ strlen(b2_str_3319)
 
-b2_str_3320 equ "read books.^"
+b2_str_3320 equ "ler livros.^"
 b2_str_3320_max_size equ 0x1F
 b2_str_3320_new_size equ strlen(b2_str_3320)
 
-b2_str_3321 equ "Books about talking farm"
+b2_str_3321 equ "Livros sobre animais de"
 b2_str_3321_max_size equ 0x1F
 b2_str_3321_new_size equ strlen(b2_str_3321)
 
-b2_str_3322 equ "animals going on long"
+b2_str_3322 equ "fazenda falantes enbarcando"
 b2_str_3322_max_size equ 0x1F
 b2_str_3322_new_size equ strlen(b2_str_3322)
 
-b2_str_3323 equ "voyages.^"
+b2_str_3323 equ "em longas jornadas.^"
 b2_str_3323_max_size equ 0x1F
 b2_str_3323_new_size equ strlen(b2_str_3323)
 
-b2_str_3324 equ "Or about robots"
+b2_str_3324 equ "Ou sobre robôs descobrindo"
 b2_str_3324_max_size equ 0x1F
 b2_str_3324_new_size equ strlen(b2_str_3324)
 
-b2_str_3325 equ "discovering their humanity"
+b2_str_3325 equ "sua humanidade por meio de"
 b2_str_3325_max_size equ 0x1F
 b2_str_3325_new_size equ strlen(b2_str_3325)
 
-b2_str_3326 equ "through verboten romance."
+b2_str_3326 equ "um romance proibido."
 b2_str_3326_max_size equ 0x1F
 b2_str_3326_new_size equ strlen(b2_str_3326)
 
-b2_str_3327 equ "Umm."
+b2_str_3327 equ "Ahm."
 b2_str_3327_max_size equ 0x1F
 b2_str_3327_new_size equ strlen(b2_str_3327)
 
-b2_str_3328 equ "This had better be good."
+b2_str_3328 equ "É bom que isso seja bom."
 b2_str_3328_max_size equ 0x1F
 b2_str_3328_new_size equ strlen(b2_str_3328)
 
-b2_str_3329 equ "I'm sure he'll be happy to"
+b2_str_3329 equ "Com certeza ele ficará"
 b2_str_3329_max_size equ 0x1F
 b2_str_3329_new_size equ strlen(b2_str_3329)
 
-b2_str_3330 equ "see you!"
+b2_str_3330 equ "feliz em te ver!"
 b2_str_3330_max_size equ 0x1F
 b2_str_3330_new_size equ strlen(b2_str_3330)
 
-b2_str_3331 equ "That's the *FINAL *RELIC"
+b2_str_3331 equ "Esse é o *ÚLTIMO *CAÇADOR"
 b2_str_3331_max_size equ 0x1F
 b2_str_3331_new_size equ strlen(b2_str_3331)
 
-b2_str_3332 equ "*HUNTER rescued!"
+b2_str_3332 equ "*DE *RELÍQUIAS salvo!"
 b2_str_3332_max_size equ 0x1F
 b2_str_3332_new_size equ strlen(b2_str_3332)
 
-b2_str_3333 equ "Shantae, you're back!"
+b2_str_3333 equ "Shantae, você voltou!"
 b2_str_3333_max_size equ 0x1F
 b2_str_3333_new_size equ strlen(b2_str_3333)
 
-b2_str_3334 equ "Now that you've rescued"
+b2_str_3334 equ "Agora que resgatou"
 b2_str_3334_max_size equ 0x1F
 b2_str_3334_new_size equ strlen(b2_str_3334)
 
-b2_str_3335 equ "*BORIS, *PEPPERPEX, and"
+b2_str_3335 equ "*BRITO, *PEPPERON, e"
 b2_str_3335_max_size equ 0x1F
 b2_str_3335_new_size equ strlen(b2_str_3335)
 
-b2_str_3336 equ "*CRUST...^"
+b2_str_3336 equ "*CROSTA...^"
 b2_str_3336_max_size equ 0x1F
 b2_str_3336_new_size equ strlen(b2_str_3336)
 
-b2_str_3337 equ "We've been able to put our"
+b2_str_3337 equ "Conseguimos unir nossas"
 b2_str_3337_max_size equ 0x1F
 b2_str_3337_new_size equ strlen(b2_str_3337)
 
-b2_str_3338 equ "heads together...^"
+b2_str_3338 equ "cabeças...^"
 b2_str_3338_max_size equ 0x1F
 b2_str_3338_new_size equ strlen(b2_str_3338)
 
-b2_str_3339 equ "...and have formulated a"
+b2_str_3339 equ "...e elaborar um plano para"
 b2_str_3339_max_size equ 0x1F
 b2_str_3339_new_size equ strlen(b2_str_3339)
 
-b2_str_3340 equ "plan to *SAVE *SEQUIN *LAND!"
+b2_str_3340 equ "*SALVAR *SEQUIN *LAND!"
 b2_str_3340_max_size equ 0x1F
 b2_str_3340_new_size equ strlen(b2_str_3340)
 
-b2_str_3341 equ "But it probably won't"
+b2_str_3341 equ "Mas provavelmente não vai"
 b2_str_3341_max_size equ 0x1F
 b2_str_3341_new_size equ strlen(b2_str_3341)
 
-b2_str_3342 equ "work."
+b2_str_3342 equ "funcionar."
 b2_str_3342_max_size equ 0x1F
 b2_str_3342_new_size equ strlen(b2_str_3342)
 
-b2_str_3343 equ "Stupidest plan in the"
+b2_str_3343 equ "O plano mais estupidamente"
 b2_str_3343_max_size equ 0x1F
 b2_str_3343_new_size equ strlen(b2_str_3343)
 
-b2_str_3344 equ "history of stupid plans."
+b2_str_3344 equ "estúpido da história."
 b2_str_3344_max_size equ 0x1F
 b2_str_3344_new_size equ strlen(b2_str_3344)
 
-b2_str_3345 equ "So uncivilized."
+b2_str_3345 equ "Que falta de civilidade."
 b2_str_3345_max_size equ 0x1F
 b2_str_3345_new_size equ strlen(b2_str_3345)
 
-b2_str_3346 equ "So...^"
+b2_str_3346 equ "Então...^"
 b2_str_3346_max_size equ 0x1F
 b2_str_3346_new_size equ strlen(b2_str_3346)
 
-b2_str_3347 equ "What's this plan of yours?"
+b2_str_3347 equ "Qual é o plano de vocês?"
 b2_str_3347_max_size equ 0x1F
 b2_str_3347_new_size equ strlen(b2_str_3347)
 
-b2_str_3348 equ "These morons want to *SPEED"
+b2_str_3348 equ "Esses retardados querem"
 b2_str_3348_max_size equ 0x1F
 b2_str_3348_new_size equ strlen(b2_str_3348)
 
-b2_str_3349 equ "*UP the collapse of the"
+b2_str_3349 equ "*ACELERAR a queda do"
 b2_str_3349_max_size equ 0x1F
 b2_str_3349_new_size equ strlen(b2_str_3349)
 
-b2_str_3350 equ "*KING'S *PILLAR."
+b2_str_3350 equ "*PILAR *DO *REI."
 b2_str_3350_max_size equ 0x1F
 b2_str_3350_new_size equ strlen(b2_str_3350)
 
-b2_str_3351 equ "WHAT?!^"
+b2_str_3351 equ "COMO É?!^"
 b2_str_3351_max_size equ 0x1F
 b2_str_3351_new_size equ strlen(b2_str_3351)
 
-b2_str_3352 equ "But that's the only thing"
+b2_str_3352 equ "Mas essa é a única coisa"
 b2_str_3352_max_size equ 0x1F
 b2_str_3352_new_size equ strlen(b2_str_3352)
 
-b2_str_3353 equ "keeping Sequin Land...^"
+b2_str_3353 equ "impedindo Sequin Land...^"
 b2_str_3353_max_size equ 0x1F
 b2_str_3353_new_size equ strlen(b2_str_3353)
 
-b2_str_3354 equ "...from falling into a sea"
+b2_str_3354 equ "...de cair em um mar de"
 b2_str_3354_max_size equ 0x1F
 b2_str_3354_new_size equ strlen(b2_str_3354)
 
-b2_str_3355 equ "of molten magma!"
+b2_str_3355 equ "magma fundido!"
 b2_str_3355_max_size equ 0x1F
 b2_str_3355_new_size equ strlen(b2_str_3355)
 
-b2_str_3356 equ "Hold up.^"
+b2_str_3356 equ "Um momento.^"
 b2_str_3356_max_size equ 0x1F
 b2_str_3356_new_size equ strlen(b2_str_3356)
 
-b2_str_3357 equ "We don't want to break it.^"
+b2_str_3357 equ "Não queremos quebrá-lo.^"
 b2_str_3357_max_size equ 0x1F
 b2_str_3357_new_size equ strlen(b2_str_3357)
 
-b2_str_3358 equ "Just shake it up a little!"
+b2_str_3358 equ "Apenas balançá-lo um pouco!"
 b2_str_3358_max_size equ 0x1F
 b2_str_3358_new_size equ strlen(b2_str_3358)
 
-b2_str_3359 equ "We'll send a powerful"
+b2_str_3359 equ "Mandaremos um tremor"
 b2_str_3359_max_size equ 0x1F
 b2_str_3359_new_size equ strlen(b2_str_3359)
 
-b2_str_3360 equ "tremor down the length of"
+b2_str_3360 equ "poderoso ao longo da"
 b2_str_3360_max_size equ 0x1F
 b2_str_3360_new_size equ strlen(b2_str_3360)
 
-b2_str_3361 equ "the shaft.^"
+b2_str_3361 equ "extensão do poço.^"
 b2_str_3361_max_size equ 0x1F
 b2_str_3361_new_size equ strlen(b2_str_3361)
 
-b2_str_3362 equ "It will trigger a colossal"
+b2_str_3362 equ "Isso provocará uma erupção"
 b2_str_3362_max_size equ 0x1F
 b2_str_3362_new_size equ strlen(b2_str_3362)
 
-b2_str_3363 equ "underground eruption...^"
+b2_str_3363 equ "subterrânea colossal...^"
 b2_str_3363_max_size equ 0x1F
 b2_str_3363_new_size equ strlen(b2_str_3363)
 
-b2_str_3364 equ "...which in turn will"
+b2_str_3364 equ "...que, por sua vez,"
 b2_str_3364_max_size equ 0x1F
 b2_str_3364_new_size equ strlen(b2_str_3364)
 
-b2_str_3365 equ "force the sea of magma to"
+b2_str_3365 equ "forçará o mar de magma"
 b2_str_3365_max_size equ 0x1F
 b2_str_3365_new_size equ strlen(b2_str_3365)
 
-b2_str_3366 equ "rise."
+b2_str_3366 equ "a subir."
 b2_str_3366_max_size equ 0x1F
 b2_str_3366_new_size equ strlen(b2_str_3366)
 
-b2_str_3367 equ "When the boiling magma"
+b2_str_3367 equ "Quando o magma fervente"
 b2_str_3367_max_size equ 0x1F
 b2_str_3367_new_size equ strlen(b2_str_3367)
 
-b2_str_3368 equ "reaches the much cooler"
+b2_str_3368 equ "atingir a superfície muito"
 b2_str_3368_max_size equ 0x1F
 b2_str_3368_new_size equ strlen(b2_str_3368)
 
-b2_str_3369 equ "surface..."
+b2_str_3369 equ "mais fria..."
 b2_str_3369_max_size equ 0x1F
 b2_str_3369_new_size equ strlen(b2_str_3369)
 
-b2_str_3370 equ "KA-BOOM!"
+b2_str_3370 equ "KA-BUUM!"
 b2_str_3370_max_size equ 0x1F
 b2_str_3370_new_size equ strlen(b2_str_3370)
 
-b2_str_3371 equ "YEEEEEEK!"
+b2_str_3371 equ "AAAAAAAH!"
 b2_str_3371_max_size equ 0x1F
 b2_str_3371_new_size equ strlen(b2_str_3371)
 
-b2_str_3372 equ "A *BRAND *NEW *FOUNDATION"
+b2_str_3372 equ "*UM *ALICERCE *TOTALMENTE *NOVO"
 b2_str_3372_max_size equ 0x1F
 b2_str_3372_new_size equ strlen(b2_str_3372)
 
-b2_str_3373 equ "will be formed!^"
+b2_str_3373 equ "será formado!^"
 b2_str_3373_max_size equ 0x1F
 b2_str_3373_new_size equ strlen(b2_str_3373)
 
-b2_str_3374 equ "Every subterranean gap"
+b2_str_3374 equ "Cada lacuna subterrânea"
 b2_str_3374_max_size equ 0x1F
 b2_str_3374_new_size equ strlen(b2_str_3374)
 
-b2_str_3375 equ "will be filled *INSTANTLY!"
+b2_str_3375 equ "será repreenchida *NA *HORA!"
 b2_str_3375_max_size equ 0x1F
 b2_str_3375_new_size equ strlen(b2_str_3375)
 
-b2_str_3376 equ "If it works, Sequin Land"
+b2_str_3376 equ "Se funcionar, Sequin Land"
 b2_str_3376_max_size equ 0x1F
 b2_str_3376_new_size equ strlen(b2_str_3376)
 
-b2_str_3377 equ "will be even better than"
+b2_str_3377 equ "ficará ainda melhor"
 b2_str_3377_max_size equ 0x1F
 b2_str_3377_new_size equ strlen(b2_str_3377)
 
-b2_str_3378 equ "before!"
+b2_str_3378 equ "do que antes!"
 b2_str_3378_max_size equ 0x1F
 b2_str_3378_new_size equ strlen(b2_str_3378)
 
-b2_str_3379 equ "If it doesn't, you'll"
+b2_str_3379 equ "E se não funfar, cês vão"
 b2_str_3379_max_size equ 0x1F
 b2_str_3379_new_size equ strlen(b2_str_3379)
 
-b2_str_3380 equ "shatter the *KING'S *PILLAR"
+b2_str_3380 equ "estilhaçar o *PILAR *DO *REI"
 b2_str_3380_max_size equ 0x1F
 b2_str_3380_new_size equ strlen(b2_str_3380)
 
-b2_str_3381 equ "and we all die gargling"
+b2_str_3381 equ "e geral vai morrer"
 b2_str_3381_max_size equ 0x1F
 b2_str_3381_new_size equ strlen(b2_str_3381)
 
-b2_str_3382 equ "lava!^"
+b2_str_3382 equ "churrascado em lava!^"
 b2_str_3382_max_size equ 0x1F
 b2_str_3382_new_size equ strlen(b2_str_3382)
 
-b2_str_3383 equ "Which we will!^"
+b2_str_3383 equ "E é o que vai rolar!^"
 b2_str_3383_max_size equ 0x1F
 b2_str_3383_new_size equ strlen(b2_str_3383)
 
-b2_str_3384 equ "Because you geezers don't"
+b2_str_3384 equ "Porque vocês, coroas, nem"
 b2_str_3384_max_size equ 0x1F
 b2_str_3384_new_size equ strlen(b2_str_3384)
 
-b2_str_3385 equ "even know HOW to pull this"
+b2_str_3385 equ "sabem COMO fazer isso dar"
 b2_str_3385_max_size equ 0x1F
 b2_str_3385_new_size equ strlen(b2_str_3385)
 
-b2_str_3386 equ "off!"
+b2_str_3386 equ "certo!"
 b2_str_3386_max_size equ 0x1F
 b2_str_3386_new_size equ strlen(b2_str_3386)
 
-b2_str_3387 equ "Not true!^"
+b2_str_3387 equ "Não é verdade!^"
 b2_str_3387_max_size equ 0x1F
 b2_str_3387_new_size equ strlen(b2_str_3387)
 
-b2_str_3388 equ "I can construct a device"
+b2_str_3388 equ "Eu posso construir um"
 b2_str_3388_max_size equ 0x1F
 b2_str_3388_new_size equ strlen(b2_str_3388)
 
-b2_str_3389 equ "to generate the"
+b2_str_3389 equ "dispositivo para gerar as"
 b2_str_3389_max_size equ 0x1F
 b2_str_3389_new_size equ strlen(b2_str_3389)
 
-b2_str_3390 equ "*SHOCKWAVES.^"
+b2_str_3390 equ "*ONDAS *DE *CHOQUE.^"
 b2_str_3390_max_size equ 0x1F
 b2_str_3390_new_size equ strlen(b2_str_3390)
 
-b2_str_3391 equ "All I lack is a *TREMOR"
+b2_str_3391 equ "Só o que me falta é uma"
 b2_str_3391_max_size equ 0x1F
 b2_str_3391_new_size equ strlen(b2_str_3391)
 
-b2_str_3392 equ "*STONE!^"
+b2_str_3392 equ "*PEDRA *TREMULANTE!^"
 b2_str_3392_max_size equ 0x1F
 b2_str_3392_new_size equ strlen(b2_str_3392)
 
-b2_str_3393 equ "As soon we find one, I can"
+b2_str_3393 equ "Assim que encontramos uma,"
 b2_str_3393_max_size equ 0x1F
 b2_str_3393_new_size equ strlen(b2_str_3393)
 
-b2_str_3394 equ "get to work!"
+b2_str_3394 equ "posso começar a trabalhar!"
 b2_str_3394_max_size equ 0x1F
 b2_str_3394_new_size equ strlen(b2_str_3394)
 
-b2_str_3395 equ "I'm on it!"
+b2_str_3395 equ "Vou cuidar disso!"
 b2_str_3395_max_size equ 0x1F
 b2_str_3395_new_size equ strlen(b2_str_3395)
 
-b2_str_3396 equ "As soon as we find a"
+b2_str_3396 equ "Assim que encontramos uma"
 b2_str_3396_max_size equ 0x1F
 b2_str_3396_new_size equ strlen(b2_str_3396)
 
-b2_str_3397 equ "*TREMOR *STONE...^"
+b2_str_3397 equ "*PEDRA *TREMULANTE...^"
 b2_str_3397_max_size equ 0x1F
 b2_str_3397_new_size equ strlen(b2_str_3397)
 
-b2_str_3398 equ "...I can begin the"
+b2_str_3398 equ "...Poderei iniciar a cons-"
 b2_str_3398_max_size equ 0x1F
 b2_str_3398_new_size equ strlen(b2_str_3398)
 
-b2_str_3399 equ "construction of my device!"
+b2_str_3399 equ "trução do meu dispositivo!"
 b2_str_3399_max_size equ 0x1F
 b2_str_3399_new_size equ strlen(b2_str_3399)
 
-b2_str_3400 equ "If only I had a *TREMOR"
+b2_str_3400 equ "Se ao menos eu tivesse uma"
 b2_str_3400_max_size equ 0x1F
 b2_str_3400_new_size equ strlen(b2_str_3400)
 
-b2_str_3401 equ "*STONE!^"
+b2_str_3401 equ "*PEDRA *TREMULANTE!^"
 b2_str_3401_max_size equ 0x1F
 b2_str_3401_new_size equ strlen(b2_str_3401)
 
-b2_str_3402 equ "Oh! You found one?^"
+b2_str_3402 equ "Ah! Encontrou uma?^"
 b2_str_3402_max_size equ 0x1F
 b2_str_3402_new_size equ strlen(b2_str_3402)
 
-b2_str_3403 equ "May I examine that?"
+b2_str_3403 equ "Posso examiná-la?"
 b2_str_3403_max_size equ 0x1F
 b2_str_3403_new_size equ strlen(b2_str_3403)
 
-b2_str_3404 equ "> Sure"
+b2_str_3404 equ "> Pode sim"
 b2_str_3404_max_size equ 0x1F
 b2_str_3404_new_size equ strlen(b2_str_3404)
 
-b2_str_3405 equ "> Sorry"
+b2_str_3405 equ "> Foi mal"
 b2_str_3405_max_size equ 0x1F
 b2_str_3405_new_size equ strlen(b2_str_3405)
 
-b2_str_3406 equ "Please reconsider!"
+b2_str_3406 equ "Por favor, reconsidere!"
 b2_str_3406_max_size equ 0x1F
 b2_str_3406_new_size equ strlen(b2_str_3406)
 
-b2_str_3407 equ "YOU GAVE THE *TREMOR *STONE!"
+b2_str_3407 equ "ENTREGOU *PEDRA *TREMULANTE!"
 b2_str_3407_max_size equ 0x1F
 b2_str_3407_new_size equ strlen(b2_str_3407)
 
-b2_str_3408 equ "This is exactly what I...^"
+b2_str_3408 equ "Isso é exatamente o que...^"
 b2_str_3408_max_size equ 0x1F
 b2_str_3408_new_size equ strlen(b2_str_3408)
 
-b2_str_3409 equ "Oh dear."
+b2_str_3409 equ "Ah céus."
 b2_str_3409_max_size equ 0x1F
 b2_str_3409_new_size equ strlen(b2_str_3409)
 
-b2_str_3410 equ "What now?"
+b2_str_3410 equ "O que foi agora?"
 b2_str_3410_max_size equ 0x1F
 b2_str_3410_new_size equ strlen(b2_str_3410)
 
-b2_str_3411 equ "These vibrations are far"
+b2_str_3411 equ "Essas vibrações são fracas"
 b2_str_3411_max_size equ 0x1F
 b2_str_3411_new_size equ strlen(b2_str_3411)
 
-b2_str_3412 equ "too weak to be effective.^"
+b2_str_3412 equ "demais para serem eficazes.^"
 b2_str_3412_max_size equ 0x1F
 b2_str_3412_new_size equ strlen(b2_str_3412)
 
-b2_str_3413 equ "We're going to need some"
+b2_str_3413 equ "Precisaremos dar um jeito"
 b2_str_3413_max_size equ 0x1F
 b2_str_3413_new_size equ strlen(b2_str_3413)
 
-b2_str_3414 equ "way to power this thing"
+b2_str_3414 equ "de aumentar a potência"
 b2_str_3414_max_size equ 0x1F
 b2_str_3414_new_size equ strlen(b2_str_3414)
 
-b2_str_3415 equ "up!"
+b2_str_3415 equ "dessa coisa!"
 b2_str_3415_max_size equ 0x1F
 b2_str_3415_new_size equ strlen(b2_str_3415)
 
-b2_str_3416 equ "Ok then!^"
+b2_str_3416 equ "Ok, então!^"
 b2_str_3416_max_size equ 0x1F
 b2_str_3416_new_size equ strlen(b2_str_3416)
 
-b2_str_3417 equ "How about this?^"
+b2_str_3417 equ "Que tal isso?^"
 b2_str_3417_max_size equ 0x1F
 b2_str_3417_new_size equ strlen(b2_str_3417)
 
-b2_str_3418 equ "We zap that stone full 'o"
+b2_str_3418 equ "Damos um super choque"
 b2_str_3418_max_size equ 0x1F
 b2_str_3418_new_size equ strlen(b2_str_3418)
 
-b2_str_3419 equ "juice with some *SHOCK"
+b2_str_3419 equ "nessa pedra vibrante,"
 b2_str_3419_max_size equ 0x1F
 b2_str_3419_new_size equ strlen(b2_str_3419)
 
-b2_str_3420 equ "*EGGS!"
+b2_str_3420 equ "usando *OVOS *CHOCANTES!"
 b2_str_3420_max_size equ 0x1F
 b2_str_3420_new_size equ strlen(b2_str_3420)
 
-b2_str_3421 equ "What are *SHOCK *EGGS?"
+b2_str_3421 equ "O que são *OVOS *CHOCANTES?"
 b2_str_3421_max_size equ 0x1F
 b2_str_3421_new_size equ strlen(b2_str_3421)
 
-b2_str_3422 equ "They're the *EGGS laid by"
+b2_str_3422 equ "São *OVOS botados por"
 b2_str_3422_max_size equ 0x1F
 b2_str_3422_new_size equ strlen(b2_str_3422)
 
-b2_str_3423 equ "*STORM *OWLS!"
+b2_str_3423 equ "*CORUJAS *DA *TEMPESTADE!"
 b2_str_3423_max_size equ 0x1F
 b2_str_3423_new_size equ strlen(b2_str_3423)
 
-b2_str_3424 equ "I thought you were a rock"
+b2_str_3424 equ "Achei que cê fosse o cara"
 b2_str_3424_max_size equ 0x1F
 b2_str_3424_new_size equ strlen(b2_str_3424)
 
-b2_str_3425 equ "guy."
+b2_str_3425 equ "das rochas."
 b2_str_3425_max_size equ 0x1F
 b2_str_3425_new_size equ strlen(b2_str_3425)
 
-b2_str_3426 equ "Eggs are just the rocks of"
+b2_str_3426 equ "Ovos são nada mais do que"
 b2_str_3426_max_size equ 0x1F
 b2_str_3426_new_size equ strlen(b2_str_3426)
 
-b2_str_3427 equ "the air, girl!"
+b2_str_3427 equ "as rochas do ar, menina!"
 b2_str_3427_max_size equ 0x1F
 b2_str_3427_new_size equ strlen(b2_str_3427)
 
-b2_str_3428 equ "...ungh..."
+b2_str_3428 equ "Err... Tá bom..."
 b2_str_3428_max_size equ 0x1F
 b2_str_3428_new_size equ strlen(b2_str_3428)
 
-b2_str_3429 equ "It's possible this could"
+b2_str_3429 equ "É possível que essa"
 b2_str_3429_max_size equ 0x1F
 b2_str_3429_new_size equ strlen(b2_str_3429)
 
-b2_str_3430 equ "work.^"
+b2_str_3430 equ "abordagem funcione.^"
 b2_str_3430_max_size equ 0x1F
 b2_str_3430_new_size equ strlen(b2_str_3430)
 
-b2_str_3431 equ "But we'd need to locate"
+b2_str_3431 equ "Mas precisaremos localizar"
 b2_str_3431_max_size equ 0x1F
 b2_str_3431_new_size equ strlen(b2_str_3431)
 
-b2_str_3432 equ "three of them."
+b2_str_3432 equ "três deles."
 b2_str_3432_max_size equ 0x1F
 b2_str_3432_new_size equ strlen(b2_str_3432)
 
-b2_str_3433 equ "Shantae, that's your next"
+b2_str_3433 equ "Shantae, essa é a sua"
 b2_str_3433_max_size equ 0x1F
 b2_str_3433_new_size equ strlen(b2_str_3433)
 
-b2_str_3434 equ "mission!^"
+b2_str_3434 equ "próxima missão!^"
 b2_str_3434_max_size equ 0x1F
 b2_str_3434_new_size equ strlen(b2_str_3434)
 
-b2_str_3435 equ "Find *THREE *SHOCK *EGGS to"
+b2_str_3435 equ "Ache *TRÊS *OVOS *CHOCANTES"
 b2_str_3435_max_size equ 0x1F
 b2_str_3435_new_size equ strlen(b2_str_3435)
 
-b2_str_3436 equ "power up the Tremor Stone!"
+b2_str_3436 equ "e ative a Pedra Tremulante!"
 b2_str_3436_max_size equ 0x1F
 b2_str_3436_new_size equ strlen(b2_str_3436)
 
-b2_str_3437 equ "Find *THREE *SHOCK *EGGS to"
+b2_str_3437 equ "Ache *TRÊS *OVOS *CHOCANTES"
 b2_str_3437_max_size equ 0x1F
 b2_str_3437_new_size equ strlen(b2_str_3437)
 
-b2_str_3438 equ "power up the Tremor Stone!^"
+b2_str_3438 equ "e ative a Pedra Tremulante!"
 b2_str_3438_max_size equ 0x1F
 b2_str_3438_new_size equ strlen(b2_str_3438)
 
-b2_str_3439 equ "Then I'll have everything"
+b2_str_3439 equ "Então eu terei tudo de que"
 b2_str_3439_max_size equ 0x1F
 b2_str_3439_new_size equ strlen(b2_str_3439)
 
-b2_str_3440 equ "I need to construct my new"
+b2_str_3440 equ "preciso para construir meu"
 b2_str_3440_max_size equ 0x1F
 b2_str_3440_new_size equ strlen(b2_str_3440)
 
-b2_str_3441 equ "device!"
+b2_str_3441 equ "novo dispositivo!"
 b2_str_3441_max_size equ 0x1F
 b2_str_3441_new_size equ strlen(b2_str_3441)
 
-b2_str_3442 equ "If you're looking for"
+b2_str_3442 equ "Se está procurando por"
 b2_str_3442_max_size equ 0x1F
 b2_str_3442_new_size equ strlen(b2_str_3442)
 
-b2_str_3443 equ "*SHOCK *EGGS...^"
+b2_str_3443 equ "*OVOS *CHOCANTES...^"
 b2_str_3443_max_size equ 0x1F
 b2_str_3443_new_size equ strlen(b2_str_3443)
 
-b2_str_3444 equ "You'll need to find *STORM"
+b2_str_3444 equ "Precisará achar ninhos de"
 b2_str_3444_max_size equ 0x1F
 b2_str_3444_new_size equ strlen(b2_str_3444)
 
-b2_str_3445 equ "*OWL *NESTS.^"
+b2_str_3445 equ "*CORUJAS *DA *TEMPESTADE.^"
 b2_str_3445_max_size equ 0x1F
 b2_str_3445_new_size equ strlen(b2_str_3445)
 
-b2_str_3446 equ "I've seen them in *TOWNS"
+b2_str_3446 equ "Vi alguns em várias *CIDADES"
 b2_str_3446_max_size equ 0x1F
 b2_str_3446_new_size equ strlen(b2_str_3446)
 
-b2_str_3447 equ "all over *SEQUIN *LAND."
+b2_str_3447 equ "por toda a *SEQUIN *LAND."
 b2_str_3447_max_size equ 0x1F
 b2_str_3447_new_size equ strlen(b2_str_3447)
 
-b2_str_3448 equ "I was thinking...^"
+b2_str_3448 equ "Eu tava pensando...^"
 b2_str_3448_max_size equ 0x1F
 b2_str_3448_new_size equ strlen(b2_str_3448)
 
-b2_str_3449 equ "Now that I have a little"
+b2_str_3449 equ "Agora que eu tenho um"
 b2_str_3449_max_size equ 0x1F
 b2_str_3449_new_size equ strlen(b2_str_3449)
 
-b2_str_3450 equ "brother, I should stick"
+b2_str_3450 equ "irmãozinho, eu devia ficar"
 b2_str_3450_max_size equ 0x1F
 b2_str_3450_new_size equ strlen(b2_str_3450)
 
-b2_str_3451 equ "around more.^"
+b2_str_3451 equ "mais por perto.^"
 b2_str_3451_max_size equ 0x1F
 b2_str_3451_new_size equ strlen(b2_str_3451)
 
-b2_str_3452 equ "Do you think your Uncle"
+b2_str_3452 equ "Cê acha que seu Tio Mimic"
 b2_str_3452_max_size equ 0x1F
 b2_str_3452_new_size equ strlen(b2_str_3452)
 
-b2_str_3453 equ "would give me a job?"
+b2_str_3453 equ "me daria um trampo?"
 b2_str_3453_max_size equ 0x1F
 b2_str_3453_new_size equ strlen(b2_str_3453)
 
-b2_str_3454 equ "Sure! Doing what?"
+b2_str_3454 equ "Sim! Pra fazer o quê?"
 b2_str_3454_max_size equ 0x1F
 b2_str_3454_new_size equ strlen(b2_str_3454)
 
-b2_str_3455 equ "Well, my fighting skills"
+b2_str_3455 equ "Bom, minhas habilidades de"
 b2_str_3455_max_size equ 0x1F
 b2_str_3455_new_size equ strlen(b2_str_3455)
 
-b2_str_3456 equ "still need some work."
+b2_str_3456 equ "luta tão meio enferrujadas."
 b2_str_3456_max_size equ 0x1F
 b2_str_3456_new_size equ strlen(b2_str_3456)
 
-b2_str_3457 equ "But I seem to be pretty"
+b2_str_3457 equ "Mas acho que sou muito bom"
 b2_str_3457_max_size equ 0x1F
 b2_str_3457_new_size equ strlen(b2_str_3457)
 
-b2_str_3458 equ "good at fixing stuff!^"
+b2_str_3458 equ "em consertar coisas!^"
 b2_str_3458_max_size equ 0x1F
 b2_str_3458_new_size equ strlen(b2_str_3458)
 
-b2_str_3459 equ "All it takes is jamming"
+b2_str_3459 equ "É só enfiar as peças uma"
 b2_str_3459_max_size equ 0x1F
 b2_str_3459_new_size equ strlen(b2_str_3459)
 
-b2_str_3460 equ "things into other things!^"
+b2_str_3460 equ "por cima das outras!^"
 b2_str_3460_max_size equ 0x1F
 b2_str_3460_new_size equ strlen(b2_str_3460)
 
-b2_str_3461 equ "And...^"
+b2_str_3461 equ "E...^"
 b2_str_3461_max_size equ 0x1F
 b2_str_3461_new_size equ strlen(b2_str_3461)
 
-b2_str_3462 equ "I did a great job fixing"
+b2_str_3462 equ "Mandei bemzão consertando"
 b2_str_3462_max_size equ 0x1F
 b2_str_3462_new_size equ strlen(b2_str_3462)
 
-b2_str_3463 equ "your stairs!^"
+b2_str_3463 equ "suas escadas!^"
 b2_str_3463_max_size equ 0x1F
 b2_str_3463_new_size equ strlen(b2_str_3463)
 
-b2_str_3464 equ "Right?"
+b2_str_3464 equ "Né?"
 b2_str_3464_max_size equ 0x1F
 b2_str_3464_new_size equ strlen(b2_str_3464)
 
-b2_str_3465 equ "...^"
+b2_str_3465 equ "Err...^"
 b2_str_3465_max_size equ 0x1F
 b2_str_3465_new_size equ strlen(b2_str_3465)
 
-b2_str_3466 equ "Yep."
+b2_str_3466 equ "Mandou."
 b2_str_3466_max_size equ 0x1F
 b2_str_3466_new_size equ strlen(b2_str_3466)
 
@@ -13906,199 +13906,199 @@ b2_str_3477 equ "que eu coma tua cabecinha!"
 b2_str_3477_max_size equ 0x1F
 b2_str_3477_new_size equ strlen(b2_str_3477)
 
-b2_str_3478 equ "I have a note from my dad.^"
+b2_str_3478 equ "Tenho um bilhete do papai.^"
 b2_str_3478_max_size equ 0x1F
 b2_str_3478_new_size equ strlen(b2_str_3478)
 
-b2_str_3479 equ "It says...^"
+b2_str_3479 equ "Deixa eu ler...^"
 b2_str_3479_max_size equ 0x1F
 b2_str_3479_new_size equ strlen(b2_str_3479)
 
-b2_str_3480 equ "Tell the Half-Genie to"
+b2_str_3480 equ "Diz pra Meia-Gênia achar"
 b2_str_3480_max_size equ 0x1F
 b2_str_3480_new_size equ strlen(b2_str_3480)
 
-b2_str_3481 equ "find *ALL *FIFTY *SECRET"
+b2_str_3481 equ "*TODAS *AS *CINQUENTA *LULAS"
 b2_str_3481_max_size equ 0x1F
 b2_str_3481_new_size equ strlen(b2_str_3481)
 
-b2_str_3482 equ "*SQUIDS.^"
+b2_str_3482 equ "*SECRETAS.^"
 b2_str_3482_max_size equ 0x1F
 b2_str_3482_new_size equ strlen(b2_str_3482)
 
-b2_str_3483 equ "Ok I did it.^"
+b2_str_3483 equ "Ok, falei.^"
 b2_str_3483_max_size equ 0x1F
 b2_str_3483_new_size equ strlen(b2_str_3483)
 
-b2_str_3484 equ "I get ice cream now."
+b2_str_3484 equ "Agora vou ganhar sorvete."
 b2_str_3484_max_size equ 0x1F
 b2_str_3484_new_size equ strlen(b2_str_3484)
 
-b2_str_3485 equ "I was listening by the"
+b2_str_3485 equ "Eu tava escutando"
 b2_str_3485_max_size equ 0x1F
 b2_str_3485_new_size equ strlen(b2_str_3485)
 
-b2_str_3486 equ "window!^"
+b2_str_3486 equ "da janela!^"
 b2_str_3486_max_size equ 0x1F
 b2_str_3486_new_size equ strlen(b2_str_3486)
 
-b2_str_3487 equ "You said we're all doomed!^"
+b2_str_3487 equ "'Geral vai ser churrascado!'^"
 b2_str_3487_max_size equ 0x1F
 b2_str_3487_new_size equ strlen(b2_str_3487)
 
-b2_str_3488 equ "That's a funny word.^"
+b2_str_3488 equ "Que palavra engraçada.^"
 b2_str_3488_max_size equ 0x1F
 b2_str_3488_new_size equ strlen(b2_str_3488)
 
-b2_str_3489 equ "*DOOMED."
+b2_str_3489 equ "*CHURRASCADO."
 b2_str_3489_max_size equ 0x1F
 b2_str_3489_new_size equ strlen(b2_str_3489)
 
-b2_str_3490 equ "Do you know of any rooms"
+b2_str_3490 equ "Sabe de algum quitinete"
 b2_str_3490_max_size equ 0x1F
 b2_str_3490_new_size equ strlen(b2_str_3490)
 
-b2_str_3491 equ "for rent?^"
+b2_str_3491 equ "pra alugar?^"
 b2_str_3491_max_size equ 0x1F
 b2_str_3491_new_size equ strlen(b2_str_3491)
 
-b2_str_3492 equ "Your bird trainer friend"
+b2_str_3492 equ "Sua amiga treinadora de"
 b2_str_3492_max_size equ 0x1F
 b2_str_3492_new_size equ strlen(b2_str_3492)
 
-b2_str_3493 equ "said she might move back"
+b2_str_3493 equ "aves disse que talvez volte"
 b2_str_3493_max_size equ 0x1F
 b2_str_3493_new_size equ strlen(b2_str_3493)
 
-b2_str_3494 equ "to Scuttle Town...^"
+b2_str_3494 equ "pra Cidade Agitada...^"
 b2_str_3494_max_size equ 0x1F
 b2_str_3494_new_size equ strlen(b2_str_3494)
 
-b2_str_3495 equ "...to keep a closer eye on"
+b2_str_3495 equ "...pra ficar de olho em"
 b2_str_3495_max_size equ 0x1F
 b2_str_3495_new_size equ strlen(b2_str_3495)
 
-b2_str_3496 equ "you."
+b2_str_3496 equ "você."
 b2_str_3496_max_size equ 0x1F
 b2_str_3496_new_size equ strlen(b2_str_3496)
 
-b2_str_3497 equ "You're looking for *SECRET"
+b2_str_3497 equ "Tá atrás das *LULAS"
 b2_str_3497_max_size equ 0x1F
 b2_str_3497_new_size equ strlen(b2_str_3497)
 
-b2_str_3498 equ "*SQUIDS?^"
+b2_str_3498 equ "*SECRETAS?^"
 b2_str_3498_max_size equ 0x1F
 b2_str_3498_new_size equ strlen(b2_str_3498)
 
-b2_str_3499 equ "I heard that there are"
+b2_str_3499 equ "Ouvi falar que tem *TRÊS"
 b2_str_3499_max_size equ 0x1F
 b2_str_3499_new_size equ strlen(b2_str_3499)
 
-b2_str_3500 equ "*THREE hidden inside each"
+b2_str_3500 equ "delas escondidas dentro"
 b2_str_3500_max_size equ 0x1F
 b2_str_3500_new_size equ strlen(b2_str_3500)
 
-b2_str_3501 equ "*CRYPT!"
+b2_str_3501 equ "de cada *CRIPTA!"
 b2_str_3501_max_size equ 0x1F
 b2_str_3501_new_size equ strlen(b2_str_3501)
 
-b2_str_3502 equ "You're looking for *SECRET"
+b2_str_3502 equ "Tá atrás das *LULAS"
 b2_str_3502_max_size equ 0x1F
 b2_str_3502_new_size equ strlen(b2_str_3502)
 
-b2_str_3503 equ "*SQUIDS?^"
+b2_str_3503 equ "*SECRETAS?^"
 b2_str_3503_max_size equ 0x1F
 b2_str_3503_new_size equ strlen(b2_str_3503)
 
-b2_str_3504 equ "I heard that there are"
+b2_str_3504 equ "Ouvi falar que tem *CINCO"
 b2_str_3504_max_size equ 0x1F
 b2_str_3504_new_size equ strlen(b2_str_3504)
 
-b2_str_3505 equ "*FIVE hidden inside each"
+b2_str_3505 equ "delas escondidas dentro"
 b2_str_3505_max_size equ 0x1F
 b2_str_3505_new_size equ strlen(b2_str_3505)
 
-b2_str_3506 equ "*LABYRINTH!"
+b2_str_3506 equ "de cada *LABIRINTO!"
 b2_str_3506_max_size equ 0x1F
 b2_str_3506_new_size equ strlen(b2_str_3506)
 
-b2_str_3507 equ "Fear has taken me.^"
+b2_str_3507 equ "Fui tomado pelo medo.^"
 b2_str_3507_max_size equ 0x1F
 b2_str_3507_new_size equ strlen(b2_str_3507)
 
-b2_str_3508 equ "I have abandoned my"
+b2_str_3508 equ "Abandonei meu posto de"
 b2_str_3508_max_size equ 0x1F
 b2_str_3508_new_size equ strlen(b2_str_3508)
 
-b2_str_3509 equ "position as a guard.^"
+b2_str_3509 equ "guarda.^"
 b2_str_3509_max_size equ 0x1F
 b2_str_3509_new_size equ strlen(b2_str_3509)
 
-b2_str_3510 equ "I'm only standing here out"
+b2_str_3510 equ "Só tô aqui por"
 b2_str_3510_max_size equ 0x1F
 b2_str_3510_new_size equ strlen(b2_str_3510)
 
-b2_str_3511 equ "of convenience."
+b2_str_3511 equ "conveniência."
 b2_str_3511_max_size equ 0x1F
 b2_str_3511_new_size equ strlen(b2_str_3511)
 
-b2_str_3512 equ "If you're looking for"
+b2_str_3512 equ "Se tiver atrás das"
 b2_str_3512_max_size equ 0x1F
 b2_str_3512_new_size equ strlen(b2_str_3512)
 
-b2_str_3513 equ "*SECRET *SQUIDS...^"
+b2_str_3513 equ "*LULAS *SECRETAS...^"
 b2_str_3513_max_size equ 0x1F
 b2_str_3513_new_size equ strlen(b2_str_3513)
 
-b2_str_3514 equ "There are *THREE in *ORC"
+b2_str_3514 equ "Tem *TRÊS delas no *HORTO"
 b2_str_3514_max_size equ 0x1F
 b2_str_3514_new_size equ strlen(b2_str_3514)
 
-b2_str_3515 equ "*ORCHARD!^"
+b2_str_3515 equ "*DOS *OGROS!^"
 b2_str_3515_max_size equ 0x1F
 b2_str_3515_new_size equ strlen(b2_str_3515)
 
-b2_str_3516 equ "*THREE *MORE in *NAGA"
+b2_str_3516 equ "*MAIS *TRÊS delas na *PENHA"
 b2_str_3516_max_size equ 0x1F
 b2_str_3516_new_size equ strlen(b2_str_3516)
 
-b2_str_3517 equ "*CLIFFS...^"
+b2_str_3517 equ "*DAS *NAGAS...^"
 b2_str_3517_max_size equ 0x1F
 b2_str_3517_new_size equ strlen(b2_str_3517)
 
-b2_str_3518 equ "...And another *THREE in"
+b2_str_3518 equ "...E outras *TRÊS delas"
 b2_str_3518_max_size equ 0x1F
 b2_str_3518_new_size equ strlen(b2_str_3518)
 
-b2_str_3519 equ "the *HAUNTED *GROVE.^"
+b2_str_3519 equ "na *MATA *ASSOMBRADA.^"
 b2_str_3519_max_size equ 0x1F
 b2_str_3519_new_size equ strlen(b2_str_3519)
 
-b2_str_3520 equ "How do I know all of this?^"
+b2_str_3520 equ "Como que eu sei disso tudo?^"
 b2_str_3520_max_size equ 0x1F
 b2_str_3520_new_size equ strlen(b2_str_3520)
 
-b2_str_3521 equ "I talk to a lot of"
+b2_str_3521 equ "Eu falo com um monte de"
 b2_str_3521_max_size equ 0x1F
 b2_str_3521_new_size equ strlen(b2_str_3521)
 
-b2_str_3522 equ "monsters."
+b2_str_3522 equ "monstros."
 b2_str_3522_max_size equ 0x1F
 b2_str_3522_new_size equ strlen(b2_str_3522)
 
-b2_str_3523 equ "If my town falls into the"
+b2_str_3523 equ "Se minha cidade cair naquele"
 b2_str_3523_max_size equ 0x1F
 b2_str_3523_new_size equ strlen(b2_str_3523)
 
-b2_str_3524 equ "fiery bowels down below...^"
+b2_str_3524 equ "fogaréu lá embaixo...^"
 b2_str_3524_max_size equ 0x1F
 b2_str_3524_new_size equ strlen(b2_str_3524)
 
-b2_str_3525 equ "It will lose property"
+b2_str_3525 equ "Ela vai perder valor"
 b2_str_3525_max_size equ 0x1F
 b2_str_3525_new_size equ strlen(b2_str_3525)
 
-b2_str_3526 equ "value!^"
+b2_str_3526 equ "imobiliário!^"
 b2_str_3526_max_size equ 0x1F
 b2_str_3526_new_size equ strlen(b2_str_3526)
 
@@ -14106,407 +14106,407 @@ b2_str_3527 equ "...^"
 b2_str_3527_max_size equ 0x1F
 b2_str_3527_new_size equ strlen(b2_str_3527)
 
-b2_str_3528 equ "I wonder if it's too late"
+b2_str_3528 equ "Será que ainda dá tempo"
 b2_str_3528_max_size equ 0x1F
 b2_str_3528_new_size equ strlen(b2_str_3528)
 
-b2_str_3529 equ "to sell it?"
+b2_str_3529 equ "de vender?"
 b2_str_3529_max_size equ 0x1F
 b2_str_3529_new_size equ strlen(b2_str_3529)
 
-b2_str_3530 equ "The shaking has gotten"
+b2_str_3530 equ "Os tremores ficaram piores"
 b2_str_3530_max_size equ 0x1F
 b2_str_3530_new_size equ strlen(b2_str_3530)
 
-b2_str_3531 equ "worse since we last saw"
+b2_str_3531 equ "desde a última vez que te"
 b2_str_3531_max_size equ 0x1F
 b2_str_3531_new_size equ strlen(b2_str_3531)
 
-b2_str_3532 equ "you.^"
+b2_str_3532 equ "vi.^"
 b2_str_3532_max_size equ 0x1F
 b2_str_3532_new_size equ strlen(b2_str_3532)
 
-b2_str_3533 equ "Is everything ok?"
+b2_str_3533 equ "Tá tudo bem?"
 b2_str_3533_max_size equ 0x1F
 b2_str_3533_new_size equ strlen(b2_str_3533)
 
-b2_str_3534 equ "The mine...^"
+b2_str_3534 equ "A mina...^"
 b2_str_3534_max_size equ 0x1F
 b2_str_3534_new_size equ strlen(b2_str_3534)
 
-b2_str_3535 equ "It feels unstable!"
+b2_str_3535 equ "Ela tá instável!"
 b2_str_3535_max_size equ 0x1F
 b2_str_3535_new_size equ strlen(b2_str_3535)
 
-b2_str_3536 equ "My bones are aching.^"
+b2_str_3536 equ "Meus ossos tão doendo.^"
 b2_str_3536_max_size equ 0x1F
 b2_str_3536_new_size equ strlen(b2_str_3536)
 
-b2_str_3537 equ "Is this the end?"
+b2_str_3537 equ "Será que é o fim?"
 b2_str_3537_max_size equ 0x1F
 b2_str_3537_new_size equ strlen(b2_str_3537)
 
-b2_str_3538 equ "I hid *THREE *SECRET *SQUIDS"
+b2_str_3538 equ "Escondi *TRÊS *LULAS *SECRETAS"
 b2_str_3538_max_size equ 0x1F
 b2_str_3538_new_size equ strlen(b2_str_3538)
 
-b2_str_3539 equ "in this mine!^"
+b2_str_3539 equ "nessa mina!^"
 b2_str_3539_max_size equ 0x1F
 b2_str_3539_new_size equ strlen(b2_str_3539)
 
-b2_str_3540 equ "Why?^"
+b2_str_3540 equ "Por quê?^"
 b2_str_3540_max_size equ 0x1F
 b2_str_3540_new_size equ strlen(b2_str_3540)
 
-b2_str_3541 equ "The thrill of the hunt, I"
+b2_str_3541 equ "Pela emoção de ficar indo e"
 b2_str_3541_max_size equ 0x1F
 b2_str_3541_new_size equ strlen(b2_str_3541)
 
-b2_str_3542 equ "guess."
+b2_str_3542 equ "voltando, eu acho."
 b2_str_3542_max_size equ 0x1F
 b2_str_3542_new_size equ strlen(b2_str_3542)
 
-b2_str_3543 equ "Did the baby find it's way"
+b2_str_3543 equ "Aquele bebê conseguiu"
 b2_str_3543_max_size equ 0x1F
 b2_str_3543_new_size equ strlen(b2_str_3543)
 
-b2_str_3544 equ "home?^"
+b2_str_3544 equ "chegar em casa?^"
 b2_str_3544_max_size equ 0x1F
 b2_str_3544_new_size equ strlen(b2_str_3544)
 
-b2_str_3545 equ "He seemed like a kindly"
+b2_str_3545 equ "Ele parecia uma criança"
 b2_str_3545_max_size equ 0x1F
 b2_str_3545_new_size equ strlen(b2_str_3545)
 
-b2_str_3546 equ "child.^"
+b2_str_3546 equ "bem gentil.^"
 b2_str_3546_max_size equ 0x1F
 b2_str_3546_new_size equ strlen(b2_str_3546)
 
-b2_str_3547 equ "At first, anyway."
+b2_str_3547 equ "Ao menos à primeira vista."
 b2_str_3547_max_size equ 0x1F
 b2_str_3547_new_size equ strlen(b2_str_3547)
 
-b2_str_3548 equ "You were a Guardian Genie"
+b2_str_3548 equ "Você era uma Gênia Guardiã"
 b2_str_3548_max_size equ 0x1F
 b2_str_3548_new_size equ strlen(b2_str_3548)
 
-b2_str_3549 equ "all along?"
+b2_str_3549 equ "esse tempo todo?"
 b2_str_3549_max_size equ 0x1F
 b2_str_3549_new_size equ strlen(b2_str_3549)
 
-b2_str_3550 equ "The ground feels like it"
+b2_str_3550 equ "O chão parece que vai"
 b2_str_3550_max_size equ 0x1F
 b2_str_3550_new_size equ strlen(b2_str_3550)
 
-b2_str_3551 equ "could give way at any"
+b2_str_3551 equ "acabar cedendo a qualquer"
 b2_str_3551_max_size equ 0x1F
 b2_str_3551_new_size equ strlen(b2_str_3551)
 
-b2_str_3552 equ "moment.^"
+b2_str_3552 equ "momento.^"
 b2_str_3552_max_size equ 0x1F
 b2_str_3552_new_size equ strlen(b2_str_3552)
 
-b2_str_3553 equ "I don't like this one bit!"
+b2_str_3553 equ "Não gosto nem um tico disso!"
 b2_str_3553_max_size equ 0x1F
 b2_str_3553_new_size equ strlen(b2_str_3553)
 
-b2_str_3554 equ "If you're looking for"
+b2_str_3554 equ "Se tiver procurando por"
 b2_str_3554_max_size equ 0x1F
 b2_str_3554_new_size equ strlen(b2_str_3554)
 
-b2_str_3555 equ "*SHOCK *EGGS...^"
+b2_str_3555 equ "*OVOS *CHOCANTES...^"
 b2_str_3555_max_size equ 0x1F
 b2_str_3555_new_size equ strlen(b2_str_3555)
 
-b2_str_3556 equ "Try *LAVA *TOWN."
+b2_str_3556 equ "Passa lá na *CIDADE *LÁVICA."
 b2_str_3556_max_size equ 0x1F
 b2_str_3556_new_size equ strlen(b2_str_3556)
 
-b2_str_3557 equ "Fuss and fret!^"
+b2_str_3557 equ "Valha-me Cristo!^"
 b2_str_3557_max_size equ 0x1F
 b2_str_3557_new_size equ strlen(b2_str_3557)
 
-b2_str_3558 equ "The earthquakes are worse"
+b2_str_3558 equ "Os terremotos tão piores"
 b2_str_3558_max_size equ 0x1F
 b2_str_3558_new_size equ strlen(b2_str_3558)
 
-b2_str_3559 equ "than ever before!^"
+b2_str_3559 equ "do que nunca!^"
 b2_str_3559_max_size equ 0x1F
 b2_str_3559_new_size equ strlen(b2_str_3559)
 
-b2_str_3560 equ "Such a quizzical pickle!^"
+b2_str_3560 equ "Mas que complicação!^"
 b2_str_3560_max_size equ 0x1F
 b2_str_3560_new_size equ strlen(b2_str_3560)
 
-b2_str_3561 equ "How can this be?^"
+b2_str_3561 equ "Como é que pode?^"
 b2_str_3561_max_size equ 0x1F
 b2_str_3561_new_size equ strlen(b2_str_3561)
 
-b2_str_3562 equ "I gave our only *SHOCK *EGG"
+b2_str_3562 equ "Eu dei nosso único *OVO"
 b2_str_3562_max_size equ 0x1F
 b2_str_3562_new_size equ strlen(b2_str_3562)
 
-b2_str_3563 equ "to the *SULTANA!"
+b2_str_3563 equ "*CHOCANTE pra *SULTANA!"
 b2_str_3563_max_size equ 0x1F
 b2_str_3563_new_size equ strlen(b2_str_3563)
 
-b2_str_3564 equ "What?"
+b2_str_3564 equ "Quê?"
 b2_str_3564_max_size equ 0x1F
 b2_str_3564_new_size equ strlen(b2_str_3564)
 
-b2_str_3565 equ "The young are safe now."
+b2_str_3565 equ "Os jovens estão a salvo."
 b2_str_3565_max_size equ 0x1F
 b2_str_3565_new_size equ strlen(b2_str_3565)
 
-b2_str_3566 equ "Welcome to BOG TOWN."
+b2_str_3566 equ "Bem-vinda à CIDADE BREJADA."
 b2_str_3566_max_size equ 0x1F
 b2_str_3566_new_size equ strlen(b2_str_3566)
 
-b2_str_3567 equ "If you're looking for a"
+b2_str_3567 equ "Se tiver atrás de um"
 b2_str_3567_max_size equ 0x1F
 b2_str_3567_new_size equ strlen(b2_str_3567)
 
-b2_str_3568 equ "*SHOCK *EGG...^"
+b2_str_3568 equ "*OVO *CHOCANTE...^"
 b2_str_3568_max_size equ 0x1F
 b2_str_3568_new_size equ strlen(b2_str_3568)
 
-b2_str_3569 equ "Search for a nest.^"
+b2_str_3569 equ "Procure por um ninho.^"
 b2_str_3569_max_size equ 0x1F
 b2_str_3569_new_size equ strlen(b2_str_3569)
 
-b2_str_3570 equ "Nests are hard to"
+b2_str_3570 equ "Ninhos são difíceis de"
 b2_str_3570_max_size equ 0x1F
 b2_str_3570_new_size equ strlen(b2_str_3570)
 
-b2_str_3571 equ "describe...^"
+b2_str_3571 equ "descrever...^"
 b2_str_3571_max_size equ 0x1F
 b2_str_3571_new_size equ strlen(b2_str_3571)
 
-b2_str_3572 equ "But try imagining a scum"
+b2_str_3572 equ "Mas imagina uma poça de"
 b2_str_3572_max_size equ 0x1F
 b2_str_3572_new_size equ strlen(b2_str_3572)
 
-b2_str_3573 equ "pool, but in wooden stick"
+b2_str_3573 equ "lodo, só que em forma de"
 b2_str_3573_max_size equ 0x1F
 b2_str_3573_new_size equ strlen(b2_str_3573)
 
-b2_str_3574 equ "form.^"
+b2_str_3574 equ "um pedaço de pau.^"
 b2_str_3574_max_size equ 0x1F
 b2_str_3574_new_size equ strlen(b2_str_3574)
 
-b2_str_3575 equ "There's one atop of a *TALL"
+b2_str_3575 equ "Tem um no topo de um *MASTRO"
 b2_str_3575_max_size equ 0x1F
 b2_str_3575_new_size equ strlen(b2_str_3575)
 
-b2_str_3576 equ "*MAST in the fishing town."
+b2_str_3576 equ "*ALTO na cidade de pescar."
 b2_str_3576_max_size equ 0x1F
 b2_str_3576_new_size equ strlen(b2_str_3576)
 
-b2_str_3577 equ "If anyone can *SAVE *SEQUIN"
+b2_str_3577 equ "Se tem alguém pra *SALVAR"
 b2_str_3577_max_size equ 0x1F
 b2_str_3577_new_size equ strlen(b2_str_3577)
 
-b2_str_3578 equ "*LAND, it's you!^"
+b2_str_3578 equ "*SEQUIN *LAND, é você!^"
 b2_str_3578_max_size equ 0x1F
 b2_str_3578_new_size equ strlen(b2_str_3578)
 
-b2_str_3579 equ "To reach your full"
+b2_str_3579 equ "Para atingir todo o seu"
 b2_str_3579_max_size equ 0x1F
 b2_str_3579_new_size equ strlen(b2_str_3579)
 
-b2_str_3580 equ "potential...^"
+b2_str_3580 equ "potencial...^"
 b2_str_3580_max_size equ 0x1F
 b2_str_3580_new_size equ strlen(b2_str_3580)
 
-b2_str_3581 equ "...you must find *ALL *SEVEN"
+b2_str_3581 equ "...você deve achar *TODOS *OS"
 b2_str_3581_max_size equ 0x1F
 b2_str_3581_new_size equ strlen(b2_str_3581)
 
-b2_str_3582 equ "*HEART *HOLDERS!^"
+b2_str_3582 equ "*SETE *PORTA-CORAÇÕES!^"
 b2_str_3582_max_size equ 0x1F
 b2_str_3582_new_size equ strlen(b2_str_3582)
 
-b2_str_3583 equ "*FOUR were once hidden in"
+b2_str_3583 equ "*QUATRO foram escondidos em"
 b2_str_3583_max_size equ 0x1F
 b2_str_3583_new_size equ strlen(b2_str_3583)
 
-b2_str_3584 equ "*CAVES throughout the land.^"
+b2_str_3584 equ "*CAVERNAS pelo mundo.^"
 b2_str_3584_max_size equ 0x1F
 b2_str_3584_new_size equ strlen(b2_str_3584)
 
-b2_str_3585 equ "The *OTHER *THREE are"
+b2_str_3585 equ "Os *OUTROS *TRÊS me são"
 b2_str_3585_max_size equ 0x1F
 b2_str_3585_new_size equ strlen(b2_str_3585)
 
-b2_str_3586 equ "unknown to me."
+b2_str_3586 equ "desconhecidos."
 b2_str_3586_max_size equ 0x1F
 b2_str_3586_new_size equ strlen(b2_str_3586)
 
-b2_str_3587 equ "You're back!"
+b2_str_3587 equ "Você voltou!"
 b2_str_3587_max_size equ 0x1F
 b2_str_3587_new_size equ strlen(b2_str_3587)
 
-b2_str_3588 equ "We need *THREE *SHOCK *EGGS"
+b2_str_3588 equ "Precisamos de *TRÊS *OVOS"
 b2_str_3588_max_size equ 0x1F
 b2_str_3588_new_size equ strlen(b2_str_3588)
 
-b2_str_3589 equ "to power up the Tremor"
+b2_str_3589 equ "*CHOCANTES para energizar a"
 b2_str_3589_max_size equ 0x1F
 b2_str_3589_new_size equ strlen(b2_str_3589)
 
-b2_str_3590 equ "Stone!^"
+b2_str_3590 equ "Pedra Tremulante!^"
 b2_str_3590_max_size equ 0x1F
 b2_str_3590_new_size equ strlen(b2_str_3590)
 
-b2_str_3591 equ "Oh! You have *THREE *SHOCK"
+b2_str_3591 equ "Ah! Conseguiu os *TRÊS *OVOS"
 b2_str_3591_max_size equ 0x1F
 b2_str_3591_new_size equ strlen(b2_str_3591)
 
-b2_str_3592 equ "*EGGS?^"
+b2_str_3592 equ "*CHOCANTES?^"
 b2_str_3592_max_size equ 0x1F
 b2_str_3592_new_size equ strlen(b2_str_3592)
 
-b2_str_3593 equ "May I see them?"
+b2_str_3593 equ "Posso vê-los?"
 b2_str_3593_max_size equ 0x1F
 b2_str_3593_new_size equ strlen(b2_str_3593)
 
-b2_str_3594 equ "> Sure"
+b2_str_3594 equ "> Pode sim"
 b2_str_3594_max_size equ 0x1F
 b2_str_3594_new_size equ strlen(b2_str_3594)
 
-b2_str_3595 equ "> Sorry"
+b2_str_3595 equ "> Foi mal"
 b2_str_3595_max_size equ 0x1F
 b2_str_3595_new_size equ strlen(b2_str_3595)
 
-b2_str_3596 equ "Please reconsider!"
+b2_str_3596 equ "Por favor, reconsidere!"
 b2_str_3596_max_size equ 0x1F
 b2_str_3596_new_size equ strlen(b2_str_3596)
 
-b2_str_3597 equ "YOU SHOWED THE *SHOCK"
+b2_str_3597 equ "MOSTROU OS *OVOS"
 b2_str_3597_max_size equ 0x1F
 b2_str_3597_new_size equ strlen(b2_str_3597)
 
-b2_str_3598 equ "*EGGS..."
+b2_str_3598 equ "*CHOCANTES..."
 b2_str_3598_max_size equ 0x1F
 b2_str_3598_new_size equ strlen(b2_str_3598)
 
-b2_str_3599 equ "Oh dear.^"
+b2_str_3599 equ "Ah céus.^"
 b2_str_3599_max_size equ 0x1F
 b2_str_3599_new_size equ strlen(b2_str_3599)
 
-b2_str_3600 equ "You don't have enough!^"
+b2_str_3600 equ "Você não tem o bastante!^"
 b2_str_3600_max_size equ 0x1F
 b2_str_3600_new_size equ strlen(b2_str_3600)
 
-b2_str_3601 equ "Keep searching until"
+b2_str_3601 equ "Continue procurando até"
 b2_str_3601_max_size equ 0x1F
 b2_str_3601_new_size equ strlen(b2_str_3601)
 
-b2_str_3602 equ "you've found *THREE *SHOCK"
+b2_str_3602 equ "você ter achado *TRÊS *OVOS"
 b2_str_3602_max_size equ 0x1F
 b2_str_3602_new_size equ strlen(b2_str_3602)
 
-b2_str_3603 equ "*EGGS!"
+b2_str_3603 equ "*CHOCANTES!"
 b2_str_3603_max_size equ 0x1F
 b2_str_3603_new_size equ strlen(b2_str_3603)
 
-b2_str_3604 equ "Keep searching until"
+b2_str_3604 equ "Continue procurando até"
 b2_str_3604_max_size equ 0x1F
 b2_str_3604_new_size equ strlen(b2_str_3604)
 
-b2_str_3605 equ "you've found *THREE *SHOCK"
+b2_str_3605 equ "você ter achado *TRÊS *OVOS"
 b2_str_3605_max_size equ 0x1F
 b2_str_3605_new_size equ strlen(b2_str_3605)
 
-b2_str_3606 equ "*EGGS!"
+b2_str_3606 equ "*CHOCANTES!"
 b2_str_3606_max_size equ 0x1F
 b2_str_3606_new_size equ strlen(b2_str_3606)
 
-b2_str_3607 equ "You're back!"
+b2_str_3607 equ "Você voltou!"
 b2_str_3607_max_size equ 0x1F
 b2_str_3607_new_size equ strlen(b2_str_3607)
 
-b2_str_3608 equ "We need *THREE *SHOCK *EGGS"
+b2_str_3608 equ "Precisamos de *TRÊS *OVOS"
 b2_str_3608_max_size equ 0x1F
 b2_str_3608_new_size equ strlen(b2_str_3608)
 
-b2_str_3609 equ "to power up the Tremor"
+b2_str_3609 equ "*CHOCANTES para energizar a"
 b2_str_3609_max_size equ 0x1F
 b2_str_3609_new_size equ strlen(b2_str_3609)
 
-b2_str_3610 equ "Stone!"
+b2_str_3610 equ "Pedra Tremulante!"
 b2_str_3610_max_size equ 0x1F
 b2_str_3610_new_size equ strlen(b2_str_3610)
 
-b2_str_3611 equ "You're making great"
+b2_str_3611 equ "Está fazendo um ótimo"
 b2_str_3611_max_size equ 0x1F
 b2_str_3611_new_size equ strlen(b2_str_3611)
 
-b2_str_3612 equ "progress!"
+b2_str_3612 equ "progresso!"
 b2_str_3612_max_size equ 0x1F
 b2_str_3612_new_size equ strlen(b2_str_3612)
 
-b2_str_3613 equ "Keep searching until"
+b2_str_3613 equ "Continue procurando até"
 b2_str_3613_max_size equ 0x1F
 b2_str_3613_new_size equ strlen(b2_str_3613)
 
-b2_str_3614 equ "you've found *THREE *SHOCK"
+b2_str_3614 equ "você ter achado *TRÊS *OVOS"
 b2_str_3614_max_size equ 0x1F
 b2_str_3614_new_size equ strlen(b2_str_3614)
 
-b2_str_3615 equ "*EGGS!"
+b2_str_3615 equ "*CHOCANTES!"
 b2_str_3615_max_size equ 0x1F
 b2_str_3615_new_size equ strlen(b2_str_3615)
 
-b2_str_3616 equ "We need *THREE *SHOCK *EGGS"
+b2_str_3616 equ "Precisamos de *TRÊS *OVOS"
 b2_str_3616_max_size equ 0x1F
 b2_str_3616_new_size equ strlen(b2_str_3616)
 
-b2_str_3617 equ "to power up the Tremor"
+b2_str_3617 equ "*CHOCANTES para energizar a"
 b2_str_3617_max_size equ 0x1F
 b2_str_3617_new_size equ strlen(b2_str_3617)
 
-b2_str_3618 equ "Stone!^"
+b2_str_3618 equ "Pedra Tremulante!^"
 b2_str_3618_max_size equ 0x1F
 b2_str_3618_new_size equ strlen(b2_str_3618)
 
-b2_str_3619 equ "Oh! That's *THREE *SHOCK"
+b2_str_3619 equ "Ah! Agora são *TRÊS *OVOS"
 b2_str_3619_max_size equ 0x1F
 b2_str_3619_new_size equ strlen(b2_str_3619)
 
-b2_str_3620 equ "*EGGS!^"
+b2_str_3620 equ "*CHOCANTES!^"
 b2_str_3620_max_size equ 0x1F
 b2_str_3620_new_size equ strlen(b2_str_3620)
 
-b2_str_3621 equ "May I examine them?"
+b2_str_3621 equ "Posso examiná-los?"
 b2_str_3621_max_size equ 0x1F
 b2_str_3621_new_size equ strlen(b2_str_3621)
 
-b2_str_3622 equ "> Sure"
+b2_str_3622 equ "> Pode sim"
 b2_str_3622_max_size equ 0x1F
 b2_str_3622_new_size equ strlen(b2_str_3622)
 
-b2_str_3623 equ "> Sorry"
+b2_str_3623 equ "> Foi mal"
 b2_str_3623_max_size equ 0x1F
 b2_str_3623_new_size equ strlen(b2_str_3623)
 
-b2_str_3624 equ "Please reconsider!"
+b2_str_3624 equ "Por favor, reconsidere!"
 b2_str_3624_max_size equ 0x1F
 b2_str_3624_new_size equ strlen(b2_str_3624)
 
-b2_str_3625 equ "YOU GAVE THE *THREE *SHOCK"
+b2_str_3625 equ "ENTREGOU OS *TRÊS *OVOS"
 b2_str_3625_max_size equ 0x1F
 b2_str_3625_new_size equ strlen(b2_str_3625)
 
-b2_str_3626 equ "*EGGS!"
+b2_str_3626 equ "*CHOCANTES!"
 b2_str_3626_max_size equ 0x1F
 b2_str_3626_new_size equ strlen(b2_str_3626)
 
-b2_str_3627 equ "Wonderful!^"
+b2_str_3627 equ "Maravilha!^"
 b2_str_3627_max_size equ 0x1F
 b2_str_3627_new_size equ strlen(b2_str_3627)
 
-b2_str_3628 equ "With these, we can save"
+b2_str_3628 equ "Com eles, poderemos salvar"
 b2_str_3628_max_size equ 0x1F
 b2_str_3628_new_size equ strlen(b2_str_3628)
 
@@ -14514,247 +14514,247 @@ b2_str_3629 equ "Sequin Land!^"
 b2_str_3629_max_size equ 0x1F
 b2_str_3629_new_size equ strlen(b2_str_3629)
 
-b2_str_3630 equ "Gather round, Relic"
+b2_str_3630 equ "Reúnam-se, Caçadores de"
 b2_str_3630_max_size equ 0x1F
 b2_str_3630_new_size equ strlen(b2_str_3630)
 
-b2_str_3631 equ "Hunters!^"
+b2_str_3631 equ "Relíquias!^"
 b2_str_3631_max_size equ 0x1F
 b2_str_3631_new_size equ strlen(b2_str_3631)
 
-b2_str_3632 equ "We've got a machine of our"
+b2_str_3632 equ "Temos uma máquina das sofis-"
 b2_str_3632_max_size equ 0x1F
 b2_str_3632_new_size equ strlen(b2_str_3632)
 
-b2_str_3633 equ "own to build!"
+b2_str_3633 equ "ticadas para construir!"
 b2_str_3633_max_size equ 0x1F
 b2_str_3633_new_size equ strlen(b2_str_3633)
 
-b2_str_3634 equ "I'm ready like spaghetti."
+b2_str_3634 equ "Tô contigo e não abro."
 b2_str_3634_max_size equ 0x1F
 b2_str_3634_new_size equ strlen(b2_str_3634)
 
-b2_str_3635 equ "Oh, do count me in!"
+b2_str_3635 equ "Ah, pode contar comigo!"
 b2_str_3635_max_size equ 0x1F
 b2_str_3635_new_size equ strlen(b2_str_3635)
 
-b2_str_3636 equ "You're insane!"
+b2_str_3636 equ "Cês são doidos!"
 b2_str_3636_max_size equ 0x1F
 b2_str_3636_new_size equ strlen(b2_str_3636)
 
-b2_str_3637 equ "Then let's get to work!"
+b2_str_3637 equ "Então ao trabalho!"
 b2_str_3637_max_size equ 0x1F
 b2_str_3637_new_size equ strlen(b2_str_3637)
 
-b2_str_3638 equ "It's done!^"
+b2_str_3638 equ "Está feito!^"
 b2_str_3638_max_size equ 0x1F
 b2_str_3638_new_size equ strlen(b2_str_3638)
 
-b2_str_3639 equ "Behold!^"
+b2_str_3639 equ "Contemplem!^"
 b2_str_3639_max_size equ 0x1F
 b2_str_3639_new_size equ strlen(b2_str_3639)
 
-b2_str_3640 equ "Smaller, brighter, and"
+b2_str_3640 equ "Menor, mais brilhante e com"
 b2_str_3640_max_size equ 0x1F
 b2_str_3640_new_size equ strlen(b2_str_3640)
 
-b2_str_3641 equ "with customizable face"
+b2_str_3641 equ "painéis frontais"
 b2_str_3641_max_size equ 0x1F
 b2_str_3641_new_size equ strlen(b2_str_3641)
 
-b2_str_3642 equ "plates!"
+b2_str_3642 equ "personalizáveis!"
 b2_str_3642_max_size equ 0x1F
 b2_str_3642_new_size equ strlen(b2_str_3642)
 
-b2_str_3643 equ "YOU GOT *TREMOR *ENGINE"
+b2_str_3643 equ "PEGOU *MICRO-MOTOR"
 b2_str_3643_max_size equ 0x1F
 b2_str_3643_new_size equ strlen(b2_str_3643)
 
-b2_str_3644 equ "*MICRO!"
+b2_str_3644 equ "*TREMULANTE!"
 b2_str_3644_max_size equ 0x1F
 b2_str_3644_new_size equ strlen(b2_str_3644)
 
-b2_str_3645 equ "Wow, it's so cool, Uncle!"
+b2_str_3645 equ "Uau, muito legal, Tio!"
 b2_str_3645_max_size equ 0x1F
 b2_str_3645_new_size equ strlen(b2_str_3645)
 
-b2_str_3646 equ "Use this device to start a"
+b2_str_3646 equ "Use esse dispositivo para"
 b2_str_3646_max_size equ 0x1F
 b2_str_3646_new_size equ strlen(b2_str_3646)
 
-b2_str_3647 equ "*QUAKE of your own...^"
+b2_str_3647 equ "começar seu próprio *TREMOR,^"
 b2_str_3647_max_size equ 0x1F
 b2_str_3647_new_size equ strlen(b2_str_3647)
 
-b2_str_3648 equ "...and *SAVE *SEQUIN *LAND!"
+b2_str_3648 equ "e *SALVAR *SEQUIN *LAND!"
 b2_str_3648_max_size equ 0x1F
 b2_str_3648_new_size equ strlen(b2_str_3648)
 
-b2_str_3649 equ "Take that to the cave"
+b2_str_3649 equ "Leve isto à caverna"
 b2_str_3649_max_size equ 0x1F
 b2_str_3649_new_size equ strlen(b2_str_3649)
 
-b2_str_3650 equ "where it all began!"
+b2_str_3650 equ "onde tudo começou!"
 b2_str_3650_max_size equ 0x1F
 b2_str_3650_new_size equ strlen(b2_str_3650)
 
-b2_str_3651 equ "We'll totally have your"
+b2_str_3651 equ "Vamos dar todo o apoio"
 b2_str_3651_max_size equ 0x1F
 b2_str_3651_new_size equ strlen(b2_str_3651)
 
-b2_str_3652 equ "back!"
+b2_str_3652 equ "moral a você!"
 b2_str_3652_max_size equ 0x1F
 b2_str_3652_new_size equ strlen(b2_str_3652)
 
-b2_str_3653 equ "Speak for yourselves!"
+b2_str_3653 equ "Falem só por vocês!"
 b2_str_3653_max_size equ 0x1F
 b2_str_3653_new_size equ strlen(b2_str_3653)
 
-b2_str_3654 equ "We'll meet you at *RISKY'S"
+b2_str_3654 equ "Nos encontraremos na *CAVERNA"
 b2_str_3654_max_size equ 0x1F
 b2_str_3654_new_size equ strlen(b2_str_3654)
 
-b2_str_3655 equ "*CAVERN!"
+b2_str_3655 equ "*DA *RISKY *BOOTS!"
 b2_str_3655_max_size equ 0x1F
 b2_str_3655_new_size equ strlen(b2_str_3655)
 
-b2_str_3656 equ "Well, this is it.^"
+b2_str_3656 equ "Bom, é agora.^"
 b2_str_3656_max_size equ 0x1F
 b2_str_3656_new_size equ strlen(b2_str_3656)
 
-b2_str_3657 equ "Remember...^"
+b2_str_3657 equ "Lembre-se...^"
 b2_str_3657_max_size equ 0x1F
 b2_str_3657_new_size equ strlen(b2_str_3657)
 
-b2_str_3658 equ "Get in quickly...^"
+b2_str_3658 equ "Entra na surdina...^"
 b2_str_3658_max_size equ 0x1F
 b2_str_3658_new_size equ strlen(b2_str_3658)
 
-b2_str_3659 equ "Plant that device...^"
+b2_str_3659 equ "Instala o dispositivo...^"
 b2_str_3659_max_size equ 0x1F
 b2_str_3659_new_size equ strlen(b2_str_3659)
 
-b2_str_3660 equ "...And get out of there.^"
+b2_str_3660 equ "...E vaza daí.^"
 b2_str_3660_max_size equ 0x1F
 b2_str_3660_new_size equ strlen(b2_str_3660)
 
-b2_str_3661 equ "This entire place could"
+b2_str_3661 equ "O lugar todo pode desabar"
 b2_str_3661_max_size equ 0x1F
 b2_str_3661_new_size equ strlen(b2_str_3661)
 
-b2_str_3662 equ "collapse at any moment."
+b2_str_3662 equ "a qualquer momento."
 b2_str_3662_max_size equ 0x1F
 b2_str_3662_new_size equ strlen(b2_str_3662)
 
-b2_str_3663 equ "I understand."
+b2_str_3663 equ "Entendi."
 b2_str_3663_max_size equ 0x1F
 b2_str_3663_new_size equ strlen(b2_str_3663)
 
-b2_str_3664 equ "Well, this is the place."
+b2_str_3664 equ "Bom, o lugar é esse."
 b2_str_3664_max_size equ 0x1F
 b2_str_3664_new_size equ strlen(b2_str_3664)
 
-b2_str_3665 equ "The *KING'S *PILLAR!^"
+b2_str_3665 equ "O *PILAR *DO *REI!^"
 b2_str_3665_max_size equ 0x1F
 b2_str_3665_new_size equ strlen(b2_str_3665)
 
-b2_str_3666 equ "It's magnificent!^"
+b2_str_3666 equ "É magnífico!^"
 b2_str_3666_max_size equ 0x1F
 b2_str_3666_new_size equ strlen(b2_str_3666)
 
-b2_str_3667 equ "To think...^"
+b2_str_3667 equ "E pensar que...^"
 b2_str_3667_max_size equ 0x1F
 b2_str_3667_new_size equ strlen(b2_str_3667)
 
-b2_str_3668 equ "This single spire is the"
+b2_str_3668 equ "Esta única espiral está"
 b2_str_3668_max_size equ 0x1F
 b2_str_3668_new_size equ strlen(b2_str_3668)
 
-b2_str_3669 equ "only thing supporting the"
+b2_str_3669 equ "sustentando todo o mundo"
 b2_str_3669_max_size equ 0x1F
 b2_str_3669_new_size equ strlen(b2_str_3669)
 
-b2_str_3670 equ "world high above!"
+b2_str_3670 equ "lá em cima!"
 b2_str_3670_max_size equ 0x1F
 b2_str_3670_new_size equ strlen(b2_str_3670)
 
-b2_str_3671 equ "Yeah. And you braindead"
+b2_str_3671 equ "É. E vocês jumentos"
 b2_str_3671_max_size equ 0x1F
 b2_str_3671_new_size equ strlen(b2_str_3671)
 
-b2_str_3672 equ "dingbats want to blow it"
+b2_str_3672 equ "batizados tão querendo"
 b2_str_3672_max_size equ 0x1F
 b2_str_3672_new_size equ strlen(b2_str_3672)
 
-b2_str_3673 equ "to smithereens."
+b2_str_3673 equ "explodir a zorra toda."
 b2_str_3673_max_size equ 0x1F
 b2_str_3673_new_size equ strlen(b2_str_3673)
 
-b2_str_3674 equ "Of course we do not!^"
+b2_str_3674 equ "É claro que não queremos!^"
 b2_str_3674_max_size equ 0x1F
 b2_str_3674_new_size equ strlen(b2_str_3674)
 
-b2_str_3675 equ "That pillar's gonna act"
+b2_str_3675 equ "Esse pilar vai servir de"
 b2_str_3675_max_size equ 0x1F
 b2_str_3675_new_size equ strlen(b2_str_3675)
 
-b2_str_3676 equ "like a conduit for the"
+b2_str_3676 equ "canal para as ondas de"
 b2_str_3676_max_size equ 0x1F
 b2_str_3676_new_size equ strlen(b2_str_3676)
 
-b2_str_3677 equ "shockwaves, that's all."
+b2_str_3677 equ "choque, só isso."
 b2_str_3677_max_size equ 0x1F
 b2_str_3677_new_size equ strlen(b2_str_3677)
 
-b2_str_3678 equ "We're going to launch that"
+b2_str_3678 equ "Vamos lançar todo esse magma"
 b2_str_3678_max_size equ 0x1F
 b2_str_3678_new_size equ strlen(b2_str_3678)
 
-b2_str_3679 equ "magma at full blast.^"
+b2_str_3679 equ "a todo vapor...^"
 b2_str_3679_max_size equ 0x1F
 b2_str_3679_new_size equ strlen(b2_str_3679)
 
-b2_str_3680 equ "...and seal up this cavern"
+b2_str_3680 equ "...e selar esta caverna"
 b2_str_3680_max_size equ 0x1F
 b2_str_3680_new_size equ strlen(b2_str_3680)
 
-b2_str_3681 equ "for good!"
+b2_str_3681 equ "de vez!"
 b2_str_3681_max_size equ 0x1F
 b2_str_3681_new_size equ strlen(b2_str_3681)
 
-b2_str_3682 equ "Remember...^"
+b2_str_3682 equ "Lembre-se...^"
 b2_str_3682_max_size equ 0x1F
 b2_str_3682_new_size equ strlen(b2_str_3682)
 
-b2_str_3683 equ "Once we activate the"
+b2_str_3683 equ "Uma vez que ativarmos o"
 b2_str_3683_max_size equ 0x1F
 b2_str_3683_new_size equ strlen(b2_str_3683)
 
-b2_str_3684 equ "*TREMOR *ENGINE *MICRO,"
+b2_str_3684 equ "*MICRO-MOTOR *TREMULANTE,"
 b2_str_3684_max_size equ 0x1F
 b2_str_3684_new_size equ strlen(b2_str_3684)
 
-b2_str_3685 equ "there's no going back.^"
+b2_str_3685 equ "não dá para voltar atrás.^"
 b2_str_3685_max_size equ 0x1F
 b2_str_3685_new_size equ strlen(b2_str_3685)
 
-b2_str_3686 equ "Shantae, this will be your"
+b2_str_3686 equ "Shantae, este será o seu"
 b2_str_3686_max_size equ 0x1F
 b2_str_3686_new_size equ strlen(b2_str_3686)
 
-b2_str_3687 equ "*FINAL *CHALLENGE.^"
+b2_str_3687 equ "*ÚLTIMO *DESAFIO.^"
 b2_str_3687_max_size equ 0x1F
 b2_str_3687_new_size equ strlen(b2_str_3687)
 
-b2_str_3688 equ "This is a *POINT *OF *NO"
+b2_str_3688 equ "Esse é um *PONTO *SEM"
 b2_str_3688_max_size equ 0x1F
 b2_str_3688_new_size equ strlen(b2_str_3688)
 
-b2_str_3689 equ "*RETURN!"
+b2_str_3689 equ "*VOLTA!"
 b2_str_3689_max_size equ 0x1F
 b2_str_3689_new_size equ strlen(b2_str_3689)
 
-b2_str_3690 equ "Are you sure you're ready?"
+b2_str_3690 equ "Tem certeza que está pronta?"
 b2_str_3690_max_size equ 0x1F
 b2_str_3690_new_size equ strlen(b2_str_3690)
 
@@ -14766,31 +14766,31 @@ b2_str_3692 equ "> Ainda não"
 b2_str_3692_max_size equ 0x1F
 b2_str_3692_new_size equ strlen(b2_str_3692)
 
-b2_str_3693 equ "Ok, come back when you've"
+b2_str_3693 equ "Ok, volte quando tiver"
 b2_str_3693_max_size equ 0x1F
 b2_str_3693_new_size equ strlen(b2_str_3693)
 
-b2_str_3694 equ "made your final"
+b2_str_3694 equ "feito seus preparativos"
 b2_str_3694_max_size equ 0x1F
 b2_str_3694_new_size equ strlen(b2_str_3694)
 
-b2_str_3695 equ "preparations!"
+b2_str_3695 equ "finais!"
 b2_str_3695_max_size equ 0x1F
 b2_str_3695_new_size equ strlen(b2_str_3695)
 
-b2_str_3696 equ "YOU PLACED THE TREMOR"
+b2_str_3696 equ "COLOCOU O DISPOSITIVO"
 b2_str_3696_max_size equ 0x1F
 b2_str_3696_new_size equ strlen(b2_str_3696)
 
-b2_str_3697 equ "DEVICE!"
+b2_str_3697 equ "TREMULANTE!"
 b2_str_3697_max_size equ 0x1F
 b2_str_3697_new_size equ strlen(b2_str_3697)
 
-b2_str_3698 equ "It's done!^"
+b2_str_3698 equ "Tá feito!^"
 b2_str_3698_max_size equ 0x1F
 b2_str_3698_new_size equ strlen(b2_str_3698)
 
-b2_str_3699 equ "Now, to get out of here!"
+b2_str_3699 equ "Agora, picar a mula daqui!"
 b2_str_3699_max_size equ 0x1F
 b2_str_3699_new_size equ strlen(b2_str_3699)
 
@@ -14798,83 +14798,83 @@ b2_str_3700 equ "HO HO HO!"
 b2_str_3700_max_size equ 0x1F
 b2_str_3700_new_size equ strlen(b2_str_3700)
 
-b2_str_3701 equ "Huh?"
+b2_str_3701 equ "Hã?"
 b2_str_3701_max_size equ 0x1F
 b2_str_3701_new_size equ strlen(b2_str_3701)
 
-b2_str_3702 equ "Did you hear that?"
+b2_str_3702 equ "Ouviu isso?"
 b2_str_3702_max_size equ 0x1F
 b2_str_3702_new_size equ strlen(b2_str_3702)
 
-b2_str_3703 equ "Who's there?"
+b2_str_3703 equ "Quem está aí?"
 b2_str_3703_max_size equ 0x1F
 b2_str_3703_new_size equ strlen(b2_str_3703)
 
-b2_str_3704 equ "Huh?!"
+b2_str_3704 equ "Hã?!"
 b2_str_3704_max_size equ 0x1F
 b2_str_3704_new_size equ strlen(b2_str_3704)
 
-b2_str_3705 equ "Oh... don't tell me..."
+b2_str_3705 equ "Ah... não me diga que..."
 b2_str_3705_max_size equ 0x1F
 b2_str_3705_new_size equ strlen(b2_str_3705)
 
-b2_str_3706 equ "RISKY: Interfering with my"
+b2_str_3706 equ "RISKY: Interferindo nos"
 b2_str_3706_max_size equ 0x1F
 b2_str_3706_new_size equ strlen(b2_str_3706)
 
-b2_str_3707 equ "plans, eh?^"
+b2_str_3707 equ "meus planos, né?^"
 b2_str_3707_max_size equ 0x1F
 b2_str_3707_new_size equ strlen(b2_str_3707)
 
-b2_str_3708 equ "You decrepit old fools!^"
+b2_str_3708 equ "Seus velhos decrépitos!^"
 b2_str_3708_max_size equ 0x1F
 b2_str_3708_new_size equ strlen(b2_str_3708)
 
-b2_str_3709 equ "Can't you see you're too"
+b2_str_3709 equ "Não vêem que já é tarde"
 b2_str_3709_max_size equ 0x1F
 b2_str_3709_new_size equ strlen(b2_str_3709)
 
-b2_str_3710 equ "late?^"
+b2_str_3710 equ "demais?^"
 b2_str_3710_max_size equ 0x1F
 b2_str_3710_new_size equ strlen(b2_str_3710)
 
-b2_str_3711 equ "This place has served its"
+b2_str_3711 equ "Este lugar já cumpriu o"
 b2_str_3711_max_size equ 0x1F
 b2_str_3711_new_size equ strlen(b2_str_3711)
 
-b2_str_3712 equ "purpose, and I'm through"
+b2_str_3712 equ "o seu papel, e eu"
 b2_str_3712_max_size equ 0x1F
 b2_str_3712_new_size equ strlen(b2_str_3712)
 
-b2_str_3713 equ "with it!^"
+b2_str_3713 equ "cansei dele!^"
 b2_str_3713_max_size equ 0x1F
 b2_str_3713_new_size equ strlen(b2_str_3713)
 
-b2_str_3714 equ "I already have the"
+b2_str_3714 equ "Já tenho os componentes"
 b2_str_3714_max_size equ 0x1F
 b2_str_3714_new_size equ strlen(b2_str_3714)
 
-b2_str_3715 equ "components I need!^"
+b2_str_3715 equ "que precisava!^"
 b2_str_3715_max_size equ 0x1F
 b2_str_3715_new_size equ strlen(b2_str_3715)
 
-b2_str_3716 equ "You fossilized"
+b2_str_3716 equ "Vocês, dinossauros"
 b2_str_3716_max_size equ 0x1F
 b2_str_3716_new_size equ strlen(b2_str_3716)
 
-b2_str_3717 equ "fuddy-duddies can do"
+b2_str_3717 equ "retrógrados, podem fazer"
 b2_str_3717_max_size equ 0x1F
 b2_str_3717_new_size equ strlen(b2_str_3717)
 
-b2_str_3718 equ "whatever you want here!^"
+b2_str_3718 equ "o que quiserem aqui!^"
 b2_str_3718_max_size equ 0x1F
 b2_str_3718_new_size equ strlen(b2_str_3718)
 
-b2_str_3719 equ "I'm off to rule the world!^"
+b2_str_3719 equ "Vou dominar o mundo!^"
 b2_str_3719_max_size equ 0x1F
 b2_str_3719_new_size equ strlen(b2_str_3719)
 
-b2_str_3720 equ "Ta ta!"
+b2_str_3720 equ "Tchauzinho!"
 b2_str_3720_max_size equ 0x1F
 b2_str_3720_new_size equ strlen(b2_str_3720)
 
@@ -14882,191 +14882,191 @@ b2_str_3721 equ "Risky Boots!^"
 b2_str_3721_max_size equ 0x1F
 b2_str_3721_new_size equ strlen(b2_str_3721)
 
-b2_str_3722 equ "She's getting away!"
+b2_str_3722 equ "Ela tá fugindo!"
 b2_str_3722_max_size equ 0x1F
 b2_str_3722_new_size equ strlen(b2_str_3722)
 
-b2_str_3723 equ "Let her go!^"
+b2_str_3723 equ "Deixe-a ir!^"
 b2_str_3723_max_size equ 0x1F
 b2_str_3723_new_size equ strlen(b2_str_3723)
 
-b2_str_3724 equ "We have to escape"
+b2_str_3724 equ "Nós temos que fugir"
 b2_str_3724_max_size equ 0x1F
 b2_str_3724_new_size equ strlen(b2_str_3724)
 
-b2_str_3725 equ "immediately, before the"
+b2_str_3725 equ "imediatamente, antes de"
 b2_str_3725_max_size equ 0x1F
 b2_str_3725_new_size equ strlen(b2_str_3725)
 
-b2_str_3726 equ "eruption occurs!"
+b2_str_3726 equ "ocorrer a erupção!"
 b2_str_3726_max_size equ 0x1F
 b2_str_3726_new_size equ strlen(b2_str_3726)
 
-b2_str_3727 equ "No!^"
+b2_str_3727 equ "Não!^"
 b2_str_3727_max_size equ 0x1F
 b2_str_3727_new_size equ strlen(b2_str_3727)
 
-b2_str_3728 equ "You three get out with"
+b2_str_3728 equ "Vocês três saiam daqui com"
 b2_str_3728_max_size equ 0x1F
 b2_str_3728_new_size equ strlen(b2_str_3728)
 
-b2_str_3729 equ "Sky.^"
+b2_str_3729 equ "a Sky.^"
 b2_str_3729_max_size equ 0x1F
 b2_str_3729_new_size equ strlen(b2_str_3729)
 
-b2_str_3730 equ "I'm putting an end to"
+b2_str_3730 equ "Vou pôr um fim no plano da"
 b2_str_3730_max_size equ 0x1F
 b2_str_3730_new_size equ strlen(b2_str_3730)
 
-b2_str_3731 equ "Risky's plan!"
+b2_str_3731 equ "Risky Boots!"
 b2_str_3731_max_size equ 0x1F
 b2_str_3731_new_size equ strlen(b2_str_3731)
 
-b2_str_3732 equ "Hold it right there,"
+b2_str_3732 equ "Um momentinho aí,"
 b2_str_3732_max_size equ 0x1F
 b2_str_3732_new_size equ strlen(b2_str_3732)
 
-b2_str_3733 equ "Risky!"
+b2_str_3733 equ "Risky Boots!"
 b2_str_3733_max_size equ 0x1F
 b2_str_3733_new_size equ strlen(b2_str_3733)
 
-b2_str_3734 equ "My, my. You are"
+b2_str_3734 equ "Ora, ora. Você está"
 b2_str_3734_max_size equ 0x1F
 b2_str_3734_new_size equ strlen(b2_str_3734)
 
-b2_str_3735 equ "determined, aren't you?^"
+b2_str_3735 equ "determinada, hein?^"
 b2_str_3735_max_size equ 0x1F
 b2_str_3735_new_size equ strlen(b2_str_3735)
 
-b2_str_3736 equ "Well.^"
+b2_str_3736 equ "Pois bem.^"
 b2_str_3736_max_size equ 0x1F
 b2_str_3736_new_size equ strlen(b2_str_3736)
 
-b2_str_3737 equ "I'll put a stop to that.^"
+b2_str_3737 equ "Vou pôr um fim nisso.^"
 b2_str_3737_max_size equ 0x1F
 b2_str_3737_new_size equ strlen(b2_str_3737)
 
-b2_str_3738 equ "Soon you'll be nothing"
+b2_str_3738 equ "Em breve, você vai acabar"
 b2_str_3738_max_size equ 0x1F
 b2_str_3738_new_size equ strlen(b2_str_3738)
 
-b2_str_3739 equ "more than a bubbling stain"
+b2_str_3739 equ "churrascada no chão da"
 b2_str_3739_max_size equ 0x1F
 b2_str_3739_new_size equ strlen(b2_str_3739)
 
-b2_str_3740 equ "on the cavern floor.^"
+b2_str_3740 equ "caverna.^"
 b2_str_3740_max_size equ 0x1F
 b2_str_3740_new_size equ strlen(b2_str_3740)
 
-b2_str_3741 equ "I'm afraid this is the end"
+b2_str_3741 equ "Infelizmente vai ser o fim"
 b2_str_3741_max_size equ 0x1F
 b2_str_3741_new_size equ strlen(b2_str_3741)
 
-b2_str_3742 equ "for you."
+b2_str_3742 equ "da linha pra você."
 b2_str_3742_max_size equ 0x1F
 b2_str_3742_new_size equ strlen(b2_str_3742)
 
-b2_str_3743 equ "Not bad.^"
+b2_str_3743 equ "Nada mal.^"
 b2_str_3743_max_size equ 0x1F
 b2_str_3743_new_size equ strlen(b2_str_3743)
 
-b2_str_3744 equ "I see you've learned a few"
+b2_str_3744 equ "Vejo que aprendeu alguns"
 b2_str_3744_max_size equ 0x1F
 b2_str_3744_new_size equ strlen(b2_str_3744)
 
-b2_str_3745 equ "tricks since the last time"
+b2_str_3745 equ "truques desde a última vez"
 b2_str_3745_max_size equ 0x1F
 b2_str_3745_new_size equ strlen(b2_str_3745)
 
-b2_str_3746 equ "we battled."
+b2_str_3746 equ "que nos enfrentamos."
 b2_str_3746_max_size equ 0x1F
 b2_str_3746_new_size equ strlen(b2_str_3746)
 
-b2_str_3747 equ "Your looting days are"
+b2_str_3747 equ "Seus dias de pirataria"
 b2_str_3747_max_size equ 0x1F
 b2_str_3747_new_size equ strlen(b2_str_3747)
 
-b2_str_3748 equ "over, Risky!^"
+b2_str_3748 equ "acabaram, Risky Boots!^"
 b2_str_3748_max_size equ 0x1F
 b2_str_3748_new_size equ strlen(b2_str_3748)
 
-b2_str_3749 equ "I'm putting an end to your"
+b2_str_3749 equ "Vou acabar com seus planos"
 b2_str_3749_max_size equ 0x1F
 b2_str_3749_new_size equ strlen(b2_str_3749)
 
-b2_str_3750 equ "evil plans!^"
+b2_str_3750 equ "maléficos!^"
 b2_str_3750_max_size equ 0x1F
 b2_str_3750_new_size equ strlen(b2_str_3750)
 
-b2_str_3751 equ "Starting with that"
+b2_str_3751 equ "Começando com essa sua"
 b2_str_3751_max_size equ 0x1F
 b2_str_3751_new_size equ strlen(b2_str_3751)
 
-b2_str_3752 equ "quake-making machine!"
+b2_str_3752 equ "máquina gera-tremores!"
 b2_str_3752_max_size equ 0x1F
 b2_str_3752_new_size equ strlen(b2_str_3752)
 
-b2_str_3753 equ "Go ahead!"
+b2_str_3753 equ "Vai em frente!"
 b2_str_3753_max_size equ 0x1F
 b2_str_3753_new_size equ strlen(b2_str_3753)
 
-b2_str_3754 equ "Huh?"
+b2_str_3754 equ "Hã?"
 b2_str_3754_max_size equ 0x1F
 b2_str_3754_new_size equ strlen(b2_str_3754)
 
-b2_str_3755 equ "I've already gathered the"
+b2_str_3755 equ "Já reuni os componentes"
 b2_str_3755_max_size equ 0x1F
 b2_str_3755_new_size equ strlen(b2_str_3755)
 
-b2_str_3756 equ "components I need!^"
+b2_str_3756 equ "que precisava!^"
 b2_str_3756_max_size equ 0x1F
 b2_str_3756_new_size equ strlen(b2_str_3756)
 
-b2_str_3757 equ "*RARE *METALS from the mine.^"
+b2_str_3757 equ "*METAIS *RAROS da mina.^"
 b2_str_3757_max_size equ 0x1F
 b2_str_3757_new_size equ strlen(b2_str_3757)
 
-b2_str_3758 equ "*FORGOTTEN *ALCHEMY from the"
+b2_str_3758 equ "*ALQUIMIA *ESQUECIDA do"
 b2_str_3758_max_size equ 0x1F
 b2_str_3758_new_size equ strlen(b2_str_3758)
 
-b2_str_3759 equ "Royal Archive.^"
+b2_str_3759 equ "Arquivo Real.^"
 b2_str_3759_max_size equ 0x1F
 b2_str_3759_new_size equ strlen(b2_str_3759)
 
-b2_str_3760 equ "And *ROYAL *JELLY from those"
+b2_str_3760 equ "E *GELEIA *REAL daqueles"
 b2_str_3760_max_size equ 0x1F
 b2_str_3760_new_size equ strlen(b2_str_3760)
 
-b2_str_3761 equ "filthy bugs."
+b2_str_3761 equ "insetos imundos."
 b2_str_3761_max_size equ 0x1F
 b2_str_3761_new_size equ strlen(b2_str_3761)
 
-b2_str_3762 equ "Combined, I've created the"
+b2_str_3762 equ "Combinando os componentes,"
 b2_str_3762_max_size equ 0x1F
 b2_str_3762_new_size equ strlen(b2_str_3762)
 
-b2_str_3763 equ "most powerful weapon of"
+b2_str_3763 equ "criei a arma mais poderosa"
 b2_str_3763_max_size equ 0x1F
 b2_str_3763_new_size equ strlen(b2_str_3763)
 
-b2_str_3764 equ "all time!^"
+b2_str_3764 equ "de todos os tempos!^"
 b2_str_3764_max_size equ 0x1F
 b2_str_3764_new_size equ strlen(b2_str_3764)
 
-b2_str_3765 equ "Why move the land...^"
+b2_str_3765 equ "Pra quê mover a terra...^"
 b2_str_3765_max_size equ 0x1F
 b2_str_3765_new_size equ strlen(b2_str_3765)
 
-b2_str_3766 equ "When I can travel *UNDER"
+b2_str_3766 equ "Quando posso simplesmente"
 b2_str_3766_max_size equ 0x1F
 b2_str_3766_new_size equ strlen(b2_str_3766)
 
-b2_str_3767 equ "*IT!"
+b2_str_3767 equ "viajar *DEBAIXO *DELA!"
 b2_str_3767_max_size equ 0x1F
 b2_str_3767_new_size equ strlen(b2_str_3767)
 
-b2_str_3768 equ "Men!"
+b2_str_3768 equ "Homens!"
 b2_str_3768_max_size equ 0x1F
 b2_str_3768_new_size equ strlen(b2_str_3768)
 
@@ -15074,91 +15074,91 @@ b2_str_3769 equ "..."
 b2_str_3769_max_size equ 0x1F
 b2_str_3769_new_size equ strlen(b2_str_3769)
 
-b2_str_3770 equ "Fire up the machine!^"
+b2_str_3770 equ "Liguem a máquina!^"
 b2_str_3770_max_size equ 0x1F
 b2_str_3770_new_size equ strlen(b2_str_3770)
 
-b2_str_3771 equ "Show this runt the power"
+b2_str_3771 equ "Mostrem pra essa piveta"
 b2_str_3771_max_size equ 0x1F
 b2_str_3771_new_size equ strlen(b2_str_3771)
 
-b2_str_3772 equ "of my unstoppable...^"
+b2_str_3772 equ "o poder o meu imparável...^"
 b2_str_3772_max_size equ 0x1F
 b2_str_3772_new_size equ strlen(b2_str_3772)
 
-b2_str_3773 equ "Big-brainy,"
+b2_str_3773 equ "Cabra-da-peste,"
 b2_str_3773_max_size equ 0x1F
 b2_str_3773_new_size equ strlen(b2_str_3773)
 
-b2_str_3774 equ "Sub-terrainy...^"
+b2_str_3774 equ "Subterrestre...^"
 b2_str_3774_max_size equ 0x1F
 b2_str_3774_new_size equ strlen(b2_str_3774)
 
-b2_str_3775 equ "High-Flying, Deep-Diving,"
+b2_str_3775 equ "Avoante, Mergulhante,"
 b2_str_3775_max_size equ 0x1F
 b2_str_3775_new_size equ strlen(b2_str_3775)
 
-b2_str_3776 equ "Tectonic Tunneling...^"
+b2_str_3776 equ "Tunelante...^"
 b2_str_3776_max_size equ 0x1F
 b2_str_3776_new_size equ strlen(b2_str_3776)
 
-b2_str_3777 equ "Acid-Drooling, Sequin"
+b2_str_3777 equ "Acidificante,"
 b2_str_3777_max_size equ 0x1F
 b2_str_3777_new_size equ strlen(b2_str_3777)
 
-b2_str_3778 equ "Land-ruling...^"
+b2_str_3778 equ "Governante...^"
 b2_str_3778_max_size equ 0x1F
 b2_str_3778_new_size equ strlen(b2_str_3778)
 
-b2_str_3779 equ "Totally Terrorizing,"
+b2_str_3779 equ "e Totalmente Aterrorizante,"
 b2_str_3779_max_size equ 0x1F
 b2_str_3779_new_size equ strlen(b2_str_3779)
 
-b2_str_3780 equ "*TINKERWORM!"
+b2_str_3780 equ "*TINKERVERME!"
 b2_str_3780_max_size equ 0x1F
 b2_str_3780_new_size equ strlen(b2_str_3780)
 
-b2_str_3781 equ "Maybe you should have come"
+b2_str_3781 equ "Cê devia ter bolado uma"
 b2_str_3781_max_size equ 0x1F
 b2_str_3781_new_size equ strlen(b2_str_3781)
 
-b2_str_3782 equ "up with an acronym."
+b2_str_3782 equ "sigla pra esse textão."
 b2_str_3782_max_size equ 0x1F
 b2_str_3782_new_size equ strlen(b2_str_3782)
 
-b2_str_3783 equ "Silence!^"
+b2_str_3783 equ "Silêncio!^"
 b2_str_3783_max_size equ 0x1F
 b2_str_3783_new_size equ strlen(b2_str_3783)
 
-b2_str_3784 equ "Destroy the runt!"
+b2_str_3784 equ "Destrocem essa piveta!"
 b2_str_3784_max_size equ 0x1F
 b2_str_3784_new_size equ strlen(b2_str_3784)
 
-b2_str_3785 equ "No!^"
+b2_str_3785 equ "Não!^"
 b2_str_3785_max_size equ 0x1F
 b2_str_3785_new_size equ strlen(b2_str_3785)
 
-b2_str_3786 equ "You've squashed my"
+b2_str_3786 equ "Você churrascou o meu"
 b2_str_3786_max_size equ 0x1F
 b2_str_3786_new_size equ strlen(b2_str_3786)
 
-b2_str_3787 equ "*TINKERWORM!^"
+b2_str_3787 equ "*TINKERVERME!^"
 b2_str_3787_max_size equ 0x1F
 b2_str_3787_new_size equ strlen(b2_str_3787)
 
-b2_str_3788 equ "But how?^"
+b2_str_3788 equ "Mas como?^"
 b2_str_3788_max_size equ 0x1F
 b2_str_3788_new_size equ strlen(b2_str_3788)
 
-b2_str_3789 equ "You're just a Half-Genie"
+b2_str_3789 equ "Cê é só uma piveta"
 b2_str_3789_max_size equ 0x1F
 b2_str_3789_new_size equ strlen(b2_str_3789)
 
-b2_str_3790 equ "runt!"
+b2_str_3790 equ "Meia-Gênia!"
 b2_str_3790_max_size equ 0x1F
 b2_str_3790_new_size equ strlen(b2_str_3790)
 
-b2_str_3791 equ "I almost had it all!^"
+b2_str_3791 equ "Eu quase consegui!^"
 b2_str_3791_max_size equ 0x1F
 b2_str_3791_new_size equ strlen(b2_str_3791)
 
@@ -15166,7 +15166,7 @@ b2_str_3792 equ "GRARGGH!^"
 b2_str_3792_max_size equ 0x1F
 b2_str_3792_new_size equ strlen(b2_str_3792)
 
-b2_str_3793 equ "You three!^"
+b2_str_3793 equ "Vocês três!^"
 b2_str_3793_max_size equ 0x1F
 b2_str_3793_new_size equ strlen(b2_str_3793)
 
@@ -15182,263 +15182,263 @@ b2_str_3796 equ "Hogswoggle!^"
 b2_str_3796_max_size equ 0x1F
 b2_str_3796_new_size equ strlen(b2_str_3796)
 
-b2_str_3797 equ "Finish her off, or I'll"
+b2_str_3797 equ "Acabem com ela, senão boto"
 b2_str_3797_max_size equ 0x1F
 b2_str_3797_new_size equ strlen(b2_str_3797)
 
-b2_str_3798 equ "clap you in irons!"
+b2_str_3798 equ "vocês em cana de novo!"
 b2_str_3798_max_size equ 0x1F
 b2_str_3798_new_size equ strlen(b2_str_3798)
 
-b2_str_3799 equ "Nah!"
+b2_str_3799 equ "Seloko num compensa!"
 b2_str_3799_max_size equ 0x1F
 b2_str_3799_new_size equ strlen(b2_str_3799)
 
-b2_str_3800 equ "What?!"
+b2_str_3800 equ "Como é?!"
 b2_str_3800_max_size equ 0x1F
 b2_str_3800_new_size equ strlen(b2_str_3800)
 
-b2_str_3801 equ "How dare you disobey"
+b2_str_3801 equ "Como ousam desobedecer"
 b2_str_3801_max_size equ 0x1F
 b2_str_3801_new_size equ strlen(b2_str_3801)
 
-b2_str_3802 equ "orders?!"
+b2_str_3802 equ "minhas ordens?!"
 b2_str_3802_max_size equ 0x1F
 b2_str_3802_new_size equ strlen(b2_str_3802)
 
-b2_str_3803 equ "The losing team's sorta"
+b2_str_3803 equ "Time que tá ganhando"
 b2_str_3803_max_size equ 0x1F
 b2_str_3803_new_size equ strlen(b2_str_3803)
 
-b2_str_3804 equ "for losers."
+b2_str_3804 equ "não se mexe."
 b2_str_3804_max_size equ 0x1F
 b2_str_3804_new_size equ strlen(b2_str_3804)
 
-b2_str_3805 equ "Yes.^"
+b2_str_3805 equ "Issaí.^"
 b2_str_3805_max_size equ 0x1F
 b2_str_3805_new_size equ strlen(b2_str_3805)
 
-b2_str_3806 equ "She seems to have you"
+b2_str_3806 equ "Parece que ela já te botou"
 b2_str_3806_max_size equ 0x1F
 b2_str_3806_new_size equ strlen(b2_str_3806)
 
-b2_str_3807 equ "utterly on the ropes."
+b2_str_3807 equ "pra mamar."
 b2_str_3807_max_size equ 0x1F
 b2_str_3807_new_size equ strlen(b2_str_3807)
 
-b2_str_3808 equ "If she finishes you off,"
+b2_str_3808 equ "Se ela te botar no saco,"
 b2_str_3808_max_size equ 0x1F
 b2_str_3808_new_size equ strlen(b2_str_3808)
 
-b2_str_3809 equ "that would be for the"
+b2_str_3809 equ "vai ser até melhor pra"
 b2_str_3809_max_size equ 0x1F
 b2_str_3809_new_size equ strlen(b2_str_3809)
 
-b2_str_3810 equ "best.^"
+b2_str_3810 equ "gente.^"
 b2_str_3810_max_size equ 0x1F
 b2_str_3810_new_size equ strlen(b2_str_3810)
 
-b2_str_3811 equ "We like our freedom.^"
+b2_str_3811 equ "A gente gosta da liberdade.^"
 b2_str_3811_max_size equ 0x1F
 b2_str_3811_new_size equ strlen(b2_str_3811)
 
-b2_str_3812 equ "I'm sure you'll"
+b2_str_3812 equ "Cê entende a gente,"
 b2_str_3812_max_size equ 0x1F
 b2_str_3812_new_size equ strlen(b2_str_3812)
 
-b2_str_3813 equ "understand."
+b2_str_3813 equ "né?"
 b2_str_3813_max_size equ 0x1F
 b2_str_3813_new_size equ strlen(b2_str_3813)
 
-b2_str_3814 equ "You chose the wrong"
+b2_str_3814 equ "Escolheu amigos da onça,"
 b2_str_3814_max_size equ 0x1F
 b2_str_3814_new_size equ strlen(b2_str_3814)
 
-b2_str_3815 equ "friends, Risky!"
+b2_str_3815 equ "Risky Boots!"
 b2_str_3815_max_size equ 0x1F
 b2_str_3815_new_size equ strlen(b2_str_3815)
 
-b2_str_3816 equ "Best of luck!"
+b2_str_3816 equ "Passar bem!"
 b2_str_3816_max_size equ 0x1F
 b2_str_3816_new_size equ strlen(b2_str_3816)
 
-b2_str_3817 equ "Time to vacate the"
+b2_str_3817 equ "Tá na hora da gente"
 b2_str_3817_max_size equ 0x1F
 b2_str_3817_new_size equ strlen(b2_str_3817)
 
-b2_str_3818 equ "premises."
+b2_str_3818 equ "pegar o beco."
 b2_str_3818_max_size equ 0x1F
 b2_str_3818_new_size equ strlen(b2_str_3818)
 
-b2_str_3819 equ "Let's split, before she"
+b2_str_3819 equ "Bora vazar, antes dela botar"
 b2_str_3819_max_size equ 0x1F
 b2_str_3819_new_size equ strlen(b2_str_3819)
 
-b2_str_3820 equ "locks us up again."
+b2_str_3820 equ "a gente em cana de novo."
 b2_str_3820_max_size equ 0x1F
 b2_str_3820_new_size equ strlen(b2_str_3820)
 
-b2_str_3821 equ "Who needs you traitors?!^"
+b2_str_3821 equ "Vão se lascar, seus traíras!^"
 b2_str_3821_max_size equ 0x1F
 b2_str_3821_new_size equ strlen(b2_str_3821)
 
-b2_str_3822 equ "You're all going to perish"
+b2_str_3822 equ "Vai todo mundo morrer"
 b2_str_3822_max_size equ 0x1F
 b2_str_3822_new_size equ strlen(b2_str_3822)
 
-b2_str_3823 equ "anyway!"
+b2_str_3823 equ "mesmo!"
 b2_str_3823_max_size equ 0x1F
 b2_str_3823_new_size equ strlen(b2_str_3823)
 
-b2_str_3824 equ "RISKY: Do you hear that?^"
+b2_str_3824 equ "RISKY: Ouviu isso?^"
 b2_str_3824_max_size equ 0x1F
 b2_str_3824_new_size equ strlen(b2_str_3824)
 
-b2_str_3825 equ "That's the sound of your"
+b2_str_3825 equ "É o som do seu mundo,"
 b2_str_3825_max_size equ 0x1F
 b2_str_3825_new_size equ strlen(b2_str_3825)
 
-b2_str_3826 equ "world, ending!^"
+b2_str_3826 equ "se acabando!^"
 b2_str_3826_max_size equ 0x1F
 b2_str_3826_new_size equ strlen(b2_str_3826)
 
-b2_str_3827 equ "Thanks to those moronic"
+b2_str_3827 equ "Graças a esses Caçadores de"
 b2_str_3827_max_size equ 0x1F
 b2_str_3827_new_size equ strlen(b2_str_3827)
 
-b2_str_3828 equ "Relic Hunters...^"
+b2_str_3828 equ "Relíquias retardados...^"
 b2_str_3828_max_size equ 0x1F
 b2_str_3828_new_size equ strlen(b2_str_3828)
 
-b2_str_3829 equ "...everything you hold"
+b2_str_3829 equ "...tudo que cês mais prezam"
 b2_str_3829_max_size equ 0x1F
 b2_str_3829_new_size equ strlen(b2_str_3829)
 
-b2_str_3830 equ "dear is about to be"
+b2_str_3830 equ "está prestes a ser"
 b2_str_3830_max_size equ 0x1F
 b2_str_3830_new_size equ strlen(b2_str_3830)
 
-b2_str_3831 equ "incinerated!^"
+b2_str_3831 equ "incinerado!^"
 b2_str_3831_max_size equ 0x1F
 b2_str_3831_new_size equ strlen(b2_str_3831)
 
-b2_str_3832 equ "Everything but me!"
+b2_str_3832 equ "Tudo, menos eu!"
 b2_str_3832_max_size equ 0x1F
 b2_str_3832_new_size equ strlen(b2_str_3832)
 
-b2_str_3833 equ "Oh no you don't!"
+b2_str_3833 equ "Ah, não vai não!"
 b2_str_3833_max_size equ 0x1F
 b2_str_3833_new_size equ strlen(b2_str_3833)
 
-b2_str_3834 equ "Ta ta!"
+b2_str_3834 equ "Tchauzinho!"
 b2_str_3834_max_size equ 0x1F
 b2_str_3834_new_size equ strlen(b2_str_3834)
 
-b2_str_3835 equ "SHANTAE: It looks like"
+b2_str_3835 equ "SHANTAE: Parece que o plano"
 b2_str_3835_max_size equ 0x1F
 b2_str_3835_new_size equ strlen(b2_str_3835)
 
-b2_str_3836 equ "Uncle's plan is working!^"
+b2_str_3836 equ "do Tio tá funcionando!^"
 b2_str_3836_max_size equ 0x1F
 b2_str_3836_new_size equ strlen(b2_str_3836)
 
-b2_str_3837 equ "The *OCEAN *OF *BOILING *MAGMA"
+b2_str_3837 equ "O *MAR *DE *MAGMA *ARDENTE já"
 b2_str_3837_max_size equ 0x1F
 b2_str_3837_new_size equ strlen(b2_str_3837)
 
-b2_str_3838 equ "is about to erupt!^"
+b2_str_3838 equ "tá pra entrar em erupção!^"
 b2_str_3838_max_size equ 0x1F
 b2_str_3838_new_size equ strlen(b2_str_3838)
 
-b2_str_3839 equ "I'd better get out of"
+b2_str_3839 equ "É melhor eu picar a mula"
 b2_str_3839_max_size equ 0x1F
 b2_str_3839_new_size equ strlen(b2_str_3839)
 
-b2_str_3840 equ "here, and fast!^"
+b2_str_3840 equ "daqui, e rápido!^"
 b2_str_3840_max_size equ 0x1F
 b2_str_3840_new_size equ strlen(b2_str_3840)
 
-b2_str_3841 equ "A quick *TRANSFORMATION"
+b2_str_3841 equ "Só fazer uma *DANÇA *DE"
 b2_str_3841_max_size equ 0x1F
 b2_str_3841_new_size equ strlen(b2_str_3841)
 
-b2_str_3842 equ "*DANCE...^"
+b2_str_3842 equ "*TRANSFORMAÇÃO...^"
 b2_str_3842_max_size equ 0x1F
 b2_str_3842_new_size equ strlen(b2_str_3842)
 
-b2_str_3843 equ "...and I'll *FLY out of...^"
+b2_str_3843 equ "...e aí saio *VOANDO daq...^"
 b2_str_3843_max_size equ 0x1F
 b2_str_3843_new_size equ strlen(b2_str_3843)
 
-b2_str_3844 equ "OH NO!^"
+b2_str_3844 equ "AH, NÃO!^"
 b2_str_3844_max_size equ 0x1F
 b2_str_3844_new_size equ strlen(b2_str_3844)
 
-b2_str_3845 equ "I can't maintain my"
+b2_str_3845 equ "Não consigo deixar o pé"
 b2_str_3845_max_size equ 0x1F
 b2_str_3845_new_size equ strlen(b2_str_3845)
 
-b2_str_3846 equ "footing!^"
+b2_str_3846 equ "no chão!^"
 b2_str_3846_max_size equ 0x1F
 b2_str_3846_new_size equ strlen(b2_str_3846)
 
-b2_str_3847 equ "If I can't *DANCE...^"
+b2_str_3847 equ "Se eu não puder *DANÇAR...^"
 b2_str_3847_max_size equ 0x1F
 b2_str_3847_new_size equ strlen(b2_str_3847)
 
-b2_str_3848 equ "I can't *TRANSFORM!^"
+b2_str_3848 equ "Não vai dar pra *TRANSFORMAR!^"
 b2_str_3848_max_size equ 0x1F
 b2_str_3848_new_size equ strlen(b2_str_3848)
 
-b2_str_3849 equ "I'm not going to make it!^"
+b2_str_3849 equ "Não vou conseguir^"
 b2_str_3849_max_size equ 0x1F
 b2_str_3849_new_size equ strlen(b2_str_3849)
 
-b2_str_3850 equ "WHOAAAAAAAAAAAAH!!"
+b2_str_3850 equ "UOÁÁÁÁÁÁÁÁÁÁÁÁH!!"
 b2_str_3850_max_size equ 0x1F
 b2_str_3850_new_size equ strlen(b2_str_3850)
 
-b2_str_3851 equ "SKY: There she is!^"
+b2_str_3851 equ "SKY: Ela tá ali!^"
 b2_str_3851_max_size equ 0x1F
 b2_str_3851_new_size equ strlen(b2_str_3851)
 
-b2_str_3852 equ "Shantae, quick!^"
+b2_str_3852 equ "Shantae, rápido!^"
 b2_str_3852_max_size equ 0x1F
 b2_str_3852_new_size equ strlen(b2_str_3852)
 
-b2_str_3853 equ "Grab my hand!"
+b2_str_3853 equ "Segura minha mão!"
 b2_str_3853_max_size equ 0x1F
 b2_str_3853_new_size equ strlen(b2_str_3853)
 
-b2_str_3854 equ "SHANTAE: I...^"
+b2_str_3854 equ "SHANTAE: Eu...^"
 b2_str_3854_max_size equ 0x1F
 b2_str_3854_new_size equ strlen(b2_str_3854)
 
-b2_str_3855 equ "I can't reach it!"
+b2_str_3855 equ "Não consigo alcançar!"
 b2_str_3855_max_size equ 0x1F
 b2_str_3855_new_size equ strlen(b2_str_3855)
 
-b2_str_3856 equ "ROTTYTOPS: Gotcha!"
+b2_str_3856 equ "ROTTYTOPS: Te peguei!"
 b2_str_3856_max_size equ 0x1F
 b2_str_3856_new_size equ strlen(b2_str_3856)
 
-b2_str_3857 equ "BOLO: Guys!^"
+b2_str_3857 equ "BOLO: Pessoal!^"
 b2_str_3857_max_size equ 0x1F
 b2_str_3857_new_size equ strlen(b2_str_3857)
 
-b2_str_3858 equ "Look down there!"
+b2_str_3858 equ "Olha lá embaixo!"
 b2_str_3858_max_size equ 0x1F
 b2_str_3858_new_size equ strlen(b2_str_3858)
 
-b2_str_3859 equ "SHANTAE: Scuttle Town!^"
+b2_str_3859 equ "SHANTAE: A Cidade Agitada!^"
 b2_str_3859_max_size equ 0x1F
 b2_str_3859_new_size equ strlen(b2_str_3859)
 
-b2_str_3860 equ "I can't bear to watch!^"
+b2_str_3860 equ "Não consigo nem olhar!^"
 b2_str_3860_max_size equ 0x1F
 b2_str_3860_new_size equ strlen(b2_str_3860)
 
-b2_str_3861 equ "Is it...?"
+b2_str_3861 equ "Será o...?"
 b2_str_3861_max_size equ 0x1F
 b2_str_3861_new_size equ strlen(b2_str_3861)
 
@@ -15454,47 +15454,47 @@ b2_str_3864 equ "... ... ..."
 b2_str_3864_max_size equ 0x1F
 b2_str_3864_new_size equ strlen(b2_str_3864)
 
-b2_str_3865 equ "SKY: It worked!"
+b2_str_3865 equ "SKY: Funcionou!"
 b2_str_3865_max_size equ 0x1F
 b2_str_3865_new_size equ strlen(b2_str_3865)
 
-b2_str_3866 equ "ROTTYTOPS: The lava!^"
+b2_str_3866 equ "ROTTYTOPS: A lava!^"
 b2_str_3866_max_size equ 0x1F
 b2_str_3866_new_size equ strlen(b2_str_3866)
 
-b2_str_3867 equ "It sealed the cracks right"
+b2_str_3867 equ "Ela selou todas as"
 b2_str_3867_max_size equ 0x1F
 b2_str_3867_new_size equ strlen(b2_str_3867)
 
-b2_str_3868 equ "up!"
+b2_str_3868 equ "rachaduras!"
 b2_str_3868_max_size equ 0x1F
 b2_str_3868_new_size equ strlen(b2_str_3868)
 
-b2_str_3869 equ "CROWD: Hooray!"
+b2_str_3869 equ "MULTIDÃO: Vivaaa!"
 b2_str_3869_max_size equ 0x1F
 b2_str_3869_new_size equ strlen(b2_str_3869)
 
-b2_str_3870 equ "SKY: It's done!^"
+b2_str_3870 equ "SKY: Tá feito!^"
 b2_str_3870_max_size equ 0x1F
 b2_str_3870_new_size equ strlen(b2_str_3870)
 
-b2_str_3871 equ "Everything's going to be"
+b2_str_3871 equ "Vai ficar tudo bem!"
 b2_str_3871_max_size equ 0x1F
 b2_str_3871_new_size equ strlen(b2_str_3871)
 
-b2_str_3872 equ "okay!"
+b2_str_3872 equ " "
 b2_str_3872_max_size equ 0x1F
 b2_str_3872_new_size equ strlen(b2_str_3872)
 
-b2_str_3873 equ "SHANTAE: We did it!^"
+b2_str_3873 equ "SHANTAE: Conseguimos!^"
 b2_str_3873_max_size equ 0x1F
 b2_str_3873_new_size equ strlen(b2_str_3873)
 
-b2_str_3874 equ "Let's get down there and"
+b2_str_3874 equ "Vamos descer e ver como tão"
 b2_str_3874_max_size equ 0x1F
 b2_str_3874_new_size equ strlen(b2_str_3874)
 
-b2_str_3875 equ "check on Uncle!"
+b2_str_3875 equ "as coisas com o Tio!"
 b2_str_3875_max_size equ 0x1F
 b2_str_3875_new_size equ strlen(b2_str_3875)
 
@@ -15502,71 +15502,71 @@ b2_str_3876 equ "Shantae!"
 b2_str_3876_max_size equ 0x1F
 b2_str_3876_new_size equ strlen(b2_str_3876)
 
-b2_str_3877 equ "Thank heavens, you're all"
+b2_str_3877 equ "Graças aos céus, você está"
 b2_str_3877_max_size equ 0x1F
 b2_str_3877_new_size equ strlen(b2_str_3877)
 
-b2_str_3878 equ "right!"
+b2_str_3878 equ "a salvo!"
 b2_str_3878_max_size equ 0x1F
 b2_str_3878_new_size equ strlen(b2_str_3878)
 
-b2_str_3879 equ "I'm fine, Uncle!^"
+b2_str_3879 equ "Tô bem, Uncle!^"
 b2_str_3879_max_size equ 0x1F
 b2_str_3879_new_size equ strlen(b2_str_3879)
 
-b2_str_3880 equ "Sequin Land is saved"
+b2_str_3880 equ "Sequin Land foi salva"
 b2_str_3880_max_size equ 0x1F
 b2_str_3880_new_size equ strlen(b2_str_3880)
 
-b2_str_3881 equ "thanks to all of you!"
+b2_str_3881 equ "graças a todos vocês!"
 b2_str_3881_max_size equ 0x1F
 b2_str_3881_new_size equ strlen(b2_str_3881)
 
-b2_str_3882 equ "It would seem so!"
+b2_str_3882 equ "Parece que sim!"
 b2_str_3882_max_size equ 0x1F
 b2_str_3882_new_size equ strlen(b2_str_3882)
 
-b2_str_3883 equ "Not only that, but its"
+b2_str_3883 equ "Não apenas isso, mas seu"
 b2_str_3883_max_size equ 0x1F
 b2_str_3883_new_size equ strlen(b2_str_3883)
 
-b2_str_3884 equ "foundation is stronger"
+b2_str_3884 equ "alicerce está mais forte"
 b2_str_3884_max_size equ 0x1F
 b2_str_3884_new_size equ strlen(b2_str_3884)
 
-b2_str_3885 equ "than ever!"
+b2_str_3885 equ "do que nunca!"
 b2_str_3885_max_size equ 0x1F
 b2_str_3885_new_size equ strlen(b2_str_3885)
 
-b2_str_3886 equ "We've seen the last of"
+b2_str_3886 equ "O último daqueles terremotos"
 b2_str_3886_max_size equ 0x1F
 b2_str_3886_new_size equ strlen(b2_str_3886)
 
-b2_str_3887 equ "those earthquakes!"
+b2_str_3887 equ "já passou!"
 b2_str_3887_max_size equ 0x1F
 b2_str_3887_new_size equ strlen(b2_str_3887)
 
-b2_str_3888 equ "And that rotten no good"
+b2_str_3888 equ "E aquela pirata fuleira"
 b2_str_3888_max_size equ 0x1F
 b2_str_3888_new_size equ strlen(b2_str_3888)
 
-b2_str_3889 equ "pirate!"
+b2_str_3889 equ "já foi tarde!"
 b2_str_3889_max_size equ 0x1F
 b2_str_3889_new_size equ strlen(b2_str_3889)
 
-b2_str_3890 equ "Hey!"
+b2_str_3890 equ "Ei!"
 b2_str_3890_max_size equ 0x1F
 b2_str_3890_new_size equ strlen(b2_str_3890)
 
-b2_str_3891 equ "You've received a summons"
+b2_str_3891 equ "A Sultana de Sequin Land"
 b2_str_3891_max_size equ 0x1F
 b2_str_3891_new_size equ strlen(b2_str_3891)
 
-b2_str_3892 equ "from the Sequin Land"
+b2_str_3892 equ "enviou uma convocação para"
 b2_str_3892_max_size equ 0x1F
 b2_str_3892_new_size equ strlen(b2_str_3892)
 
-b2_str_3893 equ "Sultana!"
+b2_str_3893 equ "o Palácio Real!"
 b2_str_3893_max_size equ 0x1F
 b2_str_3893_new_size equ strlen(b2_str_3893)
 
@@ -15574,155 +15574,155 @@ b2_str_3894 equ "Hmm?"
 b2_str_3894_max_size equ 0x1F
 b2_str_3894_new_size equ strlen(b2_str_3894)
 
-b2_str_3895 equ "Who did?"
+b2_str_3895 equ "Quem foi convocado?"
 b2_str_3895_max_size equ 0x1F
 b2_str_3895_new_size equ strlen(b2_str_3895)
 
-b2_str_3896 equ "All of you!"
+b2_str_3896 equ "Todo mundo!"
 b2_str_3896_max_size equ 0x1F
 b2_str_3896_new_size equ strlen(b2_str_3896)
 
-b2_str_3897 equ "I've summoned you all here"
+b2_str_3897 equ "Convoquei vocês todos aqui"
 b2_str_3897_max_size equ 0x1F
 b2_str_3897_new_size equ strlen(b2_str_3897)
 
-b2_str_3898 equ "to congratulate you...^"
+b2_str_3898 equ "para parabenizá-los...^"
 b2_str_3898_max_size equ 0x1F
 b2_str_3898_new_size equ strlen(b2_str_3898)
 
-b2_str_3899 equ "...and to extend my most"
+b2_str_3899 equ "...e expressar meus mais"
 b2_str_3899_max_size equ 0x1F
 b2_str_3899_new_size equ strlen(b2_str_3899)
 
-b2_str_3900 equ "sincere thanks.^"
+b2_str_3900 equ "sinceros agradecimentos.^"
 b2_str_3900_max_size equ 0x1F
 b2_str_3900_new_size equ strlen(b2_str_3900)
 
-b2_str_3901 equ "*SEQUIN *LAND has been"
+b2_str_3901 equ "*SEQUIN *LAND foi salva,"
 b2_str_3901_max_size equ 0x1F
 b2_str_3901_new_size equ strlen(b2_str_3901)
 
-b2_str_3902 equ "saved, because of you."
+b2_str_3902 equ "graças a vocês."
 b2_str_3902_max_size equ 0x1F
 b2_str_3902_new_size equ strlen(b2_str_3902)
 
-b2_str_3903 equ "Don't thank me!^"
+b2_str_3903 equ "Não agradeça a mim!^"
 b2_str_3903_max_size equ 0x1F
 b2_str_3903_new_size equ strlen(b2_str_3903)
 
-b2_str_3904 equ "These four are the real"
+b2_str_3904 equ "Esses quatro são os"
 b2_str_3904_max_size equ 0x1F
 b2_str_3904_new_size equ strlen(b2_str_3904)
 
-b2_str_3905 equ "heroes!"
+b2_str_3905 equ "verdadeiros heróis!"
 b2_str_3905_max_size equ 0x1F
 b2_str_3905_new_size equ strlen(b2_str_3905)
 
-b2_str_3906 equ "Naw. You brought us back"
+b2_str_3906 equ "Nah. Vocês nos juntou"
 b2_str_3906_max_size equ 0x1F
 b2_str_3906_new_size equ strlen(b2_str_3906)
 
-b2_str_3907 equ "together, friend.^"
+b2_str_3907 equ "novamente, amigo.^"
 b2_str_3907_max_size equ 0x1F
 b2_str_3907_new_size equ strlen(b2_str_3907)
 
-b2_str_3908 equ "You're a real swell"
+b2_str_3908 equ "Você é muito gente fina,"
 b2_str_3908_max_size equ 0x1F
 b2_str_3908_new_size equ strlen(b2_str_3908)
 
-b2_str_3909 equ "fellow."
+b2_str_3909 equ "bacana pra xuxu."
 b2_str_3909_max_size equ 0x1F
 b2_str_3909_new_size equ strlen(b2_str_3909)
 
-b2_str_3910 equ "My thanks as well."
+b2_str_3910 equ "Eu também agradeço."
 b2_str_3910_max_size equ 0x1F
 b2_str_3910_new_size equ strlen(b2_str_3910)
 
-b2_str_3911 equ "Hey, don't lump me in with"
+b2_str_3911 equ "Ei, não sou farinha procês"
 b2_str_3911_max_size equ 0x1F
 b2_str_3911_new_size equ strlen(b2_str_3911)
 
-b2_str_3912 equ "these sauce-sucking old"
+b2_str_3912 equ "me botarem no mesmo saco"
 b2_str_3912_max_size equ 0x1F
 b2_str_3912_new_size equ strlen(b2_str_3912)
 
-b2_str_3913 equ "codgers!^"
+b2_str_3913 equ "que essa velharada!^"
 b2_str_3913_max_size equ 0x1F
 b2_str_3913_new_size equ strlen(b2_str_3913)
 
-b2_str_3914 equ "I saved the day myself!^"
+b2_str_3914 equ "Eu salvei geral sozinha!^"
 b2_str_3914_max_size equ 0x1F
 b2_str_3914_new_size equ strlen(b2_str_3914)
 
-b2_str_3915 equ "I did it!^"
+b2_str_3915 equ "Eu cnosegui!^"
 b2_str_3915_max_size equ 0x1F
 b2_str_3915_new_size equ strlen(b2_str_3915)
 
-b2_str_3916 equ "Or my name's not Pepperpex"
+b2_str_3916 equ "Ou meu nome não é"
 b2_str_3916_max_size equ 0x1F
 b2_str_3916_new_size equ strlen(b2_str_3916)
 
-b2_str_3917 equ "McManstache!"
+b2_str_3917 equ "Dom Pepperon!"
 b2_str_3917_max_size equ 0x1F
 b2_str_3917_new_size equ strlen(b2_str_3917)
 
-b2_str_3918 equ "Was that...^"
+b2_str_3918 equ "Terá sido isso uma...^"
 b2_str_3918_max_size equ 0x1F
 b2_str_3918_new_size equ strlen(b2_str_3918)
 
-b2_str_3919 equ "... an attempt at honesty?"
+b2_str_3919 equ "...tentativa de humildade?"
 b2_str_3919_max_size equ 0x1F
 b2_str_3919_new_size equ strlen(b2_str_3919)
 
-b2_str_3920 equ "Maybe!"
+b2_str_3920 equ "Talvez!"
 b2_str_3920_max_size equ 0x1F
 b2_str_3920_new_size equ strlen(b2_str_3920)
 
-b2_str_3921 equ "You stick with us, Pex."
+b2_str_3921 equ "Fique conosco, Pepe."
 b2_str_3921_max_size equ 0x1F
 b2_str_3921_new_size equ strlen(b2_str_3921)
 
-b2_str_3922 equ "We'll help you fly"
+b2_str_3922 equ "Tirarei a vela, para que"
 b2_str_3922_max_size equ 0x1F
 b2_str_3922_new_size equ strlen(b2_str_3922)
 
-b2_str_3923 equ "straight and true."
+b2_str_3923 equ "portas se abram a ti."
 b2_str_3923_max_size equ 0x1F
 b2_str_3923_new_size equ strlen(b2_str_3923)
 
-b2_str_3924 equ "Whatever Corn Crust."
+b2_str_3924 equ "Ah, tanto faz, seu Corno."
 b2_str_3924_max_size equ 0x1F
 b2_str_3924_new_size equ strlen(b2_str_3924)
 
-b2_str_3925 equ "And you, Shantae..."
+b2_str_3925 equ "E você, Shantae..."
 b2_str_3925_max_size equ 0x1F
 b2_str_3925_new_size equ strlen(b2_str_3925)
 
-b2_str_3926 equ "Yes?"
+b2_str_3926 equ "Sim?"
 b2_str_3926_max_size equ 0x1F
 b2_str_3926_new_size equ strlen(b2_str_3926)
 
-b2_str_3927 equ "Thank you.^"
+b2_str_3927 equ "Obrigada.^"
 b2_str_3927_max_size equ 0x1F
 b2_str_3927_new_size equ strlen(b2_str_3927)
 
-b2_str_3928 equ "We finally have peace, and"
+b2_str_3928 equ "Finalmente temos paz, e lhe"
 b2_str_3928_max_size equ 0x1F
 b2_str_3928_new_size equ strlen(b2_str_3928)
 
-b2_str_3929 equ "I am forever in your debt.^"
+b2_str_3929 equ "serei eternamente grata.^"
 b2_str_3929_max_size equ 0x1F
 b2_str_3929_new_size equ strlen(b2_str_3929)
 
-b2_str_3930 equ "If there's anything I can"
+b2_str_3930 equ "Se houver algo em que eu"
 b2_str_3930_max_size equ 0x1F
 b2_str_3930_new_size equ strlen(b2_str_3930)
 
-b2_str_3931 equ "do...^"
+b2_str_3931 equ "possa fazer...^"
 b2_str_3931_max_size equ 0x1F
 b2_str_3931_new_size equ strlen(b2_str_3931)
 
-b2_str_3932 equ "...please ask."
+b2_str_3932 equ "...por favor, peça."
 b2_str_3932_max_size equ 0x1F
 b2_str_3932_new_size equ strlen(b2_str_3932)
 
@@ -15730,755 +15730,755 @@ b2_str_3933 equ "Hmm..."
 b2_str_3933_max_size equ 0x1F
 b2_str_3933_new_size equ strlen(b2_str_3933)
 
-b2_str_3934 equ "Now that you mention it..."
+b2_str_3934 equ "Agora que falou nisso..."
 b2_str_3934_max_size equ 0x1F
 b2_str_3934_new_size equ strlen(b2_str_3934)
 
-b2_str_3935 equ "There is something!^"
+b2_str_3935 equ "Tem uma coisa!^"
 b2_str_3935_max_size equ 0x1F
 b2_str_3935_new_size equ strlen(b2_str_3935)
 
-b2_str_3936 equ "Let's bring back the *RELIC"
+b2_str_3936 equ "Bora refazer a *EXPOSIÇÃO *DE"
 b2_str_3936_max_size equ 0x1F
 b2_str_3936_new_size equ strlen(b2_str_3936)
 
-b2_str_3937 equ "*HUNTER *EXPO!"
+b2_str_3937 equ "*CAÇADORES *DE *RELÍQUIAS!"
 b2_str_3937_max_size equ 0x1F
 b2_str_3937_new_size equ strlen(b2_str_3937)
 
-b2_str_3938 equ "Oh!"
+b2_str_3938 equ "Ah!"
 b2_str_3938_max_size equ 0x1F
 b2_str_3938_new_size equ strlen(b2_str_3938)
 
-b2_str_3939 equ "A splendid idea!"
+b2_str_3939 equ "Que ideia esplêndida!"
 b2_str_3939_max_size equ 0x1F
 b2_str_3939_new_size equ strlen(b2_str_3939)
 
-b2_str_3940 equ "I'll be the president of"
+b2_str_3940 equ "Vou ser a CEO dessa Expo,"
 b2_str_3940_max_size equ 0x1F
 b2_str_3940_new_size equ strlen(b2_str_3940)
 
-b2_str_3941 equ "it, which pays the most."
+b2_str_3941 equ "que paga bem horrores."
 b2_str_3941_max_size equ 0x1F
 b2_str_3941_new_size equ strlen(b2_str_3941)
 
-b2_str_3942 equ "Consider it done.^"
+b2_str_3942 equ "Considere feito.^"
 b2_str_3942_max_size equ 0x1F
 b2_str_3942_new_size equ strlen(b2_str_3942)
 
-b2_str_3943 equ "The festivities will be"
+b2_str_3943 equ "O evento será realizado"
 b2_str_3943_max_size equ 0x1F
 b2_str_3943_new_size equ strlen(b2_str_3943)
 
-b2_str_3944 equ "held in Scuttle Town...^"
+b2_str_3944 equ "na Cidade Agitada...^"
 b2_str_3944_max_size equ 0x1F
 b2_str_3944_new_size equ strlen(b2_str_3944)
 
-b2_str_3945 equ "...under Shantae's"
+b2_str_3945 equ "...sob o olhar atento"
 b2_str_3945_max_size equ 0x1F
 b2_str_3945_new_size equ strlen(b2_str_3945)
 
-b2_str_3946 equ "watchful eye.^"
+b2_str_3946 equ "de Shantae.^"
 b2_str_3946_max_size equ 0x1F
 b2_str_3946_new_size equ strlen(b2_str_3946)
 
-b2_str_3947 equ "The *RELIC *HUNTERS will be"
+b2_str_3947 equ "Os *CAÇADORES *DE *RELÍQUIAS"
 b2_str_3947_max_size equ 0x1F
 b2_str_3947_new_size equ strlen(b2_str_3947)
 
-b2_str_3948 equ "honored as *TRUE *HEROES"
+b2_str_3948 equ "serão mais uma vez honrados"
 b2_str_3948_max_size equ 0x1F
 b2_str_3948_new_size equ strlen(b2_str_3948)
 
-b2_str_3949 equ "once more."
+b2_str_3949 equ "como *VERDADEIROS *HERÓIS."
 b2_str_3949_max_size equ 0x1F
 b2_str_3949_new_size equ strlen(b2_str_3949)
 
-b2_str_3950 equ "That was an incredible"
+b2_str_3950 equ "Essa aventura foi"
 b2_str_3950_max_size equ 0x1F
 b2_str_3950_new_size equ strlen(b2_str_3950)
 
-b2_str_3951 equ "adventure!"
+b2_str_3951 equ "incrível!"
 b2_str_3951_max_size equ 0x1F
 b2_str_3951_new_size equ strlen(b2_str_3951)
 
-b2_str_3952 equ "Yeah, too bad it started"
+b2_str_3952 equ "Sim, mas é uma pena que"
 b2_str_3952_max_size equ 0x1F
 b2_str_3952_new_size equ strlen(b2_str_3952)
 
-b2_str_3953 equ "so LATE!"
+b2_str_3953 equ "começou TÃO TARDE!"
 b2_str_3953_max_size equ 0x1F
 b2_str_3953_new_size equ strlen(b2_str_3953)
 
-b2_str_3954 equ "I can only say sorry so"
+b2_str_3954 equ "Não dá pra pedir mais"
 b2_str_3954_max_size equ 0x1F
 b2_str_3954_new_size equ strlen(b2_str_3954)
 
-b2_str_3955 equ "many times!"
+b2_str_3955 equ "desculpa do que isso!"
 b2_str_3955_max_size equ 0x1F
 b2_str_3955_new_size equ strlen(b2_str_3955)
 
-b2_str_3956 equ "I'm back everyone!^"
+b2_str_3956 equ "Voltei, galera!^"
 b2_str_3956_max_size equ 0x1F
 b2_str_3956_new_size equ strlen(b2_str_3956)
 
-b2_str_3957 equ "No need to worry!"
+b2_str_3957 equ "Não precisam se preocupar!"
 b2_str_3957_max_size equ 0x1F
 b2_str_3957_new_size equ strlen(b2_str_3957)
 
-b2_str_3958 equ "Mayor?"
+b2_str_3958 equ "Prefeito?"
 b2_str_3958_max_size equ 0x1F
 b2_str_3958_new_size equ strlen(b2_str_3958)
 
-b2_str_3959 equ "Great job putting all of"
+b2_str_3959 equ "Ótimo trabalho colocando as"
 b2_str_3959_max_size equ 0x1F
 b2_str_3959_new_size equ strlen(b2_str_3959)
 
-b2_str_3960 equ "our towns back in order!^"
+b2_str_3960 equ "cidades de volta no lugar!^"
 b2_str_3960_max_size equ 0x1F
 b2_str_3960_new_size equ strlen(b2_str_3960)
 
-b2_str_3961 equ "You even managed to shift"
+b2_str_3961 equ "Cê conseguiu até botar"
 b2_str_3961_max_size equ 0x1F
 b2_str_3961_new_size equ strlen(b2_str_3961)
 
-b2_str_3962 equ "my house several inches"
+b2_str_3962 equ "minha casa bem mais perto"
 b2_str_3962_max_size equ 0x1F
 b2_str_3962_new_size equ strlen(b2_str_3962)
 
-b2_str_3963 equ "closer to the beach!^"
+b2_str_3963 equ "da praia!^"
 b2_str_3963_max_size equ 0x1F
 b2_str_3963_new_size equ strlen(b2_str_3963)
 
-b2_str_3964 equ "That's value!^"
+b2_str_3964 equ "Que baita valor imobiliário!^"
 b2_str_3964_max_size equ 0x1F
 b2_str_3964_new_size equ strlen(b2_str_3964)
 
-b2_str_3965 equ "Keep up the good work, and"
+b2_str_3965 equ "Continue assim, e nunca mais"
 b2_str_3965_max_size equ 0x1F
 b2_str_3965_new_size equ strlen(b2_str_3965)
 
-b2_str_3966 equ "you'll never be fired!"
+b2_str_3966 equ "vai ser demitida!"
 b2_str_3966_max_size equ 0x1F
 b2_str_3966_new_size equ strlen(b2_str_3966)
 
-b2_str_3967 equ "You're welcome, Mayor!"
+b2_str_3967 equ "De nada, Prefeito!"
 b2_str_3967_max_size equ 0x1F
 b2_str_3967_new_size equ strlen(b2_str_3967)
 
-b2_str_3968 equ "I suppose there's no need"
+b2_str_3968 equ "Suponho que não precisamos"
 b2_str_3968_max_size equ 0x1F
 b2_str_3968_new_size equ strlen(b2_str_3968)
 
-b2_str_3969 equ "for my fan cannon now.^"
+b2_str_3969 equ "mais do canhão de brisa.^"
 b2_str_3969_max_size equ 0x1F
 b2_str_3969_new_size equ strlen(b2_str_3969)
 
-b2_str_3970 equ "Bolo, help me take this"
+b2_str_3970 equ "Bolo, me ajuda a levar esse"
 b2_str_3970_max_size equ 0x1F
 b2_str_3970_new_size equ strlen(b2_str_3970)
 
-b2_str_3971 equ "thing back to my workshop,"
+b2_str_3971 equ "troço de volta pra oficina,"
 b2_str_3971_max_size equ 0x1F
 b2_str_3971_new_size equ strlen(b2_str_3971)
 
-b2_str_3972 equ "would you?^"
+b2_str_3972 equ "pode ser?^"
 b2_str_3972_max_size equ 0x1F
 b2_str_3972_new_size equ strlen(b2_str_3972)
 
-b2_str_3973 equ "Maybe there's time to come"
+b2_str_3973 equ "Talvez dê tempo de eu bolar"
 b2_str_3973_max_size equ 0x1F
 b2_str_3973_new_size equ strlen(b2_str_3973)
 
-b2_str_3974 equ "up with a new invention"
+b2_str_3974 equ "uma nova invenção"
 b2_str_3974_max_size equ 0x1F
 b2_str_3974_new_size equ strlen(b2_str_3974)
 
-b2_str_3975 equ "before the Relic Hunter"
+b2_str_3975 equ "a tempo da Exposição de"
 b2_str_3975_max_size equ 0x1F
 b2_str_3975_new_size equ strlen(b2_str_3975)
 
-b2_str_3976 equ "Expo."
+b2_str_3976 equ "Caçadores de Relíquias."
 b2_str_3976_max_size equ 0x1F
 b2_str_3976_new_size equ strlen(b2_str_3976)
 
-b2_str_3977 equ "Sure."
+b2_str_3977 equ "Beleza."
 b2_str_3977_max_size equ 0x1F
 b2_str_3977_new_size equ strlen(b2_str_3977)
 
-b2_str_3978 equ "Say...^"
+b2_str_3978 equ "Diz aí...^"
 b2_str_3978_max_size equ 0x1F
 b2_str_3978_new_size equ strlen(b2_str_3978)
 
-b2_str_3979 equ "What happened to that"
+b2_str_3979 equ "O que aconteceu com aquela"
 b2_str_3979_max_size equ 0x1F
 b2_str_3979_new_size equ strlen(b2_str_3979)
 
-b2_str_3980 equ "zombie gal?^"
+b2_str_3980 equ "mina zumbi?^"
 b2_str_3980_max_size equ 0x1F
 b2_str_3980_new_size equ strlen(b2_str_3980)
 
-b2_str_3981 equ "She seemed to be..."
+b2_str_3981 equ "Ela parecia ser..."
 b2_str_3981_max_size equ 0x1F
 b2_str_3981_new_size equ strlen(b2_str_3981)
 
-b2_str_3982 equ "...pretty ok, I guess. In"
+b2_str_3982 equ "...legal, no fim das"
 b2_str_3982_max_size equ 0x1F
 b2_str_3982_new_size equ strlen(b2_str_3982)
 
-b2_str_3983 equ "the end."
+b2_str_3983 equ "contas, eu acho."
 b2_str_3983_max_size equ 0x1F
 b2_str_3983_new_size equ strlen(b2_str_3983)
 
-b2_str_3984 equ "Ha!^"
+b2_str_3984 equ "Rá!^"
 b2_str_3984_max_size equ 0x1F
 b2_str_3984_new_size equ strlen(b2_str_3984)
 
-b2_str_3985 equ "I told you she'd warm up"
+b2_str_3985 equ "Eu falei que ela ia acabar"
 b2_str_3985_max_size equ 0x1F
 b2_str_3985_new_size equ strlen(b2_str_3985)
 
-b2_str_3986 equ "to me!^"
+b2_str_3986 equ "gamando em mim!^"
 b2_str_3986_max_size equ 0x1F
 b2_str_3986_new_size equ strlen(b2_str_3986)
 
-b2_str_3987 equ "You owe me another brain!"
+b2_str_3987 equ "Tá me devendo outro cérebro!"
 b2_str_3987_max_size equ 0x1F
 b2_str_3987_new_size equ strlen(b2_str_3987)
 
-b2_str_3988 equ "Oh, man."
+b2_str_3988 equ "Ah, caramba."
 b2_str_3988_max_size equ 0x1F
 b2_str_3988_new_size equ strlen(b2_str_3988)
 
-b2_str_3989 equ "What?"
+b2_str_3989 equ "Como é?"
 b2_str_3989_max_size equ 0x1F
 b2_str_3989_new_size equ strlen(b2_str_3989)
 
-b2_str_3990 equ "I don't like you!^"
+b2_str_3990 equ "Não gosto de você!^"
 b2_str_3990_max_size equ 0x1F
 b2_str_3990_new_size equ strlen(b2_str_3990)
 
-b2_str_3991 equ "At all!^"
+b2_str_3991 equ "Não mesmo!^"
 b2_str_3991_max_size equ 0x1F
 b2_str_3991_new_size equ strlen(b2_str_3991)
 
-b2_str_3992 equ "And who makes bets with"
+b2_str_3992 equ "E quem é doido pra ficar"
 b2_str_3992_max_size equ 0x1F
 b2_str_3992_new_size equ strlen(b2_str_3992)
 
-b2_str_3993 equ "brains, anyway?"
+b2_str_3993 equ "apostando cérebro, hein?"
 b2_str_3993_max_size equ 0x1F
 b2_str_3993_new_size equ strlen(b2_str_3993)
 
-b2_str_3994 equ "Want a go? Double or"
+b2_str_3994 equ "Quer apostar? As odes tão"
 b2_str_3994_max_size equ 0x1F
 b2_str_3994_new_size equ strlen(b2_str_3994)
 
-b2_str_3995 equ "nothing!"
+b2_str_3995 equ "boas e o pix cai hoje!"
 b2_str_3995_max_size equ 0x1F
 b2_str_3995_new_size equ strlen(b2_str_3995)
 
-b2_str_3996 equ "Absolutely not."
+b2_str_3996 equ "Nem a pau."
 b2_str_3996_max_size equ 0x1F
 b2_str_3996_new_size equ strlen(b2_str_3996)
 
-b2_str_3997 equ "Well, I'd better split.^"
+b2_str_3997 equ "Bom, melhor eu vazar^"
 b2_str_3997_max_size equ 0x1F
 b2_str_3997_new_size equ strlen(b2_str_3997)
 
-b2_str_3998 equ "Just remembered...^"
+b2_str_3998 equ "Cabei de lembrar...^"
 b2_str_3998_max_size equ 0x1F
 b2_str_3998_new_size equ strlen(b2_str_3998)
 
-b2_str_3999 equ "I've gotta babysit my"
+b2_str_3999 equ "Tenho que trampar de babá"
 b2_str_3999_max_size equ 0x1F
 b2_str_3999_new_size equ strlen(b2_str_3999)
 
-b2_str_4000 equ "brother again."
+b2_str_4000 equ "pro meu irmão de novo."
 b2_str_4000_max_size equ 0x1F
 b2_str_4000_new_size equ strlen(b2_str_4000)
 
-b2_str_4001 equ "Oh, that's nice of -"
+b2_str_4001 equ "Ah, é legal da -"
 b2_str_4001_max_size equ 0x1F
 b2_str_4001_new_size equ strlen(b2_str_4001)
 
-b2_str_4002 equ "YOU -^"
+b2_str_4002 equ "VOCÊ -^"
 b2_str_4002_max_size equ 0x1F
 b2_str_4002_new_size equ strlen(b2_str_4002)
 
-b2_str_4003 equ "You have a *BROTHER?!"
+b2_str_4003 equ "Você tem um *IRMÃO?!"
 b2_str_4003_max_size equ 0x1F
 b2_str_4003_new_size equ strlen(b2_str_4003)
 
-b2_str_4004 equ "His name's Pongo.^"
+b2_str_4004 equ "O nome dele é Pongo.^"
 b2_str_4004_max_size equ 0x1F
 b2_str_4004_new_size equ strlen(b2_str_4004)
 
-b2_str_4005 equ "He's a forgettable rascal."
+b2_str_4005 equ "É um danadinho esquecível."
 b2_str_4005_max_size equ 0x1F
 b2_str_4005_new_size equ strlen(b2_str_4005)
 
-b2_str_4006 equ "Well, make sure you don't"
+b2_str_4006 equ "Ei, não vá acabar se esque-"
 b2_str_4006_max_size equ 0x1F
 b2_str_4006_new_size equ strlen(b2_str_4006)
 
-b2_str_4007 equ "forget him again!"
+b2_str_4007 equ "cendo dele de novo, hein!"
 b2_str_4007_max_size equ 0x1F
 b2_str_4007_new_size equ strlen(b2_str_4007)
 
-b2_str_4008 equ "Who?"
+b2_str_4008 equ "Quem?"
 b2_str_4008_max_size equ 0x1F
 b2_str_4008_new_size equ strlen(b2_str_4008)
 
-b2_str_4009 equ "Groan."
+b2_str_4009 equ "Aff."
 b2_str_4009_max_size equ 0x1F
 b2_str_4009_new_size equ strlen(b2_str_4009)
 
-b2_str_4010 equ "Even I'm not that bad."
+b2_str_4010 equ "Nem eu sou tão ruim."
 b2_str_4010_max_size equ 0x1F
 b2_str_4010_new_size equ strlen(b2_str_4010)
 
-b2_str_4011 equ "Come on!"
+b2_str_4011 equ "Qual é!"
 b2_str_4011_max_size equ 0x1F
 b2_str_4011_new_size equ strlen(b2_str_4011)
 
-b2_str_4012 equ "We can all babysit him"
+b2_str_4012 equ "A gente pode virar babar"
 b2_str_4012_max_size equ 0x1F
 b2_str_4012_new_size equ strlen(b2_str_4012)
 
-b2_str_4013 equ "together!"
+b2_str_4013 equ "dele juntas!"
 b2_str_4013_max_size equ 0x1F
 b2_str_4013_new_size equ strlen(b2_str_4013)
 
-b2_str_4014 equ "It'll be fun!"
+b2_str_4014 equ "Vai ser legal!"
 b2_str_4014_max_size equ 0x1F
 b2_str_4014_new_size equ strlen(b2_str_4014)
 
-b2_str_4015 equ "No biting!"
+b2_str_4015 equ "Não morde não!"
 b2_str_4015_max_size equ 0x1F
 b2_str_4015_new_size equ strlen(b2_str_4015)
 
-b2_str_4016 equ "No promises."
+b2_str_4016 equ "Prometo nada."
 b2_str_4016_max_size equ 0x1F
 b2_str_4016_new_size equ strlen(b2_str_4016)
 
-b2_str_4017 equ "NO FIGHTING!"
+b2_str_4017 equ "NÃO BRIGUEM NÃO!"
 b2_str_4017_max_size equ 0x1F
 b2_str_4017_new_size equ strlen(b2_str_4017)
 
-b2_str_4018 equ "Oh boy."
+b2_str_4018 equ "Lá vamos nós."
 b2_str_4018_max_size equ 0x1F
 b2_str_4018_new_size equ strlen(b2_str_4018)
 
-b2_str_4019 equ "Hrmph!^"
+b2_str_4019 equ "Hmph!^"
 b2_str_4019_max_size equ 0x1F
 b2_str_4019_new_size equ strlen(b2_str_4019)
 
-b2_str_4020 equ "Curse that Half-Genie"
+b2_str_4020 equ "Maldita seja essa piveta"
 b2_str_4020_max_size equ 0x1F
 b2_str_4020_new_size equ strlen(b2_str_4020)
 
-b2_str_4021 equ "runt!^"
+b2_str_4021 equ "Meia-Gênia!^"
 b2_str_4021_max_size equ 0x1F
 b2_str_4021_new_size equ strlen(b2_str_4021)
 
-b2_str_4022 equ "I chose the wrong friends,"
+b2_str_4022 equ "Escolhi amigos da onça, é?"
 b2_str_4022_max_size equ 0x1F
 b2_str_4022_new_size equ strlen(b2_str_4022)
 
-b2_str_4023 equ "she says.^"
+b2_str_4023 equ " ^"
 b2_str_4023_max_size equ 0x1F
 b2_str_4023_new_size equ strlen(b2_str_4023)
 
-b2_str_4024 equ "Ha!^"
+b2_str_4024 equ "Rá!^"
 b2_str_4024_max_size equ 0x1F
 b2_str_4024_new_size equ strlen(b2_str_4024)
 
-b2_str_4025 equ "She's one to talk.^"
+b2_str_4025 equ "Ela não tem moral pra falar.^"
 b2_str_4025_max_size equ 0x1F
 b2_str_4025_new_size equ strlen(b2_str_4025)
 
-b2_str_4026 equ "I'll show that do-gooder"
+b2_str_4026 equ "Aquela santinha vai ver só"
 b2_str_4026_max_size equ 0x1F
 b2_str_4026_new_size equ strlen(b2_str_4026)
 
-b2_str_4027 equ "what her so-called friends"
+b2_str_4027 equ "do que os amiguinhos dela"
 b2_str_4027_max_size equ 0x1F
 b2_str_4027_new_size equ strlen(b2_str_4027)
 
-b2_str_4028 equ "are capable of.^"
+b2_str_4028 equ "são capazes.^"
 b2_str_4028_max_size equ 0x1F
 b2_str_4028_new_size equ strlen(b2_str_4028)
 
-b2_str_4029 equ "Just you wait, Guardian"
+b2_str_4029 equ "Me aguarde, Gênia Guardiã."
 b2_str_4029_max_size equ 0x1F
 b2_str_4029_new_size equ strlen(b2_str_4029)
 
-b2_str_4030 equ "Genie.^"
+b2_str_4030 equ " ^"
 b2_str_4030_max_size equ 0x1F
 b2_str_4030_new_size equ strlen(b2_str_4030)
 
-b2_str_4031 equ "Risky Boots will have her"
+b2_str_4031 equ "A Risky Boots vai ter a sua"
 b2_str_4031_max_size equ 0x1F
 b2_str_4031_new_size equ strlen(b2_str_4031)
 
-b2_str_4032 equ "revenge!"
+b2_str_4032 equ "vingança!"
 b2_str_4032_max_size equ 0x1F
 b2_str_4032_new_size equ strlen(b2_str_4032)
 
-b2_str_4033 equ "Welcome to *BATTLE *MODE!^"
+b2_str_4033 equ "Bem-vindo ao *MODO *BATALHA!^"
 b2_str_4033_max_size equ 0x1F
 b2_str_4033_new_size equ strlen(b2_str_4033)
 
-b2_str_4034 equ "My name's *SKY, your host"
+b2_str_4034 equ "Meu nome é *SKY, sua"
 b2_str_4034_max_size equ 0x1F
 b2_str_4034_new_size equ strlen(b2_str_4034)
 
-b2_str_4035 equ "for today!^"
+b2_str_4035 equ "anfitriã de hoje!^"
 b2_str_4035_max_size equ 0x1F
 b2_str_4035_new_size equ strlen(b2_str_4035)
 
-b2_str_4036 equ "Is this your first time"
+b2_str_4036 equ "É a sua primeira vez"
 b2_str_4036_max_size equ 0x1F
 b2_str_4036_new_size equ strlen(b2_str_4036)
 
-b2_str_4037 equ "playing?"
+b2_str_4037 equ "jogando?"
 b2_str_4037_max_size equ 0x1F
 b2_str_4037_new_size equ strlen(b2_str_4037)
 
-b2_str_4038 equ "> Teach me!"
+b2_str_4038 equ "> Me ensine!"
 b2_str_4038_max_size equ 0x1F
 b2_str_4038_new_size equ strlen(b2_str_4038)
 
-b2_str_4039 equ "> SKIP!"
+b2_str_4039 equ "> PULA!"
 b2_str_4039_max_size equ 0x1F
 b2_str_4039_new_size equ strlen(b2_str_4039)
 
-b2_str_4040 equ "Let's go!"
+b2_str_4040 equ "Vamo lá!"
 b2_str_4040_max_size equ 0x1F
 b2_str_4040_new_size equ strlen(b2_str_4040)
 
-b2_str_4041 equ "Great! I'll explain"
+b2_str_4041 equ "Ótimo! Vou explicar tudo!"
 b2_str_4041_max_size equ 0x1F
 b2_str_4041_new_size equ strlen(b2_str_4041)
 
-b2_str_4042 equ "everything!^"
+b2_str_4042 equ " ^"
 b2_str_4042_max_size equ 0x1F
 b2_str_4042_new_size equ strlen(b2_str_4042)
 
-b2_str_4043 equ "You can *SKIP at any time"
+b2_str_4043 equ "Dá pra *PULAR a qualquer"
 b2_str_4043_max_size equ 0x1F
 b2_str_4043_new_size equ strlen(b2_str_4043)
 
-b2_str_4044 equ "by pressing the *START"
+b2_str_4044 equ "momento, apertando o *BOTÃO"
 b2_str_4044_max_size equ 0x1F
 b2_str_4044_new_size equ strlen(b2_str_4044)
 
-b2_str_4045 equ "*BUTTON!^"
+b2_str_4045 equ "*START!^"
 b2_str_4045_max_size equ 0x1F
 b2_str_4045_new_size equ strlen(b2_str_4045)
 
-b2_str_4046 equ "First, let's go over the"
+b2_str_4046 equ "Primeiro, vamos dar uma"
 b2_str_4046_max_size equ 0x1F
 b2_str_4046_new_size equ strlen(b2_str_4046)
 
-b2_str_4047 equ "*RULES!^"
+b2_str_4047 equ "repassada nas *REGRAS!^"
 b2_str_4047_max_size equ 0x1F
 b2_str_4047_new_size equ strlen(b2_str_4047)
 
-b2_str_4048 equ "Your goal is to be the"
+b2_str_4048 equ "Seu objetivo é ser o"
 b2_str_4048_max_size equ 0x1F
 b2_str_4048_new_size equ strlen(b2_str_4048)
 
-b2_str_4049 equ "*LAST *WARRIOR *STANDING!^"
+b2_str_4049 equ "*ÚLTIMO *GUERREIRO *DE *PÉ!^"
 b2_str_4049_max_size equ 0x1F
 b2_str_4049_new_size equ strlen(b2_str_4049)
 
-b2_str_4050 equ "You can attack opponents"
+b2_str_4050 equ "Pode atacar diretamente os"
 b2_str_4050_max_size equ 0x1F
 b2_str_4050_new_size equ strlen(b2_str_4050)
 
-b2_str_4051 equ "directly...^"
+b2_str_4051 equ "adversários...^"
 b2_str_4051_max_size equ 0x1F
 b2_str_4051_new_size equ strlen(b2_str_4051)
 
-b2_str_4052 equ "Push them into spikes...^"
+b2_str_4052 equ "Jogar eles nos espinhos...^"
 b2_str_4052_max_size equ 0x1F
 b2_str_4052_new_size equ strlen(b2_str_4052)
 
-b2_str_4053 equ "Or hold the attack button"
+b2_str_4053 equ "Ou segurar o botão de ataque"
 b2_str_4053_max_size equ 0x1F
 b2_str_4053_new_size equ strlen(b2_str_4053)
 
-b2_str_4054 equ "to *CHARGE *UP...^"
+b2_str_4054 equ "pra *CARREGAR...^"
 b2_str_4054_max_size equ 0x1F
 b2_str_4054_new_size equ strlen(b2_str_4054)
 
-b2_str_4055 equ "...and release a *SUPER"
+b2_str_4055 equ "...e soltar um *SUPER"
 b2_str_4055_max_size equ 0x1F
 b2_str_4055_new_size equ strlen(b2_str_4055)
 
-b2_str_4056 equ "*ATTACK!^"
+b2_str_4056 equ "*ATAQUE!^"
 b2_str_4056_max_size equ 0x1F
 b2_str_4056_new_size equ strlen(b2_str_4056)
 
-b2_str_4057 equ "A Super Attack might even"
+b2_str_4057 equ "Um Super Ataque pode até"
 b2_str_4057_max_size equ 0x1F
 b2_str_4057_new_size equ strlen(b2_str_4057)
 
-b2_str_4058 equ "knock a *POWER *UP out of"
+b2_str_4058 equ "fazer o adversário soltar"
 b2_str_4058_max_size equ 0x1F
 b2_str_4058_new_size equ strlen(b2_str_4058)
 
-b2_str_4059 equ "your foe!^"
+b2_str_4059 equ "um *POTENCIALIZADOR!^"
 b2_str_4059_max_size equ 0x1F
 b2_str_4059_new_size equ strlen(b2_str_4059)
 
-b2_str_4060 equ "When the battlefield"
+b2_str_4060 equ "Quando o campo de batalha"
 b2_str_4060_max_size equ 0x1F
 b2_str_4060_new_size equ strlen(b2_str_4060)
 
-b2_str_4061 equ "*ROTATES...^"
+b2_str_4061 equ "*GIRAR...^"
 b2_str_4061_max_size equ 0x1F
 b2_str_4061_new_size equ strlen(b2_str_4061)
 
-b2_str_4062 equ "Grab onto the fence!^"
+b2_str_4062 equ "Segure nas grades!^"
 b2_str_4062_max_size equ 0x1F
 b2_str_4062_new_size equ strlen(b2_str_4062)
 
-b2_str_4063 equ "*FIGHT *FIGHT *FIGHT then"
+b2_str_4063 equ "É *DESCER *A *PORRADA, depois"
 b2_str_4063_max_size equ 0x1F
 b2_str_4063_new_size equ strlen(b2_str_4063)
 
-b2_str_4064 equ "*HOLD *ON *TIGHT!^"
+b2_str_4064 equ "*SEGURAR *FIRME!^"
 b2_str_4064_max_size equ 0x1F
 b2_str_4064_new_size equ strlen(b2_str_4064)
 
-b2_str_4065 equ "Battle hard and win!^"
+b2_str_4065 equ "Brigue pra valer até ganhar!^"
 b2_str_4065_max_size equ 0x1F
 b2_str_4065_new_size equ strlen(b2_str_4065)
 
-b2_str_4066 equ "Show me *WHICH *OF *YOU is"
+b2_str_4066 equ "Nós vamos ao encontro"
 b2_str_4066_max_size equ 0x1F
 b2_str_4066_new_size equ strlen(b2_str_4066)
 
-b2_str_4067 equ "the *STRONGEST!^"
+b2_str_4067 equ "do *MAIS *FORTE!^"
 b2_str_4067_max_size equ 0x1F
 b2_str_4067_new_size equ strlen(b2_str_4067)
 
-b2_str_4068 equ "Next, let's talk about *HOW"
+b2_str_4068 equ "Agora, vamos explicar *COMO"
 b2_str_4068_max_size equ 0x1F
 b2_str_4068_new_size equ strlen(b2_str_4068)
 
-b2_str_4069 equ "*TO *LINK *WITH *FRIENDS!^"
+b2_str_4069 equ "*CONECTAR *COM *OS *AMIGOS!^"
 b2_str_4069_max_size equ 0x1F
 b2_str_4069_new_size equ strlen(b2_str_4069)
 
-b2_str_4070 equ "This gets a bit technical.^"
+b2_str_4070 equ "É um pouco técnico demais.^"
 b2_str_4070_max_size equ 0x1F
 b2_str_4070_new_size equ strlen(b2_str_4070)
 
-b2_str_4071 equ "But don't worry...^"
+b2_str_4071 equ "Mas não se preocupe...^"
 b2_str_4071_max_size equ 0x1F
 b2_str_4071_new_size equ strlen(b2_str_4071)
 
-b2_str_4072 equ "Someone wrote it all down"
+b2_str_4072 equ "Alguém escreveu tudo pra mim"
 b2_str_4072_max_size equ 0x1F
 b2_str_4072_new_size equ strlen(b2_str_4072)
 
-b2_str_4073 equ "for me right here.^"
+b2_str_4073 equ "no teleprompter.^"
 b2_str_4073_max_size equ 0x1F
 b2_str_4073_new_size equ strlen(b2_str_4073)
 
-b2_str_4074 equ "Ok then!^"
+b2_str_4074 equ "Ok, então!^"
 b2_str_4074_max_size equ 0x1F
 b2_str_4074_new_size equ strlen(b2_str_4074)
 
-b2_str_4075 equ "Ahem.^"
+b2_str_4075 equ "Aham.^"
 b2_str_4075_max_size equ 0x1F
 b2_str_4075_new_size equ strlen(b2_str_4075)
 
-b2_str_4076 equ "This game can be played"
+b2_str_4076 equ "Esse jogo pode ser jogado"
 b2_str_4076_max_size equ 0x1F
 b2_str_4076_new_size equ strlen(b2_str_4076)
 
-b2_str_4077 equ "with up to four players.^"
+b2_str_4077 equ "com até quatro jogadores.^"
 b2_str_4077_max_size equ 0x1F
 b2_str_4077_new_size equ strlen(b2_str_4077)
 
-b2_str_4078 equ "You'll need *ONE copy of"
+b2_str_4078 equ "Vai precisar de *UMA cópia"
 b2_str_4078_max_size equ 0x1F
 b2_str_4078_new_size equ strlen(b2_str_4078)
 
-b2_str_4079 equ "the game, and up to three"
+b2_str_4079 equ "do jogo, e de até três"
 b2_str_4079_max_size equ 0x1F
 b2_str_4079_new_size equ strlen(b2_str_4079)
 
-b2_str_4080 equ "friends.^"
+b2_str_4080 equ "amigos.^"
 b2_str_4080_max_size equ 0x1F
 b2_str_4080_new_size equ strlen(b2_str_4080)
 
-b2_str_4081 equ "Each friend will need a"
+b2_str_4081 equ "Cada amigo vai precisar de"
 b2_str_4081_max_size equ 0x1F
 b2_str_4081_new_size equ strlen(b2_str_4081)
 
-b2_str_4082 equ "*GAME *SYSTEM to play...^"
+b2_str_4082 equ "um *PORTÁTIL para jogar...^"
 b2_str_4082_max_size equ 0x1F
 b2_str_4082_new_size equ strlen(b2_str_4082)
 
-b2_str_4083 equ "As well as a multiplayer"
+b2_str_4083 equ "E também um *CABO *LINK para"
 b2_str_4083_max_size equ 0x1F
 b2_str_4083_new_size equ strlen(b2_str_4083)
 
-b2_str_4084 equ "*CABLE to *LINK the systems"
+b2_str_4084 equ "conectar os portáteis"
 b2_str_4084_max_size equ 0x1F
 b2_str_4084_new_size equ strlen(b2_str_4084)
 
-b2_str_4085 equ "together!^"
+b2_str_4085 equ "entre si!^"
 b2_str_4085_max_size equ 0x1F
 b2_str_4085_new_size equ strlen(b2_str_4085)
 
-b2_str_4086 equ "Since you're the player"
+b2_str_4086 equ "Como você é o jogador com"
 b2_str_4086_max_size equ 0x1F
 b2_str_4086_new_size equ strlen(b2_str_4086)
 
-b2_str_4087 equ "with the game inserted...^"
+b2_str_4087 equ "o cartucho inserido...^"
 b2_str_4087_max_size equ 0x1F
 b2_str_4087_new_size equ strlen(b2_str_4087)
 
-b2_str_4088 equ "That makes you *PLAYER *ONE!^"
+b2_str_4088 equ "Isso faz de ti o *JOGADOR *UM!^"
 b2_str_4088_max_size equ 0x1F
 b2_str_4088_new_size equ strlen(b2_str_4088)
 
-b2_str_4089 equ "Cables are often numbered,"
+b2_str_4089 equ "Os cabos geralmente tem um"
 b2_str_4089_max_size equ 0x1F
 b2_str_4089_new_size equ strlen(b2_str_4089)
 
-b2_str_4090 equ "so make sure you insert"
+b2_str_4090 equ "número, então se certifique"
 b2_str_4090_max_size equ 0x1F
 b2_str_4090_new_size equ strlen(b2_str_4090)
 
-b2_str_4091 equ "the *PLAYER *ONE end into"
+b2_str_4091 equ "de plugar o cabo do *JOGADOR"
 b2_str_4091_max_size equ 0x1F
 b2_str_4091_new_size equ strlen(b2_str_4091)
 
-b2_str_4092 equ "this system.^"
+b2_str_4092 equ "*UM no portátil com a fita.^"
 b2_str_4092_max_size equ 0x1F
 b2_str_4092_new_size equ strlen(b2_str_4092)
 
-b2_str_4093 equ "This next part is *VERY"
+b2_str_4093 equ "Essa parte de agora é"
 b2_str_4093_max_size equ 0x1F
 b2_str_4093_new_size equ strlen(b2_str_4093)
 
-b2_str_4094 equ "*IMPORTANT!^"
+b2_str_4094 equ "*MUITO *IMPORTANTE!^"
 b2_str_4094_max_size equ 0x1F
 b2_str_4094_new_size equ strlen(b2_str_4094)
 
-b2_str_4095 equ "This game only supports"
+b2_str_4095 equ "Esse jogo só suporta jogar"
 b2_str_4095_max_size equ 0x1F
 b2_str_4095_new_size equ strlen(b2_str_4095)
 
-b2_str_4096 equ "*SINGLE *CARTRIDGE *PLAY!^"
+b2_str_4096 equ "com um *ÚNICO *CARTUCHO!^"
 b2_str_4096_max_size equ 0x1F
 b2_str_4096_new_size equ strlen(b2_str_4096)
 
-b2_str_4097 equ "Players *TWO, *THREE, and"
+b2_str_4097 equ "Os jogadores *DOIS, *TRÊS e"
 b2_str_4097_max_size equ 0x1F
 b2_str_4097_new_size equ strlen(b2_str_4097)
 
-b2_str_4098 equ "*FOUR should have *NO *GAME"
+b2_str_4098 equ "*QUATRO não devem ter *NENHUM"
 b2_str_4098_max_size equ 0x1F
 b2_str_4098_new_size equ strlen(b2_str_4098)
 
-b2_str_4099 equ "inserted.^"
+b2_str_4099 equ "*CARTUCHO inserido.^"
 b2_str_4099_max_size equ 0x1F
 b2_str_4099_new_size equ strlen(b2_str_4099)
 
-b2_str_4100 equ "Are their systems empty?^"
+b2_str_4100 equ "Os portáteis tão sem fita?^"
 b2_str_4100_max_size equ 0x1F
 b2_str_4100_new_size equ strlen(b2_str_4100)
 
-b2_str_4101 equ "Good!^"
+b2_str_4101 equ "Ótimo!^"
 b2_str_4101_max_size equ 0x1F
 b2_str_4101_new_size equ strlen(b2_str_4101)
 
-b2_str_4102 equ "And connected in numerical"
+b2_str_4102 equ "E conectado em ordem"
 b2_str_4102_max_size equ 0x1F
 b2_str_4102_new_size equ strlen(b2_str_4102)
 
-b2_str_4103 equ "order?^"
+b2_str_4103 equ "numérica?^"
 b2_str_4103_max_size equ 0x1F
 b2_str_4103_new_size equ strlen(b2_str_4103)
 
-b2_str_4104 equ "Great!^"
+b2_str_4104 equ "Beleza!^"
 b2_str_4104_max_size equ 0x1F
 b2_str_4104_new_size equ strlen(b2_str_4104)
 
-b2_str_4105 equ "On the next screen, you'll"
+b2_str_4105 equ "Na tela seguinte, o sistema"
 b2_str_4105_max_size equ 0x1F
 b2_str_4105_new_size equ strlen(b2_str_4105)
 
-b2_str_4106 equ "be prompted to *TRANSFER"
+b2_str_4106 equ "pedirá para *TRANSFERIR"
 b2_str_4106_max_size equ 0x1F
 b2_str_4106_new_size equ strlen(b2_str_4106)
 
-b2_str_4107 equ "the game to their empty"
+b2_str_4107 equ "o jogo para os outros"
 b2_str_4107_max_size equ 0x1F
 b2_str_4107_new_size equ strlen(b2_str_4107)
 
-b2_str_4108 equ "game systems!^"
+b2_str_4108 equ "portáteis vazios!^"
 b2_str_4108_max_size equ 0x1F
 b2_str_4108_new_size equ strlen(b2_str_4108)
 
-b2_str_4109 equ "Make sure all connected"
+b2_str_4109 equ "Certifique-se de que todos"
 b2_str_4109_max_size equ 0x1F
 b2_str_4109_new_size equ strlen(b2_str_4109)
 
-b2_str_4110 equ "systems are powered on!^"
+b2_str_4110 equ "os portáteis estão ligados!^"
 b2_str_4110_max_size equ 0x1F
 b2_str_4110_new_size equ strlen(b2_str_4110)
 
-b2_str_4111 equ "If you run into"
+b2_str_4111 equ "Se tiver acontecido"
 b2_str_4111_max_size equ 0x1F
 b2_str_4111_new_size equ strlen(b2_str_4111)
 
-b2_str_4112 equ "problems...^"
+b2_str_4112 equ "algum problema...^"
 b2_str_4112_max_size equ 0x1F
 b2_str_4112_new_size equ strlen(b2_str_4112)
 
-b2_str_4113 equ "Turn off the *POWER, and"
+b2_str_4113 equ "Desligue os portáteis e"
 b2_str_4113_max_size equ 0x1F
 b2_str_4113_new_size equ strlen(b2_str_4113)
 
-b2_str_4114 equ "*RECONNECT the sytems!^"
+b2_str_4114 equ "*RECONECTE-OS!^"
 b2_str_4114_max_size equ 0x1F
 b2_str_4114_new_size equ strlen(b2_str_4114)
 
-b2_str_4115 equ "That's it!^"
+b2_str_4115 equ "Isso é tudo!^"
 b2_str_4115_max_size equ 0x1F
 b2_str_4115_new_size equ strlen(b2_str_4115)
 
-b2_str_4116 equ "You're...^"
+b2_str_4116 equ "Agora cê tá...^"
 b2_str_4116_max_size equ 0x1F
 b2_str_4116_new_size equ strlen(b2_str_4116)
 
-b2_str_4117 equ "Uh...^"
+b2_str_4117 equ "Ahn...^"
 b2_str_4117_max_size equ 0x1F
 b2_str_4117_new_size equ strlen(b2_str_4117)
 
-b2_str_4118 equ "I'm not reading this dumb"
+b2_str_4118 equ "Não vou ler essa frase de"
 b2_str_4118_max_size equ 0x1F
 b2_str_4118_new_size equ strlen(b2_str_4118)
 
-b2_str_4119 equ "catch-phrase.^"
+b2_str_4119 equ "efeito tosca.^"
 b2_str_4119_max_size equ 0x1F
 b2_str_4119_new_size equ strlen(b2_str_4119)
 
-b2_str_4120 equ "You're *READY *TO *GO!^"
+b2_str_4120 equ "Cê tá *PRONTA *PRA *TRETA!"
 b2_str_4120_max_size equ 0x1F
 b2_str_4120_new_size equ strlen(b2_str_4120)
 
-b2_str_4121 equ "Good luck!"
+b2_str_4121 equ "Boa sorte!"
 b2_str_4121_max_size equ 0x1F
 b2_str_4121_new_size equ strlen(b2_str_4121)
 
