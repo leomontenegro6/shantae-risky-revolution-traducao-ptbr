@@ -1,4 +1,3 @@
-- Terminar de converter sprites do Shovelware Wolf pro Sr. Lobuílson, na versão com termos adaptados
 - Converter sprites do Shareware Wolf pro Lobo Chamitu, na versão com termos adaptados
 - Atualizar ano do copyright da tela-título pra 2026
 - Editar gráfico "SAVING Do not turn the power off", ao copiar um jogo.
