@@ -2002,7 +2002,7 @@ b2_str_501 equ "Homens!"
 b2_str_501_max_size equ 0x1F
 b2_str_501_new_size equ strlen(b2_str_501)
 
-b2_str_502 equ "TINKERCEGO: ..."
+b2_str_502 equ "TINKERBAT: ..."
 b2_str_502_max_size equ 0x1F
 b2_str_502_new_size equ strlen(b2_str_502)
 
@@ -12654,11 +12654,11 @@ b2_str_3164 equ "Sou o Lobo dos Sharewares!^"
 b2_str_3164_max_size equ 0x1F
 b2_str_3164_new_size equ strlen(b2_str_3164)
 
-b2_str_3165 equ "Adoro compartilho!^"
+b2_str_3165 equ "Adoro compartilhar!^"
 b2_str_3165_max_size equ 0x1F
 b2_str_3165_new_size equ strlen(b2_str_3165)
 
-b2_str_3166 equ "Às vezes compartilhar"
+b2_str_3166 equ "Às vezes compartilho"
 b2_str_3166_max_size equ 0x1F
 b2_str_3166_new_size equ strlen(b2_str_3166)
 
@@ -15114,7 +15114,7 @@ b2_str_3779 equ "e Totalmente Aterrorizante,"
 b2_str_3779_max_size equ 0x1F
 b2_str_3779_new_size equ strlen(b2_str_3779)
 
-b2_str_3780 equ "*TINKERVERME!"
+b2_str_3780 equ "*TINKERWORM!"
 b2_str_3780_max_size equ 0x1F
 b2_str_3780_new_size equ strlen(b2_str_3780)
 
@@ -15142,7 +15142,7 @@ b2_str_3786 equ "Você churrascou o meu"
 b2_str_3786_max_size equ 0x1F
 b2_str_3786_new_size equ strlen(b2_str_3786)
 
-b2_str_3787 equ "*TINKERVERME!^"
+b2_str_3787 equ "*TINKERWORM!^"
 b2_str_3787_max_size equ 0x1F
 b2_str_3787_new_size equ strlen(b2_str_3787)
 
