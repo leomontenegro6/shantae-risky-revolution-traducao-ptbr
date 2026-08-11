@@ -742,6 +742,50 @@ b4_str_327 equ "por todas..."
 b4_str_327_max_size equ 0x3DF
 b4_str_327_new_size equ strlen(b4_str_327)
 
+b4_str_328 equ "TEMPO:    "
+b4_str_328_max_size equ 0x0C
+b4_str_328_new_size equ strlen(b4_str_328)
+
+b4_str_329 equ "ITENS:     "
+b4_str_329_max_size equ 0x0C
+b4_str_329_new_size equ strlen(b4_str_329)
+
+b4_str_330 equ "TRAJE DE PRAIA LIBERADO"
+b4_str_330_max_size equ 0x18
+b4_str_330_new_size equ strlen(b4_str_330)
+
+b4_str_331 equ "SALVANDO..."
+b4_str_331_max_size equ 0x0C
+b4_str_331_new_size equ strlen(b4_str_331)
+
+b4_str_332 equ "NÃO DESLIGUE O PORTÁTIL"
+b4_str_332_max_size equ 0x19
+b4_str_332_new_size equ strlen(b4_str_332)
+
+b4_str_333 equ "JOGO SALVO!   "
+b4_str_333_max_size equ 0x18
+b4_str_333_new_size equ strlen(b4_str_333)
+
+b4_str_334 equ "ISSO VAI APAGAR"
+b4_str_334_max_size equ 0x10
+b4_str_334_new_size equ strlen(b4_str_334)
+
+b4_str_335 equ "O JOGO SALVO! "
+b4_str_335_max_size equ 0x10
+b4_str_335_new_size equ strlen(b4_str_335)
+
+b4_str_336 equ "TEM CERTEZA? "
+b4_str_336_max_size equ 0x10
+b4_str_336_new_size equ strlen(b4_str_336)
+
+b4_str_337 equ "SIM"
+b4_str_337_max_size equ 0x04
+b4_str_337_new_size equ strlen(b4_str_337)
+
+b4_str_338 equ "NÃO"
+b4_str_338_max_size equ 0x04
+b4_str_338_new_size equ strlen(b4_str_338)
+
 org 0x080659C4
   .string b4_str_144
 .if b4_str_144_new_size > b4_str_144_max_size
@@ -1671,4 +1715,59 @@ org 0x0806B5E4
   .string b4_str_327
 .if b4_str_327_new_size > b4_str_327_max_size
 .notice "ERRO: b4_str_327"
+.endif
+org 0x080587E4
+  .string b4_str_328
+.if b4_str_328_new_size > b4_str_328_max_size
+.notice "ERRO: b4_str_328"
+.endif
+org 0x080587F0
+  .string b4_str_329
+.if b4_str_329_new_size > b4_str_329_max_size
+.notice "ERRO: b4_str_329"
+.endif
+org 0x08058804
+  .string b4_str_330
+.if b4_str_330_new_size > b4_str_330_max_size
+.notice "ERRO: b4_str_330"
+.endif
+org 0x0805881C
+  .string b4_str_331
+.if b4_str_331_new_size > b4_str_331_max_size
+.notice "ERRO: b4_str_331"
+.endif
+org 0x08058828
+  .string b4_str_332
+.if b4_str_332_new_size > b4_str_332_max_size
+.notice "ERRO: b4_str_332"
+.endif
+org 0x08058840
+  .string b4_str_333
+.if b4_str_333_new_size > b4_str_333_max_size
+.notice "ERRO: b4_str_333"
+.endif
+org 0x08058850
+  .string b4_str_334
+.if b4_str_334_new_size > b4_str_334_max_size
+.notice "ERRO: b4_str_334"
+.endif
+org 0x08058860
+  .string b4_str_335
+.if b4_str_335_new_size > b4_str_335_max_size
+.notice "ERRO: b4_str_335"
+.endif
+org 0x08058870
+  .string b4_str_336
+.if b4_str_336_new_size > b4_str_336_max_size
+.notice "ERRO: b4_str_336"
+.endif
+org 0x08058880
+  .string b4_str_337
+.if b4_str_337_new_size > b4_str_337_max_size
+.notice "ERRO: b4_str_337"
+.endif
+org 0x08058884
+  .string b4_str_338
+.if b4_str_338_new_size > b4_str_338_max_size
+.notice "ERRO: b4_str_338"
 .endif
