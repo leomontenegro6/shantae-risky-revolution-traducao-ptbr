@@ -1,4 +1,3 @@
-- Editar gráfico "SAVING Do not turn the power off", ao copiar um jogo.
 - Remover palavras vermelhas do script_2 e trocar pelas mesmas envoltas em aspas duplas
 - Editar textos da tela de Results ("PLAY TIME:" e "COMPLETION:")
 - Checar onde a fonte 317 é usada no jogo (se usada). Em tese é pra ser fonte de diálogos comuns, duplicada da fonte 315.
