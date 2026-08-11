@@ -6,6 +6,9 @@ if "%termos%"=="" set "termos=adaptados"
 :: Reempacotando gráficos TS4/TS8 individuais.
 cd .\Ferramentas\ashantae\
 call repack.bat
+if "%termos%"=="originais" (
+    call repack_termos_originais.bat
+)
 cd ..\..\
 
 :: Criando pasta temporária com os conteúdos originais e editados.

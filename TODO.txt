@@ -1,6 +1,5 @@
-- Atualizar ano do copyright da tela-título pra 2026
 - Editar gráfico "SAVING Do not turn the power off", ao copiar um jogo.
-- Fazer tela-título da versão com termos originais, mudando subtítulo pra "Revolução da Risky"
-- Analisar letras maiúsculas acentuadas vermelhas no script_2, e ver se dá pra incluir na fonte 315
+- Remover palavras vermelhas do script_2 e trocar pelas mesmas envoltas em aspas duplas
+- Editar textos da tela de Results ("PLAY TIME:" e "COMPLETION:")
 - Checar onde a fonte 317 é usada no jogo (se usada). Em tese é pra ser fonte de diálogos comuns, duplicada da fonte 315.
 - Checar onde a fonte 309 é usada no jogo (se usada). Provavelmente não é usada, de acordo com o Damin72
