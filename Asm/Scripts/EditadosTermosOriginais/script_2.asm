@@ -802,15 +802,15 @@ b2_str_201 equ "Tá, tanto faz.^"
 b2_str_201_max_size equ 0x1F
 b2_str_201_new_size equ strlen(b2_str_201)
 
-b2_str_202 equ "Só tô aqui porque adoro"
+b2_str_202 equ "Só vim aqui pra dar uma"
 b2_str_202_max_size equ 0x1F
 b2_str_202_new_size equ strlen(b2_str_202)
 
-b2_str_203 equ "uma brisa."
+b2_str_203 equ "soprada nesse treco."
 b2_str_203_max_size equ 0x1F
 b2_str_203_new_size equ strlen(b2_str_203)
 
-b2_str_204 equ "Eu posso dar uma mãozinha!"
+b2_str_204 equ "Quer uma soprada? Eu ajudo!"
 b2_str_204_max_size equ 0x1F
 b2_str_204_new_size equ strlen(b2_str_204)
 
