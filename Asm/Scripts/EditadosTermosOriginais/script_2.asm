@@ -74,7 +74,7 @@ b2_str_019 equ "Achou *AMULETO *DOS *DESEJOS!"
 b2_str_019_max_size equ 0x1F
 b2_str_019_new_size equ strlen(b2_str_019)
 
-b2_str_020 equ "Faça um pedido em uma *FONTE!"
+b2_str_020 equ "Faça um pedido numa *FONTE!"
 b2_str_020_max_size equ 0x1F
 b2_str_020_new_size equ strlen(b2_str_020)
 
@@ -106,7 +106,7 @@ b2_str_027 equ "Achou uma *LULA *SECRETA!"
 b2_str_027_max_size equ 0x1F
 b2_str_027_new_size equ strlen(b2_str_027)
 
-b2_str_028 equ "Achou um *PORTAzCORA'ëO!"
+b2_str_028 equ "Achou um *PORTArCORA'ëO!"
 b2_str_028_max_size equ 0x1F
 b2_str_028_new_size equ strlen(b2_str_028)
 
@@ -746,7 +746,7 @@ b2_str_187 equ "Podemos instalar um desses"
 b2_str_187_max_size equ 0x1F
 b2_str_187_new_size equ strlen(b2_str_187)
 
-b2_str_188 equ "cada canto de todas as"
+b2_str_188 equ "em cada canto de todas as"
 b2_str_188_max_size equ 0x1F
 b2_str_188_new_size equ strlen(b2_str_188)
 
@@ -2198,7 +2198,7 @@ b2_str_550 equ "Concordo contigo.^"
 b2_str_550_max_size equ 0x1F
 b2_str_550_new_size equ strlen(b2_str_550)
 
-b2_str_551 equ "Por isso que sempre aperto"
+b2_str_551 equ "Por isso que sempre aperto o"
 b2_str_551_max_size equ 0x1F
 b2_str_551_new_size equ strlen(b2_str_551)
 
@@ -2814,7 +2814,7 @@ b2_str_704 equ "superfície do mundo!^"
 b2_str_704_max_size equ 0x1F
 b2_str_704_new_size equ strlen(b2_str_704)
 
-b2_str_705 equ "É simplesmente inacreditável!"
+b2_str_705 equ "Simplesmente inacreditável!"
 b2_str_705_max_size equ 0x1F
 b2_str_705_new_size equ strlen(b2_str_705)
 
@@ -3274,7 +3274,7 @@ b2_str_819 equ "*CRIPTAS.^"
 b2_str_819_max_size equ 0x1F
 b2_str_819_new_size equ strlen(b2_str_819)
 
-b2_str_820 equ "*CRIPTAS? O que é isso^"
+b2_str_820 equ "*CRIPTAS? O que é isso?^"
 b2_str_820_max_size equ 0x1F
 b2_str_820_new_size equ strlen(b2_str_820)
 
@@ -3574,7 +3574,7 @@ b2_str_894 equ "Tô muito preocupado com o"
 b2_str_894_max_size equ 0x1F
 b2_str_894_new_size equ strlen(b2_str_894)
 
-b2_str_895 equ "valor monetário da cidade!^"
+b2_str_895 equ "valor imobiliário da cidade!^"
 b2_str_895_max_size equ 0x1F
 b2_str_895_new_size equ strlen(b2_str_895)
 
@@ -3686,7 +3686,7 @@ b2_str_922 equ "*LUGAR com a *CIDADE *AGITADA.^"
 b2_str_922_max_size equ 0x1F
 b2_str_922_new_size equ strlen(b2_str_922)
 
-b2_str_923 equ "Se for ese o caso, ir até lá"
+b2_str_923 equ "Se for o caso, ir até lá"
 b2_str_923_max_size equ 0x1F
 b2_str_923_new_size equ strlen(b2_str_923)
 
@@ -4042,7 +4042,7 @@ b2_str_1011 equ "Tô cheio de muamba das"
 b2_str_1011_max_size equ 0x1F
 b2_str_1011_new_size equ strlen(b2_str_1011)
 
-b2_str_1012 equ "boas, e o precinho, ó!"
+b2_str_1012 equ "boas! E o precinho, ó!"
 b2_str_1012_max_size equ 0x1F
 b2_str_1012_new_size equ strlen(b2_str_1012)
 
@@ -5014,7 +5014,7 @@ b2_str_1254 equ "Toma aí."
 b2_str_1254_max_size equ 0x1F
 b2_str_1254_new_size equ strlen(b2_str_1254)
 
-b2_str_1255 equ "GANHOU UM *PORTAzCORA'ëO!"
+b2_str_1255 equ "GANHOU UM *PORTArCORA'ëO!"
 b2_str_1255_max_size equ 0x1F
 b2_str_1255_new_size equ strlen(b2_str_1255)
 
@@ -8846,7 +8846,7 @@ b2_str_2212 equ "Aqui."
 b2_str_2212_max_size equ 0x1F
 b2_str_2212_new_size equ strlen(b2_str_2212)
 
-b2_str_2213 equ "GANHOU UM *PORTAzCORA'ëO!"
+b2_str_2213 equ "GANHOU UM *PORTArCORA'ëO!"
 b2_str_2213_max_size equ 0x1F
 b2_str_2213_new_size equ strlen(b2_str_2213)
 
@@ -12942,7 +12942,7 @@ b2_str_3236 equ "Sem reembolso!"
 b2_str_3236_max_size equ 0x1F
 b2_str_3236_new_size equ strlen(b2_str_3236)
 
-b2_str_3237 equ "GANHOU UM *PORTAzCORA'ëO!"
+b2_str_3237 equ "GANHOU UM *PORTArCORA'ëO!"
 b2_str_3237_max_size equ 0x1F
 b2_str_3237_new_size equ strlen(b2_str_3237)
 
@@ -14322,7 +14322,7 @@ b2_str_3581 equ "...você deve achar *TODOS *OS"
 b2_str_3581_max_size equ 0x1F
 b2_str_3581_new_size equ strlen(b2_str_3581)
 
-b2_str_3582 equ "*SETE *PORTAzCORA'OES!^"
+b2_str_3582 equ "*SETE *PORTArCORA'OES!^"
 b2_str_3582_max_size equ 0x1F
 b2_str_3582_new_size equ strlen(b2_str_3582)
 
