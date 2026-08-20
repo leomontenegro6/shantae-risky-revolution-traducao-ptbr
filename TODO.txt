@@ -1,6 +1,6 @@
 - Começar fase de testes ingame, tanto com a versão de termos adaptados e a de termos originais
-- Após o fix do Taihen pra fonte 315, ver possibilidade de expandir ela pra adicionar os quatro últimos acentos vermelhos maiúsculos faltantes
 - Investigar bugs possivelmente causados pela expansão da fonte 392 dos diálogos
    - Ver no menu pausa um bug que fez os números dos itens comprados aparecerem bugados, após a expansão da fonte
+   - Ver forma de aplicar texto vermelho nos termos "POUPA-PM" e "XAMPU F".
 - Checar onde a fonte 317 é usada no jogo (se usada). Em tese é pra ser fonte de diálogos comuns, duplicada da fonte 315.
 - Checar onde a fonte 309 é usada no jogo (se usada). Provavelmente não é usada, de acordo com o Damin72
